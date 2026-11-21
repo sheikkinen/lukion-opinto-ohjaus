@@ -45,3 +45,11 @@ pre-publish scanners on Sonnet; judge on Opus; the push and Pages are done by th
 The operator opens `https://sheikkinen.github.io/lukion-opinto-ohjaus/` and finds the site as it was built: both
 modules, 18 topics with pictures and diagrams, lesson plans that print, the self-study path, the CC BY 4.0 licence.
 Internally: the scan is clean across the whole history, the deploy succeeded, and the live checks pass.
+
+## Addendum 2026-11-21: brief 003's remaining items join the polish
+
+Written before the work, after the brief 003 re-judgement. The art director also remakes `il-op2-12` as one scene
+(one shared makerspace where people do different jobs side by side, no laptop) on nano-banana (about $0.03), and
+fixes the alt of `il-op1` (a classroom, not a hall) and any alt that no longer matches its picture. Fixer B aligns
+"Varusmiespalvelus" in topic 14 with the routes diagram's "Asepalvelus", or the diagram's label with the topic,
+whichever the official source uses. The browse check takes fresh screenshots of op1/03, op2/11, op2/12 and op2/14.
