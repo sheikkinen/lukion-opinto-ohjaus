@@ -1,13 +1,12 @@
 [project]
 name = "lukion-opinto-ohjaus"
 version = "0.1.0"
-description = "Static site builder for the lukion opinto-ohjaus guidance backbone"
+description = "Content of the lukion opinto-ohjaus guidance backbone; built by the lukio-runko engine (see requirements.txt)"
 requires-python = ">=3.13"
-dependencies = ["Markdown>=3.5", "PyYAML>=6.0"]
+dependencies = ["lukio-runko"]
 
 [project.optional-dependencies]
-images = ["Pillow>=10", "requests"]
-dev = ["pytest>=8", "ruff>=0.5", "Pillow>=10"]
+dev = ["pytest>=8", "ruff>=0.5"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

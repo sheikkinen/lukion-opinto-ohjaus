@@ -1,0 +1,69 @@
+# Everything subject-specific. The pipeline and the templates read these things only from here.
+# Engine-wide rules (front matter keys, lesson lengths, the static pages) stay in the pipeline.
+
+site:
+  name: Lukion opinto-ohjaus
+  short_name: loo                 # prefix of the environment variables (LOO_TODAY, LOO_SITE_URL)
+  base_url: https://sheikkinen.github.io/lukion-opinto-ohjaus/
+  storage_key: "loo:v1"           # the one localStorage key of the self-study path
+  # The footer licence line (HTML). {site_name} and {base_url} are filled in from above.
+  licence: >-
+    Sisältö: <a href="https://creativecommons.org/licenses/by/4.0/deed.fi" rel="license">CC BY 4.0</a>.
+    Lainaa ja muokkaa vapaasti, kun mainitset lähteen: {site_name}, {base_url}.
+    Opetussuunnitelman tekstit: Opetushallitus (ePerusteet).
+
+# The teacher role, as the lesson views and the front page name it.
+teacher:
+  door: Opinto-ohjaajalle               # front page door heading
+  label: opinto-ohjaajalle              # "Tuntisuunnitelma opinto-ohjaajalle", "Aihe 01 · opinto-ohjaajalle"
+  role_column: Ohjaajan rooli           # the teacher's column in every lesson plan table (a warning if missing)
+
+# ePerusteet: the core curriculum (peruste), the subject (oppiaine) and its modules.
+curriculum:
+  peruste_id: 6828810
+  oppiaine_id: 6835370
+  code: OP                              # prefix of the subject's general aims: OP.yt1
+  general_aims_route: opetussuunnitelma # the page that lists the general aims
+  modules:                              # in this order on the site; route is the module page directory
+    - {code: OP1, id: 6835293, route: op1}
+    - {code: OP2, id: 6835294, route: op2}
+  expected_counts:                      # the fetch fails if ePerusteet has a different number of codes
+    OP1.t: 9
+    OP1.s: 8
+    OP2.t: 10
+    OP2.s: 8
+    OP.yt: 11
+
+topics:
+  max_order: 18
+  extra_fields:                         # optional front-matter fields: checked against allowed, shown as a meta row
+    - key: hops_part
+      label: HOPS-osa
+      allowed:
+        - opiskelusuunnitelma
+        - ylioppilastutkintosuunnitelma
+        - jatko-opinto- ja urasuunnitelma
+
+# sh: suoritusmerkintä (S/H); numeric: a grade 4-10.
+assessment: sh
+
+# The H2 sections of a topic, in order. view: student or lesson (which page shows it).
+# The Tuntisuunnitelma section is matched by prefix, as its heading states the length.
+contract:
+  sections:
+    - {title: Opiskelijalle, id: opiskelijalle, view: student}
+    - {title: Tehtävät, id: tehtavat, view: student}
+    - {title: Pohdinta, id: pohdinta, view: student}
+    - {title: Itseopiskelun askel, id: itseopiskelun-askel, view: student, tick: true}
+    - {title: Tuntisuunnitelma, id: tuntisuunnitelma, view: lesson, plan: true}
+    - {title: Eriyttäminen, id: eriyttaminen, view: lesson}
+    - {title: Milloin opinto-ohjaajalle, id: milloin-opinto-ohjaajalle, view: student}
+  assessment:
+    sh:
+      label: suoritusmerkintä (S tai H), ei arvosanaa
+      add: []
+    numeric:
+      label: arvosana 4–10
+      add:                              # inserted after the named section; checked by the build
+        - {title: Koetehtävät, id: koetehtavat, view: student, after: Tehtävät}
+        - {title: Mallivastaukset, id: mallivastaukset, view: student, after: Koetehtävät}

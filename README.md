@@ -22,16 +22,20 @@ Sivusto ei kerää tietoja: siinä ei ole tilejä, analytiikkaa eikä ulkoisia s
 ## Rakentaminen
 
 ```bash
-python -m pip install "Markdown>=3.5" "PyYAML>=6.0"
-python -m pipeline.build
+python -m pip install -r requirements.txt
+lukio-runko build
 python -m http.server 8000 --directory _site
 ```
 
 Aiheet ovat tiedostoissa `content/topics/` (Markdown, rakenne kuvattu tiedostossa
 [docs/content-contract.md](docs/content-contract.md)). Opetussuunnitelman tekstit haetaan ePerusteista komennolla
-`python -m pipeline.fetch_curriculum`. Build pysähtyy, jos jokin tavoite jää ilman aihetta, jos tuntisuunnitelman
+`lukio-runko fetch-curriculum`. Build pysähtyy, jos jokin tavoite jää ilman aihetta, jos tuntisuunnitelman
 minuutit eivät täsmää tai jos linkiltä puuttuu lukupäivä. GitHub Pages julkaisee sivuston jokaisesta `main`-haaran
 pushista.
+
+Sivuston rakentaa yhteinen moottori [lukio-runko](https://github.com/sheikkinen/lukio-runko), jonka versio on
+lukittu tiedostossa `requirements.txt`. Tässä repositoriossa on vain sisältö, data, `subject.yaml` ja
+dokumentaatio.
 
 ---
 

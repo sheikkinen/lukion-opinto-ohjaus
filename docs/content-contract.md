@@ -87,3 +87,32 @@ Added by the builder of brief 002; nothing above was changed.
 - Static pages in `content/pages/*.md` take the same `official_links` front matter, which is shown on `/lahteet/`. Block tokens alone on a line (`{{doors}}`, `{{path_list}}` and others) are replaced by generated HTML; inline tokens are `{{curriculum_checked}}`, `{{curriculum_published}}` and `{{topic_count}}`.
 - Warnings, not failures: `Opiskelijalle` outside 300-600 words, `Tehtävät` without 1-3 `###` tasks, a plan length not listed in `duration_options`.
 - `python -m pipeline.build --partial` (development only) turns uncovered codes, missing `data/yearly-facts.yaml` and unknown prerequisites into warnings. CI runs the build without it. `LOO_TODAY=YYYY-MM-DD` sets the date used for the 12-month link age check.
+
+## Addendum 2026-11-21 (brief 008, subject config)
+
+Added by the generalizer of brief 008; nothing above was changed.
+
+- Everything subject-specific now lives in `subject.yaml` at the repository root: the site name, short name (the
+  prefix of `LOO_TODAY` and `LOO_SITE_URL`), base address, localStorage key and licence line; the teacher's labels
+  and the lesson plan's role column; the ePerusteet peruste, oppiaine and module ids, the module codes and routes and
+  the expected code counts; the highest `order`; the assessment type; and the H2 sections above, in order, with the
+  view (student or lesson) that shows each. The pipeline and the templates read these only from there.
+- `assessment: sh` (this site) keeps the sections above. `assessment: numeric` (a subject graded 4–10) adds
+  `## Koetehtävät` and `## Mallivastaukset` after `## Tehtävät`, both on the student view. The build checks that
+  every `###` exam task states its points (`### 1. Otsikko (6 p)`) and that `## Mallivastaukset` has one non-empty
+  `###` answer per task, with the same heading and in the same order. In an `sh` subject those headings are unknown
+  sections and fail the build.
+- New warning: a lesson plan table without the `Ohjaajan rooli` column (`teacher.role_column`).
+- `site-src` files may carry `@SITE_NAME@` and `@STORAGE_KEY@`; the build fills them in when it copies the assets.
+
+## Addendum 2026-11-21 (brief 008, the engine moves out)
+
+Added by the extractor of brief 008; nothing above was changed.
+
+- The pipeline, the page template, the engine's scripts and stylesheets and the image tool are now the `lukio-runko`
+  package, pinned in `requirements.txt`. Read `python -m pipeline.build` above as `lukio-runko build`,
+  `python -m pipeline.fetch_curriculum` and `pipeline/fetch_curriculum.py` as `lukio-runko fetch-curriculum`, and
+  `tools/images.py` as `lukio-runko images`. Each takes `--root` (default: the current folder).
+- The engine's assets are copied to `_site/assets/` first and this repository's `site-src/` (the pictures, and any
+  file that replaces an engine asset of the same path) over them. A `templates/base.html` here would replace the
+  engine's template; there is none.
