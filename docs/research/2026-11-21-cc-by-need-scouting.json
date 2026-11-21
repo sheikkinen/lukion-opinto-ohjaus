@@ -1,0 +1,731 @@
+{
+ "research": [
+  {
+   "key": "open-materials",
+   "summary": "Openly licensed lukio material exists in volume (aoe.fi lists 514 CC BY or CC BY-SA items tagged lukio), but it is almost all scattered pieces. Typical items are exercise sets, lab tasks, videos, single-module course shells and project outputs. I found no complete open textbook series for any lukio subject in the sources I could read. The thinnest areas are psykologia (3 open items, none psychology-only), filosofia (3, none philosophy-only), liikunta (1), all religions (0 specific), S2 (2 specific) and terveystieto (3 specific, one whole-module course shell). Counts come from the public AOE search API, read 2026-11-21: POST https://aoe.fi/api/v2/search with an empty keyword, 5,462 materials in total. AOE contains no CC0 items. Its licence values are only CC BY, BY-SA, BY-NC, BY-NC-SA, BY-ND and BY-NC-ND 4.0. Of the 1,074 items tagged lukio, 283 are CC BY, 231 are CC BY-SA, and the other 560 carry NC or ND restrictions and do not count as open here. Cross-tagging inflates the per-subject counts. Several large catch-all items are tagged with 5 to 17 subjects at once, for example 'Esseevastauksen kirjoittaminen lukiossa' (17 subjects, including every religion). I therefore also report 'specific' items, meaning tagged with two or fewer lukio subjects. 'Specific' is my own rule of thumb, not an AOE field.",
+   "findings": [
+    {
+     "claim": "AOE had 5,462 materials in total on 2026-11-21. 1,024 carry the level 'lukiokoulutus', and with the English and Swedish level labels 1,074 are tagged lukio. Of those, 514 are CC BY 4.0 (283) or CC BY-SA 4.0 (231). There is no CC0 licence value in the catalogue.",
+     "confidence": "verified",
+     "source_url": "https://aoe.fi/api/v2/search"
+    },
+    {
+     "claim": "Per-subject open items tagged lukio, total (specific only). Opinto-ohjaus 20 (16); Yhteiskuntaoppi 19 (9); Maantiede 17 (8); Matematiikka, all three tags 16 (9); Fysiikka 12 (10); Historia 11 (7); Äidinkieli (fi) 11 (6); Elämänkatsomustieto 9 (4); Biologia 8 (1); Terveystieto 8 (3); Kemia 7 (7); Kuvataide 4 (2); S2 4 (2); Psykologia 3 (0); Filosofia 3 (0); Musiikki 3 (3); Liikunta 1 (0); Uskonnot 1 (0). Vieraat kielet and Ruotsi together: 24 (22). Subject tags used: the 'upperSecondarySchoolSubjectsNew' source.",
+     "confidence": "verified",
+     "source_url": "https://aoe.fi/api/v2/search"
+    },
+    {
+     "claim": "Terveystieto: the only module-shaped open item is 'TE1 Terveys voimavarana' (AOE id 1113), a Moodle course shell by Schildtin lukio, CC BY-SA 4.0, updated 2021-01. Its description says it can be used as a self-study online course. Its learning-resource types are exercise, text and video. Other open health items are small or off-subject: 'Rinnoista, menkoista ja gynejutuista' (Tunne rintasi ry and Korento ry, CC BY, 2024), a microbiology item, and cross-subject items. Several health items are NC-ND and so not open, among them the Seta/Amnesty consent material, the BMOL lecture series, the Väestöliitto course and the TAMK resuscitation material.",
+     "confidence": "verified",
+     "source_url": "https://aoe.fi/api/v2/search"
+    },
+    {
+     "claim": "Psykologia has 5 lukio items in AOE, 3 of them open (2 CC BY, 1 CC BY-SA). All three are cross-subject: 'Mittamalla hyvinvointia' (Jyväskylän normaalikoulu, CC BY, 2025), the Helsinki sustainability pack and the essay-writing item. There is no psychology module or course in AOE. The OPH psychology page links only to external organisations (Psykologiliitto, MLL, Nyyti, Muistiliitto, A-klinikkasäätiö, Mieli ry) and names no licence. It says no OPH-made material exists for psychology.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/materiaaleja-opetukseen"
+    },
+    {
+     "claim": "OPH's TE support material (PDF dated 2020-11-27) explains the TE1, TE2 and TE3 modules. It is a curriculum aid, not lesson material, and the page names no licence ('© Opetushallitus'). It cannot be assumed to be CC BY.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali"
+    },
+    {
+     "claim": "S2 (suomi toisena kielenä): AOE has 21 items tagged to it, 4 open, 2 specific. The two are 'S21 Tekstit ja vuorovaikutus' (Porin aikuislukio, CC BY, 2020-05) and 'S22 Kieli- ja tekstitietoisuus' (Porin suomalainen yhteislyseo, CC BY-SA, 2020-05). Both are module-level course packages from 2020. Two further open items are a museum Somali-refugee history and a geomedia task-card set. Nothing covers the remaining S2 modules. Muu opiskelijan äidinkieli: 3 open, none specific to it. The Swedish-language S2 tag has 1 item and it is not open.",
+     "confidence": "verified",
+     "source_url": "https://aoe.fi/api/v2/search"
+    },
+    {
+     "claim": "Religions: every religion-specific tag (evankelisluterilainen, ortodoksinen, islam, katolinen, juutalainen, buddhalainen, krishna, bahá'í, muut) is held by one item, 'Esseevastauksen kirjoittaminen lukiossa' (Virpi Loikkanen, CC BY, 2022-06). It is a generic essay-writing guide tagged with 17 subjects. No religion-specific open material was found in AOE. Under Swedish labels the religion tags (Övriga religioner, Ortodox, Islamisk, Judisk, Katolsk and others) show 0 open items.",
+     "confidence": "verified",
+     "source_url": "https://aoe.fi/api/v2/search"
+    },
+    {
+     "claim": "Filosofia: 7 lukio items, 3 open, none specific. The two philosophy-specific items are CC BY-NC-SA, so not open: 'Etiikan perusteet - perustellen' and 'Kansalaiset, oikeudenmukaisuus ja vallankäyttö' (Niko Noponen, Kuopion taidelukio Lumit, 2020-21). Elämänkatsomustieto: 13 items, 9 open. The 4 specific ones are the Turku Tulevaisuuden tutkimuskeskus guidance simulations and workbooks (CC BY, 2021). They are guidance-oriented, not LOPS ET module texts.",
+     "confidence": "verified",
+     "source_url": "https://aoe.fi/api/v2/search"
+    },
+    {
+     "claim": "Matematiikka: 16 open items tagged long math, 10 short math, 11 common unit. About 9 are specific. They are scattered extras: 'Matematiikan verkkokurssit lukioon' (CC BY-SA, 2020), 'Pitkän matematiikan perustehtäviä' (Lempäälän lukio, CC BY, 2025-08), 'Johdatus korkeakoulumatematiikkaan' (Eiran aikuislukio, 2022), 'MAA11 ohjelmointiosuus' (Porin lukio, 2023), the 'Joustavaan matematiikkaan' series (Oulu, Jyväskylä and Turku universities, CC BY, 2022 to 2026-10) and the Mentoroimalla mestariksi videos for short math (UEF, 2022). No full MAA or MAB book appears.",
+     "confidence": "verified",
+     "source_url": "https://aoe.fi/api/v2/search"
+    },
+    {
+     "claim": "Natural sciences: Fysiikka has 12 open items, 10 specific, mostly lab tasks and videos (Turku University 'Hynninen' lab set CC BY-SA 2023, UEF FCLab tasks CC BY 2023, Kaurialan lukio FY01-02 videos CC BY 2026-02). Kemia has 7 open, all specific: Kemianluokka Gadolin experiments (CC BY-SA, 2020), 'Kemia 5 Reaktiot ja tasapaino' as an itslearning course (Kuopion klassillinen lukio, CC BY-SA, 2020) and 'Kemian sähköinen oppimateriaali lukioon' (CC BY-SA, 2020). Biologia has 8 open and only 1 specific, the microbiology item. The rest of the biology items are cross-subject packs (Biodiversity.now, Helsinki sustainability pack). Maantiede has 17 open, led by University of Helsinki geomedia and GIS materials (CC BY and BY-SA, updated 2023 to 2026-10).",
+     "confidence": "verified",
+     "source_url": "https://aoe.fi/api/v2/search"
+    },
+    {
+     "claim": "Foreign languages: Russian 'Aurora 1-8' (Kotovitch and Strengell-Kämper, CC BY-SA, 2020-08) is a set of eight lukio Russian materials. This is the most textbook-like open series I found. Others: Swedish 'Tema Grammatikens grunder' (Eriksson, CC BY, 2026-02), a Swedish self-study path for modules 4 and 5 (UEF FCLab, 2023), English grammar support (Tampereen normaalikoulu, CC BY, 2024), Latin items (Kuopion klassillinen lukio, CC BY, 2022), plus Åbo Akademi Swedish-language items (BY-SA, 2023). There are few German, French or Spanish items in this slice.",
+     "confidence": "verified",
+     "source_url": "https://aoe.fi/api/v2/search"
+    },
+    {
+     "claim": "Äidinkieli (fi): 11 open, 6 specific. Examples: 'ÄI03 Kirjallisuuden keinoja ja tulkintaa' (Kuopion Lyseon lukio IB, CC BY-SA, 2020), 'Kokonaisvaltainen kirjoittaminen lukiossa' (Helsingin normaalilyseo, CC BY, 2022), a literacy exam-terms review for the abikurssi (Jyväskylän aikuislukio, 2020), AI and literacy tools (CC BY-SA, 2024-05), and the Kansallisarkisto 'Jahvetin kirjelaatikon arkisto' (CC BY, 2025-08). All are single-course or single-topic items.",
+     "confidence": "verified",
+     "source_url": "https://aoe.fi/api/v2/search"
+    },
+    {
+     "claim": "Historia, yhteiskuntaoppi, taide and others. Historia: 11 open items, 7 specific, mostly archive-source exercises from Finna, Kansalliskirjasto and museums (CC BY, 2021 and later). Yhteiskuntaoppi: 19 open, 9 specific, e.g. 'Lakitieto' (Nakkilan lukio, CC BY-SA, 2020), a circular-economy board game (Careeria, CC BY, 2025), a media-reading workshop (Mediakasvatusseura, CC BY, 2025-11). Musiikki: 3 open specific, e.g. 'Opi sävellajit ja asteikot' (CC BY, 2023), 'Lukion Musa' (Kallaveden lukio, 2020). Kuvataide: 2 specific, e.g. 'Luova metsä' (CC BY, 2024). Liikunta: only 'Mittamalla hyvinvointia' (CC BY, 2025), which is multi-subject. Opinto-ohjaus: 20 open, 16 specific, which is the best-covered subject: Turku University futures-guidance tools (13 items, CC BY, 2021), UEF group-guidance report (CC BY, 2024-05), and Helsinki's 'Ryhmänohjauksen työkalupakki' (2023, licence not checked).",
+     "confidence": "verified",
+     "source_url": "https://aoe.fi/api/v2/search"
+    },
+    {
+     "claim": "Updated-date profile: median 'updatedAt' year for open items sits mostly in 2020 to 2023. Kemia and Vieraat kielet A median 2020, Elämänkatsomustieto 2021, S2 2023, Kuvataide 2024. Many 2020-21 items predate the 2021 start of LOPS 2019 teaching. Several are tagged with the subject and the old 'LOPS 2016/2019' course names. They should be checked against current module content before reuse.",
+     "confidence": "likely",
+     "source_url": "https://aoe.fi/api/v2/search"
+    },
+    {
+     "claim": "AOE is run by Opetushallitus and the Ministry of Education and Culture, with CSC coordinating. New search features opened 2020-03-09 after a pilot from December 2019. Browsing needs no login, sharing needs Haka, MPASSid or Suomi.fi login. The OPH page states only 'Creative Commons' licences generally, not which ones.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/uutiset/2020/avointen-oppimateriaalien-kirjasto-avattu"
+    },
+    {
+     "claim": "Finnish Wikibooks (Wikikirjasto) lukio category lists Elämänkatsomustieto (26 pages), Lukion fysiikka (5), Lukion biologia (2), Yhteiskuntaoppi (1) and 'Lukion taulukot' (162). The category was last modified in September 2007. These are small and old, and the page gives no information on completeness. Wikibooks text is CC BY-SA in general, but I did not read a licence line on these pages.",
+     "confidence": "likely",
+     "source_url": "https://fi.wikibooks.org/wiki/Luokka:Lukio"
+    },
+    {
+     "claim": "Vapaa matikka: a bookseller listing found by search describes a CC-style openly licensed long-math series (MAA1-2 volume seen), written by about 50 people, funded by the Teknologiateollisuus 100-vuotissäätiö, with source on GitHub. I could not read the project's own page, the licence name or the GitHub repo. Kaleva (22 Aug 2012) separately reports a volunteer group led by Vesa Linja-aho (Metropolia) writing a free long-math book, 'copyable and modifiable'. Whether these are the same project is not confirmed. Treat the licence as unverified.",
+     "confidence": "unverified",
+     "source_url": "https://www.kaleva.fi/vapaaehtoiset-kirjoittavat-ilmaisen-oppikirjan-luk/1894788"
+    },
+    {
+     "claim": "Avoin oppikirja (Oulu University project, avoinoppikirja.fi) reportedly offers open math material for yläkoulu and lukio, and 'Avoin matematiikka' grades 7-9 is CC BY. A Turku University thesis project planned an e-book for the first common math course (MAY1). I could not confirm any finished lukio course, licence or date. The Avoin matematiikka books are yläkoulu and out of lukio scope.",
+     "confidence": "unverified",
+     "source_url": "https://utupub.fi/handle/10024/167177"
+    },
+    {
+     "claim": "The 'Avoimet oppimateriaalit ry' association could not be found by search, so no evidence for it. MAOL: no source shows MAOL publishing open lukio textbooks. MAOL co-produced an OPH physics-module support text (only seen as a search snippet). MAOL-taulukot is a reference book, not shown as open.",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "Commercial books dominate lukio school lists. Peda.net list for self-study names only Opiq/e-Oppi books (Symbioosi, Resonanssi, Orbitaali, Tellus, Valoa for S2), and the page names no author or licence for them. Search found no sign that e-Oppi or other publishers release lukio books as CC BY.",
+     "confidence": "likely",
+     "source_url": "https://peda.net/id/0ef6f96284a"
+    }
+   ],
+   "recommendations": [
+    "Treat AOE as a pool of reusable pieces, not a textbook source. Scoring must separate 'open items tagged' from 'complete open course covering all modules'. On the latter, almost every subject scores zero.",
+    "For the ranking, count only specific items (two or fewer subject tags). By that count psykologia (0), filosofia (0), uskonnot (0), liikunta (0), biologia (1), S2 (2), terveystieto (3) and kuvataide (2) are the open-material gaps. Matematiikka, fysiikka, kemia, historia and yhteiskuntaoppi have more pieces but no whole books either.",
+    "Terveystieto has a usable seed: TE1 (Schildtin lukio, CC BY-SA, 2021). It covers one module of three (TE1 compulsory, TE2 and TE3 optional). Check its content against current THL guidance before building on it. CC BY-SA means derivatives must carry the same licence, which matters if the new site wants plain CC BY.",
+    "Psykologia has no open lukio module at all in AOE, and OPH's own page only links to NGOs and publishes no licensed teaching text. The expected answer that psychology is cheapest to build from an English CC BY base is not contradicted by anything here. The need for a Finnish module is real, but this slice cannot say how well commercial books already serve it.",
+    "Minority religions: no specific open material found in AOE, and OPH offers none. Verify with the commercial-market researcher whether publishers cover the small religions at all. That will decide whether this is the 'direst need' the brief expected.",
+    "Where reusing, filter on licence value CC BY 4.0 or CC BY-SA 4.0 only. 560 of the 1,074 lukio items are NC or ND and cannot be adapted or shared as open.",
+    "Follow-up reads that failed here and would sharpen the picture: the Vapaa matikka project page and its repo, avoinoppikirja.fi course pages, and the MAOL, Edu.fi, e-Opin and Peda.net open-material pages. A browser pass may be needed for those."
+   ],
+   "versus_expected": "The brief's expected answers 2 to 4 are broadly supported by this slice and none is contradicted. Terveystieto is thin, with one open TE1 course shell and nothing for TE2 or TE3. Psykologia is thinner still, with zero psychology-only open items, which weakens the idea that it is a lower-need subject, though this slice says nothing about commercial coverage. S2 and the small religions are the sparsest per subject (S2 has two 2020 module packages; no religion-specific item exists), which supports expected answer 4. One refinement: the open-material gap is wide, not subject-specific. No subject has a full open textbook, so 'need' cannot be ranked by 'subjects with no material' alone. The expected answer is right that a full curriculum is a large build, and this shows that nearly all of it would be new writing, with only exercises and lab tasks reusable.",
+   "sources_or_tools": [
+    {
+     "name": "AOE public search API",
+     "what": "Catalogue metadata (title, authors, licence, levels, subjects, dates) for all 5,462 AOE materials; all counts above come from it",
+     "url": "https://aoe.fi/api/v2/search",
+     "access": "POST JSON, no login",
+     "licence": "Per-item CC licences; the API itself is public"
+    },
+    {
+     "name": "OPH news: AOE opened",
+     "what": "Operator, launch dates, licensing in general",
+     "url": "https://www.oph.fi/fi/uutiset/2020/avointen-oppimateriaalien-kirjasto-avattu",
+     "access": "public page",
+     "licence": "not stated"
+    },
+    {
+     "name": "OPH TE and psychology support-material pages",
+     "what": "Curriculum aids and links to NGO material; no licence statement",
+     "url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/psykologian-tukimateriaalit",
+     "access": "public page",
+     "licence": "© Opetushallitus, no CC terms shown"
+    },
+    {
+     "name": "Finnish Wikibooks lukio category",
+     "what": "Old, small open books for ET, physics, biology, tables",
+     "url": "https://fi.wikibooks.org/wiki/Luokka:Lukio",
+     "access": "public page",
+     "licence": "Wikibooks default CC BY-SA, not read on page"
+    }
+   ]
+  },
+  {
+   "key": "commercial-market",
+   "summary": "Core subjects (terveystieto, psykologia, ET, uskonto, filosofia) have 2-3 competing series each from Sanoma Pro, Otava and Edita/Studeo. Small subjects have no found commercial lukio series: S2, minority religions, Sámi, sign language and Romani. Music and visual arts have no textbook. Digital licence prices are not public on any page I could read. Otava points to PDF price lists (digipaketit 12 kk, 48 kk, 2026 hinnasto) that I did not read. Sanoma Pro's price and series pages gave 404 or no content. Most facts come from one Otava catalogue page plus one Turku school list for 2026-27 (a PDF with garbled column layout), so publisher attribution there is partly likely rather than verified.",
+   "findings": [
+    {
+     "claim": "Otava's lukio catalogue lists these series (LOPS21): Biomi (biologia), Vipu (fysiikka), Mooli (kemia), Juuri/Huippu (pitkä/lyhyt matematiikka), Manner (maantiede), Forum Historia, Forum Yhteiskuntaoppi, Idea (filosofia), Oivallus (psykologia), Polku (terveystieto), Lumo (uskonto), Etevä (opinto-ohjaus), Särmä lukio (äidinkieli), plus language series. Page has no series for S2 or elämänkatsomustieto.",
+     "confidence": "verified",
+     "source_url": "https://oppiminen.otava.fi/tuotteet/lukio/"
+    },
+    {
+     "claim": "Otava sells lukio digital packages as 12 kk one-off order and 48 kk continuing subscription, with a separate 2026 lukio price list (PDF). The pricing page itself states no per-student or per-module figures and no VAT basis; those PDFs were not read. Subject-specific user benefits are opened per module for subscribers of Otava lukio series.",
+     "confidence": "verified",
+     "source_url": "https://oppiminen.otava.fi/hinnastot-ja-edut/"
+    },
+    {
+     "claim": "Terveystieto has at least three competing series: Sanoma Pro 'Terve 1-3 + kertaus' (TE1 Terve 1 Terveys voimavarana, 2021 edition), Otava 'Polku', and Edita 'Lukion Syke' (TE1 Terveys voimavarana, LOPS21). The Edita title was seen only in a Prisma shop listing, and Terve in school lists; the Polku claim is verified on Otava's page.",
+     "confidence": "likely",
+     "source_url": "https://www.prisma.fi/tuotteet/110237116/kinnunen-lukion-syke-1-te1-terve-voimavarana-lops21-110237116"
+    },
+    {
+     "claim": "Psykologia has Otava 'Oivallus' (verified on the Otava page) and a Turku 2026-27 school list shows 'Mieli 1-5' plus 'Psykologian kertaus (LOPS 2021)' and a PS7 social psychology item. Mieli's publisher could not be read from the garbled PDF; likely Sanoma Pro. So at least two competing series.",
+     "confidence": "likely",
+     "source_url": "https://blog.edu.turku.fi/pml/files/2026/06/Oppimateriaalit-lukuvuodelle-2026-2027.pdf"
+    },
+    {
+     "claim": "Elämänkatsomustieto: Turku 2026-27 list uses 'Matka 1-6' (Matka 1-2 print only, 3-6 digital), a Sanoma Pro series per a search summary of the list. Not on Otava's page. Appears to be a single-series subject; no competitor found, but my search was shallow.",
+     "confidence": "likely",
+     "source_url": "https://blog.edu.turku.fi/pml/files/2026/06/Oppimateriaalit-lukuvuodelle-2026-2027.pdf"
+    },
+    {
+     "claim": "The Turku list shows Studeo as the publisher in the history/yhteiskuntaoppi/uskonto block (column layout garbled so exact rows uncertain), and 'Lumo 1-6' for uskonto; Otava Lumo is verified. Studeo therefore appears as a competitor in humanities/social subjects.",
+     "confidence": "unverified",
+     "source_url": "https://blog.edu.turku.fi/pml/files/2026/06/Oppimateriaalit-lukuvuodelle-2026-2027.pdf"
+    },
+    {
+     "claim": "The same Turku list gives 'Ei oppikirjaa' (no textbook) for musiikki and kuvataide, and lists opinto-ohjaus as school-written modules (OP1, OP2) in that school's case. Peer Sanoma Pro/Otava opinto-ohjaus series exist (Otava Etevä verified).",
+     "confidence": "verified",
+     "source_url": "https://blog.edu.turku.fi/pml/files/2026/06/Oppimateriaalit-lukuvuodelle-2026-2027.pdf"
+    },
+    {
+     "claim": "Orthodox religion: searches found only comprehensive-school books (e.g. Aikonen, Ortodoksinen uskontokirja, for basic education) and OPH's page on orthodox lukio modules with objectives but no textbook. No commercial lukio series found for ortodoksinen, islam, katolinen or juutalainen; not proven absent (negative result from search, not catalogue read).",
+     "confidence": "likely",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/ortodoksisen-uskonnon-moduulit-ja-laaja-alainen-osaaminen"
+    },
+    {
+     "claim": "S2: no dedicated lukio S2 textbook found. A Jyväskylä thesis says S2 course offering and materials vary between schools and schools are not obliged to offer S2. Neither Otava's lukio page nor Sanoma Pro's page showed S2.",
+     "confidence": "likely",
+     "source_url": "https://jyx.jyu.fi/bitstream/123456789/57806/1/URN%3aNBN%3afi%3ajyu-201805022411.pdf"
+    },
+    {
+     "claim": "Romani and sign language: only OPH-produced support was found (Romani culture lessons package of three 45-min lessons, Romani learner guide, an OPH materials page for Saami/Romani/sign-language learners in lukio Finnish). No commercial series found for Sámi, viittomakieli or Romani in lukio. The OPH materials page snippet was mostly navigation, contents not confirmed.",
+     "confidence": "likely",
+     "source_url": "https://www.oph.fi/fi/opettajille/romanikulttuurin-oppitunnit"
+    },
+    {
+     "claim": "OPH provides a 'Terveystiedon LOPS 2019 -tukimateriaali' page (support material, not a textbook). Existence verified via search listing only.",
+     "confidence": "likely",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali"
+    },
+    {
+     "claim": "Curriculum naming: publishers label series LOPS21 (curriculum in force 2021), not 'LOPS 2019'. The CLAUDE.md name 'LOPS 2019' refers to the core curriculum decision year; search for 'LOPS 2019' textbooks yields nothing, 'LOPS21/LOPS 2021' is the market label.",
+     "confidence": "verified",
+     "source_url": "https://oppiminen.otava.fi/tuotteet/lukio/"
+    },
+    {
+     "claim": "Typical digital licence price per module or student: not found. No public figures on any page read; schools buy via publisher price lists, and a Kuopio source says students find digital cheaper than print without giving figures. Estimating a price would be a guess.",
+     "confidence": "unverified",
+     "source_url": "https://publish.kuopio.fi/kokous/2019570944-5-2.PDF"
+    }
+   ],
+   "recommendations": [
+    "Ask the operator (or fetch via a browser) the Otava 'Lukion hinnasto 2026' and digipaketit PDFs linked from oppiminen.otava.fi/hinnastot-ja-edut; they likely contain per-package prices and answer the price question.",
+    "Treat the market as failing for S2, small religions, Sámi, sign language, Romani, and probably elämänkatsomustieto (single series); terveystieto and psykologia are well served commercially with 2-3 series each, supporting the expected answer.",
+    "Because lukio materials are free to students since 2021, price per student is paid by education providers; the CC BY argument is about adaptation and gaps, not family cost.",
+    "Verify the publisher column of the Turku list by opening the PDF in a viewer, and read Edita/Studeo catalogue pages, which I did not reach, before relying on 'Studeo' competitor claims.",
+    "Check the Sanoma Pro lukio series page via a working URL (sanomapro.fi/lukio/ gave only navigation; two deeper URLs returned 404) to confirm its series per subject."
+   ],
+   "versus_expected": "Mostly consistent with the expected answer: terveystieto and psykologia are commercially served (terveystieto even by three series, which is a refinement against 'terveystieto ranks high' since the market is not failing there, though the content-dating and misinformation arguments remain), and the small subjects have no commercial series found. Refinements: elämänkatsomustieto appears to be a single-series subject, and no digital licence prices are public, so the cost side of the expected answer could not be tested."
+  },
+  {
+   "key": "student-numbers",
+   "summary": "Matriculation exam registration figures per subject for 2023-2026 are verified from YTL's own statistics PDF. The total number of lukio students is verified from Tilastokeskus: 110 600 in 2023, about 112 800 in 2024 and 114 700 in 2025. I found no published counts of lukio students in S2, minority religions, Sámi, Romani or sign language. Vipunen returned 403, and OPH and Tilastokeskus pages only gave basic-education shares. The YTL figures are registrations (ilmoittautuneet), not participants. Registrations count each exam entry, so one person appears once per exam.",
+   "findings": [
+    {
+     "claim": "YTL table 'Ilmoittautuneet eri kokeisiin tutkintokerroittain 2017-2026' (PDF stamped 19.08.2026, statistics page says last updated 19.11.2026) gives registrations per exam, total of spring + autumn. Psykologia: 10 963 (2023), 11 019 (2024), 11 810 (2025), 12 732 (2026). Spring only: 6 337, 6 368, 6 646, 7 437. These are registrations, not participants. The PDF also splits spring/autumn, so the 2026 total includes autumn 2026 registrations. My mapping of names to rows relied on reading the layout, because names are vertically centred between rows. The mapping was cross-checked against the names present on each page and against the 7 437 spring-2026 figure that a news item reported for psykologia.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/ext/stat/FS2026A2017T2010.pdf"
+    },
+    {
+     "claim": "Terveystieto registrations (total): 9 021 (2023), 9 797 (2024), 12 209 (2025), 14 567 (2026). Spring only: 4 213, 4 322, 5 314, 6 696. Rapid growth, and in 2026 terveystieto has more registrations than psykologia.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/ext/stat/FS2026A2017T2010.pdf"
+    },
+    {
+     "claim": "Biologia: 11 631 / 11 000 / 10 738 / 11 008 (2023-2026). Maantiede: 4 919 / 4 977 / 4 858 / 4 481. Historia: 9 784 / 9 612 / 8 960 / 8 309. Yhteiskuntaoppi: 10 184 / 10 934 / 12 438 / 14 121. Filosofia: 2 278 / 2 392 / 2 561 / 2 674. Fysiikka: 10 542 / 10 144 / 9 836 / 9 177. Kemia: 9 724 / 9 659 / 10 270 / 10 714.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/ext/stat/FS2026A2017T2010.pdf"
+    },
+    {
+     "claim": "Uskonto and elämänkatsomustieto: Ev.lut. uskonto 4 162 / 3 981 / 3 132 / 2 388 (2023-2026, declining). Ortodoksinen uskonto 49 / 36 / 40 / 45. Elämänkatsomustieto 618 / 598 / 554 / 454 (peak was 618 in 2023; 206 in 2017). Other uskonnot do not appear as separate rows in the table.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/ext/stat/FS2026A2017T2010.pdf"
+    },
+    {
+     "claim": "S2 (Suomi toisena kielenä, äidinkielen koe): 2 367 / 2 798 / 3 215 / 3 556 (2023-2026), up from 1 444 in 2017. Spring only: 1 574 / 1 867 / 2 135 / 2 371. For comparison, Äidinkieli suomi: 36 047 / 35 600 / 36 626 / 36 740.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/ext/stat/FS2026A2017T2010.pdf"
+    },
+    {
+     "claim": "Small-language exam registrations (2023-2026): Äidinkieli pohjoissaame 7 / 12 / 9 / 12; Pohjoissaame lyhyt 13 / 11 / 11 / 14; Inarinsaame lyhyt 3 / 3 / 4 / 3; Äidinkieli inarinsaame 0 / 0 / 0 / 3 (the table prints a dot for zero). A Koltansaame lyhyt exam exists, with 0 / 0 / 0 / 2 spring registrations in 2023-2026 and 4 total in 2026 on my row mapping (a weaker match). I found no Romani or sign-language exam in the table.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/ext/stat/FS2026A2017T2010.pdf"
+    },
+    {
+     "claim": "Total exam registrations (all tests): 226 749 (2023), 229 325 (2024), 236 872 (2025), 244 664 (2026). Spring part: 137 285 / 136 699 / 139 757 / 144 971.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/ext/stat/FS2026A2017T2010.pdf"
+    },
+    {
+     "claim": "YTL statistics page lists other tables: registered persons 2012-2026, retake share 2022-2026, point limits, grade distributions 2024-2026, passed degrees. The retake-share table is relevant to how many registrations are repeats. I did not open those PDFs.",
+     "confidence": "verified",
+     "source_url": "https://www.ylioppilastutkinto.fi/tilastot"
+    },
+    {
+     "claim": "Total lukio students (tutkintotavoitteinen lukiokoulutus, situation 20 Sept): 110 600 (2023), 112 800 (2024), 114 700 (2025). New students 37 900 (2024) and 38 300 (2025). Ylioppilastutkinnot 30 800 (2024) and 31 800 (2025). 6 % study in Swedish. In 2024, 62 % studied two languages (the search snippet of the 2024 release; the 2025 release page did not state this share). The 2023 and 2024 totals come from a search summary of the Tilastokeskus releases, not from the release pages; only 114 700 was read on the 2025 release page itself (published 28.5.2026).",
+     "confidence": "verified",
+     "source_url": "https://stat.fi/fi/julkaisu/cmg4oug0agcjz07w7xkgzu8np"
+    },
+    {
+     "claim": "Tilastokeskus 'Ainevalinnat 2024' (11.12.2025) covers only language choices, with no psychology, health, S2 or religion figures. Tilastokeskus 'Ainevalinnat 2025' (8.10.2026) covers basic education only: evangelical-Lutheran religion 76 % of grades 1-6 and 81 % of grades 7-9; elämänkatsomustieto 15 % of pupils; Islam under 4 % of grades 7-9 (the 4 % figure is from a search summary). No lukio figures for the religion subjects.",
+     "confidence": "verified",
+     "source_url": "https://stat.fi/fi/uutinen/valinnaisten-kielten-opiskelussa-yha-suuret-sukupuolierot-katsomusaineista-elamankatsomustietoa-ja-islamia-opiskelevien-osuus-kasvussa"
+    },
+    {
+     "claim": "Counts of lukio students studying S2, minority religions, Sámi, Romani or sign language were not found on any page I could read. Tilastokeskus states that Sámi as mother tongue was 0.04 % of those starting upper secondary in 2022, but this is mother tongue, not the subject (search summary only).",
+     "confidence": "unverified",
+     "source_url": "https://stat.fi/fi/julkaisu/clr7pmvhj14t20cumlxlaf626"
+    }
+   ],
+   "recommendations": [
+    "Do not present the exam numbers as 'participants'. Call them 'ilmoittautuneet kokeisiin' (registrations). The YTL table is exam-entry counts per subject, one person registers for several exams.",
+    "The matriculation exam is not the same as the course population: students in lukio take subjects they may never sit in the exam, so for S2, uskonto and small languages the exam figure understates the student group. Ask OPH or Vipunen for opiskelijat oppiaineittain figures in a later pass, since Vipunen was blocked (403).",
+    "Terveystieto is the fastest-growing real-subject exam (9 021 to 14 567, 2023-2026) and now exceeds psykologia (12 732) in 2026 registrations. Yhteiskuntaoppi also grew sharply (10 184 to 14 121). This supports the brief's expectation that terveystieto ranks high on reach, not only on need.",
+    "Elämänkatsomustieto, Ev.lut. uskonto and Ortodoksinen uskonto exam entries are small or falling. Use them as a proxy for the small-subject need only with the caveat above. The Sámi exams have 3-14 registrations a year.",
+    "Link to the YTL statistics page and the PDF instead of copying yearly figures into the site, per CLAUDE.md rule 4. Record the read date 2026-11-21.",
+    "For the numbers of students in S2, minority religions, Sámi, Romani and sign language, request data from Opetushallitus (Vipunen opiskelijat ja opintosuoritukset) or Tilastokeskus tables. Mark the finding as unverified until that is done."
+   ],
+   "versus_expected": "Expected answer item 3 (psykologia popular in the exam) holds: 12 732 registrations in 2026. Item 2 (terveystieto ranks high) is refined: terveystieto is now the larger exam, 14 567 against 12 732, and it grew about 61 % from 2023 to 2026. The brief's claim 'small subjects have no market' fits the exam numbers (Sámi 3-14, Ortodoksinen about 45, elämänkatsomustieto 454 in 2026, S2 3 556 but growing about 50 % from 2023). I could not check the unknown that OPH or Vipunen show S2 or minority-religion student counts, because no such figures were found, so the claim that small groups are tiny is supported only by exam entries."
+  },
+  {
+   "key": "oph-support-and-free-materials",
+   "summary": "Partly answered. OPH does fund and publish some small-group materials, but there is no single \"oppimateriaalituki for minority groups\" scheme for lukio, and the funded materials are not required to be open. Free lukio materials under the extended compulsory education are paid by the education provider through state-subsidy funding, with a 2020 planning figure of about 60 M EUR per year for lukio materials. The finlex.fi pages for Oppivelvollisuuslaki returned only site chrome on three tries, so the statute text is not read. Per-year provider costs actually reported and provider preferences for open vs own vs licensed materials were not found in primary sources.",
+   "findings": [
+    {
+     "claim": "OPH Oppimateriaalit is OPH's non-profit publishing unit that makes materials for small target groups (basic education grades 7-9 religion and social studies, S2, adult basic ed maths, vocational small fields). About one third of its activity is funded by state price support (hintatuki), the rest by sales.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/uutiset/2025/opetushallitus-tuottaa-oppimateriaaleja-pienten-kohderyhmien-tarpeisiin"
+    },
+    {
+     "claim": "For lukio, that OPH news item mentions new Orthodox and Islamic religion materials (minority religions). Licence of these materials is not stated on the page; aoe.fi is mentioned only as a place for teachers to share their own material. So openness of OPH-published lukio materials is unverified and, as sold-for-a-price products, likely not CC BY.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/uutiset/2025/opetushallitus-tuottaa-oppimateriaaleja-pienten-kohderyhmien-tarpeisiin"
+    },
+    {
+     "claim": "OPH 2025 state grant (hankeavustus) of 315,000 EUR funds materials for people with intellectual disabilities, easy-read literature and other low-circulation materials; applicants: municipalities, associations, foundations, universities; funding period to 31.12.2026. OPH only recommends saving freely available output to aoe.fi; CC BY is not required on the page; materials may be sold at non-profit prices. Levels not specified.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/funding/hankeavustukset-kehitysvammaisille-tarkoitetun-vahalevikkisen-suomenkielisen"
+    },
+    {
+     "claim": "No OPH page was found describing a dedicated grant for Sámi, Romani, sign-language or S2 lukio materials; the search only showed OPH learner-group pages and a 2022 Romani language revitalisation programme. Whether such funding exists is unverified.",
+     "confidence": "unverified",
+     "source_url": "https://www.oph.fi/fi/uutiset/2022/suomen-uhanalaisen-romanikielen-elvytysohjelma-turvaa-romanikielen-siirtymista"
+    },
+    {
+     "claim": "OPH service page www.oph.fi/fi/palvelut/oph-oppimateriaalit returned 404; Finlex pages for Oppivelvollisuuslaki 1214/2020 (three URL forms) returned no act text. The section on free materials and the 1.8.2021 entry-into-force were therefore not read on the statute itself.",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "Parliament's Hallintovaliokunta slides (10.11.2020) on the extension: free items include textbooks and other materials needed for teaching; new municipal tasks compensated through state-subsidy funding (valtionosuus); total extension cost 129 M EUR by 2024 (22 M 2021, 65 M 2022, 107 M 2023); lukio materials 60.2 M EUR in the cost table (slide 31 elsewhere shows 56.8, inconsistent in the PDF text); textbooks costed at 1,218 EUR per lukio student, plus 70 EUR calculator licence and 306 EUR computer. The PDF text was garbled, so exact slide figures are likely rather than certain.",
+     "confidence": "likely",
+     "source_url": "https://www.eduskunta.fi/valtiopaivaasiakirjat/EDK-2020-AK-331520"
+    },
+    {
+     "claim": "Who pays: the education provider (kunta, kuntayhtymä, private provider), financed through state subsidy, as per the 2020 plan; Kuntaliitto and Helsinki argued costs were underestimated (from search summary, primary statements not opened).",
+     "confidence": "likely",
+     "source_url": "https://www.eduskunta.fi/valtiopaivaasiakirjat/EDK-2020-AK-331520"
+    },
+    {
+     "claim": "Government-commissioned evaluation (Owal Group for OKM) says the reform sped the move to digital materials, cost-efficiency still needs work, and the digital licence arrangements should be reformed. It does not discuss own or open materials on the summary page; euro costs per year are not on that page.",
+     "confidence": "verified",
+     "source_url": "https://valtioneuvosto.fi/-/1410845/selvitys-oppivelvollisuuden-laajentamisen-maksuttomuuden-uudistus-on-onnistunut-erityisesti-opiskelijoiden-nakokulmasta"
+    },
+    {
+     "claim": "Providers' response in practice is digital-only licences, often time-limited, for money and space reasons; students report choosing matriculation subjects early to get longer licences (SDP statement, political source, opened only via search summary).",
+     "confidence": "likely",
+     "source_url": "https://www.sttinfo.fi/tiedote/70345951/sdpn-eloranta-oppilaiden-oikeudesta-oppimateriaaleihin-ei-pida-tinkia?publisherId=66784162"
+    },
+    {
+     "claim": "Search summaries cite a figure of about 269 EUR of free materials per lukio student in 2023 attributed to Suomen Kustannusyhdistys, and a 2018 study average of 1,410 EUR per student over lukio. Neither was found on a page I read.",
+     "confidence": "unverified"
+    }
+   ],
+   "recommendations": [
+    "Treat the market-failure picture as refined, not overturned: the cost is now borne by providers, who buy time-limited digital licences, so an open CC BY alternative has a clear buyer (providers, about 1,200 EUR planned per student) but no evidence yet that they seek open materials.",
+    "Do not claim OPH-funded small-group materials are open: the 2025 grant only recommends aoe.fi. Check the grant decision terms or aoe.fi licence field for funded items.",
+    "Follow-ups worth a retry by a human or another route: Finlex PDF or HE 173/2020 for the exact section and wording; Owal 2023/2024 full report (valto.fi/julkaisut) for provider costs and licence findings; Kuntaliitto statements; Kustannusyhdistys figure at kustantajat.fi.",
+    "Ask OPH directly whether any support exists for Sámi, Romani, sign-language and S2 lukio materials, since none was found."
+   ],
+   "versus_expected": "Expected point 6 (OPH may fund small-subject material; lukio materials free since 2021, cost moved to providers) is partly right. Free materials and provider payment via state subsidy are confirmed by 2020 parliamentary slides (not the statute itself). OPH funding exists but is narrow (OPH Oppimateriaalit price support, 315k EUR special-needs grant), covers minority religions in lukio, and is not shown to be open-licensed. Sámi, Romani and sign-language lukio funding was not found. Provider yearly cost, about 60 M EUR planned for lukio materials, is a forecast rather than a reported outturn.",
+   "sources_or_tools": [
+    {
+     "name": "OPH news: OPH produces materials for small target groups (2025)",
+     "url": "https://www.oph.fi/fi/uutiset/2025/opetushallitus-tuottaa-oppimateriaaleja-pienten-kohderyhmien-tarpeisiin",
+     "what": "Publisher scope, price support share, lukio religion materials",
+     "access": "open web",
+     "licence": "not stated"
+    },
+    {
+     "name": "OPH grant page for low-circulation and special-needs materials (2025)",
+     "url": "https://www.oph.fi/fi/funding/hankeavustukset-kehitysvammaisille-tarkoitetun-vahalevikkisen-suomenkielisen",
+     "what": "Grant terms, aoe.fi recommendation",
+     "access": "open web",
+     "licence": "not stated"
+    },
+    {
+     "name": "Eduskunta Hallintovaliokunta slides 10.11.2020",
+     "url": "https://www.eduskunta.fi/valtiopaivaasiakirjat/EDK-2020-AK-331520",
+     "what": "Cost estimates and per-student materials cost",
+     "access": "open PDF",
+     "licence": "not stated"
+    },
+    {
+     "name": "Valtioneuvosto: evaluation of free upper secondary reform",
+     "url": "https://valtioneuvosto.fi/-/1410845/selvitys-oppivelvollisuuden-laajentamisen-maksuttomuuden-uudistus-on-onnistunut-erityisesti-opiskelijoiden-nakokulmasta",
+     "what": "Digital shift and licence recommendation",
+     "access": "open web",
+     "licence": "not stated"
+    }
+   ],
+   "could_not_read": [
+    "https://finlex.fi/fi/lainsaadanto/2020/1214 (no act text, 2 tries incl. variant)",
+    "https://finlex.fi/fi/lainsaadanto/saadoskokoelma/2020/1214 (no act text)",
+    "https://www.finlex.fi/api/akn/fi/act/statute-consolidated/2020/1214/fin@ (404)",
+    "https://www.oph.fi/fi/palvelut/oph-oppimateriaalit (404)",
+    "Kuntaliitto, OKM and OAJ cost pages and news articles listed in searches (not opened)"
+   ]
+  },
+  {
+   "key": "ytl-exams",
+   "summary": "Past YTL exam tasks are not under an open licence. YTL says its exam questions are official statements with no copyright, but it also says publishers must clear third-party rights themselves. No CC BY or other open licence appears on any YTL, Examina or hyvän vastauksen piirteet page read. The safe route for CC BY material is to link to the tasks and write original tasks in the same style. Candidate answers are confidential and need the candidate's permission. Abitti is open-source software, but the Abitti name is a protected trademark. The structure of the psykologia and terveystieto exams favours material-based essay tasks, short concept definitions, and graded exercises with model answers. I could not read the S2 structure or the Examina terms of use.",
+   "findings": [
+    {
+     "claim": "YTL page on publishing exam answers and tasks: board treats itself as an authority, so its exam questions are official statements without copyright (citing Copyright Council statement 2020:4). This is the board's own reading, not an open licence.",
+     "confidence": "verified",
+     "source_url": "https://www.ylioppilastutkinto.fi/fi/tietopalvelut/koesuoritusten-ja-koetehtavien-julkaiseminen-ja-opetuskaytto"
+    },
+    {
+     "claim": "Exam tasks may include parts of published works (Copyright Act 14 § 3 mom.). For other uses the publisher must clear copyright itself with the rights holders, per the page: 'Aineistojen muusta käytöstä julkaisijan tulee itse selvittää tekijänoikeuskysymykset'. So third-party material inside exams (texts, images, video, audio) cannot be assumed to be CC BY.",
+     "confidence": "verified",
+     "source_url": "https://www.ylioppilastutkinto.fi/fi/tietopalvelut/koesuoritusten-ja-koetehtavien-julkaiseminen-ja-opetuskaytto"
+    },
+    {
+     "claim": "The board says earlier exam-task permits have lapsed under the Copyright Council statement, and that the Examina terms of use reflect the new reading. The board keeps publishing source information with the materials.",
+     "confidence": "verified",
+     "source_url": "https://www.ylioppilastutkinto.fi/fi/tietopalvelut/koesuoritusten-ja-koetehtavien-julkaiseminen-ja-opetuskaytto"
+    },
+    {
+     "claim": "Candidate answers (koesuoritukset) are confidential. The board needs no separate permission to publish one, but written permission from the candidate is recommended. Permission of the people concerned is needed if other people are described. Teaching use without permission is allowed only if the candidate cannot be identified and the answer is below the originality threshold. Sample answers are therefore not freely reusable in CC BY material.",
+     "confidence": "verified",
+     "source_url": "https://www.ylioppilastutkinto.fi/fi/tietopalvelut/koesuoritusten-ja-koetehtavien-julkaiseminen-ja-opetuskaytto"
+    },
+    {
+     "claim": "The YTL main page footer reads 'Kaikki oikeudet pidätetään © 2026' (all rights reserved). No separate terms-of-use or licence page was found, and no Creative Commons statement was found on the main page or the hyvän vastauksen piirteet page.",
+     "confidence": "verified",
+     "source_url": "https://www.ylioppilastutkinto.fi/"
+    },
+    {
+     "claim": "Examina (Vanhat kokeet) gives teachers a right to copy exam content for teaching use ('oikeus kopioida kokeiden sisältöä opetuskäyttöön'). Access needs a login through MPASSid, and research use needs a separate permit. This is a login-gated teaching permission, not an open licence, and it does not cover republishing under CC BY. The page text was last updated 3.10.2019, so details may be old. The Examina terms themselves were not read.",
+     "confidence": "verified",
+     "source_url": "https://www.ylioppilastutkinto.fi/fi/tietopalvelut/vanhat-kokeet-examina"
+    },
+    {
+     "claim": "Abitti-adapted exam zip files (.zip with .meb task file) are offered for import into oma.abitti.fi as course exams. This is a teaching and import feature, and no licence is stated for the contents.",
+     "confidence": "verified",
+     "source_url": "https://www.ylioppilastutkinto.fi/fi/tietopalvelut/vanhat-kokeet-examina"
+    },
+    {
+     "claim": "Digabi states that all software in Digabi is released under open source licences, without naming one. Use of the Abitti name or logo needs a written signed licence agreement with the owner (FMEB, the Matriculation Examination Board's foundation). Self-made material must not be named 'Abitti'. The open-source status covers software, not exam content.",
+     "confidence": "verified",
+     "source_url": "https://digabi.fi/abitti-trademark.html"
+    },
+    {
+     "claim": "The exam software engine and the MEX exam format are public (digabi.github.io/exam-engine documentation exists). This only appeared in search results and was not opened. It would let the project build Abitti-compatible original practice exams.",
+     "confidence": "likely",
+     "source_url": "https://digabi.github.io/exam-engine/MexDocumentation"
+    },
+    {
+     "claim": "Hyvän vastauksen piirteet: preliminary versions are published on exam day at 17:15 at the earliest, and final versions with the release of results. No reuse licence was found on the page ('Kaikki oikeudet pidätetään © 2026'). The archive is organised by session, not by subject, from Kevät 2013 or 2019 to Syksy 2026.",
+     "confidence": "verified",
+     "source_url": "https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/hyvan-vastauksen-piirteet"
+    },
+    {
+     "claim": "The psykologia grading document (2026-03-25) has a rubric (subject knowledge 15, information processing 15, plus application/evaluation, five levels), sample tasks and model answers, and shows no copyright or licence notice. It is a secondary page on tiedostot.ylioppilastutkinto.fi, so it falls under the main site's all-rights-reserved footer.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2026-03-25_PS_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Psykologia exam (spring 2026): three parts. Part 1 has 20-point tasks (true/false with negative marking, five concept definitions of which four are answered, a short essay). Part 2 has 20-point tasks based on a scenario, a text or a video. Part 3 has 30-point essays, some on source material. Answer length limits run from 600 to 4,000 characters. This favours concept-definition drills, material-based case tasks and essay practice with a rubric.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2026-03-25_PS_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Psykologia exam: nine tasks, five answered, maximum 120 points. A new structure planned from autumn 2026 has one compulsory 20-point task, two chosen from four 20-point tasks, and two chosen from four 30-point tasks. The page says this is still a plan, and I did not open the news page itself.",
+     "confidence": "likely",
+     "source_url": "https://www.ylioppilastutkinto.fi/fi/ajankohtaista/psykologian-kokeessa-muutoksia-syksysta-2026-alkaen"
+    },
+    {
+     "claim": "Terveystieto exam: three parts, nine tasks, five answered. Part I has 20 points (recall), Part II 20 points (application and analysis), Part III 30 points (evaluation and development), so the maximum is 120. The sources are secondary school copies of the YTL notice (peda.net, 2017 to 2025) and I did not read the YTL page itself. The structure looks unchanged in the 2024-25 notice.",
+     "confidence": "likely",
+     "source_url": "https://peda.net/id/7f8b163aa8e:file/download/99b677549a6118ef619ef9b110a50e55149d983e/tiedote_terveystieto_fi.pdf"
+    },
+    {
+     "claim": "Yle's Abitreenit gathers old exams from 2008 onward and is a link target for students. No licence was read, so it is not a reuse source.",
+     "confidence": "likely",
+     "source_url": "https://yle.fi/a/20-149715"
+    },
+    {
+     "claim": "The National Archives says exam tasks from 1874 to 1969 are digitised and freely available in Astia. For 1944 onward, copyright-restricted material such as poems has been removed. Most of the YTL archive carries use restrictions. This was read in a search summary only. It shows only old, third-party-cleaned tasks are open, and they are not useful for the 2019 curriculum.",
+     "confidence": "likely",
+     "source_url": "https://portti.kansallisarkisto.fi/fi/aineisto-oppaat/ylioppilastutkintolautakunta"
+    },
+    {
+     "claim": "The S2 exam structure was not found in the primary pages read. S2 appears under Äidinkieli ja kirjallisuus in the YTL menu, and whether it has its own hyvän vastauksen piirteet document is unconfirmed.",
+     "confidence": "unverified"
+    }
+   ],
+   "recommendations": [
+    "Do not copy past exam tasks into CC BY material. Link to the tasks on ylioppilastutkinto.fi, Examina and Abitreenit, and cite the session and date read, as CLAUDE.md rule 4 requires.",
+    "Write original practice tasks in the same task types: material-based essays, concept definitions, true/false sets, and rubric-graded model answers. Use the official rubric dimensions (for psykologia: subject knowledge, information processing, application and evaluation) only as described, not copied.",
+    "Before any reuse of YTL text beyond linking, e-mail lautakunta@ylioppilastutkinto.fi for a written answer on CC BY compatibility, and read the Examina terms of use, which I could not read.",
+    "Never include real candidate answers. If sample answers are needed, write synthetic ones.",
+    "Consider releasing practice exams in Abitti-compatible MEX or zip form using the open exam-engine, without using the name 'Abitti' as a brand. Check the engine's licence first, which I did not read.",
+    "For the critic: YTL exam reuse does not lower the CC BY need in terveystieto or psykologia, because past exams cannot be redistributed. Original, rubric-graded practice material is therefore an open gap in both subjects.",
+    "Re-check the psykologia structure after autumn 2026, because the planned change may already be in force. Read the S2 structure from ylioppilastutkinto.fi directly."
+   ],
+   "versus_expected": "The brief's unknown 'past YTL exams may be reusable' is refined to mostly no. YTL claims the questions themselves carry no copyright and offers teachers a login-gated copy right in Examina. No open licence exists, third-party material inside exams is the publisher's responsibility, and everything else is all rights reserved. The right model is link plus original material, so the reuse route does not shift the ranking of need. Exam structure supports the expectation that psykologia and terveystieto need graded exercises with model answers and material-based tasks aligned to the digital exam. The S2 structure is not confirmed."
+  },
+  {
+   "key": "international-bases",
+   "summary": "The one international base that fits terveystieto and psykologia is OpenStax, and it is NC-SA, not CC BY. OpenStax's own pages now say its textbooks are CC BY-NC-SA, and Psychology 2e carries CC BY-NC-SA 4.0. A Finnish adaptation therefore has to stay non-commercial and share-alike, and cannot be released as CC BY. Whether that fits the project's goal is the operator's decision. Most other bases are also restricted. OpenLearn and WHO are NC-SA. The Siyavula Grade 10 Physical Sciences book I found is CC BY-ND, which bars adaptation. CK-12 uses its own non-commercial licence. Digilär is a commercial publisher's product. Wikibooks is CC BY-SA, but I did not look for health or psychology titles. NDLA is probably CC BY-SA, which would allow adaptation, but I could not confirm it from its own site. NDLA has no lukio-type health or psychology subject, only vocational health work. LibreTexts is mixed per page. For psykologia, Psychology 2e covers a lot of PS1-type content (unconfirmed, because I could not read the PS1 wording). For terveystieto, no single international base fits TE1/TE2/TE3. The Finnish-specific parts (services, law, culture, THL recommendations) must be written fresh in both subjects.",
+   "findings": [
+    {
+     "claim": "OpenStax Psychology 2e is licensed CC BY-NC-SA 4.0. The licence line on the page and the footer both say so, with the attribution 'Access for free at openstax.org'. So a Finnish adaptation must be non-commercial and share-alike, not CC BY.",
+     "confidence": "verified",
+     "source_url": "https://openstax.org/books/psychology-2e/pages/1-introduction"
+    },
+    {
+     "claim": "OpenStax's help centre says its textbooks are published under CC BY-NC-SA. The terms are: credit OpenStax, no commercial use, adaptations under the same licence. Commercial use goes through a reuse request form. I read one licensing article that said one licence for all books. A search summary mentioned a different help page claiming a CC BY / NC-SA mix, which I did not read. My own memory of OpenStax as mostly CC BY 4.0 is contradicted by the pages read and is probably out of date. Biology, Chemistry, Physics, Statistics and US History were not checked one by one: the FAQ page claims one licence for all content, but I could not open the per-book pages, so they are unverified.",
+     "confidence": "verified",
+     "source_url": "https://help.openstax.org/s/article/Licensing-information-of-OpenStax-textbooks"
+    },
+    {
+     "claim": "The OpenStax FAQ says all content is CC BY-NC-SA and that adapting is allowed. It does not say 'translation' explicitly, though a search summary of another OpenStax help article says translating is permitted. The FAQ page did not mention third-party images, so the licences of individual images must be checked.",
+     "confidence": "likely",
+     "source_url": "https://openstax.org/faq"
+    },
+    {
+     "claim": "Psychology 2e has 16 chapters: Introduction to Psychology, Psychological Research, Biopsychology, States of Consciousness, Sensation and Perception, Learning, Thinking and Intelligence, Memory, Lifespan Development, Motivation and Emotion, Personality, Social Psychology, Industrial-Organizational Psychology, Stress Lifestyle and Health, Psychological Disorders, Therapy and Treatment. It is built for a one-semester US college course. The 2e text covers DSM-5-TR in its discussion of psychological disorders.",
+     "confidence": "verified",
+     "source_url": "https://openstax.org/books/psychology-2e/pages/preface"
+    },
+    {
+     "claim": "OPH's terveystieto support page gives TE1 'Terveys voimavarana' (2 op) with these core contents: wholeness of health; nutrition, exercise, sleep, sexuality, mental health and study wellbeing seen as resources; study stress and burnout. TE2 'Terveys ja ympäristö' covers health information and thinking biases, healthy and safe environments, and addictions. TE3 'Terveys ja yhteiskunta' covers history and future of health promotion, communicable vs non-communicable disease, and ethics. The page gave no module-specific objectives, so the objective text was not read.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali"
+    },
+    {
+     "claim": "The OPH psychology support page confirms that psychology modules have objectives and core contents, but the page itself does not list PS1's name or contents. A search snippet from a school curriculum calls PS1 'Toimiva ja oppiva ihminen' (2 op), while the brief-side name 'Psyykkinen toiminta ja oppiminen' could not be matched. The PS1 title and content must be read from the LOPS 2019 PDF, section 6.12, before any mapping is claimed.",
+     "confidence": "unverified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/psykologian-tukimateriaalit"
+    },
+    {
+     "claim": "Likely mapping of Psychology 2e to PS1: chapters Learning, Memory, Thinking, Sensation and Perception, Biopsychology, Lifespan Development and Motivation and Emotion likely overlap PS1-type content (learning, cognition, development, consciousness). This is an inference from chapter titles, because the PS1 wording was not read. The Stress, Lifestyle and Health chapter overlaps TE1 study stress and burnout but is a US college text.",
+     "confidence": "likely",
+     "source_url": "https://openstax.org/books/psychology-2e/pages/preface"
+    },
+    {
+     "claim": "OpenLearn content owned by the Open University is CC BY-NC-SA 4.0 unless otherwise stated. The OU says you may translate, modify and reformat it. Charging is limited to cost recovery. Third-party extracts (images, quotations, interviews) are listed in each course's acknowledgements and cannot be modified or used standalone. Exceptions are listed per course.",
+     "confidence": "verified",
+     "source_url": "https://www.open.edu/openlearn/about-openlearn/frequently-asked-questions-on-openlearn"
+    },
+    {
+     "claim": "WHO publications under CC BY-NC-SA 3.0 IGO may be translated and adapted non-commercially. Adaptations must carry a disclaimer that WHO did not create them, and must be licensed under the same or similar terms. Commercial use needs WHO's permission. WHO lists CC BY-NC-SA 3.0 or 4.0 as similar alternatives. WHO classifications such as ICD and ICF are CC BY-ND (adaptation barred), per a search summary only.",
+     "confidence": "verified",
+     "source_url": "https://www.who.int/about/policies/publishing/copyright"
+    },
+    {
+     "claim": "UNESCO's 2013 open access policy requires its publications to be CC BY-SA 3.0 IGO, so UNESCO texts are share-alike and adaptable. A World Heritage Centre page lists CC BY-NC-SA 3.0 IGO instead, so the licence must be read per publication. I could not read UNESCO's own policy page (404), so this rests on Creative Commons and third-party summaries.",
+     "confidence": "likely",
+     "source_url": "https://creativecommons.org/2013/12/18/unesco-launches-open-access-repository-under-creative-commons/"
+    },
+    {
+     "claim": "Wikibooks text is mainly CC BY-SA 4.0 and GFDL. Reuse requires attribution, share-alike and an indication of changes. The page does not bar commercial use. I did not survey Wikibooks for lukio-level health or psychology titles, so coverage is unknown.",
+     "confidence": "verified",
+     "source_url": "https://en.wikibooks.org/wiki/Wikibooks:Copyrights"
+    },
+    {
+     "claim": "CK-12 has moved from CC BY-NC 3.0 to its own 'CK-12 Curriculum Materials License'. Its help centre says you cannot use CK-12 content to make money, and non-educational use needs written permission. The licence text itself returned 403, so details on derivatives and translation are unread. This is not a CC licence and not a clean fit for the project.",
+     "confidence": "likely",
+     "source_url": "https://help.ck12.org/hc/en-us/articles/50990257420955-CK-12-Materials-License"
+    },
+    {
+     "claim": "Siyavula's licences are mixed. The site says 'closed copyright, all rights reserved' for its own pages. A Grade 10 Physical Sciences learner book carries CC BY-ND 3.0 (no adaptation), per a search summary of its copyright page. The Grade 8 and 9 books carry CC BY epub variants. Its subjects are Mathematics, Physical Sciences, Life Sciences Grade 10 and some others, none of them health or psychology. I did not read the copyright page of any book directly.",
+     "confidence": "unverified",
+     "source_url": "https://www.siyavula.com/features"
+    },
+    {
+     "claim": "NDLA (Norway) was described by a Creative Commons case study as licensed CC BY-SA, which would allow adaptation. I could not read NDLA's own licence page (404), so the licence is unverified, and a search snippet from an NDLA flyer mentioned CC BY-ND for something, so the licence may vary per resource. NDLA's health section (Helse- og oppvekstfag) lists only vocational subjects such as Helsefremmende arbeid and Kommunikasjon og samhandling, and no psychology subject. It is a vocational, Norwegian-curriculum resource, not a lukio-type health or psychology base. NDLA is in Norwegian, so it would be a closer language base than English, but Norwegian health services differ from Finnish ones.",
+     "confidence": "unverified",
+     "source_url": "https://wiki.creativecommons.org/Case_Studies/Norwegian_National_Digital_Learning_Arena"
+    },
+    {
+     "claim": "Digilär redirects to nok.se (Natur & Kultur, a commercial Swedish publisher). It is a commercial product and not an open base. I did not find a Skolverket open textbook for health or psychology.",
+     "confidence": "likely",
+     "source_url": "https://www.nok.se/digilar"
+    },
+    {
+     "claim": "LibreTexts is mixed per page. A LibreTexts back-matter page lists each source with its own licence, and the book-level label is the most restrictive used (CC BY-NC-SA 4.0 in the example read via search). A LibreTexts disclaimer says most but not all pages allow changes, so each page's licence must be checked. I could not read LibreTexts's licensing page (404).",
+     "confidence": "likely",
+     "source_url": "https://socialsci.libretexts.org/Courses/University_of_California_Irvine/Positive_Psychology/zz%3A_Back_Matter/21%3A_Detailed_Licensing"
+    }
+   ],
+   "recommendations": [
+    "Ask the operator whether NC-SA is acceptable. If the project's target is CC BY, OpenStax, OpenLearn and WHO can be used only as inspiration (facts and structure) and not as translated text, because a translation would inherit NC-SA. If NC-SA is acceptable, Psychology 2e is the best base, but the site would be non-commercial and share-alike.",
+    "Check the per-book licence pages for OpenStax Biology 2e, Chemistry 2e, University Physics, Introductory Statistics and US History directly before any planning, since only Psychology 2e was read here.",
+    "For terveystieto, do not plan a translation. No international base maps to TE1 to TE3. Plan to write fresh, using THL, WHO and UNESCO facts with their licences checked per item. WHO facts can be restated in original wording without NC-SA obligations, because facts are not copyrightable, but this is a legal question for the operator.",
+    "Everything Finnish must be written fresh in both subjects: health services (terveyskeskus, opiskelijaterveydenhuolto, Mielenterveystalo), law (Finnish rules on consent, substances), culture and statistics (Kouluterveyskysely). Cite THL and Opintopolku with read dates under CLAUDE.md rule 4.",
+    "Read the LOPS 2019 PDF section on psychology (6.12) and health education to record exact PS1 and TE1 wording before mapping any base to objectives.",
+    "Read NDLA's own licence page and a few real resources if a Nordic base is wanted, and search Wikibooks for psychology and health titles. Both gaps remain open here."
+   ],
+   "versus_expected": "The brief expected an English CC BY base for psykologia (OpenStax Psychology 2e) making psykologia the cheapest to build. Refined, partly wrong: the base exists and covers a lot, but it is CC BY-NC-SA 4.0, not CC BY, so the output would inherit NC-SA. That makes psykologia cheaper to write but not cheap to release under the project's CC BY aim. The brief also expected terveystieto to need the most fresh writing: this is confirmed, since no international base matched TE1 to TE3 and the Finnish-specific parts must be written fresh. The searches found no gap-filling base from the Nordic countries."
+  }
+ ],
+ "critic": {
+  "gaps": [
+   "Students affected is measured with exam registrations, which is the wrong main measure for compulsory modules. ePerusteet (LOPS 2019, peruste 6828810, read 2026-11-21) marks TE1 and PS1 as compulsory (pakollinen=true), so every new lukio student takes both: about 38,300 a year (Tilastokeskus 2025). Reach for TE and PS is therefore equal. Exam figures only show how many go further.",
+   "My reading of the YTL PDF changes the terveystieto growth story. Registrations were 13,514 in 2017, fell to 9,021 in 2023 and rose to 14,567 in 2026. The '61 % growth since 2023' is a recovery to the 2017 level, not new growth.",
+   "Contradiction on S2 commercial material. The commercial researcher found no dedicated lukio S2 textbook, but the open-materials researcher saw a Peda.net list naming e-Oppi 'Valoa' for S2. Neither read the e-Oppi page. OPH Oppimateriaalit also says it makes S2 material, but gives no level. So 'no market for S2' is likely, not verified.",
+   "The small subjects in ePerusteet are bigger than the brief lists. The mother-tongue syllabi Saame, Viittomakieli and Romanikieli ja kirjallisuus each have 11 modules (18 op). YTL has no Romani or sign-language exam, and the Sámi exams have 3 to 14 registrations a year.",
+   "No lukio student counts per subject exist for S2, the religions, Sámi, Romani or sign language (Vipunen returned 403). Fairness and reach scores for these groups rest on exam proxies and estimates.",
+   "No digital licence prices were read, which leaves the provider-cost criterion as an estimate. The Eduskunta slides give 60.2 M EUR and 56.8 M EUR for lukio materials in the same PDF, and 1,218 EUR per student is a 2020 forecast, not an outturn.",
+   "AOE subject tags look noisy. The Turku futures-guidance tools are tagged elämänkatsomustieto as well as opinto-ohjaus, and the essay guide carries 17 subjects. 'Specific' (two or fewer tags) is the researcher's own heuristic. The AOE total of 5,462 is verified, but the per-subject counts were not re-run by me.",
+   "Practical subjects (liikunta, musiikki, kuvataide) score high on 'no open material', but they depend little on text material: Turku lists 'Ei oppikirjaa' for MU and KU. A textbook-dependence flag is needed, or they rank falsely high.",
+   "The OpenStax licence picture is not fully settled. Psychology 2e is NC-SA (I verified this), but other OpenStax books were not checked one by one, and one help page reportedly says some books are CC BY.",
+   "Not read: the Finlex statute 1214/2020, the Examina terms of use, the S2 exam structure, the Sanoma Pro, Edita and Studeo catalogues, Vapaa matikka and avoinoppikirja.fi, NDLA's licence page, and the YTL news on the autumn-2026 psychology structure (likely in force by now).",
+   "OPH funding for Sámi, Romani and sign-language lukio material is unknown (none found). That is the unknown that decides answer (c) for those groups.",
+   "Legal question for the operator: can facts from NC-SA sources (OpenStax, WHO, OpenLearn) be restated in original Finnish wording and released as CC BY? The researchers treat this as allowed because facts are not copyrightable, but that is a legal judgement."
+  ],
+  "spot_checks": [
+   {
+    "claim": "OpenStax Psychology 2e is CC BY-NC-SA 4.0, not CC BY",
+    "result": "Verified. The page licence line names the Attribution-NonCommercial-ShareAlike licence, and the footer says CC BY-NC-SA 4.0.",
+    "url": "https://openstax.org/books/psychology-2e/pages/1-introduction"
+   },
+   {
+    "claim": "YTL registrations 2026: psykologia 12,732 (spring 7,437), terveystieto 14,567 (spring 6,696), S2 3,556, ortodoksinen uskonto 45; 2023: PS 10,963, TE 9,021, S2 2,367, ORT 49",
+    "result": "Verified by extracting the text of the YTL PDF (stamped 19.08.2026) myself. Every figure matches. New finding: terveystieto was 13,514 in 2017, so 2026 is a recovery.",
+    "url": "https://tiedostot.ylioppilastutkinto.fi/ext/stat/FS2026A2017T2010.pdf"
+   },
+   {
+    "claim": "YTL exam questions are official statements without copyright, third-party material must be cleared by the publisher, candidate answers are secret, and there is no CC licence",
+    "result": "Verified. The page cites Copyright Council statement 2020:4, classes candidate answers as secret, mentions no CC licence and has the footer 'Kaikki oikeudet pidätetään'.",
+    "url": "https://www.ylioppilastutkinto.fi/fi/tietopalvelut/koesuoritusten-ja-koetehtavien-julkaiseminen-ja-opetuskaytto"
+   },
+   {
+    "claim": "OPH Oppimateriaalit makes material for small groups including lukio Orthodox and Islam religion; about one third is funded by price support; no open licence",
+    "result": "Verified. The page also mentions S2 and Swedish-as-second-language teaching material. Sámi, Romani and sign language appear only in the navigation, and the only copyright line is © Opetushallitus.",
+    "url": "https://www.oph.fi/fi/uutiset/2025/opetushallitus-tuottaa-oppimateriaaleja-pienten-kohderyhmien-tarpeisiin"
+   },
+   {
+    "claim": "AOE holds 5,462 materials",
+    "result": "Verified by a POST to the public search API, which returned hits=5462. I did not re-run the per-subject licence counts.",
+    "url": "https://aoe.fi/api/v2/search"
+   },
+   {
+    "claim": "Otava has a terveystieto series (Polku) and a psykologia series (Oivallus), and no ET or S2 series",
+    "result": "Verified on the Otava lukio catalogue page.",
+    "url": "https://oppiminen.otava.fi/tuotteet/lukio/"
+   },
+   {
+    "claim": "Module counts for task (d) and the PS1 name (unverified in the international researcher's report)",
+    "result": "Verified from the ePerusteet API for LOPS 2019 (peruste 6828810). Across all syllabi there are 362 modules and 690 op. PS1 is 'Toimiva ja oppiva ihminen' (compulsory) and TE1 is 'Terveys voimavarana' (compulsory). PS has 5 modules and TE has 3. Each religion has 6 modules, 2 of them compulsory.",
+    "url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/lops2019/oppiaineet"
+   }
+  ],
+  "versus_expected": [
+   {
+    "aspect": "1. Need is greatest where the market fails, not where most students are",
+    "verdict": "right",
+    "note": "Supported. The subjects with no commercial series found (S2, small religions, Sámi, Romani, sign language) also have almost no open material. One caveat: the reach-weighted ranking still puts the compulsory subjects TE and PS near the top."
+   },
+   {
+    "aspect": "2. Terveystieto ranks high",
+    "verdict": "refined",
+    "note": "It ranks high on reach (TE1 compulsory, 14,567 exam registrations in 2026), dating and misinformation. The market is not failing, though: Otava Polku, Sanoma Terve and Edita Syke make three series. Its need comes from content dating and open-material gaps (one TE1 shell, CC BY-SA), not from a missing market."
+   },
+   {
+    "aspect": "3. Psykologia has less need, and OpenStax CC BY makes it cheapest",
+    "verdict": "wrong",
+    "note": "Psychology 2e is CC BY-NC-SA 4.0, so a translation cannot be released as CC BY. Psykologia also has zero psychology-only open items in AOE and only two commercial series, so its need is about equal to terveystieto's, not lower."
+   },
+   {
+    "aspect": "4. Direst need is S2 and the small subjects",
+    "verdict": "refined",
+    "note": "S2 holds as the top need: 3,556 registrations growing about 50 %, 11 modules, almost no open or commercial material. Orthodox and Islam lukio material is now produced by OPH (priced, not open), so those two drop to mid-table. Sámi, Romani and sign language have the widest gap per student, but the groups are tiny and machine writing is a poor fit for them."
+   },
+   {
+    "aspect": "5. Full curriculum is about 20 subjects, a few hundred modules, about 35 times opinto-ohjaus",
+    "verdict": "refined",
+    "note": "ePerusteet counts 362 modules and 690 op across all syllabi. A realistic majority set is about 22 subject syllabi, 130 modules and 246 op. By op that is about 60 times opinto-ohjaus for the majority set and about 170 times for everything, so 35 times is an underestimate. The other build needs listed (expert review, graded exercises, formulas, audio, media licensing) stand."
+   },
+   {
+    "aspect": "6. Unknowns: OPH funding, free materials shifting cost, YTL reuse",
+    "verdict": "refined",
+    "note": "OPH does fund small-group material (Orthodox and Islam in lukio, S2 at an unclear level), but it is priced and not open. Providers pay since 2021, about 60 M EUR a year by the 2020 forecast (statute not read). Past YTL exams are not reusable in CC BY material: the questions carry no copyright, but third-party content does and the site is all rights reserved. Link to them and write original tasks."
+   }
+  ],
+  "proposal": [
+   {
+    "task": "a",
+    "title": "Need ranking with shown scoring",
+    "detail": "Each criterion is scored 0 to 3, equal weights, maximum 18. Basis per criterion:\n- R, reach (measured): compulsory modules from ePerusteet plus YTL 2026 registrations. 3 = a compulsory module for all and a large exam; 0 = exam under 50 and no compulsory reach.\n- O, open-material gap (measured): AOE 'specific' CC BY/BY-SA items. 3 = none, or only cross-subject items.\n- M, market weakness (partly measured, from Otava's page and school lists; Sanoma, Edita and Studeo not read). 0 = 2 or more series; 3 = none found.\n- D, dating speed (estimate).\n- C, provider cost (estimate: modules times students on paid licences; no prices found).\n- F, fairness to S2 and minority groups (estimate).\n\nScores, given as R O M D C F = total:\n- S2: 2 3 2 1 2 3 = 13. M is 2 because e-Oppi Valoa and OPH S2 material are unconfirmed.\n- Small religions without OPH material (katolinen, juutalainen, buddhalainen, bahá'í, krishna): 0 3 3 1 0 3 = 10.\n- Saame, romani and viittomakieli mother-tongue syllabi: 0 3 3 1 0 3 = 10.\n- Terveystieto: 3 2 0 3 1 1 = 10.\n- Psykologia: 3 3 1 1 1 1 = 10.\n- Ortodoksinen and islam: 1 3 2 1 0 3 = 10, then 9 after OPH's priced material (M down to 1).\n- Yhteiskuntaoppi: 3 1 0 3 1 1 = 9.\n- Elämänkatsomustieto: 1 2 2 1 1 2 = 9 (single commercial series).\n- Äidinkieli fi: 3 1 0 1 3 1 = 9.\n- Filosofia: 2 3 1 0 1 1 = 8 (FI1 and FI2 compulsory).\n- Matematiikka: 3 1 0 0 3 1 = 8.\n- Biologia: 3 2 0 2 1 0 = 8.\n- Vieraat kielet and ruotsi: 3 1 0 1 3 0 = 8.\n- Liikunta: 3 3 2 0 0 0 = 8, flagged as low textbook dependence.\n- Ev.lut. uskonto: 2 3 0 1 1 0 = 7.\n- Opinto-ohjaus: 3 0 1 2 0 1 = 7 (own site exists).\n- Historia: 3 1 0 1 1 0 = 6.\n- Maantiede: 2 1 0 2 1 0 = 6.\n- Musiikki and kuvataide: 2 2 2 0 0 0 = 6, flagged.\n- Fysiikka: 2 1 0 0 1 0 = 4.\n- Kemia: 2 1 0 0 1 0 = 4.\n\nSensitivity:\n- With R doubled, S2 15, TE 13, PS 13, YH 12, ÄI 12, and the small groups fall to 10 or below.\n- With F removed, S2 10, TE 9, PS 9, YH 8.\n- S2 stays first in every variant, and TE and PS stay tied.\n\nWhich inputs are measured:\n- Measured: YTL registrations, compulsory flags and module counts (ePerusteet), AOE counts (researcher's numbers; I verified the total), Otava series.\n- Estimated: D, C, F, Sanoma/Edita/Studeo coverage, and all lukio enrolment per subject.",
+    "sources": [
+     "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/lops2019/oppiaineet",
+     "https://tiedostot.ylioppilastutkinto.fi/ext/stat/FS2026A2017T2010.pdf",
+     "https://aoe.fi/api/v2/search",
+     "https://oppiminen.otava.fi/tuotteet/lukio/",
+     "https://stat.fi/fi/julkaisu/cmg4oug0agcjz07w7xkgzu8np",
+     "https://www.oph.fi/fi/uutiset/2025/opetushallitus-tuottaa-oppimateriaaleja-pienten-kohderyhmien-tarpeisiin"
+    ]
+   },
+   {
+    "task": "b",
+    "title": "Terveystieto or psykologia: terveystieto, narrowly",
+    "detail": "On need they tie (10 each).\n\nWhere they are equal or split:\n- Both have one compulsory 2 op module that every student takes.\n- Psykologia has less open material: zero psychology-only items, against one CC BY-SA TE1 shell for terveystieto.\n- Terveystieto has more commercial series: three, against two.\n\nThree reasons tip it to terveystieto:\n- Its content dates fastest (recommendations, substances, sexual health, services, law), and students meet health misinformation daily.\n- It is the larger and fastest-growing exam: 14,567 registrations against 12,732 in 2026.\n- It is buildable from free public Finnish sources (THL, Ruokavirasto, UKK, Mielenterveystalo), restated in original words. That fits the CC BY aim and the site's existing wellbeing and study-stress themes.\n\nPsykologia's supposed advantage is gone. OpenStax Psychology 2e is CC BY-NC-SA, so translating it would make the output NC-SA, not CC BY. Psykologia would need fresh writing too.\n\nPsykologia is the natural second subject. TE1 study wellbeing and PS4 'Tunteet ja mielenterveys' overlap.",
+    "sources": [
+     "https://openstax.org/books/psychology-2e/pages/1-introduction",
+     "https://tiedostot.ylioppilastutkinto.fi/ext/stat/FS2026A2017T2010.pdf",
+     "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali"
+    ]
+   },
+   {
+    "task": "c",
+    "title": "Are S2 and the small subjects the direst need once OPH is counted?",
+    "detail": "S2: yes, still the top need.\n- 3,556 exam registrations in 2026, up from 2,367 in 2023, with lukio enrolment unknown and likely higher.\n- 11 modules, the same size as äidinkieli.\n- Only two open 2020 module packages (S21, S22) exist.\n- OPH Oppimateriaalit names S2, but its stated focus is basic education and its products are priced, not open.\n\nOrthodox and Islamic religion: no longer the direst. OPH now makes lukio material for both (priced, licence not stated). The need that remains is openness and adaptability, not absence.\n\nCatholic, Jewish, Buddhist, bahá'í and Krishna religion: nothing found from OPH, publishers or AOE. But the groups are so small that YTL does not list them as exam rows.\n\nSámi, Romani and sign-language mother-tongue syllabi (11 modules each): the gap per student is the widest, but OPH funding for them is unknown. CC BY material written by machine is the wrong tool here. These need native-speaker authors and community bodies (for example Saamelaiskäräjät and the Romani and Deaf communities), which is beyond this project's model.\n\nIn short, S2 is the direst need this project can serve. The smallest groups are direst per student, but only partly within reach.",
+    "sources": [
+     "https://www.oph.fi/fi/uutiset/2025/opetushallitus-tuottaa-oppimateriaaleja-pienten-kohderyhmien-tarpeisiin",
+     "https://tiedostot.ylioppilastutkinto.fi/ext/stat/FS2026A2017T2010.pdf",
+     "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/lops2019/oppiaineet"
+    ]
+   },
+   {
+    "task": "d",
+    "title": "What a full lukio curriculum of open material would take",
+    "detail": "Module count from the ePerusteet API (LOPS 2019, read 2026-11-21):\n- 362 modules and 690 op across all syllabi. That includes 7 mother-tongue syllabi of 11 modules each, 8 religions of 6 each, about 20 language syllabi of 7 to 8 each, and 8 lukiodiplomi modules.\n- A majority set of about 130 modules and 246 op: ÄI fi, S2, RUB1, ENA, MAA, MAB, MAY1, BI, GE, FY, KE, FI, PS, HI, YH, UE, ET, TE, LI, MU, KU and OP.\n\nScaling from the opinto-ohjaus site (4 op, about 78 agents, 10 M tokens):\n- The majority set is about 62 times that: about 4,800 agents and 600 M tokens.\n- All syllabi are about 170 times: about 13,000 agents and 1.7 B tokens.\n- Subject content is denser than guidance: graded exercises with model answers, formulas, figures. Multiply by about 1.5 to 2, giving roughly 0.9 to 1.2 B tokens for the majority set.\n\nHuman work:\n- One subject-expert review per syllabus: about 22 for the majority set, about 40 or more for all.\n- A medical or factual check for TE, PS and BI.\n- Native speakers for the language and Sámi, Romani and sign-language syllabi.\n\nTechnical needs:\n- Math markup for MA, FY and KE.\n- Audio for languages.\n- Media licensing per image.\n- Exam-style practice tasks, optionally exported in the open MEX format without the Abitti brand.\n\nThe €0 metered limit means this runs on subscription capacity over many briefs. A realistic order is subject by subject, not a single build. These are estimates by analogy.",
+    "sources": [
+     "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/lops2019/oppiaineet",
+     "https://digabi.fi/abitti-trademark.html"
+    ]
+   },
+   {
+    "task": "e",
+    "title": "Pilot: terveystieto TE1 'Terveys voimavarana' (2 op, compulsory)",
+    "detail": "Scope:\n- TE1 only, about half the size of the opinto-ohjaus site: around 8 to 9 topics, estimated 40 agents and about 5 M tokens.\n- Topics follow the TE1 core contents: wholeness of health; nutrition, exercise, sleep, sexuality and mental health as resources; study wellbeing; stress and burnout.\n- Each topic works both as a lesson and as a self-study step.\n- Each topic has original exam-style tasks (concept definitions, a material-based task, an essay with a rubric) and synthetic model answers.\n\nSources to build on:\n- The ePerusteet TE1 objectives and contents, cited.\n- THL: Kouluterveyskysely, and links to recommendations.\n- Ruokavirasto nutrition recommendations, UKK physical-activity recommendations, Mielenterveystalo, Nyyti.\n- OPH TE support material and YTL TE exams: linked, not copied.\n- AOE TE1 by Schildtin lukio: CC BY-SA, so read for gaps only, not copied.\n- WHO facts, restated in original words.\n\nExpert review:\n- A qualified terveystieto teacher for curriculum fit and the exam tasks.\n- A health professional (physician or public-health nurse) for factual accuracy.\n- An inclusivity check of the sexuality and mental-health topics.\n\nWhat would prove it useful:\n- A checker maps every TE1 objective and content area to a topic, with zero gaps.\n- The reviewers find no factual errors left after fixes.\n- Two or three teachers outside the project teach at least one lesson and say they would reuse it.\n- A small student self-study trial finishes the path.\n- The material is uploaded to AOE as CC BY 4.0.\n- Actual agents and tokens are measured against the estimate to recalibrate task (d).\n\nOptional second track for fairness: one S2 module (S23 onward, which nothing open covers), but only if an S2 teacher reviewer can be found first.",
+    "sources": [
+     "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/lops2019/oppiaineet",
+     "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali",
+     "https://www.ylioppilastutkinto.fi/fi/tietopalvelut/koesuoritusten-ja-koetehtavien-julkaiseminen-ja-opetuskaytto",
+     "https://aoe.fi/api/v2/search"
+    ]
+   }
+  ]
+ }
+}
