@@ -1,0 +1,26 @@
+[project]
+name = "lukion-opinto-ohjaus"
+version = "0.1.0"
+description = "Static site builder for the lukion opinto-ohjaus guidance backbone"
+requires-python = ">=3.13"
+dependencies = ["Markdown>=3.5", "PyYAML>=6.0"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.5"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 160
+target-version = "py313"
+extend-exclude = ["_site", "tmp"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "SIM", "C4", "RUF"]
+ignore = ["RUF001", "RUF002", "RUF003"]  # Finnish text and typographic characters are intended
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["E501"]

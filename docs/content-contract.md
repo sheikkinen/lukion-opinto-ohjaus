@@ -74,3 +74,16 @@ click, a "Tyhjennä tietoni" button, a warning about shared computers, a plain l
 
 No external requests, self-hosted fonts or system fonts, reflow at 320 px, AA contrast in light and dark themes,
 correct heading order, and every page readable without JavaScript.
+
+## Addendum 2026-11-21 (pipeline and site builder)
+
+Added by the builder of brief 002; nothing above was changed.
+
+- `curriculum` in a topic may be a list of codes or a list of `{code, kind, eperusteet_id}` mappings. The build reads the code only.
+- A topic's file name is `NN-slug.md`, its `id` must be `<module in lower case>-NN-slug` and its pages are written to `/<module>/NN-slug/` and `/<module>/NN-slug/tunti/`.
+- `## Lähteet` is generated. A topic file may leave it out (preferred) or end with it; its text is ignored. The `Tuntisuunnitelma` heading must state the length, `## Tuntisuunnitelma (75 min)`; variants are `### 60 min`, `### 45 min`, `### 90 min`. Each plan is a table with a `Min` column; a row whose cells contain "Yhteensä" is not counted; a range such as `5-10` fails. Every length in `duration_options` needs a plan.
+- Yearly figures: a date (`1.12.`, `5.6.2027`, `1. joulukuuta`), a year from 2025 on, a euro amount or a percentage outside a link in a topic's body fails the build when the topic lists `yearly_facts`, and is a warning when it does not. Link text, link addresses, code spans and the generated Lähteet are not scanned. An entry in `data/yearly-facts.yaml` may carry an optional `stable_figures: ["1.12.", "5.6."]` list of figures that are exempt for topics that cite that fact.
+- An external Markdown link in a topic or page body must also appear in that file's `official_links` (which carries the read date), or in the `url` of a cited yearly fact.
+- Static pages in `content/pages/*.md` take the same `official_links` front matter, which is shown on `/lahteet/`. Block tokens alone on a line (`{{doors}}`, `{{path_list}}` and others) are replaced by generated HTML; inline tokens are `{{curriculum_checked}}`, `{{curriculum_published}}` and `{{topic_count}}`.
+- Warnings, not failures: `Opiskelijalle` outside 300-600 words, `Tehtävät` without 1-3 `###` tasks, a plan length not listed in `duration_options`.
+- `python -m pipeline.build --partial` (development only) turns uncovered codes, missing `data/yearly-facts.yaml` and unknown prerequisites into warnings. CI runs the build without it. `LOO_TODAY=YYYY-MM-DD` sets the date used for the 12-month link age check.

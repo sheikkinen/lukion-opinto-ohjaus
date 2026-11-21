@@ -1,0 +1,114 @@
+# Vuosittain muuttuvat tiedot. Aiheet linkittävät näihin eivätkä kopioi lukuja.
+# read = päivä, jolloin sivu avattiin. note = mitä ei voitu varmistaa.
+facts:
+  - key: ytl_exam_dates
+    rule: Ylioppilastutkinnon koepäivät vahvistaa Ylioppilastutkintolautakunta erikseen kutakin koetta ja tutkintokertaa varten, joten päivät katsotaan aina lautakunnan sivulta.
+    url: https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/koepaivat
+    publisher: Ylioppilastutkintolautakunta
+    read: 2026-11-21
+  - key: ytl_enrolment_deadline
+    rule: Ylioppilaskokeisiin ilmoittaudutaan oman lukion kautta, ilmoittautuminen on sitova, ja koulu voi asettaa sisäisen määräajan lautakunnan määräaikaa aikaisemmaksi.
+    url: https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/ilmoittautuminen
+    publisher: Ylioppilastutkintolautakunta
+    read: 2026-11-21
+  - key: ytl_fees
+    rule: Ylioppilaskokeista peritään tutkintomaksuja, ja niiden suuruus vahvistetaan erikseen, joten maksut katsotaan lautakunnan maksusivulta.
+    url: https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/ilmoittautuminen/tutkintomaksut
+    publisher: Ylioppilastutkintolautakunta
+    read: 2026-11-21
+    note: Sivu avattiin. Sivun mukaan kokeiden uusimisen maksut ovat uusimissivulla, jota ei avattu tässä ajossa.
+  - key: ytl_rules_changes
+    rule: Ylioppilastutkinnon säännöt, koejärjestelmä ja kokeet voivat muuttua uudistusten myötä, joten tuoreimmat muutokset luetaan lautakunnan omilta sivuilta.
+    url: https://www.ylioppilastutkinto.fi/fi/tietopalvelut/tietoa-ylioppilastutkinnosta
+    publisher: Ylioppilastutkintolautakunta
+    read: 2026-11-21
+    note: Osoite https://www.ylioppilastutkinto.fi/fi/ylioppilastutkinto ohjautuu nykyään tähän tietopalvelusivuun. Sivu avattiin, mutta yksittäisiä uudistuksia (esimerkiksi englannin kokeen muutosta) ei vahvistettu siitä. Vain etusivu linkitetään.
+  - key: joint_application_windows
+    rule: Yhteishakujen hakuajat vaihtelevat vuosittain, ja ne katsotaan Opintopolun hakuaikataulusivulta.
+    url: https://opintopolku.fi/konfo/fi/sivu/hakuaikataulut
+    publisher: Opetushallitus (Opintopolku)
+    read: 2026-11-21
+    note: Opintopolku on JavaScript-sovellus. Etusivu avattiin selaimella (Chrome), ja hakuaikataulut-sivu näkyi sen valikon linkkinä, mutta sivun omaa sisältöä ei avattu. Varalinkki on etusivu https://opintopolku.fi/konfo/fi/.
+  - key: admission_results_dates
+    rule: Valintojen tulosten julkistamisajat vaihtelevat haun mukaan, ja ne löytyvät Opintopolusta ja kunkin haun tiedoista.
+    url: https://opintopolku.fi/konfo/fi/sivu/hakuaikataulut
+    publisher: Opetushallitus (Opintopolku)
+    read: 2026-11-21
+    note: Sama varmennus kuin joint_application_windows. Tulossivua (korkeakoulujen-yhteishaun-valintojen-tulokset) ei avattu.
+  - key: places_and_quota
+    rule: Aloituspaikkojen määrät ja ensikertalaiskiintiön osuus vaihtelevat haun ja koulutuksen mukaan, ja ne katsotaan koulutuksen omalta Opintopolun sivulta.
+    url: https://opintopolku.fi/konfo/fi/
+    publisher: Opetushallitus (Opintopolku)
+    read: 2026-11-21
+    note: Etusivu avattiin selaimella. Paikka- ja kiintiötietoa ei vahvistettu siltä, koska se on koulutuskohtaisilla sivuilla. Linkitetään vakaa etusivu.
+  - key: todistusvalinta_tables
+    rule: Yliopistojen todistusvalinnan pisteytys ja ammattikorkeakoulujen valintaperusteet vaihtelevat, ja voimassa olevat taulukot katsotaan Yliopistovalinnat.fi-sivustolta ja Opintopolusta.
+    url: https://yliopistovalinnat.fi/todistusvalinta
+    publisher: Yliopistovalinnat.fi (suomalaiset yliopistot)
+    read: 2026-11-21
+    note: Osoite https://www.yliopistovalinnat.fi/fi/todistusvalinta ohjautuu nykyään osoitteeseen yliopistovalinnat.fi/todistusvalinta. Sivu avattiin. Pisteytystaulukot ovat sen linkkaamilla alasivuilla, joiden osoite sisältää vuoden, joten niitä ei käytetä pysyvänä linkkinä.
+  - key: cut_off_points
+    rule: Aiempien vuosien pisterajat ovat tilastoa, joka ei kerro tulevan haun rajaa, ja ne katsotaan Vipusesta.
+    url: https://vipunen.fi/
+    publisher: Opetushallinnon tilastopalvelu Vipunen
+    read: 2026-11-21
+    note: WebFetch sai vastauksen 403. Etusivu avattiin selaimella (Chrome --dump-dom), mutta pisteraja-raporttia ei avattu, joten linkki on palvelun etusivulle.
+  - key: entrance_exam_dates
+    rule: Valintakokeiden ajankohdat vaihtelevat koulutuksen ja haun mukaan, ja ne katsotaan Yliopistovalinnat.fi-sivustolta ja Opintopolun koulutuskohtaisilta sivuilta.
+    url: https://www.yliopistovalinnat.fi/
+    publisher: Yliopistovalinnat.fi (suomalaiset yliopistot)
+    read: 2026-11-21
+    note: Etusivu avattiin. Se ei itse anna päiviä, vaan linkittää todistusvalinnan ja valintakokeiden sivuille. Ammattikorkeakoulujen valintakokeet ovat Opintopolussa.
+  - key: study_right_rule
+    rule: Korkeakoulututkintoon johtavia opintoja koskevat opiskeluoikeuden säännöt ovat voimassa olevaa lainsäädäntöä, ja voimassa oleva sääntö luetaan Opintopolusta tai Opetushallituksesta.
+    url: https://opintopolku.fi/konfo/fi/
+    publisher: Opetushallitus (Opintopolku)
+    read: 2026-11-21
+    note: Sääntöä koskevaa yksittäistä sivua ei avattu eikä säännön sisältöä vahvistettu, joten rule-kenttä on tarkoituksella yleinen. Etsi tarkempi OPH:n tai Opintopolun sivu ennen kuin aiheessa kerrotaan säännön yksityiskohtia.
+  - key: kela_student_aid
+    rule: Opintoraha, asumislisä, opintolaina, niiden tulorajat ja koulumatkatuki määräytyvät Kelan ohjeiden mukaan ja muuttuvat, joten summat ja rajat katsotaan Kelan sivuilta.
+    url: https://www.kela.fi/opiskelu
+    publisher: Kela
+    read: 2026-11-21
+    note: Osoite https://www.kela.fi/opintotuki ohjautuu nykyään Kelan opiskelusivulle (kela.fi/opiskelu), joka on yleinen opiskelijan sivu ilman omaa opintotukisivua. Siksi linkki on opiskelusivulle, ja sieltä jatketaan opintotuen alasivuille. Koulumatkatukea ja YTHS-maksua ei vahvistettu siitä.
+  - key: intti_callups
+    rule: Kutsuntojen ajankohdat ja ikäluokka sekä naisten vapaaehtoisen asepalveluksen hakuaika ilmoitetaan Puolustusvoimien Intti.fi-sivustolla.
+    url: https://intti.fi/
+    publisher: Puolustusvoimat
+    read: 2026-11-21
+  - key: civil_service
+    rule: Siviilipalveluksesta ja sen hakemisesta kerrotaan viranomaisen omilla sivuilla, joten palveluksen pituutta tai hakuohjeita ei toisteta.
+    url: https://intti.fi/
+    publisher: Puolustusvoimat (Intti.fi, muut palvelusvaihtoehdot)
+    read: 2026-11-21
+    note: siviilipalvelus.fi ei auennut (WebFetch yhteys evättiin, Chrome palautti tyhjän sivun), joten sitä ei linkitetä. Intti.fi avattiin ja se linkittää muut palvelusvaihtoehdot, mutta etusivu ei itse käsittele siviilipalvelusta. Yritä siviilipalvelus.fi uudelleen selaimella ennen linkitystä.
+  - key: employment_services
+    rule: Työnhaun ja työllisyyspalvelujen asiointi tapahtuu Työmarkkinatorilla, ja palvelujen järjestäjä ja kanavat voivat muuttua.
+    url: https://tyomarkkinatori.fi/
+    publisher: KEHA-keskus (Työmarkkinatori)
+    read: 2026-11-21
+    note: Sivu avattiin (henkilöasiakkaat, avoimet työpaikat, asiointi). Työllisyyspalvelujen siirtoa kunnille ei vahvistettu siitä, joten sääntö ei väitä sitä. Ammattinetti ei auennut (varmennevirhe WebFetchissä, tyhjä sivu Chromessa), joten sitä ei linkitetä.
+  - key: learning_support_rules
+    rule: Lukiolaisella on oikeus oppimisen tukeen ja erityisopetukseen, ja oikeutta tukeen on vahvistettu lukiolain muutoksella.
+    url: https://www.oph.fi/fi/uutiset/2025/lukion-oppimisen-tuki-ja-erityisopetus-uudistuvat-oikeus-tukeen-vahvistuu
+    publisher: Opetushallitus
+    read: 2026-11-21
+    note: Uutinen on julkaistu 20.3.2025, ja muutos tuli voimaan 1.8.2025. Se on uutinen eikä yleinen aloitussivu, mutta vakaampaa OPH-sivua ei avattu.
+  - key: guidance_services
+    rule: Opintopolun neuvonta ja ohjaus -sivu kokoaa neuvontapalvelujen yhteystiedot ja linkit muihin palveluihin, esimerkiksi Ohjaamoon. Opintopolku ei anna henkilökohtaista opinto- tai uraneuvontaa korkeakouluhakijoille, vaan heitä neuvovat korkeakoulujen hakijapalvelut. Neuvontakanavien aukioloajat ja paikalliset ohjauspalvelut katsotaan palvelujen omilta sivuilta.
+    url: https://opintopolku.fi/konfo/fi/sivu/neuvonta-ja-ohjaus
+    publisher: Opetushallitus (Opintopolku)
+    read: 2026-11-21
+    note: Sivu ei näyttänyt sisältöä WebFetchillä, mutta tarkistaja luki sen Chromella 2026-11-21 ja sen sisältö vastaa sääntöä. Se on myös linkkinä Opintopolun etusivun valikossa. Ohjaamoja ja hyvinvointipalveluita ei vahvistettu, ne linkitetään aiheissa erikseen.
+  - key: curriculum_version
+    rule: Lukion opetussuunnitelman perusteet 2019 on voimassa oleva valtakunnallinen opetussuunnitelma, ja sen sisältö luetaan ePerusteista ja Opetushallituksen julkaisusivulta.
+    url: https://www.oph.fi/fi/tilastot-ja-julkaisut/julkaisut/lukion-opetussuunnitelman-perusteet-2019
+    publisher: Opetushallitus
+    read: 2026-11-21
+    note: Sivu avattiin, eikä se mainitse muutoksia. ePerusteiden tietueen uusi julkaisu 2026-05-22 ja siihen liitetty muutos jäävät varmistamatta. Sivusto näyttää oman tarkistuspäivänsä.
+  - key: international
+    rule: Kansainvälisyyteen ja ulkomailla opiskeluun liittyvää ohjausta tukee Opetushallituksen Euroguidance, ja ulkomaille hakemisen palvelut löytyvät Opintopolun englanninkielisestä Studyinfosta.
+    url: https://www.oph.fi/en/development/euroguidance-supports-guidance-professionals
+    publisher: Opetushallitus (Euroguidance Finland)
+    read: 2026-11-21
+    note: Euroguidance-sivu avattiin, mutta se on ohjauksen ammattilaisille eikä siinä ole vaihtohakujen määräaikoja. Studyinfo (https://opintopolku.fi/konfo/en/) avattiin Chromella, ja studyinfo.fi ohjaa sinne. Vaihtojen määräaikoja ei vahvistettu. aoe.fi avautui vain otsikon verran eikä ole tässä tiedostossa.
