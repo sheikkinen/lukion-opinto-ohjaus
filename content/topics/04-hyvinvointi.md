@@ -124,7 +124,7 @@ Hyvinvointi on tärkeä asia kaikilla reiteillä: ammattikorkeakoulussa, yliopis
 1. Piirrä paperille iso ympyrä ja jaa se neljään osaan: uni ja lepo, ruoka ja liike, ihmiset, tekeminen.
 2. Kirjoita jokaiseen osaan yksi asia, joka antaa sinulle voimia.
 3. Kirjoita jokaiseen osaan myös yksi asia, joka vie voimia.
-4. Katso kokonaisuutta. Mikä osa on nyt vahva ja mikä kaipaa huomiota?
+4. Katso kokonaisuutta. Mikä osa on nyt vahva ja mikä kaipaa huomiota? Kirjoita omin sanoin yksi lause siitä, mitä hyvinvointi ja opiskelukyky sinulle tarkoittavat.
 5. Kirjoita muistioosi yksi pieni asia, jonka voit tehdä tällä viikolla jaksamisesi tukemiseksi.
 
 ### Tehtävä 2: Selvitä, mistä apua saa
@@ -142,7 +142,7 @@ Hyvinvointi on tärkeä asia kaikilla reiteillä: ammattikorkeakoulussa, yliopis
 
 **Aika:** 10 min
 **Tarvitset:** tämän sivun tapaukset, oman muistion
-**Ilman laitetta:** Lue tapaukset tältä sivulta tai kopioi ne paperille ja kirjoita vastaukset paperille. Voit tehdä tehtävän myös keskustellen parin kanssa.
+**Ilman laitetta:** Keksi paperille oma kuvitteellinen opiskelija ja kirjoita hänen jaksamisestaan yksi lause. Tee sitten tehtävän vaiheet hänelle. Voit käyttää myös sivun tapauksia tai tehdä tehtävän keskustellen parin kanssa.
 
 Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 

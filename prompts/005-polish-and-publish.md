@@ -53,3 +53,11 @@ Written before the work, after the brief 003 re-judgement. The art director also
 fixes the alt of `il-op1` (a classroom, not a hall) and any alt that no longer matches its picture. Fixer B aligns
 "Varusmiespalvelus" in topic 14 with the routes diagram's "Asepalvelus", or the diagram's label with the topic,
 whichever the official source uses. The browse check takes fresh screenshots of op1/03, op2/11, op2/12 and op2/14.
+
+## Addendum 2026-11-21: the repository was already public
+
+Written after the work, recording what changed. The operator chose to publish before this brief finished
+("Publish now", D-010), so the push came first. "The scan is clean across the whole history" therefore means: no
+secrets, keys or personal e-mail in any commit (verified by the producer and by the scanners), and no local paths in
+the current files. Old commits keep the local paths that were removed. Rewriting the public history is the
+operator's call, listed in `docs/known-issues.md`.

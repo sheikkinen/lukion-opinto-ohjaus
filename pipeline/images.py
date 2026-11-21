@@ -26,7 +26,7 @@ if TYPE_CHECKING:
     from pipeline.layout import Ctx
 
 KINDS = ("diagram", "illustration")
-MODELS = ("nano-banana", "klein", "p-image")  # p-image: D-009, E: full so klein cannot run
+MODELS = ("nano-banana", "klein", "p-image")  # p-image: D-009, when the local klein model cannot run
 KLEIN_ASPECTS = ("9:16", "3:4", "16:9", "1:1")  # the sizes game-engine's klein.py can draw
 PAGE_KEYS = ("front", "op1", "op2")
 MANIFEST = "data/images.yaml"

@@ -157,7 +157,7 @@ opinto-ohjaaja tai opiskeluhuolto auttaa myös.
 
 **Aika:** 10 min
 **Tarvitset:** tapauskortit tai tämän sivun tekstin, puhelimen tai tietokoneen
-**Ilman laitetta:** Lue tapaukset tältä sivulta ja kirjaa kysymykset, jotka pitäisi tarkistaa.
+**Ilman laitetta:** Kopioi tapaus ensin paperille ja kirjaa sen viereen kysymykset, jotka pitäisi tarkistaa. Voit myös keksiä paperille oman kuvitteellisen tapauksen.
 
 Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 

@@ -164,7 +164,7 @@ Suunnitelma saa muuttua. Riittää, että teet ensimmäisen version.
 
 **Aika:** 10 min
 **Tarvitset:** tämän sivun tekstin, puhelimen tai tietokoneen
-**Ilman laitetta:** Lue tapaukset tältä sivulta ja kirjoita kysymykset paperille.
+**Ilman laitetta:** Kopioi tapaus ensin paperille ja kirjoita kysymykset sen viereen. Voit myös keksiä paperille oman kuvitteellisen tapauksen.
 
 Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
@@ -212,7 +212,7 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoite:** jokainen opiskelija lähtee tunnilta hakusuunnitelman ensimmäinen versio ja yksi kysymys mukanaan. Lyhyemmissä versioissa tuotos on yksi koulutus ja varasuunnitelma. Kukaan ei kerro omia suunnitelmiaan ääneen, ellei itse halua.
+**Tavoite:** jokainen opiskelija lähtee tunnilta hakusuunnitelman ensimmäinen versio ja yksi kysymys mukanaan. Lyhyemmissä versioissa tuotos on yksi koulutus (haku ja valintatapa) ja varasuunnitelma. Pääsyvaatimus (Tehtävän 1 vaihe 4) ja Tehtävän 2 vaihe 4 jäävät kotiin. Kukaan ei kerro omia suunnitelmiaan ääneen, ellei itse halua.
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -241,8 +241,8 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 |---|---|---|---|---|---|
 | Virittäytyminen ja aiemman tiedon aktivointi | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka hakemisessa mietityttää, ja arvaavat väitteen "Yhteishakua on vain yksi." | Lue muutama lappu ääneen. Vastaus: yhteishakuja on kaksi. | Kirjoitus omaan muistioon. | Lue vain kaksi lappua. |
 | Lyhyt alustus | 5 | Opiskelijat kirjaavat muistiin: yhteishaut, valintatavat ja mistä ajankohtaiset tiedot tarkistetaan. | Näytä vain Opintopolku ja hakuaikataulut. Yksi koulutus on valittu etukäteen. | Jaa tiivistys paperilla. | Jätä valintatavat linkkeihin. |
-| Työskentely | 25 | Tehtävä 1 vaiheet 1–3 (10 min) valmiiksi valitusta koulutuksesta ja Tehtävä 2 (15 min) yhdelle koulutukselle: taulukko ja varasuunnitelma. | Kierrä ja kysy avoimia kysymyksiä. Auta löytämään tieto sivuilta. Älä ehdota "oikeaa" koulutusta. | Paperipohja ilman laitetta. | Tehtävän 2 vaihe 4 kotiin. |
-| HOPS-askel ja exit | 7 | Opiskelijat kirjoittavat omaan muistioonsa yhden koulutuksen tiedot (haku, valintatapa, pääsyvaatimus) ja varasuunnitelman. HOPSiin he kirjaavat vain sen, minkä haluavat jakaa koulun kanssa. Exit-lappu: yksi kysymys (nimetön tai nimellä, opiskelija valitsee). | Muistuta, että HOPS on koulun kanssa jaettu asiakirja. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Kirjaus ja exit kotona. Tehtävä 3 ja Pohdinta kotona. |
+| Työskentely | 25 | Tehtävä 1 vaiheet 1–3 (10 min) valmiiksi valitusta koulutuksesta ja Tehtävä 2 (15 min) yhdelle koulutukselle: taulukko ja varasuunnitelma. | Kierrä ja kysy avoimia kysymyksiä. Auta löytämään tieto sivuilta. Älä ehdota "oikeaa" koulutusta. | Paperipohja ilman laitetta. | Tehtävän 1 vaihe 4 ja Tehtävän 2 vaihe 4 kotiin. |
+| HOPS-askel ja exit | 7 | Opiskelijat kirjoittavat omaan muistioonsa yhden koulutuksen tiedot (haku ja valintatapa) ja varasuunnitelman. HOPSiin he kirjaavat vain sen, minkä haluavat jakaa koulun kanssa. Exit-lappu: yksi kysymys (nimetön tai nimellä, opiskelija valitsee). | Muistuta, että HOPS on koulun kanssa jaettu asiakirja. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Kirjaus ja exit kotona. Tehtävä 3 ja Pohdinta kotona. |
 | Puskuri | 3 | Kysymyksiä ja keskeneräisten loppuun. | Ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### Valmistelu

@@ -10,7 +10,8 @@ export const meta = {
   ],
 }
 
-const ROOT = (args && args.root) || 'C:\\src\\lukion-opinto-ohjaus'
+const ROOT = args && args.root
+if (!ROOT) throw new Error('args.root (the project folder) is required')
 const BRIEF = args && args.brief
 const ITEMS = args && args.items_file
 const NOW = (args && args.now) || '2026-11-21'

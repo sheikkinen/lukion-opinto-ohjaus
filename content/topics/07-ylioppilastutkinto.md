@@ -129,6 +129,7 @@ Perussäännöt ovat voimassa nyt, mutta ne voivat muuttua. Tarkista ne aina [YT
 - Vähintään yhden kokeen pitää olla **pitkän oppimäärän** koe.
 - Saman aineen eri oppimäärät lasketaan yhdeksi kokeeksi.
 - Pakolliset kokeet suoritetaan enintään **kolmen peräkkäisen tutkintokerran** aikana.
+- Äidinkielen ja kielten kokeissa on poikkeuksia esimerkiksi sen mukaan, mikä on äidinkielesi tai oppimääräsi, ja äidinkielen koe voi joissakin tilanteissa korvata kielikokeen. Poikkeuksista katso YTL:n sivu Tutkinnon rakenne.
 
 Voit kirjoittaa myös enemmän kuin viisi koetta. Kaikki aineet löydät sivulta
 [Tutkinnon aineet](https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/tutkinnon-aineet). YTL valmistelee

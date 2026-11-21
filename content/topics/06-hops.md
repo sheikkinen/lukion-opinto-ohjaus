@@ -137,13 +137,13 @@ Elämänsuunnitteluun ja koulutusvalintoihin saat tukea opinto-ohjaajalta, ryhm�
 2. Jaa ne kolmeen ryhmään: varmasti haluan, mietin vielä, jätän pois.
 3. Järjestä "varmasti haluan" -ryhmän kolme tärkeintä asiaa tärkeysjärjestykseen ja kirjoita jokaisen viereen, miksi se on tässä kohdassa.
 4. Kirjoita muistioosi yksi asia, jonka haluat varmistaa, ennen kuin teet lopulliset valinnat. Jos ehdit, katso Työmarkkinatorin sivu [Ammatinvalinta ja urasuunnittelu](https://tyomarkkinatori.fi/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/ammatinvalinta-ja-urasuunnittelu).
-5. Kirjoita yksi lause siitä, miten HOPS auttaa sinua tässä valinnassa ja jatkosuunnittelussa.
+5. Kirjoita yksi lause siitä, miten HOPS auttaa sinua tässä valinnassa ja jatkosuunnittelussa. Kirjoita myös HOPSin kolme osaa (opiskelusuunnitelma, ylioppilastutkintosuunnitelma, jatko-opinto- ja urasuunnitelma), merkitse, mihin osaan tämä luonnos kuuluu, ja kirjoita, milloin päivität sitä (esimerkki: koulusi ohjeen mukaan).
 
 ### Tehtävä 3: Auta kuvitteellisia valitsijoita priorisoimaan
 
 **Aika:** 10 min
 **Tarvitset:** tämän sivun tapaukset, oman muistion
-**Ilman laitetta:** Lue tapaukset tältä sivulta tai kopioi ne paperille ja kirjoita vastaukset paperille. Voit tehdä tehtävän myös keskustellen parin kanssa.
+**Ilman laitetta:** Keksi paperille oma kuvitteellinen opiskelija ja kirjoita hänelle kolme kiinnostavaa opintojaksoa. Tee sitten tehtävän vaiheet hänelle. Voit käyttää myös sivun tapauksia tai tehdä tehtävän keskustellen parin kanssa.
 
 Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 

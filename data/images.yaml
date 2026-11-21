@@ -32,19 +32,19 @@ images:
       accent shapes, simple sans-serif font, generous spacing. Top row: a small chain of three rounded boxes joined
       by right-pointing arrows, reading "Opintojakso" then "Moduuli" then "Opintopisteet", with a small caption
       under the chain reading "Opintojakso koostuu moduuleista. Laajuus mitataan opintopisteinä." Below it, three
-      equal side-by-side cards under a heading "Opinnot jakautuvat kolmeen ryhmään": card one "Pakolliset opinnot"
-      with the line "Kuuluvat kaikille"; card two "Valtakunnalliset valinnaiset opinnot" with the line
-      "Yhteisiä kaikille lukioille" and a second smaller line "Syventävät ja soveltavat opintojaksot"; card three "Koulukohtaiset opinnot" with the line "Valinnaisia,
-      vaihtelevat koulun mukaan". Use exactly these Finnish texts, spelled exactly as written, each once, and no
-      other text, numbers, icons with letters, logos or watermark. The heading of card two is "Valtakunnalliset
-      valinnaiset opinnot", word for word; do not replace "valinnaiset" with any other word.
+      equal side-by-side cards under a heading "Opinnot jakautuvat kolmeen ryhmään". Each card has a bold heading
+      and exactly one short line under it. Card one: heading "Pakolliset opinnot", line "Kuuluvat kaikille". Card
+      two: heading "Valtakunnalliset valinnaiset opinnot", line "Koulu päättää, mitä tarjoaa". Card three: heading
+      "Koulukohtaiset opinnot", line "Vaihtelevat koulun mukaan". Use exactly these Finnish texts, spelled exactly
+      as written, each once, and no other text, numbers, icons with letters, logos or watermark. The heading of
+      card two is "Valtakunnalliset valinnaiset opinnot", word for word; do not replace "valinnaiset" with any
+      other word.
     alt: >-
       Kaavio lukio-opintojen rakenteesta. Ylhäällä nuolilla yhdistetty ketju: opintojakso, moduuli,
       opintopisteet. Selite: opintojakso koostuu moduuleista, ja laajuus mitataan opintopisteinä. Alla otsikko
       "Opinnot jakautuvat kolmeen ryhmään" ja kolme korttia: pakolliset opinnot kuuluvat kaikille;
-      valtakunnalliset valinnaiset opinnot ovat yhteisiä kaikille lukioille, ja niihin kuuluvat syventävät ja
-      soveltavat opintojaksot; koulukohtaiset opinnot
-      ovat valinnaisia ja vaihtelevat koulun mukaan.
+      valtakunnallisista valinnaisista opinnoista koulu päättää, mitä tarjoaa; koulukohtaiset opinnot vaihtelevat
+      koulun mukaan.
     expected_labels:
       - "Opintojakso"
       - "Moduuli"
@@ -54,10 +54,9 @@ images:
       - "Pakolliset opinnot"
       - "Kuuluvat kaikille"
       - "Valtakunnalliset valinnaiset opinnot"
-      - "Yhteisiä kaikille lukioille"
-      - "Syventävät ja soveltavat opintojaksot"
+      - "Koulu päättää, mitä tarjoaa"
       - "Koulukohtaiset opinnot"
-      - "Valinnaisia, vaihtelevat koulun mukaan"
+      - "Vaihtelevat koulun mukaan"
     facts_from:
       - {topic: op1-01-lukio-alkaa, section: "Opiskelijalle / Miten opinnot on rakennettu?"}
 

@@ -175,7 +175,7 @@ ohjelmasta ja kohteesta. Kysy se etukäteen ohjelman järjestäjältä.
 
 **Aika:** 10 min
 **Tarvitset:** tapauskortit tai tämän sivun tekstin, puhelimen tai tietokoneen
-**Ilman laitetta:** Lue tapaukset tältä sivulta ja kirjoita kysymykset paperille.
+**Ilman laitetta:** Kopioi tapaus ensin paperille ja kirjoita kysymykset sen viereen. Voit myös keksiä paperille oman kuvitteellisen tapauksen.
 
 Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 

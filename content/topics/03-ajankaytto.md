@@ -111,7 +111,7 @@ Ajankäytön taidot auttavat kaikilla reiteillä: ammattikorkeakoulussa, yliopis
 1. Piirrä viikkosi taulukkoon tai kalenteriin. Merkitse ensin kiinteät asiat: koulu, työ, harrastukset, matkat.
 2. Merkitse toisella värillä, milloin opiskelet ja kuinka kauan. Merkitse kolmannella värillä lepo, ruoka ja asiat, jotka antavat voimia.
 3. Katso, onko jokin päivä liian täynnä. Siirrä jokin asia toiselle päivälle tai poista se.
-4. Kirjoita muistioosi yksi asia, jonka muutat viikossasi, ja yksi asia, jonka pidät ennallaan.
+4. Kirjoita muistioosi yksi asia, jonka muutat viikossasi, ja yksi asia, jonka pidät ennallaan. Merkitse, mihin voit itse vaikuttaa (oma toimijuus) ja missä voisit pyytää apua tai tukea.
 
 ### Tehtävä 2: Tarkastele yhtä päivää
 
@@ -129,7 +129,7 @@ Ajankäytön taidot auttavat kaikilla reiteillä: ammattikorkeakoulussa, yliopis
 
 **Aika:** 10 min
 **Tarvitset:** tämän sivun tapaukset, oman muistion
-**Ilman laitetta:** Lue tapaukset tältä sivulta tai kopioi ne paperille ja kirjoita vastaukset paperille. Voit tehdä tehtävän myös keskustellen parin kanssa.
+**Ilman laitetta:** Keksi paperille oma kuvitteellinen opiskelija ja kirjoita hänen viikostaan kolme kiinteää asiaa. Tee sitten tehtävän vaiheet hänelle. Voit käyttää myös sivun tapauksia tai tehdä tehtävän keskustellen parin kanssa.
 
 Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 

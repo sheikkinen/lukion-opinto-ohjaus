@@ -1,4 +1,4 @@
-# Illustrations (p-image on Replicate, D-009; klein could not run: E: full) for brief 003: one calm picture at the top of the front, op1, op2 and every topic page.
+# Illustrations (p-image on Replicate, D-009; the local klein model could not run) for brief 003.
 # Read together with data/images.yaml (which holds the style line and the diagrams) by pipeline/images.py.
 
 images:
@@ -17,7 +17,8 @@ images:
       and talk in small groups, one checks a phone with a blank screen, two sit on a bench; a gentle winding path
       leads from the courtyard towards an open horizon with soft hills, suggesting many directions ahead.
     alt: >-
-      Opiskelijoita lukion pihalla syksyllä, ja polku jatkuu kohti avointa maisemaa.
+      Opiskelijoita kävelee ja istuu penkeillä koivujen reunustaman polun varrella, ja polku jatkuu kohti avointa
+      maisemaa.
 
   - id: il-op1
     kind: illustration
@@ -31,7 +32,7 @@ images:
       one holding a door open for another, a friendly adult guidance counsellor greeting them, large windows with
       autumn leaves outside, a blank notice board.
     alt: >-
-      Uusia opiskelijoita saapuu valoisaan koulun aulaan, ja ohjaaja tervehtii heitä.
+      Uusia opiskelijoita reppuineen saapuu valoisaan luokkahuoneeseen, ja ohjaaja tervehtii heitä.
 
   - id: il-op2
     kind: illustration
@@ -45,7 +46,7 @@ images:
       several paths branch towards a small town, a campus, a workshop, a forest and a distant harbour, each path
       equally lit and equally inviting.
     alt: >-
-      Opiskelijoita mäen päällä katsomassa maisemaa, jossa monta yhtä houkuttelevaa polkua haarautuu eri suuntiin.
+      Opiskelijoita rivissä mäen päällä katsomassa avaraa maisemaa, jonka laidoilla näkyy kaupunki ja kampus.
 
   - id: il-op1-01-lukio-alkaa
     kind: illustration
@@ -59,7 +60,7 @@ images:
       simple abstract map drawn with shapes and dotted lines, one pointing the way, lockers and plants in the
       background, a relaxed and curious mood.
     alt: >-
-      Kolme uutta opiskelijaa katsoo yhdessä koulun käytävällä yksinkertaista karttaa.
+      Kolme uutta opiskelijaa katsoo yhdessä koulun käytävän seinällä olevaa yksinkertaista karttaa.
 
   - id: il-op1-02-opiskelutaidot
     kind: illustration
@@ -73,7 +74,8 @@ images:
       circles and lines on blank paper, one explains something to a friend with hand gestures, one listens with
       headphones, one flips small blank flash cards.
     alt: >-
-      Opiskelijat kokeilevat kirjaston pöydän ääressä erilaisia tapoja opiskella.
+      Opiskelijat opiskelevat pyöreän pöydän ääressä eri tavoin: osa kirjoittaa, osa kuuntelee kuulokkeilla ja yksi
+      selaa kortteja.
 
   - id: il-op1-03-ajankaytto
     kind: illustration
@@ -105,7 +107,7 @@ images:
       Students recharging in a quiet park in late afternoon: one walks a bicycle, two share a snack on the grass,
       one rests against a tree with eyes closed, soft clouds; a peaceful, balanced, caring mood.
     alt: >-
-      Opiskelijat lepäävät ja liikkuvat rauhallisessa puistossa iltapäivällä.
+      Rauhallisessa puistossa yksi opiskelija pyöräilee, ja kaksi lepää puun alla eväiden kanssa.
 
   - id: il-op1-05-itsetuntemus
     kind: illustration
@@ -119,7 +121,8 @@ images:
       strengths: a music note, a paintbrush, a football, a plant, a wrench, a heart and puzzle pieces, drawn as
       gentle abstract shapes without any letters; a reflective, warm mood.
     alt: >-
-      Opiskelija pohtii ikkunan ääressä, ja hänen ympärillään on kiinnostuksia kuvaavia symboleita.
+      Opiskelijoita istuu rivissä ison ikkunan edessä, ja ikkunassa on kiinnostuksia kuvaavia symboleita: nuotti,
+      sivellin, pallo, kasvi, jakoavain ja palapelin palat.
 
   - id: il-op1-06-hops
     kind: illustration
@@ -133,7 +136,8 @@ images:
       with a blank screen and three neat stacks of blank cards in three soft colours, the student moving one card;
       a light office with plants.
     alt: >-
-      Opiskelija ja opinto-ohjaaja suunnittelevat yhdessä pöydän ääressä.
+      Kolme henkilöä suunnittelee yhdessä pöydän ääressä kannettavien tietokoneiden ja kolmen eri värisen korttipinon
+      kanssa.
 
   - id: il-op1-07-ylioppilastutkinto
     kind: illustration
@@ -146,7 +150,7 @@ images:
       A calm spacious exam hall seen from the side, rows of separate desks with laptops showing blank screens,
       a few students concentrating calmly, water bottles on the desks, tall windows with soft winter light.
     alt: >-
-      Opiskelijat tekevät rauhallisesti koetta tietokoneilla valoisassa salissa.
+      Opiskelijat tekevät rauhallisesti koetta tietokoneilla valoisassa luokassa, ja pöydillä on vesipullot.
 
   - id: il-op1-08-tietolahteet
     kind: illustration
@@ -174,7 +178,7 @@ images:
       small scenes: a campus building, a workshop with tools, a greenhouse, a city street and a small harbour;
       signposts are blank wooden boards; open, hopeful mood.
     alt: >-
-      Opiskelija seisoo risteyksessä, josta monta yhtä leveää polkua johtaa eri suuntiin.
+      Nuoria seisoo kaupungin risteyksessä tyhjien opasteiden luona, ja kadut johtavat eri suuntiin.
 
   - id: il-op2-10-suunnitelmien-paivitys
     kind: illustration
@@ -187,7 +191,8 @@ images:
       A student at a desk revising a plan: rearranging blank cards on a corkboard connected by thread, a pencil in
       hand, an older draft folded beside them, a window showing autumn trees; calm, unhurried, positive mood.
     alt: >-
-      Opiskelija päivittää suunnitelmaansa järjestämällä kortteja ilmoitustaululla.
+      Opiskelija päivittää suunnitelmaansa seinälle kiinnitettyjen lappujen avulla, ja toinen opiskelija katsoo
+      vierestä.
 
   - id: il-op2-11-osaaminen
     kind: illustration
@@ -208,22 +213,23 @@ images:
 
   - id: il-op2-12-tyoelama-ja-ennakointi
     kind: illustration
-    model: p-image
+    model: nano-banana
     aspect: "16:9"
     page: op2-12-tyoelama-ja-ennakointi
     placement: header
     decorative: true
     prompt: >-
-      Flat vector illustration made of exactly four scenes in one single horizontal row, left to right, four scenes
-      only, not six, no second row. Each scene has its own fully drawn background, no empty panels. Scene one: a young
-      person standing beside a bicycle that is turned upside down and resting on its seat and handlebars, tightening
-      the wheel with a wrench, nobody riding or sitting on the bicycle, tools hanging on the wall. Scene two: one
-      young person alone at a home desk by a window, wearing headphones, on a video call; this is the only computer in
-      the whole picture. Scene three: a young person watering rows of plants inside a glass greenhouse. Scene four: a
-      young person at an easel sketching a chair, a small wooden chair beside them. Four different people, four
-      different jobs, four different settings.
+      Flat vector illustration of one single continuous scene, not panels, not a grid, not a collage: the inside of
+      one bright shared community makerspace with one big room, a wooden floor and large windows. Three young people
+      work side by side on different jobs in the same room. On the left, one person repairs a bicycle that stands on
+      a simple repair stand, turning a wrench on the wheel, a few tools hanging on a pegboard behind. In the middle,
+      one person tends a long table of potted seedlings and leafy plants under a grow lamp, holding a small watering
+      can. On the right, one person sits at a drawing table sketching a simple chair on a large blank sheet, a small
+      wooden prototype chair beside them. No computers, no laptops, no phones, no screens. The papers show only a
+      simple line drawing of a chair. Calm, friendly, cooperative mood, lots of air between the three work areas.
     alt: >-
-      Neljä erilaista työtä rinnakkain: pyöräkorjaamo, etätyö kotona, kasvihuone ja tuotesuunnittelu.
+      Yhteinen työpaja, jossa kolme nuorta tekee eri töitä rinnakkain: yksi korjaa polkupyörää, yksi hoitaa
+      taimia ja kasveja, ja yksi luonnostelee tuolia piirustuspöydän ääressä.
 
   - id: il-op2-13-tyonhaku
     kind: illustration
@@ -270,7 +276,7 @@ images:
       checklist made of tick boxes without words, a calendar drawn only as an empty grid, a mug and a plant;
       focused but relaxed mood.
     alt: >-
-      Kaksi opiskelijaa valmistelee hakemuksia yhdessä keittiön pöydän ääressä.
+      Kaksi opiskelijaa valmistelee hakemuksia yhdessä pöydän ääressä, ja seinällä on tarkistuslista.
 
   - id: il-op2-16-kansainvalisyys
     kind: illustration
@@ -297,7 +303,8 @@ images:
       A young person in a small, simply furnished first apartment, sitting on the floor among a few moving boxes
       with a notebook of blank pages and a small piggy bank, a plant and a lamp; cosy, hopeful, modest mood.
     alt: >-
-      Nuori istuu ensimmäisessä asunnossaan muuttolaatikoiden keskellä ja suunnittelee talouttaan.
+      Kaksi nuorta istuu lattialla muuttolaatikoiden keskellä ja suunnittelee talouttaan muistikirjojen ja
+      säästöpossujen kanssa.
 
   - id: il-op2-18-urasuunnitelma
     kind: illustration
@@ -311,4 +318,5 @@ images:
       waves goodbye to a friend, one carries a backpack, a guidance counsellor waves from the school door; blooming
       trees, a sense of a calm transition and new beginnings.
     alt: >-
-      Opiskelijat lähtevät keväällä koulun pihalta kohti avointa maisemaa.
+      Kaksi opiskelijaa seisoo keväisellä koulun pihalla kukkivien puiden alla, ja ohjaaja vilkuttaa heille koulun
+      ovelta.

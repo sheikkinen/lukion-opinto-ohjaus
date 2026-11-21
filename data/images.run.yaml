@@ -256,3 +256,19 @@
   sha256: 2caf230994c666ecab352a9053a4469aeaa9f1d5c80e8aec60fe450e4b42fb7c
   dollars: 0.005
   date: '2026-11-21'
+- id: dg-opintojen-rakenne
+  model: google/nano-banana-2.1
+  prompt: 'A clean flat infographic on a pure white background, high contrast, dark slate text, muted teal and sand accent shapes, simple sans-serif font, generous spacing. Top row: a small chain of three rounded boxes joined by right-pointing arrows, reading "Opintojakso" then "Moduuli" then "Opintopisteet", with a small caption under the chain reading "Opintojakso koostuu moduuleista. Laajuus mitataan opintopisteinä." Below it, three equal side-by-side cards under a heading "Opinnot jakautuvat kolmeen ryhmään". Each card has a bold heading and exactly one short line under it. Card one: heading "Pakolliset opinnot", line "Kuuluvat kaikille". Card two: heading "Valtakunnalliset valinnaiset opinnot", line "Koulu päättää, mitä tarjoaa". Card three: heading "Koulukohtaiset opinnot", line "Vaihtelevat koulun mukaan". Use exactly these Finnish texts, spelled exactly as written, each once, and no other text, numbers, icons with letters, logos or watermark. The heading of card two is "Valtakunnalliset
+    valinnaiset opinnot", word for word; do not replace "valinnaiset" with any other word.'
+  seed: null
+  sha256: cd0b468292e45d423e0263237fb88aadf984b1a6e17dfd7724b09bee8c7c09f2
+  dollars: 0.0336
+  date: '2026-11-21'
+- id: il-op2-12-tyoelama-ja-ennakointi
+  model: google/nano-banana-2.1
+  prompt: 'Flat vector illustration of one single continuous scene, not panels, not a grid, not a collage: the inside of one bright shared community makerspace with one big room, a wooden floor and large windows. Three young people work side by side on different jobs in the same room. On the left, one person repairs a bicycle that stands on a simple repair stand, turning a wrench on the wheel, a few tools hanging on a pegboard behind. In the middle, one person tends a long table of potted seedlings and leafy plants under a grow lamp, holding a small watering can. On the right, one person sits at a drawing table sketching a simple chair on a large blank sheet, a small wooden prototype chair beside them. No computers, no laptops, no phones, no screens. The papers show only a simple line drawing of a chair. Calm, friendly, cooperative mood, lots of air between the three work areas. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges.
+    Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: null
+  sha256: 8f6941d3e3461eb5107c56f88c77b54fff7d013d69c6775b0c57bc36573914c6
+  dollars: 0.0336
+  date: '2026-11-21'

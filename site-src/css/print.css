@@ -38,3 +38,6 @@ thead { display: table-header-group; }
 .picture-illustration { display: none !important; }
 .picture-diagram { break-inside: avoid; page-break-inside: avoid; }
 .picture img { max-width: 100%; height: auto; }
+
+/* The "open larger" link means nothing on paper (live check, brief 005). */
+figcaption { display: none; }

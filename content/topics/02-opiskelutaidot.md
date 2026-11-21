@@ -95,7 +95,7 @@ Lukiossa etsit tietoa itse. Kun löydät tekstin, kysy kolme asiaa: kuka sen on 
 
 ### Mistä apua saa?
 
-Oppiminen voi tuntua vaikealta monesta syystä. Syynä voi olla esimerkiksi lukivaikeus, keskittymisen haasteet, jännitys tai se, että suomi ei ole äidinkielesi. Silloin on normaalia kysyä apua. Lukiolaisella on lukiolain mukaan oikeus oppimisen ja opiskelun tukeen. Lue säännös [lukiolaista](https://www.finlex.fi/fi/lainsaadanto/2018/714). Lisää tuen uudistuksesta saat [Opetushallituksen sivulta](https://www.oph.fi/fi/oppimisen-tuen-uudistus). Tukea saat erityisopettajalta, aineenopettajalta tai opinto-ohjaajalta. Koulusi kertoo, miten (esimerkki).
+Oppiminen voi tuntua vaikealta monesta syystä. Syynä voi olla esimerkiksi lukivaikeus, keskittymisen haasteet, jännitys tai se, että suomi ei ole äidinkielesi. Silloin on normaalia kysyä apua. Lukiolaisella on lukiolain mukaan oikeus oppimisen tukeen. Lue säännös [lukiolaista](https://www.finlex.fi/fi/lainsaadanto/2018/714). Lisää tuen uudistuksesta saat [Opetushallituksen sivulta](https://www.oph.fi/fi/oppimisen-tuen-uudistus). Tukea saat erityisopettajalta, aineenopettajalta tai opinto-ohjaajalta. Koulusi kertoo, miten (esimerkki).
 
 Jos opiskelu aiheuttaa kuormitusta, [Mielenterveystalon nuorten sivulta](https://www.mielenterveystalo.fi/fi/nuoret) löydät omahoito-ohjelmia, esimerkiksi opiskeluun liittyvään uupumukseen.
 
@@ -133,7 +133,7 @@ Kukaan ei voi opiskella puolestasi, mutta sinun ei tarvitse tehdä sitä yksin. 
 
 **Aika:** 10 min
 **Tarvitset:** tämän sivun tapaukset, oman muistion
-**Ilman laitetta:** Lue tapaukset tältä sivulta tai kopioi ne paperille ja kirjoita vastaukset paperille. Voit tehdä tehtävän myös keskustellen parin kanssa.
+**Ilman laitetta:** Keksi paperille oma kuvitteellinen opiskelija ja kirjoita hänen opiskeluongelmastaan yksi lause. Tee sitten tehtävän vaiheet hänelle. Voit käyttää myös sivun tapauksia tai tehdä tehtävän keskustellen parin kanssa.
 
 Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 

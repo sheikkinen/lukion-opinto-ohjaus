@@ -145,7 +145,7 @@ Hakemus jää omaksi luonnoksesi. Sitä ei lähetetä minnekään.
 
 **Aika:** 10 min
 **Tarvitset:** tämän sivun tekstin, puhelimen tai tietokoneen
-**Ilman laitetta:** Lue tapaukset tältä sivulta ja kirjoita kysymykset ja vinkit paperille. Käytä apuna osion *Oikeudet työssä* tekstiä.
+**Ilman laitetta:** Kopioi tapaus ensin paperille ja kirjoita kysymykset ja vinkit sen viereen. Voit myös keksiä paperille oman kuvitteellisen hakijan. Käytä apuna osion *Oikeudet työssä* tekstiä.
 
 Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
@@ -193,7 +193,7 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoite:** jokainen opiskelija lähtee tunnilta työpaikkailmoituksen lukutaito ja hakemuksen ensimmäinen versio (avauskappale, kaksi esimerkkiä ja lopetuslause) mukanaan. Lyhyemmissä versioissa tuotos on avauskappale ja yksi esimerkki; loppu jää kotitehtäväksi. Kukaan ei kerro omista kokemuksistaan tai suunnitelmistaan ääneen, ellei itse halua.
+**Tavoite:** jokainen opiskelija lähtee tunnilta työpaikkailmoituksen lukutaito ja hakemuksen ensimmäinen versio (avauskappale, kaksi esimerkkiä ja lopetuslause) mukanaan. 60 minuutissa tuotos on koko luonnos (Tehtävän 2 vaiheet 1–4); puhumisharjoitus (vaihe 5) jää kotiin. 45 minuutissa tuotos on avauskappale, yksi esimerkki ja lopetuslause (Tehtävän 2 vaiheet 1–3 yhdellä esimerkillä); vaiheet 4–5, Tehtävä 3 ja Pohdinta jäävät kotiin. Kukaan ei kerro omista kokemuksistaan tai suunnitelmistaan ääneen, ellei itse halua.
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 |---|---|---|---|---|---|
 | Virittäytyminen ja aiemman tiedon aktivointi | 4 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jonka luulevat työnhaussa olevan vaikeaa, ja nimeävät yhden työelämätaidon, jota ovat käyttäneet. | Lue muutama lappu ääneen. Älä korjaa vielä. | Kirjoitus omaan muistioon. | Lue vain kaksi lappua. |
 | Lyhyt alustus | 6 | Opiskelijat kirjaavat muistiin: hakemuksen kolme kysymystä ja se, mistä oikeudet luetaan. | Näytä yksi valmiiksi valittu ilmoitus Työmarkkinatorilta. Mainitse yhdellä lauseella palkattoman työn kysymykset ja linkki. | Jaa tiivistys paperilla. | Jätä oikeudet linkkiin. |
-| Työskentely | 25 | Tehtävä 1 vaiheet 1–3 (10 min) valmiista ilmoituksista, sitten Tehtävä 2 vaiheet 1–3 (15 min): avauskappale, yksi esimerkki ja lopetuslause. | Kierrä ja kysy avoimia kysymyksiä. Auta valitsemaan ilmoitus. | Kuvitteellinen ilmoitus tehtävästä ja paperi. | Lopetuslause ja vaiheet 4–5 kotiin. |
+| Työskentely | 25 | Tehtävä 1 vaiheet 1–3 (10 min) valmiista ilmoituksista, sitten Tehtävä 2 vaiheet 1–3 (15 min): avauskappale, yksi esimerkki (vaiheessa 2 valitaan vain yksi osaaminen) ja lopetuslause. | Kierrä ja kysy avoimia kysymyksiä. Auta valitsemaan ilmoitus. | Kuvitteellinen ilmoitus tehtävästä ja paperi. | Vaiheet 4–5 kotiin. |
 | HOPS-askel ja exit | 7 | Opiskelijat kirjoittavat omaan muistioonsa yhden harjoiteltavan taidon ja yhden tavan hankkia kokemusta. HOPSiin he kirjaavat vain sen, minkä haluavat jakaa koulun kanssa. Exit-lappu: yksi kysymys (nimetön tai nimellä, opiskelija valitsee). | Muistuta, että HOPS on koulun kanssa jaettu asiakirja. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Kirjaus ja exit kotona. Tehtävät 1 ja 2 loppuun, Tehtävä 3 ja Pohdinta kotona. |
 | Puskuri | 3 | Kysymyksiä ja keskeneräisten loppuun. | Ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 

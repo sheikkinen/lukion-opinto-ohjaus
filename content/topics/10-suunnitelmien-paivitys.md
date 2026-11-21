@@ -112,7 +112,7 @@ kertoo, missä järjestyksessä opintojaksoja voi käydä (esimerkki).
 ### Yo-suunnitelma ja kokeiden hajautus
 
 Yo-tutkinnon perussäännöt ovat voimassa nyt, mutta ne voivat muuttua. Tarvitset nykyisin vähintään viisi koetta, ja pakolliset kokeet suoritetaan enintään kolmen
-peräkkäisen tutkintokerran aikana. **Tutkintokerta** tarkoittaa yhtä koekautta, kevättä tai syksyä. Tarkista säännöt
+peräkkäisen tutkintokerran aikana. **Tutkintokerta** tarkoittaa yhtä koekautta, kevättä tai syksyä. Äidinkielen kokeeseen ja koeryhmiin liittyy myös poikkeuksia, esimerkiksi jos äidinkielesi ei ole suomi tai ruotsi. Poikkeuksista katso YTL:n sivu. Tarkista säännöt
 [YTL:n sivulta Tutkinnon rakenne](https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/tutkinnon-rakenne). Muutokset kerrotaan [YTL:n tietopalvelussa](https://www.ylioppilastutkinto.fi/fi/tietopalvelut/tietoa-ylioppilastutkinnosta).
 
 **Hajauttaminen** tarkoittaa kokeiden kirjoittamista usealla tutkintokerralla. Se voi keventää kuormaa. Yleensä kannattaa kirjoittaa koe vasta, kun aineen opintojaksot on käyty. Tämä on suositus, ei sääntö. Mieti hajautusta näiden kysymysten avulla:
@@ -157,7 +157,7 @@ suunnittelemaan aikaa? Mikä sujuu hyvin? Mitä haluat vielä harjoitella? Kirjo
 
 **Aika:** 20 min
 **Tarvitset:** HOPSisi tai aiemman yo-suunnitelmasi (jos sinulla on), kurssitarjottimen tai opintojaksoluettelon (esimerkki), puhelimen tai tietokoneen
-**Ilman laitetta:** Kirjoita ensin paperille säännöt: vähintään viisi koetta, äidinkieli ja kirjallisuus pakollinen, lisäksi neljä koetta vähintään kolmesta ryhmästä, vähintään yksi pitkän oppimäärän koe, enintään kolme peräkkäistä tutkintokertaa. Piirrä sitten kolmen sarakkeen taulukko (tutkintokerta 1, 2 ja 3), kirjoita kokeet sarakkeisiin ja tarkista ne säännöistä.
+**Ilman laitetta:** Kirjoita ensin paperille säännöt: vähintään viisi koetta, äidinkieli ja kirjallisuus pakollinen, lisäksi neljä koetta vähintään kolmesta ryhmästä, vähintään yksi pitkän oppimäärän koe (YTL:n sanoin vaativampi koe), enintään kolme peräkkäistä tutkintokertaa. Äidinkielen kokeeseen liittyy poikkeuksia, joten poikkeuksista katso YTL. Piirrä sitten kolmen sarakkeen taulukko (tutkintokerta 1, 2 ja 3), kirjoita kokeet sarakkeisiin ja tarkista ne säännöistä.
 
 1. Lue aiempi yo-suunnitelmasi ja kokeile koeyhdistelmääsi työkalulla [Tuleeko sinusta ylioppilas?](https://ilmo.ylioppilastutkinto.fi/fi). Jos sinulla ei ole aiempaa suunnitelmaa, valitse nyt viisi koetta, joita voisit ajatella.
 2. Sijoita kokeet kolmelle tutkintokerralle. Kannattaa yleensä kirjoittaa koe vasta sen jälkeen, kun aineen opintojaksot on käyty.

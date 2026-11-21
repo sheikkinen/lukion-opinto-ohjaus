@@ -26,4 +26,6 @@ Opetussuunnitelman perusteet on tarkistettu {{curriculum_checked}}. Tietolähtee
 
 ## Käyttölupa
 
-Sisällön käyttölupa on Creative Commons Nimeä 4.0 (CC BY 4.0). Voit käyttää, muokata ja jakaa sisältöä, kunhan kerrot lähteen.
+Sisältö: CC BY 4.0. Lainaa ja muokkaa vapaasti, kun mainitset lähteen: Lukion opinto-ohjaus, https://sheikkinen.github.io/lukion-opinto-ohjaus/
+
+Sisällön käyttölupa on Creative Commons Nimeä 4.0 (CC BY 4.0). Lupa koskee sivuston omia tekstejä. Opetussuunnitelman tekstit, joita sivusto lainaa ePerusteet-palvelusta, kuuluvat Opetushallitukselle (OPH). Linkitetyt viralliset lähteet noudattavat omia käyttöehtojaan.

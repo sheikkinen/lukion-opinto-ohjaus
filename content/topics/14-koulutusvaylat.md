@@ -92,7 +92,7 @@ Lukion jälkeen on monta tietä. Kaikki ovat yhtä arvokkaita, eikä mikään ol
 - **Ammatillinen koulutus** antaa ammatin, ja sen voi suorittaa myös lukion jälkeen.
 - **Kansanopisto** on vapaan sivistystyön oppilaitos, jossa voi opiskella ilman tutkintoa esimerkiksi lukuvuoden verran.
 - **Välivuosi** on aika, jonka käytät työhön, matkustamiseen, harrastuksiin tai suunnitteluun.
-- **Varusmiespalvelus** on asevelvollisuus, joka koskee Suomen miespuolisia kansalaisia. **Naisten vapaaehtoinen asepalvelus** on naisille vapaaehtoinen. Asevelvollisella on myös mahdollisuus siviilipalvelukseen, josta kysytään opinto-ohjaajalta tai viranomaiselta. Palveluksen voi suunnitella osaksi omaa reittiä. Tietoa palveluksesta antaa [Intti.fi](https://intti.fi/).
+- **Asepalvelus tai siviilipalvelus.** **Asepalvelus** tarkoittaa tässä varusmiespalvelusta, joka on Suomen miespuolisten kansalaisten asevelvollisuus, tai **naisten vapaaehtoista asepalvelusta**, joka on naisille vapaaehtoinen. Asevelvollisella on myös mahdollisuus siviilipalvelukseen, josta kysytään opinto-ohjaajalta tai viranomaiselta. Palveluksen voi suunnitella osaksi omaa reittiä. Tietoa palveluksesta antaa [Intti.fi](https://intti.fi/).
 - **Työ** voi olla ensimmäinen askel, väliaikainen vaihe tai pitkä ura.
 - **Opiskelu tai työ ulkomailla** on oma polkunsa, josta kerrotaan toisessa aiheessa.
 
@@ -110,7 +110,7 @@ Korkeakouluihin valitaan usein yo-todistuksen perusteella. Yliopistojen käytän
 Siellä kerrotaan myös, että muitakin valintatapoja on, esimerkiksi valintakoe.
 
 Kansanopistoista saat yleiskuvan [Suomen Kansanopistoyhdistyksen sivulta](https://www.kansanopistot.fi/).
-Varusmiespalveluksesta ja naisten vapaaehtoisesta palveluksesta kerrotaan Intti.fi-sivustolla. Sivuston valikossa on myös kohta *Muut palvelusvaihtoehdot ja palveluksesta vapautetut*. Katso sieltä, löytyykö siviilipalvelusta koskevaa tietoa, tai kysy siitä opinto-ohjaajalta.
+Asepalveluksesta eli varusmiespalveluksesta ja naisten vapaaehtoisesta asepalveluksesta kerrotaan Intti.fi-sivustolla. Sivuston valikossa on myös kohta *Muut palvelusvaihtoehdot ja palveluksesta vapautetut*. Katso sieltä, löytyykö siviilipalvelusta koskevaa tietoa, tai kysy siitä opinto-ohjaajalta.
 Työn etsimiseen löydät apua [Työmarkkinatorilta](https://tyomarkkinatori.fi/).
 
 ### Miten vertailet reittejä?
@@ -159,7 +159,7 @@ Kirjaa nyt muistiin, mitä haluat vielä selvittää. Suunnitelma saa muuttua.
 
 **Aika:** 10 min
 **Tarvitset:** tämän sivun tekstin, puhelimen tai tietokoneen
-**Ilman laitetta:** Lue tapaukset tältä sivulta ja kirjoita kysymykset paperille.
+**Ilman laitetta:** Kopioi tapaus ensin paperille ja kirjoita kysymykset sen viereen. Voit myös keksiä paperille oman kuvitteellisen tapauksen.
 
 Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
@@ -207,7 +207,7 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoite:** jokainen opiskelija lähtee tunnilta kahden reitin vertailu, yksi selvitettävä asia ja yksi tutustumisidea mukanaan. Lyhyemmissä versioissa vertailu tehdään valmiiksi valituista koulutuksista ja siinä on vähemmän kysymyksiä. Kukaan ei kerro omia suunnitelmiaan ääneen, ellei itse halua.
+**Tavoite:** jokainen opiskelija lähtee tunnilta kahden reitin vertailu, yksi selvitettävä asia ja yksi tutustumisidea mukanaan. Lyhyemmissä versioissa vertailu tehdään valmiiksi valituista koulutuksista ja siinä on vähemmän kysymyksiä. 60 minuutissa tutustumisidea (Tehtävän 2 vaihe 4) jää kotiin. 45 minuutissa kotiin jäävät myös tutustumisidea, Tehtävä 3 ja Pohdinta. Kukaan ei kerro omia suunnitelmiaan ääneen, ellei itse halua.
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|

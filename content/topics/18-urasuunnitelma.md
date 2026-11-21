@@ -8,6 +8,7 @@ curriculum: [OP2.s1, OP2.s6, OP2.s7, OP2.t1, OP2.t2, OP.yt8, OP.yt2]
 law:
   - "Lukiolaki 714/2018 § 25"
   - "Lukiolaki 714/2018 § 26"
+  - "Valtioneuvoston asetus 810/2018 (arviointi: suoritettu S ja hylätty H)"
 suggested_timing: {year: 3, term: kevät}
 role: core
 duration_options: [45, 60, 75]
@@ -134,7 +135,7 @@ Tarkista kutsuntojen ja hakujen ajankohdat aina palvelujen omilta sivuilta.
 
 ### Arvioi omaa kehitystäsi
 
-Opinto-ohjauksen opinnot arvioidaan suoritettu tai hylätty. Arvioinnin perustana on oma itsearviointisi. Katso
+Opinto-ohjauksen opinnot arvioidaan suoritettu (S) tai hylätty (H) valtioneuvoston asetuksen 810/2018 mukaisesti. Arvioinnin perustana on oma itsearviointisi. Katso
 tämän aiheen lopuksi taaksepäin: mitä osaat nyt suunnittelusta, mitä et vielä? Se kertoo, miten taitosi ovat
 kehittyneet.
 
@@ -152,6 +153,7 @@ kehittyneet.
 2. Tarkista, sopivatko ne yhteen: esimerkiksi ovatko opinnot ja kokeet ajoitettu niin, että jatko-opinnot ovat mahdollisia.
 3. Merkitse kohdat, jotka eivät sovi yhteen tai joita ei ole vielä päätetty.
 4. Kirjoita muistioosi kaksi asiaa, jotka päivität, ja yksi kysymys opinto-ohjaajalle.
+5. Kirjoita lisäksi, mistä saisit tukea lukion jälkeen (esimerkiksi Ohjaamo, Opintopolun neuvonta tai opinto-ohjaaja) ja millä ehdoilla oikeus ohjaukseen jatkuu. Katso osio *Tukea lukion jälkeenkin*.
 
 ### Tehtävä 2: Tee suunnitelma A, B ja C
 
@@ -169,7 +171,7 @@ kehittyneet.
 
 **Aika:** 10 min
 **Tarvitset:** tapauskortit tai tämän sivun tekstin, puhelimen tai tietokoneen
-**Ilman laitetta:** Lue tapaukset tältä sivulta ja kirjoita vastaukset paperille.
+**Ilman laitetta:** Kopioi tapaus ensin paperille ja kirjoita vastaukset sen viereen. Voit myös keksiä paperille oman kuvitteellisen tapauksen.
 
 Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
@@ -226,7 +228,7 @@ sinne koulun ohjeen mukaan (esimerkki).
 **Tavoite:** jokainen opiskelija lähtee tunnilta HOPSin kolmen osan tarkistuksen (Tehtävä 1), suunnitelman A, B ja C
 (Tehtävä 2) ja tiedon tuesta lukion jälkeen. Lyhyemmissä versioissa tuotos on pienempi. 60 minuutissa kaikki tehdään,
 mutta ryhmätyö on yhdellä tapauksella. 45 minuutissa tuotos on HOPSin kolmen osan tarkistus, yhden lauseen päivitys,
-suunnitelmat A ja B sekä oman kehittymisen arvio (Tehtävän 2 vaihe 5). Suunnitelma C ja Tehtävä 3 jäävät kotiin. Kukaan ei kerro omia suunnitelmiaan ääneen, ellei itse halua.
+suunnitelmat A ja B, oman kehittymisen arvio (Tehtävän 2 vaihe 5) sekä tieto tuesta lukion jälkeen (Tehtävän 1 vaihe 5). Suunnitelma C ja Tehtävä 3 jäävät kotiin. Kukaan ei kerro omia suunnitelmiaan ääneen, ellei itse halua.
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -256,10 +258,10 @@ suunnitelmat A ja B sekä oman kehittymisen arvio (Tehtävän 2 vaihe 5). Suunni
 |---|---|---|---|---|---|
 | Virittäytyminen | 3 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jota ihminen voi odottaa lukion jälkeen, ja yhden, joka voi mietityttää. | Kerää laput ja lue muutama ääneen. Älä korjaa. | Sähköinen nimetön sanapilvi koulun omalla välineellä. | Lue vain kaksi lappua. |
 | Aiemman tiedon aktivointi | 4 | Kaksi väitettä yksin: "Suunnitelmaa ei saa muuttaa." "Lukion jälkeen oikeus ohjaukseen on kaikilla, jotka ovat käyneet lukion." Ei jaeta. | Molemmat väitteet ovat tarua. Ohjausväite: lukion jälkeen oikeus on vain sillä, joka on suorittanut oppimäärän eikä ole saanut opiskelupaikkaa tutkintoon johtavassa koulutuksessa, ja vain oppimäärän suorittamisvuotta seuraavan vuoden ajan. Kerro vastaukset heti. | – | Käsittele vain ohjausväite. |
-| Lyhyt alustus | 5 | Opiskelijat lukevat taululta HOPSin kolme osaa ja suunnitelman A, B ja C -mallin. Ei kirjoitettavaa. | Näytä lukiolain säännös ja Opintopolun neuvonta ja ohjaus -sivu (yhteystietoja, ei henkilökohtaista neuvontaa korkeakouluhakijoille). | Jaa lista paperilla. | Näytä vain Opintopolun sivu ja anna muut linkit tekstinä. |
+| Lyhyt alustus | 4 | Opiskelijat lukevat taululta HOPSin kolme osaa ja suunnitelman A, B ja C -mallin. Ei kirjoitettavaa. | Näytä lukiolain säännös ja Opintopolun neuvonta ja ohjaus -sivu (yhteystietoja, ei henkilökohtaista neuvontaa korkeakouluhakijoille). | Jaa lista paperilla. | Näytä vain Opintopolun sivu ja anna muut linkit tekstinä. |
 | Työskentely | 24 | Tehtävä 1 (15 min) ja Tehtävän 2 vaiheet 1–2 eli suunnitelmat A ja B (9 min). | Kierrä ja kysy avoimia kysymyksiä. Älä ehdota "oikeaa" reittiä. Anna tyhjä kolmen otsikon paperi opiskelijalle, jolla ei ole HOPSia. | Paperipohja ilman laitetta. | Tehtävä 2 kotiin. Tehtävä 1 tehdään aina. |
-| HOPS-askel ja exit | 7 | Opiskelijat kirjaavat HOPSiin yhden lauseen päivityksen jokaiseen kolmeen osaan (Tehtävä 1) ja kirjoittavat omaan muistioonsa kaksi asiaa, jotka osaavat nyt paremmin, ja yhden taidon, jota vahvistavat (Tehtävä 2, vaihe 5). Suunnitelma C ja Tehtävä 2 loppuun kotona. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan lukion jälkeen (esimerkki). Muistuta, että HOPS on koulun kanssa jaettu: terveyttä, perhettä tai taloutta ei kirjata. | Kirjaus paperille. | Kirjaus loppuun kotona. Tehtävä 3, Pohdinta ja exit sähköisesti tunnin jälkeen. |
-| Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
+| HOPS-askel ja exit | 9 | Opiskelijat kirjaavat HOPSiin yhden lauseen päivityksen jokaiseen kolmeen osaan (Tehtävä 1) ja kirjoittavat omaan muistioonsa kaksi asiaa, jotka osaavat nyt paremmin, ja yhden taidon, jota vahvistavat (Tehtävä 2, vaihe 5). Suunnitelma C ja Tehtävä 2 loppuun kotona. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan lukion jälkeen (esimerkki). Muistuta, että HOPS on koulun kanssa jaettu: terveyttä, perhettä tai taloutta ei kirjata. | Kirjaus paperille. | Kirjaus loppuun kotona. Tehtävä 3, Pohdinta ja exit sähköisesti tunnin jälkeen. |
+| Puskuri | 1 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 
 ### Valmistelu

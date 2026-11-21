@@ -8,7 +8,8 @@ export const meta = {
   ],
 }
 
-const ROOT = (args && args.root) || 'C:\\src\\lukion-opinto-ohjaus'
+const ROOT = args && args.root
+if (!ROOT) throw new Error('args.root (the project folder) is required')
 const BRIEF = args && args.brief
 const ASPECTS = (args && args.aspects) || []
 if (!BRIEF || !ASPECTS.length) throw new Error('args.brief and args.aspects are required')

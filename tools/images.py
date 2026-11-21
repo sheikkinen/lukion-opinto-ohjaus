@@ -31,7 +31,7 @@ if str(ROOT) not in sys.path:
 
 from pipeline.images import IMG_DIR, RUN_LOG, Entry, Manifest, load_manifest  # noqa: E402
 
-GAME_ENGINE = Path(os.environ.get("GAME_ENGINE_DIR", r"C:\src\game-engine"))
+GAME_ENGINE = Path(os.environ.get("GAME_ENGINE_DIR", "game-engine-not-set"))  # the game-engine checkout
 MAX_BYTES = 195_000  # the brief says under 200 KB; stay clear of the line
 LOSSY_QUALITIES = (92, 85, 78, 70, 62, 54, 46, 38)
 NO_SEED = ("nano-banana",)  # models that take no seed; the run log records null

@@ -8,6 +8,7 @@ curriculum: [OP1.t2, OP1.t3, OP1.s1, OP1.s8]
 law:
   - "Lukiolaki 714/2018 § 25"
   - "Lukiolaki 714/2018 § 26"
+  - "Valtioneuvoston asetus 810/2018 (arviointi: suoritettu S ja hylätty H)"
 suggested_timing: {year: 1, term: syksy}
 role: core
 duration_options: [45, 60, 75]
@@ -85,7 +86,7 @@ Lukio-opinnot jaetaan **opintojaksoihin**. Arjessa niitä kutsutaan usein kursse
 Opinnot jakautuvat kolmeen ryhmään:
 
 - **Pakolliset opinnot** kuuluvat kaikille.
-- **Valtakunnalliset valinnaiset opinnot** ovat yhteisiä kaikille lukioille. Niihin kuuluvat syventävät ja soveltavat opintojaksot.
+- **Valtakunnalliset valinnaiset opinnot** ovat valtakunnallisesti määriteltyjä. Koulu päättää, mitkä niistä se tarjoaa.
 - **Koulukohtaiset opinnot** ovat valinnaisia, ja ne vaihtelevat koulun mukaan.
 
 Lisäksi voit tehdä opintoja muissa oppilaitoksissa, jos koulusi sallii sen. Kysy asiasta opinto-ohjaajalta. Montako opintopistettä tarvitset, näet [Opetushallituksen sivulta](https://www.oph.fi/fi/koulutus-ja-tutkinnot/lukiokoulutus) ja koulusi opinto-oppaasta. Opintojen aikataulu, jaksot ja kurssitarjotin ovat koulun omia käytäntöjä (esimerkki).
@@ -144,7 +145,7 @@ Kaikki reitit lukion jälkeen ovat yhtä arvokkaita. Ammattikorkeakoulu, yliopis
 
 **Aika:** 10 min
 **Tarvitset:** tämän sivun tapaukset (tai tapauskortit, jos ohjaaja jakaa ne), oman muistion
-**Ilman laitetta:** Lue tapaukset tältä sivulta tai kopioi ne paperille ja kirjoita vastaukset paperille.
+**Ilman laitetta:** Keksi paperille oma kuvitteellinen lukion aloittaja ja kirjoita hänestä yksi lause. Tee sitten vaiheet 2–4 hänelle. Voit käyttää myös sivun tapauksia.
 
 Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
@@ -267,13 +268,13 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö olisi viisasta ottaa vähemmän 
 - *moduuli* = opintojakson osa
 - *opintopiste* = mitta, jolla opintojen laajuus lasketaan
 - *pakollinen* = pitää tehdä
-- *valtakunnallinen valinnainen* = opintojakso, jonka voi valita ja joka on sama kaikissa lukioissa (esimerkiksi syventävä tai soveltava)
+- *valtakunnallinen valinnainen* = valinnainen opintojakso, jonka sisältö on määritelty valtakunnallisesti ja jonka koulu voi tarjota
 - *oppimäärä* = kaikki opinnot, jotka lukion suorittamiseen kuuluvat
 - *HOPS* = oma suunnitelma opinnoista ja tulevaisuudesta
 
 **Lukeminen, keskittyminen ja jännitys:** Opinto-opas on pitkä. Lue siitä vain ne kolme opintojaksoa, jotka kartta vaatii. Jos lukion alku jännittää, kysy ensin yksi pieni asia, esimerkiksi mistä lukujärjestyksesi löytyy. Kaikki eivät tiedä kaikkea heti.
 
-**Ilman laitetta:** Kaikki tehtävät toimivat paperilla yksin: kolmen laatikon kartta ja lappulista. Tapaukset ovat tällä sivulla, ja voit kopioida ne paperille.
+**Ilman laitetta:** Kaikki tehtävät toimivat paperilla yksin: kolmen laatikon kartta ja lappulista. Kolmanteen tehtävään keksit oman kuvitteellisen tapauksen.
 
 **Tuki:** Oppimisen tuen säännöt uudistuivat. Katso Opetushallituksen sivu [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja koulusi oma käytäntö (esimerkki).
 
