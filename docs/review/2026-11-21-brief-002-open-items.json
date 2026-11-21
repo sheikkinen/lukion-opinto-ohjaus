@@ -1,0 +1,303 @@
+{
+ "source": "build-site run wf_3a311bdf-ec8, final recheck (round 2) and the judgement",
+ "must_fix": [
+  {
+   "check": "curriculum",
+   "what": "Wrong term for a national study category. The text says 'Valtakunnalliset syventävät opinnot ovat valinnaisia'. The curriculum's own assessment text (4.x, from the API) calls them 'valtakunnalliset valinnaiset opinnot'. These include syventävät and soveltavat modules. The same wrong label is repeated in the Tehtävät step 2 box list and in school_adapts ('Koulukohtaiset syventävät ja soveltavat').",
+   "where": "content/topics/01-lukio-alkaa.md lines ~87-89, ~126 and school_adapts line ~53",
+   "owner": "content",
+   "evidence": "API text: 'pakollisista opinnoista ja valtakunnallisista valinnaisista opinnoista annetaan numeroarvosanat lukuun ottamatta opinto-ohjauksen opintojaksoja'. Topic line 88: 'Valtakunnalliset syventävät opinnot ovat valinnaisia ja yhteisiä kaikille lukioille.'"
+  },
+  {
+   "check": "curriculum",
+   "what": "Year placement is stated as fact in student-facing body text, against curriculum rule 3 and the contract (timing is only an example). OP2 may be placed in other years.",
+   "where": "content/topics/10-suunnitelmien-paivitys.md lines ~97, 143, 149 ('Ensimmäisen vuoden suunnitelmat olivat luonnoksia', 'viime vuonna'); also 07-ylioppilastutkinto.md line ~118 ('Ensimmäisen vuoden yo-suunnitelma on luonnos')",
+   "owner": "content",
+   "evidence": "suggested_timing is only shown as 'esimerkki, koulu päättää' by pipeline/views_topic.py:31, but the body says 'Lue, mitä kirjoitit viime vuonna'. Reword to 'aiemmat suunnitelmasi' / 'edellinen versio'."
+  },
+  {
+   "check": "pedagogy",
+   "what": "The 45-minute plan (and the 60-minute plan where only some students get to it) drops Tehtävä 2. Tehtävä 2 is the task that delivers the lesson's own goal and a core outcome, but the plan's Tavoite still promises it. Topics 15 and 18 handle this honestly (their Tavoite says shorter versions give a smaller product). The others should do the same, or the short plans should be rebuilt.",
+   "where": "content/topics/08, 10, 11, 13, 17 (also 02, 03, 12) – ## Tuntisuunnitelma, ### 45 min",
+   "owner": "content",
+   "evidence": "08: Tavoite says the student 'on kokeillut lähteen arviointia', but source evaluation is only in Tehtävä 2 and in 45 min only Tehtävä 1 is done. 11: goal is 'yhden konkreettisen kuvauksen' (Tehtävä 2), not done in 45 min. 13: goal is 'hakemuksen avauskappale' (Tehtävä 2), 45 min has only Tehtävä 1 and in 60 min only fast students start Tehtävä 2. 17: goal is 'karkean budjettipohjan' (Tehtävä 2), dropped in 45 min. 10: goal is to update the whole HOPS, 45 min updates only the yo part. 02 and 03 lose the source-evaluation outcome and the group-work outcome."
+  },
+  {
+   "check": "pedagogy",
+   "what": "The 45-minute (and some 60-minute) phase lengths are not realistic. The 45-minute plan allots 3 min to writing, collecting and reading notes, and 3 min to pair discussion plus the reveal of two claims. It also allots 5 min to a 'Lyhyt alustus' that includes showing several websites and students writing down several lists. The plan also gives each task exactly its own time as the work-phase length, with no time for devices or moving around. In the 60 and 45 variants the 'Jos aika loppuu' cell is replaced by a generic line, 'Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen', where the 75-minute row has a topic-specific cut. There are no links to give for those phases.",
+   "where": "content/topics/ all 18 – ### 45 min and ### 60 min, rows Virittäytyminen, Aiemman tiedon aktivointi, Lyhyt alustus; worst in 07, 08, 14, 16",
+   "owner": "content",
+   "evidence": "08 (45 min): 5 min to show Opintopolku, Yliopistovalinnat, Ammattikorkeakouluun.fi, Työmarkkinatori and Ohjaamo, and students write 4 + 4 items. 14 (45 min): 6 sites in 5 min. 16 (45 min): 3 sites plus 5 questions in 5 min. 07 (45 min): rules, the YTL tool, the school's own deadline and where fees are checked in 5 min. All topics: Aiemman tiedon aktivointi 3 min for two claims discussed in pairs, then answers shown from official pages."
+  },
+  {
+   "check": "pedagogy",
+   "what": "HOPS is a document shared with the school, but only some topics warn students about what to write in it. Topics 02 and 03 tell students to write into HOPS something that can disclose a support need or home situation, with no caution. Topic 05 explicitly says to write only what you want to share, and topics 04, 06 and 17 limit what goes in. The caution should be uniform.",
+   "where": "content/topics/02 and 03 – ## Itseopiskelun askel (HOPSiin) and the HOPS-askel row of the plans; also 01, 09, 12, 13",
+   "owner": "content",
+   "evidence": "02: 'Kirjoita HOPSin osaan opiskelusuunnitelma yksi opiskelutapa… ja yksi asia, jossa haluat tukea.' 03: '…yksi asia, josta haluat keskustella ohjaajan kanssa', and the HOPS entry is 'yksi muutos, jonka teet viikkoosi' (work, sleep, travel). Compare 04: 'Älä kirjoita siihen terveystietoja' and 05: 'HOPS on koulun kanssa jaettu asiakirja… kirjaa siihen vain se, minkä haluat itse jakaa'."
+  },
+  {
+   "check": "pedagogy",
+   "what": "The 'Ilman laitetta' alternative in topics 08–18 relies on the counsellor printing material, so a student on the self-study path without a device cannot do it. This breaks the stand-alone offline alternative the contract asks for.",
+   "where": "content/topics/08, 09, 12, 14, 15, 16, 17 (also 01 and 02) – ## Tehtävät, **Ilman laitetta** of Tehtävä 1 and 2",
+   "owner": "content",
+   "evidence": "08 T1: 'Pyydä opinto-ohjaajalta tulostetut tiedot muutamasta koulutuksesta'. 12 T1: 'Pyydä opinto-ohjaajalta muutama tulostettu ammattikuvaus'. 14 T1, 15 T1, 16 T1, 17 T1: the same pattern. 02 T2: 'Pyydä opinto-ohjaajalta tulostettu lista koulun tukimuodoista'. By contrast 03–07 work on paper alone."
+  },
+  {
+   "check": "pedagogy",
+   "what": "Tasks that do not fit the stated minutes. The times 15, 10 and 10 are identical in all 18 topics, whatever the task. For the tasks below, the work in the steps clearly takes more time or has unstated parts.",
+   "where": "content/topics/12 T1; 18 T2; 06 T1; 02 T1; 05 T2; 08 T2",
+   "owner": "content",
+   "evidence": "12 T1 (15 min): open Työmarkkinatori, choose two occupations, read both, assess technology and economic change for both, write 3 things and a question. 18 T2 (10 min): plan A, B and C, a check for each, a wellbeing item, a skill, a first step and a date. 06 T1 (15 min): a table of the whole first year's modules from a course tray the student may see for the first time. 02 T1 (15 min): the listed minutes sum to about 14 before the unstated 'odota hetki' and the unstated time for writing summary B, and the procedure is confounded (different paragraphs, immediate recall). 05 T2 (10 min): rank 3 values, write examples, and read an external page. 08 T2: search, evaluate and rate yourself in 10 min."
+  },
+  {
+   "check": "pedagogy",
+   "what": "Contract item missing: the lesson plan's assumption check must be gender-aware and non-segregating. The check in topics 16 and 17 never mentions gender (or any non-segregation question), and topic 10 only implies it ('kuka valitsee pitkän matematiikan…').",
+   "where": "content/topics/16, 17, 10 – ### Pelisäännöt ja oletusten tarkistus",
+   "owner": "content",
+   "evidence": "16: asks only about means, language background and generalising about cultures. 17: family means, bank account, own device, and 'tietyistä aloista tai asumismuodoista tietyille opiskelijoille'. 10: does not say gender at all. In the other topics the check includes 'Puhunko tytöistä ja pojista…' or 'tiettyä sukupuolta'."
+  },
+  {
+   "check": "pedagogy",
+   "what": "Outcomes that the tasks do not practise.",
+   "where": "content/topics/13 (## Opiskelijalle, Osaan 3); 17 (Osaan 2); 10 (Osaan 1 and 3)",
+   "owner": "content",
+   "evidence": "13: 'Osaan kirjoittaa työhakemuksen ensimmäisen version', but Tehtävä 2 writes one sentence and two examples (the self-study step calls it 'avauskappale'). 17: 'tarkistaa siihen tarvittavat luvut virallisilta sivuilta', but the budget task uses only 'pieni/keskisuuri/iso' and made-up figures, and Tehtävä 1 only lists the parts of student aid. 10: 'päivittää HOPSini kolme osaa' and 'hakea erityisjärjestelyjä' are only partly done in the tasks."
+  },
+  {
+   "check": "pedagogy",
+   "what": "The open-question banks are written in the second person and ask students about personal matters (wellbeing, strengths, values, money), while the ground rules say nobody discloses. The plan does not say whether the questions are for private writing, a voluntary pair, or the whole group.",
+   "where": "content/topics/04, 05, 17 (also 01, 03) – ### Avoimet kysymykset",
+   "owner": "content",
+   "evidence": "05: 'Missä tilanteessa olet viimeksi onnistunut jossain, mistä olit ylpeä?' and 'Mikä sinulle on tärkeää, vaikka se ei näy arvosanoissa?'. 04: 'Miten tunnistat, että kuorma alkaa olla liian suuri?'. 17: 'Mikä rahassa yllätti sinut tänään?'. The ground rule says 'Kukaan ei kerro tunnilla omia vahvuuksiaan, arvojaan…'."
+  },
+  {
+   "check": "pedagogy",
+   "what": "The text about unpaid work can mislead. It tells the student that being asked to work without pay is a warning sign and to tell a trusted adult. The same topic and the same site recommend volunteering, trainee periods and work experience (all unpaid), and the glossary defines 'koetyö' as a short trial period without saying when it is allowed. A student cannot tell which situations are fine.",
+   "where": "content/topics/13 – ## Opiskelijalle ### Oikeudet työssä; Tehtävä 3 (Alex); Eriyttäminen glossary; ## Milloin opinto-ohjaajalle bullet 4",
+   "owner": "content",
+   "evidence": "'Jos sinulta pyydetään työtä ilman palkkaa, tehtävä tuntuu vaaralliselta tai sinua kohdellaan epäasiallisesti…, vika ei ole sinussa.' compared with the same page: 'Kesätyö, osa-aikatyö, harjoittelu tai työelämään tutustuminen' and 'Vapaaehtoistyö'. Link to the official guidance on what counts as paid work and what is unpaid training, and say what to ask."
+  },
+  {
+   "check": "pedagogy",
+   "what": "Topics 10 and 18 assume that every student has last year's HOPS or plan and bring it to class, and give no fallback for a student who has none (new to the school, lost the plan, did not do 07). The alternatives only say 'paperipohja'.",
+   "where": "content/topics/10 (### Valmistelu, Tehtävä 1 and 2); 18 (### Valmistelu, Tehtävä 1)",
+   "owner": "content",
+   "evidence": "10: 'Pyydä opiskelijoita tuomaan HOPSinsa tai viime vuoden suunnitelma'. 18: 'Pyydä opiskelijoita tuomaan oma HOPS tai muistiinpanot aiemmista aiheista'. Tehtävä 1 in both starts with 'Lue viime vuoden yo-suunnitelmasi' or 'Avaa HOPSisi kolme osaa'."
+  }
+ ],
+ "minor": [
+  {
+   "check": "curriculum",
+   "minor": "07-ylioppilastutkinto.md: law list includes 'Laki ylioppilastutkinnosta 502/2019', which is correct. The three-consecutive-sittings rule is stated without noting the extension for a failed exam or illness (YTL page); the body links to the YTL page, so acceptable."
+  },
+  {
+   "check": "curriculum",
+   "minor": "18-urasuunnitelma.md ~line 91-130 and content/pages/opetussuunnitelma.md: post-graduation guidance is said to be the responsibility of 'lukio, joka antoi päättötodistuksen'. The law says 'koulutuksen järjestäjä, jonka oppilaitoksessa oppimäärä on suoritettu'. The law also limits the scope to 'opintoihin hakeutumiseen ja urasuunnitelmiin liittyvää ohjausta'. Consider using the law's wording. Same in 01-lukio-alkaa.md ~line 105."
+  },
+  {
+   "check": "curriculum",
+   "minor": "08-tietolahteet.md cites OP1.t7 ('ymmärtää, miten tehdyt valinnat vaikuttavat mahdollisuuksiin hakeutua') but neither the Osaan outcomes nor the body teach how choices affect admission. 07 and 09 serve t7, so drop it from 08 or add an outcome."
+  },
+  {
+   "check": "curriculum",
+   "minor": "11-osaaminen.md cites OP2.t2 (deepen self-knowledge and life planning and management skills), but the outcomes cover identifying, verbalising and documenting competence and work-life skills. The link is thin. 17-talous-ja-asuminen.md cites OP2.t2 and OP2.s6 only through one 'Raha ja hyvinvointi' paragraph. 15-haku-ja-valinta.md is the only topic serving OP2.s8 (current matters for upper secondary studies) via 'tarkista ajankohtaiset hakuasiat'. Coverage is formally met but thin; consider a clear outcome or section for each."
+  },
+  {
+   "check": "curriculum",
+   "minor": "Module pages say 'Jokainen aihe on yksi oppitunti' with 9 topics per module. The curriculum sets 2 credits (about 28 hours at 45-minute lessons) and also personal and small-group guidance. Add one line that the lessons are a backbone and not the whole module's guidance, so the site does not suggest nine lessons equal two credits."
+  },
+  {
+   "check": "curriculum",
+   "minor": "OP.yt coverage rests on single topics for several aims: yt1 only in 02, yt3 only in 03, yt5 only in 05, yt9 to yt11 only in 08, yt7 in 08 and 15. This is fine for the build check but fragile if a topic is cut."
+  },
+  {
+   "check": "curriculum",
+   "minor": "Not verified here: the claim in 05-itsetuntemus.md that the Työmarkkinatori page mentions Oma Osaamispolku and Urataidot, and the Europass tool descriptions in 11 and 12. These belong to the facts checker. The ePerusteet record's 2026-05-22 amendment is also still unverified, as the research notes; the OP wording matches the API today."
+  },
+  {
+   "check": "curriculum",
+   "minor": "Pages that could not be read: none required. Finlex's consolidated page 2018/714 returned only navigation through WebFetch; the original-text page 2018/714 under saadoskokoelma was read via curl."
+  },
+  {
+   "check": "facts",
+   "minor": "content/topics/17-talous-ja-asuminen.md line 117: the text sends students to Kela's yleinen asumistuki 'jos asut yhdessä muiden kanssa tai omillasi'. Kela's page says 'Jos opiskelet, et yleensä voi saada yleistä asumistukea' and points most students to the opintotuen asumislisä. The link is misleading for students; add the exception (the page lists child, other benefits, studies interrupted) or lead with the opintotuki page and link yleinen asumistuki as the exception."
+  },
+  {
+   "check": "facts",
+   "minor": "content/topics/14-koulutusvaylat.md line 95 and data/yearly-facts.yaml civil_service: the sentences about siviilipalvelus are backed only by intti.fi. The homepage does not mention civil service (only a menu link 'Muut palvelusvaihtoehdot'). The yaml note admits this. Either name the page that does (the 'muut palvelusvaihtoehdot' subpage on intti.fi) or weaken the sentence to what intti.fi supports."
+  },
+  {
+   "check": "facts",
+   "minor": "content/topics/07-ylioppilastutkinto.md (official_links, lines ~146 and ~206) and data/yearly-facts.yaml todistusvalinta_tables: the topic links yliopistovalinnat.fi/todistusvalinnan-pisteytykset-vuodesta-2026, a year-labelled address, while the yaml note says year-labelled addresses are not used as permanent links and chooses yliopistovalinnat.fi/todistusvalinta. The page does say it applies 'vuodesta 2026 eteenpäin' but will go stale; link yliopistovalinnat.fi/todistusvalinta instead, which also states the Vipunen pointer and the table structure."
+  },
+  {
+   "check": "facts",
+   "minor": "content/topics/02-opiskelutaidot.md line 93 (and the 14 other places citing https://www.oph.fi/fi/oppimisen-tuen-uudistus): the sentence 'Lukiolaisella on oikeus oppimisen tukeen ja tarvittaessa erityisopetukseen. Tuen säännöt löydät OPH:n sivulta' is backed by a page that says only that the support system was reformed and does not state the right. The right is in the OPH news item (tiedote 20.3.2025, in force 1.8.2025, which is cited in 16, 17, 18) and in Lukiolaki §28 and §28a. Point the sentence at the news item or the law, or keep the page link only for 'where to read more'."
+  },
+  {
+   "check": "facts",
+   "minor": "data/yearly-facts.yaml notes are stale or inconsistent with what can be read. (a) joint_application_windows and admission_results_dates say the hakuaikataulut page content was not opened; in Chrome it renders fully, with application windows and results dates for 2027, so the 'not opened' note and the fallback link are unnecessary. Note too that topic 15 line 97 'Sieltä löydät myös tiedon siitä, milloin tulokset julkaistaan' is in fact supported. (b) guidance_services says WebFetch showed nothing but Chrome confirmed it; content does match: Opintopolku 'Mistä saan koulutusneuvontaa?' says it gives no personal guidance to higher-education applicants. (c) The learning_support_rules note contains the dates 20.3.2025 and 1.8.2025; they are correct per the OPH news item but are figures typed in data, so mark them stable_figures or drop them. (d) study_right_rule is cited by no topic, its rule is deliberately generic and its url is only the Opintopolku front page. Remove it or find a real OPH page before any topic states a study-right rule."
+  },
+  {
+   "check": "facts",
+   "minor": "content/topics/07-ylioppilastutkinto.md Tehtävä 1: the ILMO tool page (ilmo.ylioppilastutkinto.fi) is described on the page as a trial of 'kevään 2022 voimaan tulevan tutkintorakenteen' and as indicative; it says inputs are not forwarded to the register. It is usable (the 2022 structure is the current one) and does not collect personal data, but the task should tell students that the result is indicative and the date-bound wording is old."
+  },
+  {
+   "check": "facts",
+   "minor": "data/yearly-facts.yaml international: the Euroguidance page (oph.fi/en/development/euroguidance-supports-guidance-professionals) is for guidance professionals and is not used in any body text; it appears only in Lähteet. Consider the OPH Kansainvälistymispalvelut yksilöille page, which topic 16 already uses; note that page covers mainly higher-education student traineeships and Erasmus-type schemes, not general student exchange or degrees abroad, so a topic 16 sentence about studying abroad should not rest on it alone."
+  },
+  {
+   "check": "facts",
+   "minor": "content/pages/opetussuunnitelma.md official_links: the two OPH guidance pages (henkilokohtainen-ohjauskeskustelu, moninaisuutta-arvostava) are listed with read dates but the body never cites them (only generated Lähteet). The first page describes four phases and does not mention pienryhmäohjaus (the research file credits it with small-group guidance, which the page does not state). Fine as sources; do not use them to back a claim about small-group guidance."
+  },
+  {
+   "check": "facts",
+   "minor": "YTL pages give two enrolment-window phrasings: the ilmoittautuminen page says 1.12. and 5.6.; the kokeiden-uusiminen page says 'marraskuun puolessa välissä' and 'toukokuun lopussa'. No topic types either, so there is no site defect; the linked-only treatment is right. Tutkintomaksut page shows euro fees per semester (typed nowhere) and the 12.11.2026 article on the page is unrelated to its date, so none of the YTL pages carry their own update date; the 'read' date is the only date a reader gets."
+  },
+  {
+   "check": "facts",
+   "minor": "Tutkinnon aineet/taito- ja taideaineet: the page says the new tests start in autumn 2029 and are one option among the five required tests. Topic 07 says only that YTL 'valmistelee' them and tells the student to check the schedule. That is accurate and keeps the year out of the text."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "01 Eriyttäminen: the 'Helpompi polku' says to do Tehtävä 2 with three sentence starters ('Kysyn apua keneltä…', 'Tiedot löytyvät…'), but those belong to Tehtävä 1 (the map), not to the ranking task."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "01 Milloin opinto-ohjaajalle: 'et ole löytänyt koulun ajankohtaisia asioita… vaikka olet etsinyt niitä kaksi viikkoa' is too long for a first-week student without a timetable; the two-week formula is applied mechanically (also 'et tiedä, mitä haluat lukion jälkeen… yli kaksi viikkoa' appears in 01, 08, 11, 12 where it conflicts with 'sinun ei tarvitse tietää')."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "02 and 03, 45 min, Pari-row: the counsellor cell says 'Kirjoita kysymykset taululle', but the groups write proposals or work methods ('ehdotukset', 'työtavat'), not questions (copy residue)."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "02 vs 08: source evaluation uses three questions in 02 (kuka, milloin, mihin tarkoitukseen) and four in 08 (adds 'voitko tarkistaa'); the second looks like an extension but is not labelled as one."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "02 Opiskelijalle heading 'Erilaisia tapoja oppia' echoes the learning-styles myth; the text itself is fine, but a heading like 'Tapoja opiskella' would avoid it."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "04 Tehtävä 3 and 01, 02, 04, 05: the recurring names Ilona and Eemil get recurring roles. Ilona is the diligent over-achiever who burns out (01, 04) or crams late (02); Eemil does not want to bother anyone (04) or studies poorly (02). This is a faint echo of gender stereotypes; swap names or use Alex or Mira for the help-avoidant case. Ilona and Eemil also appear in almost every topic with different traits, which may confuse."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "04 outcome 3 ('…ja luottaa omiin keinoihini'), 08 outcome 4 and 16 outcome 4 ('Osaan toimia… kohteliaasti / monikulttuurisessa ympäristössä') are feelings or behaviour that a student cannot check alone, contrary to style guide section 4."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "05 'tilin hoitaminen' in the Osaaminen examples is ambiguous (bank account, social-media account, game account?)."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "05, 09 and 11 Itseopiskelun askel / plan: 05 says HOPS entry is optional, 09 and 11 present it as expected; the style is uneven on how obligatory the entry is."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "05 and 11 overlap strongly (strengths list vs. osaamislista, nearly the same task and cases); 09 and 14 have near-identical Tehtävä 1 ('Tutustu kahteen reittiin') and 01 and 06 both explain HOPS and use a similar 'what use is HOPS to me' case (Niko in 01, Ilona in 06). Consider differentiating."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "09 Virittäytyminen alternative 'Käden nosto: tunnen jonkun, joka tekee tällaista työtä' and 11 'Käden nosto: olen joskus aliarvioinut itseäni' make private matters public; the first also contradicts 09's own assumption check about 'perhe tai tuttava'."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "09, 14 and 15 are heavy on higher education: in 15 the toisen asteen yhteishaku, kansanopisto application and service get one sentence each, while todistusvalinta, valintakoe and ensikertalaiskiintiö get most of the text. Lists of routes in 09 start with yliopisto although the counsellor is told not to rank."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "12 Opiskelijalle: 'vanhempiesi tai isovanhempiesi aikana' assumes parents and grandparents; the glossary says 'itsenäinen ammatinharjoittaja' but the body says 'Itsenäinen työ usealle tilaajalle'; 'freelancer' appears with a gloss (acceptable) but the style guide asks for Finnish."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "12 and 13 Milloin opinto-ohjaajalle: 12 has the unpaid-work trigger but no link to the workplace-safety authority, which 13 has; 08 has a trigger about being insulted online but no help link for it."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "13 'Oikeudet työssä' is a single long paragraph (about 90 words) with a compound sentence of about 30 words; split it for plain Finnish."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "15 Opiskelijalle: 'Opintopolku ei anna heille henkilökohtaista opinto- tai uraneuvontaa' is ambiguous ('heille' follows a sentence about hakijapalvelut). 15 also recommends Vipunen for previous years' cut-off points; check that this page is the right place (the research report says Vipunen could not be read)."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "16 and 17 Eriyttäminen/Tuki and 18: the link goes to a dated news item (oph.fi/fi/uutiset/2025/…) while topics 01–15 link the stable page oppimisen-tuen-uudistus; the style guide says stable parent pages only. 16, 17 Exit rows lack the 'nimetön tai nimellä, opiskelija valitsee' wording used elsewhere (16 and 17 say only 'yksi kysymys ohjaajalle'); 18 says 'Nimetön exit riittää' in the rules but 'nimetön tai nimellä' in the table."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "16 Opiskelijalle links Euroguidance, an English-language page meant for guidance professionals, in student text. 17 uses the colloquial 'kimppakämppä'."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "17 Milloin opinto-ohjaajalle / Apua: Takuusäätiö is linked as 'maksuton raha- ja velkaneuvonta'; check that the page offers a free service in this sense or link the statutory service."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "All 18 Eriyttäminen: the S2 sentence ('Käy sanasto läpi ennen tehtäviä. Tee halutessasi sanataulukko…') and 'Lukeminen, keskittyminen ja jännitys' are near-identical boilerplate in every topic, and the section mixes audiences (counsellor: 'Anna sääntölista yhdellä sivulla'; student: 'Kirjaa HOPSiin lause'). The glossary is real support, but S2 and anxiety support is generic. Easier and deeper paths are real and task-specific."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "All 18 Tehtävä 3 titles are noun phrases ('Kuvitteelliset aloittajat'); the style guide asks for a verb-led title (the sample 07 does the same)."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "All topics: the 'Aiemman tiedon aktivointi' true/false claims have no answer key for the counsellor in about half of the topics (02, 03, 04, 05, 06 only say the claims open a discussion). Topic 01 is the only one that spells out the correct answer for the legally tricky claim."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "07 (sample): the 90-minute table has terse cells compared with 75, 60 and 45; its 'Vertaispalaute' phase has students look at each other's timetables, which sits awkwardly with 'Kukaan ei kerro koeyhdistelmäänsä ryhmälle'. 07 is otherwise the model of voice, structure and privacy that 01–06 and 08–18 follow well."
+  },
+  {
+   "check": "pedagogy",
+   "minor": "Positive: plain, correct Finnish with no spelling or grammar errors found in the sampled passages; sentence length is fine (the 'long sentences' a script reported are list artefacts); tasks are concrete, with one real official tool in each; every 'Milloin opinto-ohjaajalle' list has measurable triggers (two weeks, two weeks to a deadline, school absence over a week) and dated help links; topics 04, 05 and 18 open with a crisis line; no real people are named."
+  },
+  {
+   "check": "browse",
+   "minor": "Without JavaScript the 18 'Merkitse tehdyksi' buttons on /polku/ and the one on each topic page stay visible but do nothing. Only the controls marked data-js-only are hidden. They should carry data-js-only or be hidden unless the html element has the js class."
+  },
+  {
+   "check": "browse",
+   "minor": "/opetussuunnitelma/ prints the curriculum publication date as 2026-05-22, while the rest of the site writes dates as 21.11.2026 or 22.5.2026."
+  },
+  {
+   "check": "browse",
+   "minor": "On /polku/ the sentence 'Ilman JavaScriptiä polku on tavallinen lista' is also shown when JavaScript is on. It is harmless but redundant."
+  },
+  {
+   "check": "browse",
+   "minor": "In the 3-column metadata grid of the lesson view at 1366 px, the long word 'ylioppilastutkintosuunnitelma' breaks mid-word ('...suunnitelm / a'). The topic view at 1366 px has the same break. Adding overflow-wrap or hyphens, or a wider column, would fix it."
+  },
+  {
+   "check": "browse",
+   "minor": "The 63-page OP1 print-out is long. Check that the 60 and 45 minute variants are really wanted in the print view."
+  },
+  {
+   "check": "gates",
+   "minor": "_site/.nojekyll is an empty marker file for GitHub Pages, not a resource; it does not count as an external resource."
+  },
+  {
+   "check": "gates",
+   "minor": "_site contains plain <a href> links to about 24 external hosts (Opetushallitus, YTL, Opintopolku, Kela, Finlex and others). These are allowed as plain links under the content contract, but they are the links the facts and link checks will need to confirm."
+  },
+  {
+   "check": "gates",
+   "minor": "The build ran with 0 errors and 0 warnings; the gate ran without --partial, as CI does."
+  }
+ ],
+ "judge_remaining": [
+  "Some body text still states the school year as fact ('Ensimmäisen vuoden', 'Toisena opiskeluvuonna', 'viime vuonna') in topics 07:118 and 239, 09:209 and 10:97, 143 and 149. Add 'esimerkiksi' or rephrase.",
+  "Topics 07:84 and 155 and 10:132 say the school deadline is 'aina' before the YTL deadline. Write 'yleensä'.",
+  "The ILMO tool in topics 07 and 10 is not described as giving only an indicative result.",
+  "The 'Tuki' link in topics 16, 17 and 18 points to a 2025 OPH news page instead of the stable 'Oppimisen tuen uudistus' page.",
+  "The 'suoritusmerkintä (S tai H)' label is hard-coded in pipeline/views_site.py with no source (asetus 810/2018 § 17).",
+  "Wording fixes: 13:73 'tunnuksia', the 13:184 Tavoite sentence, and the 17:116 yleinen asumistuki sentence.",
+  "Facts minors still open: study_right_rule has no source page, intti.fi does not name siviilipalvelus, the audience of the OPH 'Miten valitsen oman alani?' page is unclear, and the yearly-fact notes about page reads are out of date.",
+  "Pairs of topics repeat each other: 07 and 10, 09 and 14, 05 and 11.",
+  "Two facts were not re-verified: the issuing school's responsibility under § 25, and the conscription line in 14:95.",
+  "Look: at about 830 px the 75-minute table scrolls sideways inside its box, a long word breaks mid-word in the meta grid, and print was checked by text only, so the operator should look at one printout."
+ ]
+}
