@@ -153,7 +153,16 @@ dl.codes dd { margin: 0; }
 .served { display: block; color: var(--muted); font-size: 0.9rem; }
 
 .view-switch ul, .pager ul { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5rem 1.5rem; }
+.view-switch a { padding: 0.25rem 0.5rem; border-radius: 0.25rem; }
+.view-switch a[aria-current="page"] { font-weight: 700; text-decoration: none; border: 2px solid var(--border); background: var(--surface); color: var(--text); }
 .pager { margin-top: 2rem; }
+
+/* Print one lesson length: the links point at #tunti-N, print.css hides the others. */
+.plan-print ul { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5rem 1.5rem; }
+.plan-length:target { outline: 2px solid var(--border); outline-offset: 0.25rem; }
+
+/* Controls that need JavaScript stay hidden until polku.js has run (also covers a stylesheet that overrides [hidden]). */
+html:not(.js) [data-js-only] { display: none !important; }
 
 .table-wrap, .matrix-wrap { position: relative; overflow-x: auto; margin-bottom: 1em; }
 table { border-collapse: collapse; width: 100%; }

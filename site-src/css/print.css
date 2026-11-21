@@ -30,6 +30,13 @@ thead { display: table-header-group; }
 .print-topic:first-of-type { break-before: auto; page-break-before: auto; }
 .table-wrap, .matrix-wrap { overflow: visible; }
 
+/* One lesson length: when a "Tulosta N min" link has been chosen (:target), the other lengths are left out.
+   Without a choice, or without :has() support, every length prints. */
+main:has(.plan-length:target) .plan-length:not(:target) { display: none !important; }
+.plan-length + .plan-length { break-before: page; page-break-before: always; }
+.plan-length:target { outline: none; break-before: auto !important; page-break-before: auto !important; }
+.plan-print { display: none !important; }
+
 /* Own notes, filled in by the script when "Tulosta omat muistiinpanot" is pressed. */
 .printing-notes main > *:not(.notes-print) { display: none !important; }
 .printing-notes .notes-print { display: block !important; }

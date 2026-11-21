@@ -130,6 +130,16 @@
     main.removeChild(wrapper);
   }
 
+  // "Tulosta 75 min" and the like: the link selects the length (:target), then the page prints.
+  // Without this script the link still selects it, and the person prints with the browser's own button.
+  document.addEventListener('click', function (event) {
+    var link = event.target.closest ? event.target.closest('a[data-print-length]') : null;
+    if (!link) { return; }
+    window.location.hash = link.getAttribute('href');
+    event.preventDefault();
+    window.setTimeout(function () { window.print(); }, 50);
+  });
+
   document.addEventListener('click', function (event) {
     var target = event.target.closest ? event.target.closest('button') : null;
     if (!target) { return; }

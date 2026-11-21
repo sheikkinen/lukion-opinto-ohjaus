@@ -102,7 +102,7 @@ Jatko-opinto- ja urasuunnitelmaan kuuluu:
 - mitä teet, jos suunnitelma ei toteudukaan.
 
 Kaikki reitit ovat yhtä arvokkaita: yliopisto, ammattikorkeakoulu, ammatillinen koulutus, kansanopisto, välivuosi,
-varusmies- tai siviilipalvelus, työ ja opiskelu ulkomailla. Voit myös yhdistää niitä, esimerkiksi tehdä töitä
+asepalvelus tai siviilipalvelus, työ ja opiskelu ulkomailla. Voit myös yhdistää niitä, esimerkiksi tehdä töitä
 ja hakea opiskelemaan myöhemmin.
 
 ### Ennakointi: mitä haluan oppia?
@@ -149,23 +149,27 @@ kehittyneet.
 
 *Jos sinulla ei ole HOPSia tai suunnitelmia* (olet uusi koulussa, suunnitelma on hukassa tai aihe 10 on tekemättä): tee sama tyhjälle paperille. Kirjoita jokaisen otsikon alle, mitä tiedät nyt. Tyhjäkin kohta on tieto.
 
-1. Avaa HOPSisi kolme osaa: opiskelusuunnitelma, yo-suunnitelma ja jatko-opinto- ja urasuunnitelma. Lue ne läpi yksi kerrallaan.
+1. Lue HOPSisi kolme osaa yksi kerrallaan: opiskelusuunnitelma, yo-suunnitelma ja jatko-opinto- ja urasuunnitelma.
 2. Tarkista, sopivatko ne yhteen: esimerkiksi ovatko opinnot ja kokeet ajoitettu niin, että jatko-opinnot ovat mahdollisia.
 3. Merkitse kohdat, jotka eivät sovi yhteen tai joita ei ole vielä päätetty.
-4. Kirjoita muistioosi kaksi asiaa, jotka päivität, ja yksi kysymys opinto-ohjaajalle.
-5. Kirjoita lisäksi, mistä saisit tukea lukion jälkeen (esimerkiksi Ohjaamo, Opintopolun neuvonta tai opinto-ohjaaja) ja millä ehdoilla oikeus ohjaukseen jatkuu. Katso osio *Tukea lukion jälkeenkin*.
+4. Kirjoita muistioosi kaksi asiaa, jotka päivität.
+5. Kirjoita muistioosi, mistä saisit tukea lukion jälkeen (esimerkiksi Ohjaamo, Opintopolun neuvonta tai opinto-ohjaaja). Apuna on osio *Tukea lukion jälkeenkin*.
+
+Jos ehdit, kirjoita muistioosi myös yksi kysymys opinto-ohjaajalle ja se, millä ehdoilla oikeus ohjaukseen jatkuu.
 
 ### Tehtävä 2: Tee suunnitelma A, B ja C
 
 **Aika:** 15 min
 **Tarvitset:** paperia ja kynän tai tietokoneen, oman muistion
-**Ilman laitetta:** Tämä on jo paperitehtävä.
+**Ilman laitetta:** Tämä on jo paperitehtävä. Jaa paperi ensin kolmeen osaan: suunnitelma A, B ja C.
 
-1. Jaa paperi kolmeen osaan: suunnitelma A, B ja C. Kirjoita A:han ensisijainen vaihtoehtosi ja B:hen vaihtoehto, joka voisi toimia, jos A ei toteudu (3 min).
-2. Kirjoita C:hen kokeilu tai askel, jonka voisit tehdä, jos et vielä tiedä. Se voi olla työ, välivuosi, palvelus tai opintojen selvittäminen (3 min).
-3. Lisää jokaiseen yksi asia, jonka tarkistat, ja paikka, josta tarkistat. Älä kirjoita päivämääriä tai summia (3 min).
-4. Kirjoita yksi asia, jolla pidät huolta hyvinvoinnistasi siirtymässä. Kirjoita lisäksi ensimmäinen askel ja milloin teet sen (3 min).
-5. Kirjoita kaksi asiaa, jotka osaat suunnittelussa ja oman arjen hallinnassa paremmin kuin lukion alussa, ja yksi taito, jota haluat vahvistaa (3 min). Kirjoita omaan muistioosi.
+1. Kirjoita A-osaan ensisijainen vaihtoehtosi (3 min).
+2. Kirjoita B-osaan vaihtoehto, joka voisi toimia, jos A ei toteudu (3 min).
+3. Kirjoita C-osaan kokeilu tai askel, jonka voisit tehdä, jos et vielä tiedä. Se voi olla työ, välivuosi, palvelus tai opintojen selvittäminen (3 min).
+4. Kirjoita yksi asia, jolla pidät huolta hyvinvoinnistasi siirtymässä (3 min).
+5. Kirjoita omaan muistioosi yksi taito, jota haluat vahvistaa suunnittelussa tai oman arjen hallinnassa (3 min).
+
+Jos ehdit, lisää jokaiseen suunnitelmaan yksi asia, jonka tarkistat, ja paikka, josta tarkistat. Älä kirjoita päivämääriä tai summia. Kirjoita muistioosi myös yksi asia, jonka osaat suunnittelussa ja arjen hallinnassa paremmin kuin lukion alussa, ja milloin teet hyvinvointiasiasi ensimmäisen kerran.
 
 ### Tehtävä 3: Mieti kuvitteellisten opiskelijoiden suunnitelmia
 
@@ -177,14 +181,15 @@ Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
 - **Eemil** on suunnitellut hakevansa korkeakouluun, mutta ei ole varma, onko ala oikea.
 - **Sanni** aloittaa työt heti lukion jälkeen ja haluaa hakea opiskelemaan myöhemmin.
-- **Alex** aloittaa palveluksen (asevelvollisen varusmiespalvelus tai siviilipalvelus tai naisen vapaaehtoinen asepalvelus; ehdot tarkistetaan viranomaisen sivuilta) ja miettii, miten pitää suunnitelmansa elossa sen aikana.
+- **Alex** aloittaa asepalveluksen tai siviilipalveluksen (ehdot tarkistetaan viranomaisen sivuilta) ja miettii, miten pitää suunnitelmansa elossa sen aikana.
 - **Ilona** haluaa kansanopistoon ja miettii, mitä tekee sen jälkeen.
 - **Niko** on suorittanut lukion mutta ei ole päässyt haluamaansa paikkaan. Hän miettii, mitä tekee seuraavaksi ja mistä saa ohjausta.
 
 1. Valitse yksi tapaus.
 2. Mieti, mitkä asiat hänen suunnitelmassaan ovat selviä ja mitkä auki.
 3. Etsi [Opintopolun neuvonta ja ohjaus -sivulta](https://opintopolku.fi/konfo/fi/sivu/neuvonta-ja-ohjaus), [Työmarkkinatorilta](https://tyomarkkinatori.fi/) tai [Intti.fi-sivustolta](https://intti.fi/) yksi palvelu tai yhteystieto, josta hänelle voisi olla hyötyä.
-4. Kirjoita hänelle kaksi kysymystä, joita hänen kannattaisi kysyä opinto-ohjaajalta, ja mieti hiljaa itseksesi, mikä tapauksessa muistutti omaa tilannettasi.
+4. Kirjoita hänelle kaksi kysymystä, joita hänen kannattaisi kysyä opinto-ohjaajalta.
+5. Mieti hiljaa itseksesi, mikä tapauksessa muistutti omaa tilannettasi.
 
 ## Pohdinta
 
@@ -228,7 +233,7 @@ sinne koulun ohjeen mukaan (esimerkki).
 **Tavoite:** jokainen opiskelija lähtee tunnilta HOPSin kolmen osan tarkistuksen (Tehtävä 1), suunnitelman A, B ja C
 (Tehtävä 2) ja tiedon tuesta lukion jälkeen. Lyhyemmissä versioissa tuotos on pienempi. 60 minuutissa kaikki tehdään,
 mutta ryhmätyö on yhdellä tapauksella. 45 minuutissa tuotos on HOPSin kolmen osan tarkistus, yhden lauseen päivitys,
-suunnitelmat A ja B, oman kehittymisen arvio (Tehtävän 2 vaihe 5) sekä tieto tuesta lukion jälkeen (Tehtävän 1 vaihe 5). Suunnitelma C ja Tehtävä 3 jäävät kotiin. Kukaan ei kerro omia suunnitelmiaan ääneen, ellei itse halua.
+suunnitelmat A ja B, yksi vahvistettava taito (Tehtävän 2 vaihe 5) sekä tieto tuesta lukion jälkeen (Tehtävän 1 vaihe 5). Suunnitelma C, Tehtävän 2 vaihe 4 (hyvinvointi) ja Tehtävä 3 jäävät kotiin. Kukaan ei kerro omia suunnitelmiaan ääneen, ellei itse halua.
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -237,7 +242,7 @@ suunnitelmat A ja B, oman kehittymisen arvio (Tehtävän 2 vaihe 5) sekä tieto 
 | Lyhyt alustus | 8 | Opiskelijat kuuntelevat ja lukevat taululta HOPSin kolme osaa sekä suunnitelman A, B ja C -mallin. Ei kirjoitettavaa. | Näytä lukiolain säännös, Opintopolun neuvonta ja ohjaus -sivu (yhteystietoja, ei henkilökohtaista neuvontaa korkeakouluhakijoille) ja Työmarkkinatori. Mainitse Intti.fi. Kerro koulun oma käytäntö (esimerkki). | Jaa lista paperilla. | Jätä Intti.fi ja Työmarkkinatori pois; ne ovat Tehtävän 3 linkkeinä. |
 | Työskentely | 30 | Tehtävä 1 (15 min) ja Tehtävä 2 (15 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Älä ehdota "oikeaa" reittiä. Anna tyhjä kolmen otsikon paperi opiskelijalle, jolla ei ole HOPSia. | Paperipohja ilman laitetta. Pari voi tehdä yhdessä. | Tehtävän 2 vaihe 4 kotiin. Tehtävä 1 ja Tehtävän 2 vaihe 5 tehdään aina. |
 | Pari- tai pienryhmäpohdinta | 10 | Tehtävä 3 (10 min) pienryhmissä kuvitteellisilla tapauksilla. Ryhmä kirjoittaa kaksi kysymystä tapaukselle. | Ohjaa puhumaan tapauksista, ei omista suunnitelmista. Kokoa kysymykset taululle. | Yksin tai parin kanssa. | Yksi tapaus koko ryhmälle yhdessä. |
-| HOPS-askel ja exit | 7 | Opiskelijat kirjaavat HOPSiin yhden lauseen päivityksen jokaiseen kolmeen osaan ja suunnitelman A, B ja C. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan lukion jälkeen (esimerkki). Muistuta, että HOPS on koulun kanssa jaettu: terveyttä, perhettä tai taloutta ei kirjata. | Kirjaus paperille. | Exit sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 7 | Opiskelijat kirjaavat HOPSiin yhden lauseen päivityksen jokaiseen kolmeen osaan ja suunnitelman A, B ja C sekä kirjoittavat omaan muistioonsa yhden taidon, jota vahvistavat (Tehtävä 2, vaihe 5). Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan lukion jälkeen (esimerkki). Muistuta, että HOPS on koulun kanssa jaettu: terveyttä, perhettä tai taloutta ei kirjata. | Kirjaus paperille. | Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset ohjausaikaan. | – | – |
 
 ### 60 min
@@ -248,8 +253,8 @@ suunnitelmat A ja B, oman kehittymisen arvio (Tehtävän 2 vaihe 5) sekä tieto 
 | Aiemman tiedon aktivointi | 5 | Totta vai tarua -väitteet: "Suunnitelmaa ei saa muuttaa." "Jos en pääse ensimmäiseen toiveeseen, olen epäonnistunut." "Lukion jälkeen oikeus ohjaukseen on kaikilla, jotka ovat käyneet lukion." Yksin kaksi minuuttia, pareittain kolme. | Kaikki kolme väitettä ovat tarua. Ohjausväite: lukion jälkeen oikeus on vain sillä, joka on suorittanut oppimäärän eikä ole saanut opiskelupaikkaa tutkintoon johtavassa koulutuksessa, ja vain oppimäärän suorittamisvuotta seuraavan vuoden ajan. | Väitteet paperilla, opiskelija vastaa yksin. | Jätä pariosuus pois ja käy läpi kaksi väitettä. |
 | Lyhyt alustus | 6 | Opiskelijat lukevat taululta HOPSin kolme osaa sekä suunnitelman A, B ja C -mallin. Ei kirjoitettavaa. | Näytä lukiolain säännös ja Opintopolun neuvonta ja ohjaus -sivu (yhteystietoja, ei henkilökohtaista neuvontaa korkeakouluhakijoille). Kerro koulun oma käytäntö (esimerkki). | Jaa lista paperilla. | Jätä koulun oma käytäntö pois ja kerro se exitin yhteydessä. |
 | Työskentely | 30 | Tehtävä 1 (15 min) ja Tehtävä 2 (15 min) yksin. | Kierrä ja kysy avoimia kysymyksiä. Älä ehdota "oikeaa" reittiä. Anna tyhjä kolmen otsikon paperi opiskelijalle, jolla ei ole HOPSia. | Paperipohja ilman laitetta. Pari voi tehdä yhdessä. | Tehtävän 2 vaihe 4 kotiin. Tehtävä 1 ja Tehtävän 2 vaihe 5 tehdään aina. |
-| Pari- tai pienryhmäpohdinta | 7 | Tehtävä 3 pareittain yhdellä kuvitteellisella tapauksella (vaiheet 1–3). Kirjoittakaa kaksi kysymystä tapauksen opiskelijalle. | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin tai parin kanssa. | Yksi yhteinen tapaus koko ryhmälle. |
-| HOPS-askel ja exit | 7 | Opiskelijat kirjaavat HOPSiin yhden lauseen päivityksen jokaiseen kolmeen osaan sekä suunnitelman A, B ja C. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan lukion jälkeen (esimerkki). Muistuta, että HOPS on koulun kanssa jaettu: terveyttä, perhettä tai taloutta ei kirjata. | Kirjaus paperille. | Kirjaus loppuun kotona. Exit sähköisesti tunnin jälkeen. |
+| Pari- tai pienryhmäpohdinta | 7 | Tehtävä 3 pareittain yhdellä kuvitteellisella tapauksella (vaiheet 1–4). Kirjoittakaa kaksi kysymystä tapauksen opiskelijalle. | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin tai parin kanssa. | Yksi yhteinen tapaus koko ryhmälle. |
+| HOPS-askel ja exit | 7 | Opiskelijat kirjaavat HOPSiin yhden lauseen päivityksen jokaiseen kolmeen osaan sekä suunnitelman A, B ja C ja kirjoittavat omaan muistioonsa yhden taidon, jota vahvistavat (Tehtävä 2, vaihe 5). Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan lukion jälkeen (esimerkki). Muistuta, että HOPS on koulun kanssa jaettu: terveyttä, perhettä tai taloutta ei kirjata. | Kirjaus paperille. | Kirjaus loppuun kotona. Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### 45 min
@@ -259,8 +264,8 @@ suunnitelmat A ja B, oman kehittymisen arvio (Tehtävän 2 vaihe 5) sekä tieto 
 | Virittäytyminen | 3 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jota ihminen voi odottaa lukion jälkeen, ja yhden, joka voi mietityttää. | Kerää laput ja lue muutama ääneen. Älä korjaa. | Sähköinen nimetön sanapilvi koulun omalla välineellä. | Lue vain kaksi lappua. |
 | Aiemman tiedon aktivointi | 4 | Kaksi väitettä yksin: "Suunnitelmaa ei saa muuttaa." "Lukion jälkeen oikeus ohjaukseen on kaikilla, jotka ovat käyneet lukion." Ei jaeta. | Molemmat väitteet ovat tarua. Ohjausväite: lukion jälkeen oikeus on vain sillä, joka on suorittanut oppimäärän eikä ole saanut opiskelupaikkaa tutkintoon johtavassa koulutuksessa, ja vain oppimäärän suorittamisvuotta seuraavan vuoden ajan. Kerro vastaukset heti. | – | Käsittele vain ohjausväite. |
 | Lyhyt alustus | 4 | Opiskelijat lukevat taululta HOPSin kolme osaa ja suunnitelman A, B ja C -mallin. Ei kirjoitettavaa. | Näytä lukiolain säännös ja Opintopolun neuvonta ja ohjaus -sivu (yhteystietoja, ei henkilökohtaista neuvontaa korkeakouluhakijoille). | Jaa lista paperilla. | Näytä vain Opintopolun sivu ja anna muut linkit tekstinä. |
-| Työskentely | 24 | Tehtävä 1 (15 min) ja Tehtävän 2 vaiheet 1–2 eli suunnitelmat A ja B (9 min). | Kierrä ja kysy avoimia kysymyksiä. Älä ehdota "oikeaa" reittiä. Anna tyhjä kolmen otsikon paperi opiskelijalle, jolla ei ole HOPSia. | Paperipohja ilman laitetta. | Tehtävä 2 kotiin. Tehtävä 1 tehdään aina. |
-| HOPS-askel ja exit | 9 | Opiskelijat kirjaavat HOPSiin yhden lauseen päivityksen jokaiseen kolmeen osaan (Tehtävä 1) ja kirjoittavat omaan muistioonsa kaksi asiaa, jotka osaavat nyt paremmin, ja yhden taidon, jota vahvistavat (Tehtävä 2, vaihe 5). Suunnitelma C ja Tehtävä 2 loppuun kotona. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan lukion jälkeen (esimerkki). Muistuta, että HOPS on koulun kanssa jaettu: terveyttä, perhettä tai taloutta ei kirjata. | Kirjaus paperille. | Kirjaus loppuun kotona. Tehtävä 3, Pohdinta ja exit sähköisesti tunnin jälkeen. |
+| Työskentely | 24 | Tehtävä 1 (15 min) sekä Tehtävän 2 vaiheet 1 ja 2 eli suunnitelmat A ja B (9 min). | Kierrä ja kysy avoimia kysymyksiä. Älä ehdota "oikeaa" reittiä. Anna tyhjä kolmen otsikon paperi opiskelijalle, jolla ei ole HOPSia. | Paperipohja ilman laitetta. | Tehtävän 2 vaiheet 3 ja 4 kotiin. Tehtävä 1 tehdään aina. |
+| HOPS-askel ja exit | 9 | Opiskelijat kirjaavat HOPSiin yhden lauseen päivityksen jokaiseen kolmeen osaan (Tehtävä 1) ja kirjoittavat omaan muistioonsa yhden taidon, jota vahvistavat (Tehtävä 2, vaihe 5). Suunnitelma C ja Tehtävän 2 vaihe 4 tehdään kotona. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan lukion jälkeen (esimerkki). Muistuta, että HOPS on koulun kanssa jaettu: terveyttä, perhettä tai taloutta ei kirjata. | Kirjaus paperille. | Kirjaus loppuun kotona. Tehtävä 3, Pohdinta ja exit sähköisesti tunnin jälkeen. |
 | Puskuri | 1 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 

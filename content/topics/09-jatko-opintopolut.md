@@ -100,7 +100,7 @@ Lukion jälkeen on monta tietä. Ne ovat yhtä arvokkaita. Lista on aakkosjärje
 - **Ammattikorkeakoulu (AMK).** Opiskelu on käytännönläheistä ja liittyy usein työelämään.
 - **Kansanopisto.** Voit opiskella lyhyen tai pitkän jakson ilman tutkintoa ja miettiä suuntaa.
 - **Opiskelu ulkomailla.** Siihen tutustut aiheessa 16.
-- **Varusmiespalvelus, siviilipalvelus tai vapaaehtoinen asepalvelus.** Siitä kerrotaan tarkemmin aiheessa 14.
+- **Asepalvelus tai siviilipalvelus.** Siitä kerrotaan tarkemmin aiheessa 14.
 - **Välivuosi, työ tai matkustaminen.** Voit tehdä työtä, kerätä kokemusta tai levätä.
 - **Yliopisto.** Opiskelet tiedekunnissa ja tähtäät kandidaatin ja maisterin tutkintoon.
 

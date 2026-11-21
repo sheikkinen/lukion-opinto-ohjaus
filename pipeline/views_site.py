@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from pipeline.layout import Ctx, SiteData, code_id, esc, render_page, topic_label
 from pipeline.markdown_render import label_tables, render_with_blocks, replace_tokens
-from pipeline.models import Document, Topic
+from pipeline.models import Document, Topic, fi_date
 from pipeline.views_topic import ROLE_LABELS, print_article, time_tag, timing_text
 
 MODULE_TITLE = "{code} {name}"
@@ -277,7 +277,7 @@ def static_page(data: SiteData, slug: str, directory: str, current: str | None =
         "\n".join(page.body_lines),
         {
             "curriculum_checked": esc(data.checked),
-            "curriculum_published": esc(source["last_published"]),
+            "curriculum_published": esc(fi_date(source["last_published"])),
             "topic_count": str(len(data.topics)),
         },
     )

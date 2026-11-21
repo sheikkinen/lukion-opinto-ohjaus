@@ -119,13 +119,15 @@ Elämänsuunnitteluun ja koulutusvalintoihin saat tukea opinto-ohjaajalta, ryhm�
 
 **Aika:** 20 min
 **Tarvitset:** koulun opinto-oppaan tai kurssitarjottimen (esimerkki), paperia, oman muistion
-**Ilman laitetta:** Tee taulukko paperille ja kirjoita siihen ne opintojaksot, jotka jo tiedät pakollisiksi tai kiinnostaviksi. Merkitse kysymysmerkillä kohdat, joita et tiedä, ja täydennä ne, kun pääset kurssitarjottimeen tai opinto-oppaaseen. Voit myös kopioida tarjottimen kohdat vihkoon koulussa.
+**Ilman laitetta:** Tee tehtävä kokonaan paperilla. Kirjoita taulukkoon ne opintojaksot, jotka jo tiedät pakollisiksi tai kiinnostaviksi. Merkitse kysymysmerkillä kohdat, joita et tiedä, ja täydennä ne, kun pääset kurssitarjottimeen tai opinto-oppaaseen. Voit myös kopioida tarjottimen kohdat vihkoon koulussa.
 
 1. Avaa koulusi kurssitarjotin tai opinto-opas (esimerkki).
-2. Kirjoita paperille taulukko seuraavista kahdesta jaksosta ja merkitse siihen pakolliset opintojaksot koulusi suunnitelman mukaan. Myöhemmät jaksot jäävät myöhempään.
-3. Lisää valinnaisia opintojaksoja, jotka kiinnostavat sinua. Merkitse ne, jotka tuntuvat varmoilta, ja ne, joita mietit.
-4. Katso, onko jollain jaksolla liikaa opintoja. Siirrä tarvittaessa yksi opintojakso toiseen kohtaan.
-5. Kirjoita muistioosi yksi kysymys ja se, kenen puoleen voit kääntyä, kun valinta tuntuu vaikealta (opinto-ohjaaja, ryhmänohjaaja, erityisopettaja tai opiskeluhuolto).
+2. Tee paperille taulukko seuraaville kahdelle jaksolle. Myöhemmät jaksot jäävät myöhempään.
+3. Merkitse taulukkoon näiden jaksojen pakolliset opintojaksot koulusi suunnitelman mukaan.
+4. Siirrä tarvittaessa yksi opintojakso toiseen kohtaan, jos jollain jaksolla on liikaa opintoja.
+5. Kirjoita muistioosi, kenen puoleen voit kääntyä, kun valinta tuntuu vaikealta (opinto-ohjaaja, ryhmänohjaaja, erityisopettaja tai opiskeluhuolto).
+
+Voit lisätä taulukkoon valinnaisia opintojaksoja, jotka kiinnostavat sinua. Voit kirjoittaa muistioosi myös yhden kysymyksen valinnoistasi. Voit merkitä taulukkoon, mitkä valinnat tuntuvat varmoilta ja mitkä vielä mietityttävät.
 
 ### Tehtävä 2: Laita valintasi tärkeysjärjestykseen
 
@@ -135,9 +137,11 @@ Elämänsuunnitteluun ja koulutusvalintoihin saat tukea opinto-ohjaajalta, ryhm�
 
 1. Kirjoita lapuille kuusi asiaa, jotka haluaisit lukiossa tehdä tai opiskella. Mukana voi olla opintojaksoja, harrastus tai lepo.
 2. Jaa ne kolmeen ryhmään: varmasti haluan, mietin vielä, jätän pois.
-3. Järjestä "varmasti haluan" -ryhmän kolme tärkeintä asiaa tärkeysjärjestykseen ja kirjoita jokaisen viereen, miksi se on tässä kohdassa.
-4. Kirjoita muistioosi yksi asia, jonka haluat varmistaa, ennen kuin teet lopulliset valinnat. Jos ehdit, katso Työmarkkinatorin sivu [Ammatinvalinta ja urasuunnittelu](https://tyomarkkinatori.fi/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/ammatinvalinta-ja-urasuunnittelu).
-5. Kirjoita yksi lause siitä, miten HOPS auttaa sinua tässä valinnassa ja jatkosuunnittelussa. Kirjoita myös HOPSin kolme osaa (opiskelusuunnitelma, ylioppilastutkintosuunnitelma, jatko-opinto- ja urasuunnitelma), merkitse, mihin osaan tämä luonnos kuuluu, ja kirjoita, milloin päivität sitä (esimerkki: koulusi ohjeen mukaan).
+3. Järjestä "varmasti haluan" -ryhmän kolme tärkeintä asiaa tärkeysjärjestykseen.
+4. Kirjoita yksi lause siitä, miten HOPS auttaa sinua tässä valinnassa ja jatkosuunnittelussa.
+5. Merkitse, mihin HOPSin kolmesta osasta (opiskelusuunnitelma, ylioppilastutkintosuunnitelma tai jatko-opinto- ja urasuunnitelma) tämä luonnos kuuluu.
+
+Jos ehdit, kirjoita muistioosi, milloin päivität luonnosta (esimerkki: koulusi ohjeen mukaan), ja yksi asia, jonka haluat varmistaa, ennen kuin teet lopulliset valinnat, ja katso Työmarkkinatorin sivu [Ammatinvalinta ja urasuunnittelu](https://tyomarkkinatori.fi/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/ammatinvalinta-ja-urasuunnittelu).
 
 ### Tehtävä 3: Auta kuvitteellisia valitsijoita priorisoimaan
 
@@ -153,8 +157,9 @@ Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
 1. Valitse yksi tapaus.
 2. Mieti, mitä hän voisi laittaa tärkeysjärjestykseen ja millä perusteilla.
-3. Kirjoita hänelle kaksi kysymystä, joiden avulla hän voisi tehdä valintansa, ja mieti, miten hän voisi pitää vaihtoehtoja auki.
-4. Mieti hiljaa itseksesi: mikä tapauksessa muistutti omaa tilannettasi, mikä ei?
+3. Kirjoita hänelle kaksi kysymystä, joiden avulla hän voisi tehdä valintansa.
+4. Mieti, miten hän voisi pitää vaihtoehtoja auki.
+5. Mieti hiljaa itseksesi: mikä tapauksessa muistutti omaa tilannettasi, mikä ei?
 
 ## Pohdinta
 

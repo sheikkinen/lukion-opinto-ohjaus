@@ -121,11 +121,13 @@ Hyvinvointi on tärkeä asia kaikilla reiteillä: ammattikorkeakoulussa, yliopis
 **Tarvitset:** paperia, kyniä, oman muistion
 **Ilman laitetta:** Tämä on paperitehtävä, jonka teet yksin paperilla ja kynällä.
 
-1. Piirrä paperille iso ympyrä ja jaa se neljään osaan: uni ja lepo, ruoka ja liike, ihmiset, tekeminen.
+1. Piirrä paperille iso ympyrä, jossa on neljä osaa: uni ja lepo, ruoka ja liike, ihmiset, tekeminen.
 2. Kirjoita jokaiseen osaan yksi asia, joka antaa sinulle voimia.
-3. Kirjoita jokaiseen osaan myös yksi asia, joka vie voimia.
-4. Katso kokonaisuutta. Mikä osa on nyt vahva ja mikä kaipaa huomiota? Kirjoita omin sanoin yksi lause siitä, mitä hyvinvointi ja opiskelukyky sinulle tarkoittavat.
+3. Kirjoita jokaiseen osaan yksi asia, joka vie voimia.
+4. Katso kokonaisuutta: mikä osa kaipaa nyt eniten huomiota?
 5. Kirjoita muistioosi yksi pieni asia, jonka voit tehdä tällä viikolla jaksamisesi tukemiseksi.
+
+Jos ehdit, kirjoita omin sanoin yksi lause siitä, mitä hyvinvointi ja opiskelukyky sinulle tarkoittavat.
 
 ### Tehtävä 2: Selvitä, mistä apua saa
 
@@ -133,7 +135,7 @@ Hyvinvointi on tärkeä asia kaikilla reiteillä: ammattikorkeakoulussa, yliopis
 **Tarvitset:** puhelimen tai tietokoneen, oman muistion
 **Ilman laitetta:** Kirjoita paperille, keitä koulussasi tiedät auttavan: esimerkiksi ryhmänohjaaja, opinto-ohjaaja, erityisopettaja, kuraattori. Merkitse kysymysmerkillä ne, joista et tiedä, ja kysy koulussa tai katso koulun ilmoitustaululta. Kirjoita paperille myös, että hätätilanteessa soitetaan 112.
 
-1. Avaa Opetushallituksen sivu [Opiskeluhuolto](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto) ja lue yksi kohta, joka kertoo, mitä palveluja opiskeluhuolto antaa.
+1. Lue Opetushallituksen sivulta [Opiskeluhuolto](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto) yksi kohta, joka kertoo, mitä palveluja opiskeluhuolto antaa.
 2. Etsi koulusi sivuilta, kuka tekee opiskeluhuoltoa omassa koulussasi (esimerkki).
 3. Kirjoita muistioosi kolme paikkaa tai ihmistä, joilta voisit pyytää apua.
 4. Jos ehdit, katso [Mielenterveystalon nuorten sivulta](https://www.mielenterveystalo.fi/fi/nuoret), millaisia omahoito-ohjelmia siellä on.

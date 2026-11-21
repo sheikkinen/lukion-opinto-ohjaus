@@ -29,7 +29,15 @@ SECTIONS = {
     "Tehtävät": "### Tehtävä 1\n1. Tee jotain.",
     "Pohdinta": "Mitä mietit?",
     "Itseopiskelun askel": "Lue ja tee.",
-    "Tuntisuunnitelma (75 min)": PLAN_75 + "\n### 60 min\n" + PLAN_60 + "\n### 45 min\n" + PLAN_45,
+    "Tuntisuunnitelma (75 min)": (
+        "**Tavoite:** yhteinen.\n\n"
+        + PLAN_75
+        + "\n### Tuntisuunnitelma (60 min)\n\n"
+        + PLAN_60
+        + "\n### Tuntisuunnitelma (45 min)\n\n"
+        + PLAN_45
+        + "\n### Valmistelu\n\n- Tulosta paperit.\n"
+    ),
     "Eriyttäminen": "Helpompi ja syvempi polku.",
     "Milloin opinto-ohjaajalle": "Kun on kiire.",
 }

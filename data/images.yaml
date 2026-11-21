@@ -140,13 +140,15 @@ images:
     placement: Opiskelijalle
     prompt: >-
       A clean flat infographic on a pure white background, high contrast, dark slate text, simple sans-serif font,
-      generous spacing. A central circle reading "Lukion jälkeen". Around it, evenly spaced on a ring, eight
+      generous spacing. The whole diagram is drawn a little smaller than the canvas, with a wide empty white margin
+      on every side. A central circle reading "Lukion jälkeen". Around it, evenly spaced on a ring, eight
       circles of exactly the same size and the same visual weight, each joined to the centre by an equal straight
       line, so that no route looks bigger, higher or more important than another. The eight circles read:
       "Yliopisto", "Ammattikorkeakoulu (AMK)", "Ammatillinen koulutus", "Kansanopisto", "Välivuosi",
       "Asepalvelus tai siviilipalvelus", "Työ", "Opiskelu tai työ ulkomailla". Soft muted colours for the circles
-      (teal, sand, sky blue, coral), all equally saturated. A caption along the bottom: "Kaikki reitit ovat yhtä
-      arvokkaita. Reittejä voi myös yhdistää." Use exactly these Finnish texts, spelled exactly as written, each
+      (teal, sand, sky blue, coral), all equally saturated. Below the ring, a one-line caption: "Kaikki reitit ovat
+      yhtä arvokkaita. Reittejä voi myös yhdistää." The caption sits clearly above the bottom edge, with an empty
+      white band below it at least as tall as the caption text itself, and it does not touch any circle. Use exactly these Finnish texts, spelled exactly as written, each
       once, and no other text, numbers, arrows ranking the routes, logos or watermark.
     alt: >-
       Kaavio lukion jälkeisistä reiteistä. Keskellä teksti "Lukion jälkeen", ja sen ympärillä kahdeksan

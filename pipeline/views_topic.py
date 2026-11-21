@@ -5,6 +5,7 @@ from __future__ import annotations
 from pipeline.layout import Ctx, SiteData, code_id, esc, render_page, topic_label
 from pipeline.markdown_render import render_markdown, shift_headings
 from pipeline.models import Section, Topic, as_date, fi_date
+from pipeline.plan import split_plan
 
 SECTION_IDS = {
     "Opiskelijalle": "opiskelijalle",
@@ -36,13 +37,46 @@ def render_section(section: Section, ident: str, figures: str = "") -> str:
     return f'<section id="{ident}" class="topic-section">\n<h2>{esc(section.title)}</h2>\n{body}\n{figures}</section>'
 
 
-def render_named_sections(topic: Topic, names: tuple[str, ...], figures: dict[str, str] | None = None) -> str:
+def plan_choose(lengths: list[int]) -> str:
+    """Links that pick one lesson length for printing (:target and print.css); they work without JavaScript."""
+    links = "".join(f'<li><a href="#tunti-{n}" data-print-length>Tulosta {n} min</a></li>' for n in lengths)
+    links += '<li><a href="#tuntisuunnitelma" data-print-length>Tulosta kaikki pituudet</a></li>'
+    return (
+        '<nav class="plan-print no-print" aria-label="Tulostettava pituus">\n'
+        "<p>Valitse tulostettava tunnin pituus. Jos et valitse, kaikki pituudet tulostuvat. "
+        "Valinnan jälkeen paina selaimen tulostuspainiketta, jos tulostus ei käynnisty itsestään.</p>\n"
+        f"<ul>{links}</ul>\n</nav>"
+    )
+
+
+def render_plan(section: Section, ident: str, figures: str = "", choose: bool = True) -> str:
+    """The lesson plan: shared intro, one block per length (id tunti-N), and the shared preparation notes."""
+    parts = split_plan(section.title, section.lines)
+    if parts is None or not parts.lengths:
+        return render_section(section, ident, figures)
+    html = [f'<section id="{ident}" class="topic-section plan-section">', "<h2>Tuntisuunnitelma</h2>"]
+    if "\n".join(parts.intro).strip():
+        html.append(render_markdown("\n".join(parts.intro)))
+    if choose:
+        html.append(plan_choose([n for n, _ in parts.lengths]))
+    for length, lines in parts.lengths:
+        body = render_markdown("\n".join(lines))
+        html.append(f'<div id="tunti-{length}" class="plan-length">\n<h3>Tuntisuunnitelma ({length} min)</h3>\n{body}\n</div>')
+    if "\n".join(parts.tail).strip():
+        html.append(f'<div class="plan-common">\n{render_markdown(chr(10).join(parts.tail))}\n</div>')
+    html.append(f"{figures}</section>")
+    return "\n".join(html)
+
+
+def render_named_sections(topic: Topic, names: tuple[str, ...], figures: dict[str, str] | None = None, choose: bool = True) -> str:
     """The named sections; `figures` is {section id: picture html} from data/images.yaml, placed at the section's end."""
     parts = []
     for name in names:
         section = topic.section(name)
         if section is not None:
-            parts.append(render_section(section, SECTION_IDS[name], (figures or {}).get(SECTION_IDS[name], "")))
+            ident = SECTION_IDS[name]
+            figure = (figures or {}).get(ident, "")
+            parts.append(render_plan(section, ident, figure, choose) if name == "Tuntisuunnitelma" else render_section(section, ident, figure))
     return "\n".join(parts)
 
 
@@ -183,8 +217,8 @@ def student_page(data: SiteData, topic: Topic) -> str:
         f"<h1>{esc(topic.title)}</h1>",
         f'<p class="summary">{esc(topic.meta.get("summary", ""))}</p>',
         header,
-        meta_list(ctx, data, topic, lesson=False),
         view_switch(ctx, topic, "student"),
+        meta_list(ctx, data, topic, lesson=False),
     ]
     for name in STUDENT_SECTIONS:
         parts.append(render_named_sections(topic, (name,), figures))
@@ -202,7 +236,7 @@ def student_page(data: SiteData, topic: Topic) -> str:
     )
 
 
-def lesson_body(ctx: Ctx, data: SiteData, topic: Topic, full_sources: bool) -> str:
+def lesson_body(ctx: Ctx, data: SiteData, topic: Topic, full_sources: bool, choose: bool = True) -> str:
     """The lesson view without the page heading, used alone and in the print pages."""
     parts = [meta_list(ctx, data, topic, lesson=True)]
     adapts = topic.meta.get("school_adapts") or []
@@ -212,7 +246,7 @@ def lesson_body(ctx: Ctx, data: SiteData, topic: Topic, full_sources: bool) -> s
     parts.append(curriculum_box(ctx, data, topic))
     parts.append(data.images.diagrams(ctx, topic.id))  # so a counsellor can project it
     sections = data.images.sections(ctx, topic.id, SECTION_IDS, diagrams=False)
-    parts.append(render_named_sections(topic, LESSON_SECTIONS, sections))
+    parts.append(render_named_sections(topic, LESSON_SECTIONS, sections, choose))
     parts.append(sources_block(ctx, data, topic) if full_sources else "")
     return "\n".join(p for p in parts if p)
 
@@ -230,12 +264,12 @@ def lesson_page(data: SiteData, topic: Topic) -> str:
         "</article>",
     ]
     description = f"Tuntisuunnitelma: {topic.title}"
-    return render_page(data, ctx, f"{topic.title}: tuntisuunnitelma", "\n".join(parts), description, current=topic.module.lower())
+    return render_page(data, ctx, f"{topic.title}: tuntisuunnitelma", "\n".join(parts), description, current=topic.module.lower(), scripts=True)
 
 
 def print_article(ctx: Ctx, data: SiteData, topic: Topic) -> str:
     """One topic's lesson plan inside a combined print page (headings one level down)."""
-    inner = shift_headings(lesson_body(ctx, data, topic, full_sources=False), 1)
+    inner = shift_headings(lesson_body(ctx, data, topic, full_sources=False, choose=False), 1)
     inner = inner.replace(' id="', f' id="{topic.slug}-')  # ids stay unique on the combined page
     codes = ", ".join(esc(c) for c in topic.codes)
     return (

@@ -36,17 +36,28 @@ images:
 
   - id: il-op2
     kind: illustration
-    model: p-image
+    model: nano-banana
     aspect: "16:9"
     page: op2
     placement: header
     decorative: true
     prompt: >-
-      Older students standing together on a gentle hilltop at golden hour, looking out over a landscape where
-      several paths branch towards a small town, a campus, a workshop, a forest and a distant harbour, each path
-      equally lit and equally inviting.
+      Flat vector illustration of one single continuous scene, not panels: four older students seen from behind,
+      standing side by side on a green grassy hilltop in the lower foreground, looking out over a fresh green valley
+      in spring that fills the whole frame. From the foot of the hill, five clearly drawn light sandy paths fan out
+      across the valley, each ending at its own clearly visible destination of the same size: on the far left a
+      small town with coloured houses, centre left a university campus building, in the exact centre a workshop
+      with a wide open door, centre right a forest of green trees, and on the far right a harbour with a small boat
+      on blue water. The middle of the picture is full of paths, meadows and these destinations, with no empty
+      area. Each path equally lit and equally inviting. Soft palette of muted teal, sage green, warm sand, pale sky
+      blue and soft coral, with a clear pale blue sky and a few white clouds. Clothes, from left to right: brown
+      trousers and a cream hoodie; jeans and a grey hoodie; a student with long hair in dark blue jeans and a
+      yellow sweater; black trousers and a coral jacket. Every one of the four wears long trousers or jeans with
+      two visible trouser legs; no skirts, no dresses, no matching outfits, nothing that looks like a school
+      uniform. Everything stands on the ground; nothing floats in the air.
     alt: >-
-      Opiskelijoita rivissä mäen päällä katsomassa avaraa maisemaa, jonka laidoilla näkyy kaupunki ja kampus.
+      Opiskelijoita mäen päällä selin katsojaan katsomassa avaraa maisemaa, jossa polut haarautuvat kaupunkiin,
+      kampukselle, verstaalle, metsään ja satamaan.
 
   - id: il-op1-01-lukio-alkaa
     kind: illustration
@@ -300,11 +311,16 @@ images:
     placement: header
     decorative: true
     prompt: >-
-      A young person in a small, simply furnished first apartment, sitting on the floor among a few moving boxes
-      with a notebook of blank pages and a small piggy bank, a plant and a lamp; cosy, hopeful, modest mood.
+      One single scene, a wide interior view of a small, simply furnished first apartment that fills the whole frame
+      from floor to ceiling and edge to edge, with no empty background. One young person sits at a low wooden table
+      on a rug, writing in a notebook of blank pages, a small piggy bank on the table beside them. Behind them a
+      large window with light curtains shows green treetops and sky across the upper half of the picture; a wall
+      shelf with books and potted plants, a small kitchenette corner and two open moving boxes on the floor. Every
+      object stands on the floor, the table or the shelf; nothing floats in the air, no lamps, no loose shapes.
+      Cosy, hopeful, modest mood.
     alt: >-
-      Kaksi nuorta istuu lattialla muuttolaatikoiden keskellä ja suunnittelee talouttaan muistikirjojen ja
-      säästöpossujen kanssa.
+      Nuori istuu pienessä ensimmäisessä asunnossaan matalan pöydän ääressä ja kirjoittaa muistikirjaan.
+      Pöydällä on säästöpossu, ja taustalla näkyy ikkuna, hylly ja muuttolaatikoita.
 
   - id: il-op2-18-urasuunnitelma
     kind: illustration

@@ -63,7 +63,7 @@ Use these exact forms. The first time in a topic, use the full form; after that 
 | Opintopolku | opintopolku.fi (as a name) | |
 | yliopisto; ammattikorkeakoulu (AMK); korkeakoulu | amk, Amk | *korkeakoulu* covers both. |
 | ammatillinen koulutus; kansanopisto; välivuosi | amis (in rules) | |
-| varusmiespalvelus; siviilipalvelus; naisten vapaaehtoinen asepalvelus | armeija (in rules) | |
+| asepalvelus tai siviilipalvelus | varusmiespalvelus (as the route name), armeija (in rules) | Same form as topic 14. *Asepalvelus* covers varusmiespalvelus and naisten vapaaehtoinen asepalvelus; name them only as a gloss. |
 | opintotuki; Kela | KELA | |
 | Ohjaamo | ohjaamo | Proper name of the service. |
 | opiskeluhuolto; oppimisen tuki; erityisopetus | tukiopetus (as umbrella) | Link, never restate (§8). |
@@ -113,7 +113,7 @@ Each task is an H3 with a number and a verb-led title, then four fixed bold line
 
 ## 7. Inclusive, non-segregating guidance
 
-- Every route is equal: yliopisto, AMK, ammatillinen koulutus, kansanopisto, välivuosi, varusmies- tai
+- Every route is equal: yliopisto, AMK, ammatillinen koulutus, kansanopisto, välivuosi, asepalvelus tai
   siviilipalvelus, työ, opiskelu ulkomailla. Name several in the same breath; never rank them.
 - No examples that link a field, subject or exam to gender, origin, family or disability (*no "pojat ja pitkä
   matikka"*). Gender-aware guidance means noticing and questioning such assumptions, not repeating them.

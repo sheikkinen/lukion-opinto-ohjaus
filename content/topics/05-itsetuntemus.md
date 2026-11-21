@@ -118,20 +118,24 @@ Muistio on sinun omasi. Mitään tässä kirjoittamaasi ei tarvitse kirjata HOPS
 1. Kirjoita paperille viisi asiaa, joissa olet onnistunut. Ne voivat olla pieniä tai isoja, koulusta tai sen ulkopuolelta.
 2. Kirjoita jokaisen viereen, mitä taitoa tai tapaa toimia onnistuminen osoittaa.
 3. Alleviivaa kolme vahvuutta, jotka tuntuvat sinusta omilta.
-4. Vapaaehtoinen, ei tunnilla: voit myöhemmin kysyä yhdeltä luotettavalta ihmiseltä, mitä hän pitää vahvuutenasi. Lisää vastaus listaan vain, jos se tuntuu hyvältä.
-5. Kirjoita muistioosi yksi lause: "Olen vahva silloin, kun…" Kirjoita sen alle yksi asia, jonka haluat oppia.
+4. Kirjoita muistioosi yksi lause: "Olen vahva silloin, kun…"
+5. Kirjoita lauseen alle yksi asia, jonka haluat oppia.
+
+Vapaaehtoinen, ei tunnilla: voit myöhemmin kysyä yhdeltä luotettavalta ihmiseltä, mitä hän pitää vahvuutenasi. Lisää vastaus listaan vain, jos se tuntuu hyvältä.
 
 ### Tehtävä 2: Tutki arvojasi ja työkaluja
 
-**Aika:** 15 min (vaiheet 1, 2 ja 5 noin 8 min, vaiheet 3 ja 4 noin 7 min)
+**Aika:** 15 min (vaiheet 1, 2, 4 ja 5 noin 10 min, vaihe 3 noin 5 min)
 **Tarvitset:** puhelimen tai tietokoneen, arvokortit tai paperilappuja, oman muistion
-**Ilman laitetta:** Kirjoita arvot paperilapuille: vapaus, turvallisuus, luovuus, oikeudenmukaisuus, ystävät, perhe, onnistuminen, luonto, auttaminen, oppiminen. Voit lisätä omia. Vaiheet 1, 2 ja 5 onnistuvat yksin paperilla. Vaiheet 3 ja 4 voit tehdä myöhemmin, kun saat laitteen käyttöösi.
+**Ilman laitetta:** Kirjoita arvot paperilapuille: vapaus, turvallisuus, luovuus, oikeudenmukaisuus, ystävät, perhe, onnistuminen, luonto, auttaminen, oppiminen. Voit lisätä omia. Vaiheet 1, 2, 4 ja 5 onnistuvat yksin paperilla. Vaihe 3 tarvitsee laitteen, joten voit tehdä sen myöhemmin, kun saat laitteen käyttöösi.
 
-1. Valitse arvoista kolme, jotka tuntuvat sinusta nyt tärkeimmiltä. Laita ne tärkeysjärjestykseen.
+1. Laita tärkeysjärjestykseen kolme arvoa, jotka tuntuvat sinusta nyt tärkeimmiltä.
 2. Kirjoita jokaisen viereen yksi esimerkki siitä, miten se näkyy elämässäsi.
-3. Avaa Työmarkkinatorin sivu [Ammatinvalinta ja urasuunnittelu](https://tyomarkkinatori.fi/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/ammatinvalinta-ja-urasuunnittelu) ja katso, mitä osaamisen tunnistamisen välineitä siellä esitellään, jos niitä on. Älä anna sivustolle henkilötietojasi; työkalun voi katsoa ensin ilman kirjautumista.
-4. Kirjoita muistioosi: mikä arvo voisi ohjata seuraavia valintojasi ja mikä työkalu kiinnostaa sinua.
-5. Mieti, mitkä asiat ja ihmiset vaikuttavat siihen, mitä pidät tärkeänä: perhe, ystävät, usko tai oma kokemus. Kirjoita muistioosi yksi kohta, jossa muiden odotukset ja omat valintasi voisivat olla eri mieltä.
+3. Katso Työmarkkinatorin sivulta [Ammatinvalinta ja urasuunnittelu](https://tyomarkkinatori.fi/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/ammatinvalinta-ja-urasuunnittelu), mitä osaamisen tunnistamisen välineitä siellä esitellään, jos niitä on. Älä anna sivustolle henkilötietojasi; työkalun voi katsoa ensin ilman kirjautumista.
+4. Kirjoita muistioosi, mikä arvo voisi ohjata seuraavia valintojasi.
+5. Kirjoita muistioosi yksi kohta, jossa muiden odotukset (esimerkiksi perhe, ystävät tai usko) ja omat valintasi voisivat olla eri mieltä.
+
+Voit kirjoittaa muistioosi myös, mikä työkalu kiinnostaa sinua.
 
 ### Tehtävä 3: Tunnista vahvuuksia kuvitteellisista tapauksista
 
@@ -146,9 +150,10 @@ Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 - **Rene** on harrastanut vuosia ja johtanut ryhmää. Hän suunnittelee lukion jälkeen välivuotta ja töitä, eikä ole koskaan kirjoittanut harrastuksessa oppimaansa ylös.
 
 1. Valitse yksi tapaus.
-2. Mieti, mitä vahvuuksia tai arvoja tapauksesta voi nähdä, ja kirjoita hänelle kaksi kysymystä, jotka auttaisivat häntä tuntemaan itsensä paremmin.
-3. Mieti, miten hän voisi kuunnella muiden toiveita ja silti tehdä oman päätöksen.
-4. Mieti hiljaa itseksesi: mikä tapauksessa muistutti omaa tilannettasi, mikä ei?
+2. Mieti, mitä vahvuuksia tai arvoja tapauksesta voi nähdä.
+3. Kirjoita hänelle kaksi kysymystä, jotka auttaisivat häntä tuntemaan itsensä paremmin.
+4. Mieti, miten hän voisi kuunnella muiden toiveita ja silti tehdä oman päätöksen.
+5. Mieti hiljaa itseksesi: mikä tapauksessa muistutti omaa tilannettasi, mikä ei?
 
 ## Pohdinta
 
@@ -184,14 +189,14 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoite:** jokainen opiskelija kirjaa kolme vahvuutta (Tehtävä 1) ja kolme arvoa (Tehtävä 2) omaan muistioonsa ja lähtee tunnilta yhden kysymyksen kanssa. 75 minuutissa tutustutaan myös Työmarkkinatorin työkaluihin (Tehtävä 2, vaiheet 3 ja 4). 60 ja 45 minuutissa työkaluvaihe jää kotiin, joten tunnin tuotos on pienempi. Kukaan ei kerro omista vahvuuksistaan tai arvoistaan ääneen, ellei itse halua.
+**Tavoite:** jokainen opiskelija kirjaa kolme vahvuutta (Tehtävä 1) ja kolme arvoa (Tehtävä 2) omaan muistioonsa ja lähtee tunnilta yhden kysymyksen kanssa. 75 minuutissa tutustutaan myös Työmarkkinatorin työkaluihin (Tehtävä 2, vaihe 3). 60 ja 45 minuutissa työkaluvaihe jää kotiin, joten tunnin tuotos on pienempi. Kukaan ei kerro omista vahvuuksistaan tai arvoistaan ääneen, ellei itse halua.
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jossa ihminen voi olla hyvä, ja yhden asian, jota pitää tärkeänä. | Kerää laput, sekoita ja lue muutama ääneen. Kiitä monipuolisuudesta. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
 | Aiemman tiedon aktivointi | 10 | Totta vai tarua -väitteet pareittain: "Vahvuus on vain se, mistä saa hyvän arvosanan." "Arvot eivät muutu." "Muiden mielipiteet eivät saa vaikuttaa valintoihin." "Osaamista voi olla vain koulussa opitulla." | Kerro, että väitteet ovat keskustelun avauksia, ja kytke lappujen asiat väitteisiin. Vastausvihjeet: vahvuus voi olla paljon muutakin kuin arvosana; arvot voivat muuttua elämän mukana; toisten mielipiteet saavat vaikuttaa, mutta päätös on omasi; osaamista kertyy myös koulun ulkopuolella. | Väitteet paperilla, opiskelija vastaa yksin. | Käy läpi kaksi ensimmäistä väitettä. |
 | Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin vahvuuden, osaamisen, kiinnostuksen, arvon ja uskomuksen merkityksen. | Anna esimerkkejä eri elämänalueilta ilman sukupuoleen tai taustaan sidottuja oletuksia. Näytä Työmarkkinatorin sivu työkaluineen. | Jaa käsitteet paperilla. | Jätä uskomukset lyhyeen mainintaan. |
-| Työskentely | 30 | Tehtävä 1 (15 min) ja Tehtävä 2 (15 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Älä arvioi vahvuuksia. Muistuta, ettei mitään tarvitse kertoa muille. | Pari voi kysyä toisiltaan vain "Missä sinä onnistuit?" ilman kommentointia. Paperipohja. | Tehtävän 2 vaiheet 3 ja 4 kotiin. |
+| Työskentely | 30 | Tehtävä 1 (15 min) ja Tehtävä 2 (15 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Älä arvioi vahvuuksia. Muistuta, ettei mitään tarvitse kertoa muille. | Pari voi kysyä toisiltaan vain "Missä sinä onnistuit?" ilman kommentointia. Paperipohja. | Tehtävän 2 vaihe 3 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Tehtävä 3 (10 min) kolmen hengen ryhmissä kuvitteellisilla tapauksilla. Ryhmä kirjoittaa kaksi kysymystä tapaukselle. | Ohjaa puhumaan tapauksista, ei omista tilanteista. Kokoa kysymykset taululle. | Yksin tai parin kanssa. | Yksi tapaus koko ryhmälle yhdessä. |
 | HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin vahvuuden ja arvon vain, jos haluavat. HOPS on koulun kanssa jaettu asiakirja, joten muu jää omaan muistioon. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Kerro, mitä HOPSiin voi kirjata ja mitä jättää omaan muistioon. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 2 | Kysymyksiä, keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
@@ -203,7 +208,7 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 | Virittäytyminen | 4 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jossa ihminen voi olla hyvä, ja yhden asian, jota pitää tärkeänä. | Kerää laput, sekoita ja lue muutama ääneen. Kiitä monipuolisuudesta. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
 | Aiemman tiedon aktivointi | 5 | Kolme totta vai tarua -väitettä pareittain: "Vahvuus on vain se, mistä saa hyvän arvosanan." "Arvot eivät muutu." "Osaamista voi olla vain koulussa opitulla." | Kerro, että väitteet ovat keskustelun avauksia. Vastausvihjeet: vahvuus voi olla paljon muutakin kuin arvosana; arvot voivat muuttua elämän mukana; osaamista kertyy myös koulun ulkopuolella. | Väitteet paperilla, opiskelija vastaa yksin. | Jätä viimeinen väite pois. |
 | Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin vahvuuden, osaamisen, kiinnostuksen, arvon ja uskomuksen merkityksen. | Anna esimerkkejä eri elämänalueilta ilman sukupuoleen tai taustaan sidottuja oletuksia. Anna Työmarkkinatorin sivun linkki kirjallisena. | Jaa käsitteet paperilla. | Jätä uskomukset lyhyeen mainintaan. |
-| Työskentely | 25 | Tehtävä 1 (15 min) ja Tehtävän 2 vaiheet 1, 2 ja 5 (8 min). | Kierrä ja kysy avoimia kysymyksiä. Älä arvioi vahvuuksia. Muistuta, ettei mitään tarvitse kertoa muille. | Pari voi kysyä toisiltaan vain "Missä sinä onnistuit?" ilman kommentointia. Paperipohja. | Tehtävän 2 vaiheet 3 ja 4 kotiin. |
+| Työskentely | 25 | Tehtävä 1 (15 min) ja Tehtävän 2 vaiheet 1, 2, 4 ja 5 (8 min). | Kierrä ja kysy avoimia kysymyksiä. Älä arvioi vahvuuksia. Muistuta, ettei mitään tarvitse kertoa muille. | Pari voi kysyä toisiltaan vain "Missä sinä onnistuit?" ilman kommentointia. Paperipohja. | Tehtävän 2 vaihe 3 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Tehtävä 3 pareittain yhdellä kuvitteellisella tapauksella (8 min). Kirjoittakaa kaksi kysymystä tapauksen opiskelijalle. | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin tai parin kanssa. | Yksi yhteinen tapaus koko ryhmälle. |
 | HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin vahvuuden ja arvon vain, jos haluavat. HOPS on koulun kanssa jaettu asiakirja, joten muu jää omaan muistioon. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Kerro, mitä HOPSiin voi kirjata ja mitä jättää omaan muistioon. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
@@ -215,7 +220,7 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 | Virittäytyminen | 3 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jossa ihminen voi olla hyvä. | Kerää laput, sekoita ja lue muutama ääneen. Kiitä monipuolisuudesta. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
 | Aiemman tiedon aktivointi | 4 | Kaksi totta vai tarua -väitettä pareittain (2 min), sitten vastaukset yhdessä: "Vahvuus on vain se, mistä saa hyvän arvosanan." "Arvot eivät muutu." | Kerro, että väitteet ovat keskustelun avauksia. Vastausvihjeet: vahvuus voi olla paljon muutakin kuin arvosana, ja arvot voivat muuttua elämän mukana. | Väitteet paperilla, opiskelija vastaa yksin. | Käsittele vain ensimmäinen väite. |
 | Lyhyt alustus | 5 | Opiskelijat kirjaavat muistiin vahvuuden, osaamisen, arvon ja uskomuksen merkityksen. | Anna esimerkkejä eri elämänalueilta ilman sukupuoleen tai taustaan sidottuja oletuksia. Anna Työmarkkinatorin sivun linkki kirjallisena. | Jaa käsitteet paperilla. | Jätä uskomukset pois ja kerro ne kirjallisesti. |
-| Työskentely | 22 | Tehtävä 1 (15 min) ja Tehtävän 2 vaiheet 1, 2 ja 5 (7 min). | Kierrä ja kysy avoimia kysymyksiä. Älä arvioi vahvuuksia. Muistuta, ettei mitään tarvitse kertoa muille. | Pari voi kysyä toisiltaan vain "Missä sinä onnistuit?" ilman kommentointia. Paperipohja. | Tehtävän 2 vaiheet 3 ja 4 kotiin. |
+| Työskentely | 22 | Tehtävä 1 (15 min) ja Tehtävän 2 vaiheet 1, 2, 4 ja 5 (7 min). | Kierrä ja kysy avoimia kysymyksiä. Älä arvioi vahvuuksia. Muistuta, ettei mitään tarvitse kertoa muille. | Pari voi kysyä toisiltaan vain "Missä sinä onnistuit?" ilman kommentointia. Paperipohja. | Tehtävän 2 vaihe 3 kotiin. |
 | Pari- tai pienryhmäpohdinta | 4 | Yksi kuvitteellinen tapaus Tehtävästä 3 koko ryhmälle yhdessä. Ryhmä sanoo ääneen kaksi kysymystä tapauksen opiskelijalle. | Pidä keskustelu tapauksessa, ei opiskelijoiden omissa tilanteissa. Kirjoita kysymykset taululle. | Yksin tai parin kanssa. | Tehtävä 3 kotiin. |
 | HOPS-askel ja exit | 6 | Opiskelijat kirjaavat HOPSiin vahvuuden ja arvon vain, jos haluavat. HOPS on koulun kanssa jaettu asiakirja, joten muu jää omaan muistioon. Työkaluvaihe ja Pohdinta tehdään kotona. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Kerro, mitä HOPSiin voi kirjata ja mitä jättää omaan muistioon. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Kirjaus loppuun kotona. Exit-kysymys tunnin jälkeen. |
 | Puskuri | 1 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |

@@ -10,6 +10,7 @@ import re
 from datetime import date, timedelta
 
 from pipeline.models import CODE_PATTERN, MODULES, Document, Problem, Topic, as_date
+from pipeline.plan import length_heading
 from pipeline.site_checks import (  # noqa: F401  (re-exported)
     check_external_resources,
     check_internal_links_and_headings,
@@ -250,9 +251,9 @@ def check_lesson_minutes(topic: Topic) -> list[Problem]:
     else:
         parts[current] = (start, [])
     for offset, line in enumerate(plan.lines):
-        heading = re.match(r"^###\s+(\d+)\s*min\b", line)
-        if heading:
-            current = int(heading.group(1))
+        heading = length_heading(line)
+        if heading is not None:
+            current = heading
             parts[current] = (start + offset, [])
         elif current is not None:
             parts[current][1].append(line)
