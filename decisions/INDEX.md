@@ -8,3 +8,4 @@
 | D-004 | 2026-11-21 | Repository and site name `lukion-opinto-ohjaus` (sheikkinen.github.io/lukion-opinto-ohjaus) | operator [O] | scoping answer |
 | D-005 | 2026-11-21 | Defaults (override any): site in Finnish; both curriculum modules (OP1, OP2) of LOPS 2019; no accounts or analytics, progress only in the browser; €0; static HTML built by Python, Pages deployed by Actions; content licence chosen by the operator before publishing (CC BY 4.0 suggested, so counsellors may reuse and adapt) | producer [M] | brief 001 |
 | D-006 | 2026-11-21 | Site language: Finnish ("site target language: Finnish"); confirms that part of D-005 | operator [O] | message during brief 001 |
+| D-007 | 2026-11-21 | Budget €10 for images. Operator's recommendation: nano-banana for graphs and images needing specifics; klein or pimage for generic images. Option: enliven the site with graphs and images | operator [O] | brief 003 |
