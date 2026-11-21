@@ -15,7 +15,7 @@ import sys
 from datetime import date
 from pathlib import Path
 
-from pipeline import checks, images, views_site, views_topic
+from pipeline import checks, images, sitemap, views_site, views_topic
 from pipeline.layout import SiteData
 from pipeline.loaders import load_curriculum, load_pages, load_topics, load_yearly_facts
 from pipeline.models import Problem
@@ -109,6 +109,7 @@ def build_site(root: Path, out: Path, partial: bool = False, today: date | None 
     if all(slug in pages for slug in REQUIRED_PAGES):
         prepare_output(root, out)
         write_site(data, out)
+        sitemap.write_sitemap(out, today)
         problems += checks.check_external_resources(out)
         problems += checks.check_internal_links_and_headings(out)
     if partial:
