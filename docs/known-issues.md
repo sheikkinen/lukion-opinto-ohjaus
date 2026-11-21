@@ -1,6 +1,6 @@
 # Known issues: checklist for manual inspection
 
-State after brief 005 (2026-11-21). Sources: the judgements in `docs/review/` and the live check of the deployed
+State after brief 007 (2026-11-21). Sources: the judgements in `docs/review/` and the live check of the deployed
 site. Tick an item when you have looked at it on the site.
 
 ## Fixed in brief 005 (check that the fix reads well)
@@ -19,22 +19,28 @@ site. Tick an item when you have looked at it on the site.
   belongs to Opetushallitus.
 - [ ] The "Avaa kuva suurempana" line no longer prints on paper.
 
+## Fixed in brief 007 (check that the fix reads well)
+
+- [ ] Print one lesson length: "Tulosta 75 min / 60 min / 45 min / kaikki pituudet" above each lesson plan.
+- [ ] Headings "Tuntisuunnitelma (75 min)", "(60 min)", "(45 min)".
+- [ ] The view links sit in the same place in both views and mark the current view.
+- [ ] `/polku/` shows no dead buttons without JavaScript.
+- [ ] Dates read d.m.yyyy everywhere.
+- [ ] Topics 09 and 18 say "asepalvelus tai siviilipalvelus"; task steps in 03–06 and 18 hold one action each; topics
+  13 and 18 say which task's steps go home.
+- [ ] Pictures remade: money and housing (one full room), the OP2 page (casual clothes), the routes diagram (space
+  under the caption).
+
 ## Still open
 
-- [ ] **Topic 09** still says "Varusmiespalvelus"; topic 14 and the diagram say "Asepalvelus".
-- [ ] **New task steps** in topics 03–06 and 18 bundle several actions into one step; the style guide asks for one.
-- [ ] **Topic 18 at 45 min:** "Tehtävä 2 kotiin" conflicts with the HOPS row, which keeps step 5 of Task 2.
-  **Topic 13:** "Vaiheet 4–5 kotiin" does not say which task.
-- [ ] **Money and housing** picture (`/op2/17-talous-ja-asuminen/`): a stray lamp shape and an empty top half.
-- [ ] **OP2 page** picture: pleated skirts that could read as school uniforms. Your call.
-- [ ] **Routes diagram:** its caption sits close to the bottom edge.
-- [ ] **Print:** a lesson plan prints all three lengths (75, 60, 45) one after another, about 13 pages. One length
-  per print would suit a counsellor better.
-- [ ] **Headings:** "Tuntisuunnitelma (75 min)" is followed by bare "60 min" and "45 min".
-- [ ] **Lesson view:** the "Opiskelijan näkymä" and "Tuntisuunnitelma" links do not mark the current view, and they
-  sit in a different place in each view.
-- [ ] **Without JavaScript,** `/polku/` still shows its counter and its print and clear buttons, which do nothing.
-- [ ] **Dates:** `/opetussuunnitelma/` mixes "21.11.2026" and "2026-05-22".
+- [ ] **Topic 05, Task 2:** the 60- and 45-minute plan rows label steps 1, 2, 4 and 5 as 8 and 7 minutes, while the task
+  says about 10. **Topic 18, 45 min:** "vaiheet 1 ja 2 (9 min)" for two 3-minute steps.
+- [ ] **One-length print** of topic 18 is 7 pages; the last two are sources and the curriculum box.
+- [ ] **Routes diagram:** the gap under the caption is smaller than the caption itself.
+- [ ] **OP2 page picture:** two students wear plain skirts (not uniforms). Your call.
+- [ ] **Topic 13:** a few task steps still bundle two actions.
+- [ ] **Outcomes resting on optional text:** in topics 04, 06 and 18 an outcome is practised only in a "Jos ehdit"
+  note.
 
 ## Not yet seen by a person
 
