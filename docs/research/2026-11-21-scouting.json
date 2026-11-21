@@ -1,0 +1,760 @@
+{
+ "research": [
+  {
+   "key": "curriculum",
+   "summary": "I read the current national core curriculum (LOPS 2019, OPH-2263-2019) directly from the ePerusteet API (peruste id 6828810, latest publication 2026-05-22) and the consolidated Lukiolaki 714/2018 on Finlex, all on 2026-11-21. The ePerusteet data is the same official text as the OPH PDF; I did not download or open the PDF. Opinto-ohjaus has exactly two modules, both compulsory and 2 credits each (4 op in all): OP1 'Minä opiskelijana' and OP2 'Jatko-opinnot, työelämä ja tulevaisuus'. Modules get a suoritusmerkintä (S/H), not a numeric grade. The guidance chapter is 4.1 'Ohjaus'; the personal study plan (HOPS) with its three parts, the ohjaussuunnitelma contents, and the higher-education and working-life chapter (3.6) are all verified. In the law, guidance is §25 (not §24: §24 is 'Opiskelijan eronneeksi katsominen'), the study plan is §26, recognition of prior learning is §27, and learning support is §28. The brief's expected module names, and its claim that the jatko-opintosuunnitelma applies to only some students, were wrong.",
+   "findings": [
+    {
+     "claim": "LOPS 2019 is diary number OPH-2263-2019, decided 7.11.2019 (API timestamp 2019-11-06 22:00 UTC), in force from 1.8.2021, with no end date. The ePerusteet record was last published 2026-05-22 and has an attached amendment document 'Lukion opetussuunnitelman perusteiden 2019 muuttaminen'. I did not read that amendment's content, so I cannot say whether it touches OP.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet?diaarinumero=OPH-2263-2019"
+    },
+    {
+     "claim": "The OP subject has exactly two modules. OP1 is 'Minä opiskelijana', 2 op, pakollinen. OP2 is 'Jatko-opinnot, työelämä ja tulevaisuus', 2 op, pakollinen. Nothing else exists under Opinto-ohjaus in the national curriculum. The brief's expected names for OP1 and OP2 (and its split of topics between them) are wrong.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "OP1 tavoitteet (9). The student: tunnistaa ja osaa sanoittaa vahvuuksiaan, osaamistaan ja kiinnostuksen kohteitaan; tuntee lukio-opintojen käytänteet ja opintojen rakenteen; asettaa valintojaan tärkeysjärjestykseen suhteessa omiin suunnitelmiinsa; osaa lukiossa tarvittavat opiskelutaidot ja -menetelmät sekä työtavat; tunnistaa henkilökohtaisen opintosuunnitelman merkityksen urasuunnittelun kannalta; osaa suunnitella opintojaan suhteessa ylioppilastutkinnon vaatimuksiin; ymmärtää, miten tehdyt valinnat vaikuttavat jatko-opintoihin hakeutumiseen; osaa suunnitella ajankäyttönsä; tunnistaa tapoja edistää hyvinvointiaan ja toimintakykyään. (Paraphrased in order; the exact Finnish is in the API JSON.)",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "OP1 keskeiset sisällöt (8): HOPS (opiskelu-, ylioppilastutkinto- sekä jatko-opinto- ja urasuunnitelma); itsetuntemus, vahvuudet, osaamisen tunnistaminen ja dokumentointi; toimijuus, arjen- ja elämänhallintataidot, minäpystyvyys, toimintakyky; hyvinvointi, opiskelukyky, tasapainoinen elämä; opiskelu- ja tiedonhankintataidot, oppimaan oppiminen; jatko-opintojen ja tulevaisuuden tietolähteet, digitaaliset ohjauspalvelut, hakujärjestelmät; työelämään sekä toisen ja korkea-asteen koulutuspaikkoihin tutustuminen; lukio-opintojen kannalta kulloinkin ajankohtaiset asiat.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "OP2 tavoitteet (10). The student: osaa suunnitella tulevaisuuttaan ja tuntee koulutusvaihtoehtoja ja työelämän mahdollisuuksia; syventää itsetuntemus- ja elämänhallintataitojaan; tunnistaa, sanoittaa ja dokumentoi osaamistaan; tuntee keskeiset työelämätaidot ja arvioi osaamistaan niihin nähden; tuntee työelämän ja työllistymisen muotoja sekä talouden muutosten merkityksen; tuntee yrittäjyyden muotoja ja arvioi omaa suhdettaan yrittäjyyteen; tuntee kansainvälisiä koulutus- ja työllistymisvaihtoehtoja; osaa toimia monikulttuurisissa ympäristöissä; tuntee itselleen olennaiset jatkokoulutusvaihtoehdot, pääsyvaatimukset ja valintaprosessit; osaa hakea töitä ja tunnistaa työllistymismahdollisuuksia.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "OP2 keskeiset sisällöt (8): HOPS-suunnitelmien (opinto-, yo-, jatko-opinto- ja urasuunnitelma) päivittäminen; jatko-opintojen suunnittelu ja hakeutuminen Suomessa ja ulkomailla; työelämätietous ja -taidot, yrittäjyys muuttuvassa ja monimuotoisessa maailmassa; työelämään ja jatko-opintoihin tutustuminen ja kokemusten hankkiminen; oman talouden hallinta, opintotuki ja asuminen; oman hyvinvoinnin edistäminen; tulevaisuuden ennakointiosaaminen ja oppimistarpeiden tunnistaminen suhteessa tulevaisuuden osaamistarpeisiin; lukio-opintojen kannalta kulloinkin ajankohtaiset asiat.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "The subject-level 'tehtävä' says OP gives the student tools for life, study and working life, and strengthens toimijuus (agency), toimintakyky, oppimaan oppiminen and urasuunnittelutaidot. It links lukio to society and working life, promotes oikeudenmukaisuus, yhdenvertaisuus, tasa-arvo and osallisuus, prevents exclusion, and uses 'sukupuolitietoinen ohjaus' to reduce segregated education and labour-market choices.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Yleiset tavoitteet of OP (11 items, 'opiskelija ...'): löytää omat tapansa oppia; saa tukea elämänsuunnitteluun ja koulutus- ja uravalintoihin; suunnittelee ajankäyttöään; arvioi toimijuuttaan, voimavarojaan, ohjaus- ja tuentarvettaan sekä ryhmätyö- ja vuorovaikutustaitojaan; tunnistaa arvojen, uskomusten ja merkittävien ihmisten vaikutuksen valintoihin; oppii itsearviointia ja osaamisen sanoittamista; tuntee jatkokoulutuksen, työelämän ja urasuunnittelun tietolähteet, ohjauspalvelut ja hakujärjestelmät; arvioi opiskelu- ja urasuunnittelutaitojensa kehittymistä; arvioi tiedonhankinta- ja TVT-taitojaan; tunnistaa tietolähteiden luotettavuuden; toimii ja arvioi toimintaansa digitaalisissa ympäristöissä. The tavoitteet text opens: 'Opinto-ohjaus tukee opiskelijan uskoa tulevaisuuteen' (the page continues 'ja antaa hänelle rohkeutta vaikuttaa siihen').",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Assessment (subject arviointi and 5.2.1): OP gets no numeric grade; the modules get a suoritusmerkintä (S = suoritettu, H = hylätty). Assessment rests on the student's own self-assessment plus interactive, guiding and encouraging feedback in different guidance actions. Each student sets their own goals, and the guidance follows how they are met. Numeric grades 4-10 are given to the other compulsory and national elective studies.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Subject-level laaja-alainen osaaminen text for OP names all six areas of laaja-alainen osaaminen: hyvinvointiosaaminen, vuorovaikutusosaaminen, monitieteinen ja luova osaaminen, yhteiskunnallinen osaaminen, eettisyys ja ympäristöosaaminen, globaali- ja kulttuuriosaaminen. Section 6.2 of the general part defines these six; the OP subject text stresses lifelong-learning skills, urasuunnittelutaidot and työelämävalmiudet (yhteiskunnallinen), hyvinvointiosaaminen, recognising strengths and meeting uncertainty, and perseverance and curiosity (monitieteinen ja luova). I read the OP text; I did not read the full 6.2 area descriptions.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "General part 4.1 'Ohjaus': a student has a right to personal and other guidance (cites lukiolaki 25 § 2 mom.). Guidance is shared, goal-led work of the whole staff, including cooperation with korkeakoulut and working life. Forms: opintojaksomuotoinen opetus, henkilökohtainen ohjaus, pienryhmäohjaus, vertaisohjaus. Roles: opinto-ohjaaja coordinates and implements it; ryhmänohjaaja is the nearest guide; aineenopettaja guides study skills and ties the subject to further study and working life. Guidance must be differentiated by each student's circumstances.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "The ohjaussuunnitelma is part of the local curriculum (a school-level document, not national). Required contents per 4.1 (8 points): ohjauksen keskeiset käsitteet; tehtävät ja tavoitteet; järjestäminen; toimijat ja työnjako; ohjaus siirtymävaiheissa (perusopetus, korkea-aste, ammatillinen, muut) ja jatko-ohjaus; sisällöt, menetelmät ja työtavat; yhteistyö työelämän ja ulkopuolisten tahojen kanssa; ohjaustoiminnan arviointi. It must also cover esteettömyys and yhdenvertaisuus at transitions.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "HOPS (henkilökohtainen opintosuunnitelma) per 4.1: the student makes it, with staff support, at the start of studies and updates it regularly. It has three parts: (1) opiskelusuunnitelma (previous education, language skills, hyväksiluettavat opinnot, courses chosen, study conditions and support need, korkeakoulu and working-life taster periods, estimated study time), (2) ylioppilastutkintosuunnitelma, (3) jatko-opinto- ja urasuunnitelma. This is required of every student, so the brief's wording 'for some a further study plan' is wrong.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Post-graduation guidance right: a student whose study right is ending or who has resigned may get guidance towards other studies. A graduate without a further-study place gets guidance on applying and career plans during the year after the graduation year, and the school where they graduated is responsible (lukiolaki 25 § 3-4 mom., as cited in 4.1).",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Chapter 3.6 'Korkeakoulut, työelämä ja kansainvälisyys' says the lukio must give valmiudet to start university or AMK studies (law 2 §). Part of the studies must be arranged with one or more korkeakoulu (law 13 § 3 mom.). The student has the chance to develop kansainvälinen osaaminen, työelämä- ja yrittäjyysosaaminen, and korkeakouluopinnot and tutustumisjaksot are included in the HOPS. Concrete forms are decided in the local curriculum, and tutustuminen is to happen 'ennakkoluulottomasti' without gendered assumptions. Working life: the school defines its partners (business, public sector, third sector) locally. The chapter also covers international competence (home internationalisation, exchange, Agenda 2030 goal 4.7).",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Structure facts: nuorten lukio is 150 op (law 10 § 3 mom.); at least 20 op national elective studies; the school chooses course lengths, but must offer national electives in 2-op courses (3.1 and 5.4).",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Lukiolaki 714/2018 sections relevant to guidance (section headings read on Finlex; consolidated text runs to amendment SiVM 11/2025): §10 oppimäärän suorittamisajat, mitoitus ja laajuus (tavoiteaika 3 vuotta); §11 oppimäärän sisältö (opinto-ohjaus is named as part of the oppimäärä); §12 opetussuunnitelma (the curriculum decides how 'opintojen ohjaus' and learning support are implemented); §13 opintojen järjestäminen (teaching and guidance arranged so the oppimäärä can be done in 3 years, with choices across the school, korkeakoulut and others); §25 oikeus saada opetusta ja opintojen ohjausta; §26 henkilökohtainen opintosuunnitelma; §27 osaamisen tunnistaminen ja tunnustaminen; §28 oikeus oppimisen tukeen; §28 a oikeus erityisopetukseen; §24 is eronneeksi katsominen. The task text's reference to '§ 24' for guidance is wrong.",
+     "confidence": "verified",
+     "source_url": "https://finlex.fi/fi/lainsaadanto/2018/714"
+    },
+    {
+     "claim": "Lukiolaki §25: the student has a right to regular guidance in addition to the studies named in §11 mom. 1, plus 'tarpeidensa mukaista henkilökohtaista ja muuta' guidance on studies and applying for further study (mom. 2). A student leaving or whose right is ending may get guidance to other studies (mom. 3); a graduate with no further-study place may get guidance for the following year (mom. 4). Lukiolaki §26: the student makes the HOPS with opiskelusuunnitelma, ylioppilastutkintosuunnitelma and jatko-opinto- ja urasuunnitelma (mom. 1), at the start of studies, with staff support, updated regularly (mom. 2). §27: the provider must identify prior learning when the HOPS is made, and recognise equivalent learning.",
+     "confidence": "verified",
+     "source_url": "https://finlex.fi/fi/lainsaadanto/2018/714"
+    },
+    {
+     "claim": "The Valtioneuvoston asetus lukiokoulutuksesta 810/2018 lists Opinto-ohjaus as its own row in the table of studies (liite 1), and its goals text (§4 as quoted in the curriculum) says the student should make a meaningful jatko-opinto- ja urasuunnitelma during lukio. I could not read the credit cell for the OP row in the asetus table; the 2+2 op comes from the ePerusteet module data only.",
+     "confidence": "likely",
+     "source_url": "https://finlex.fi/fi/lainsaadanto/2018/810"
+    },
+    {
+     "claim": "The ePerusteet English name field for this peruste reads '...general upper secondary education 2025' (an English-language-version order of 20.3.2025). OPH news says English-language upper secondary can start in August 2026, and technical updates to learning support and special education sections were made in 2025. OPH plans a lukiodiplomi amendment order by the end of 2026. None of these was found to change the OP module text, but I did not diff the versions.",
+     "confidence": "likely",
+     "source_url": "https://www.oph.fi/fi/uutiset/2025/lukion-oppimisen-tuen-ja-erityisopetuksen-perustepaivitykset-seka-englanninkieliset"
+    },
+    {
+     "claim": "The OPH publication page for LOPS 2019 (Määräykset ja ohjeet 2019:2a) links the PDF https://www.oph.fi/sites/default/files/documents/lukion_opetussuunnitelman_perusteet_2019.pdf (3.25 MB). This may be a 2019 base version without later technical updates, so the live ePerusteet text is the better source to cite.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/tilastot-ja-julkaisut/julkaisut/lukion-opetussuunnitelman-perusteet-2019"
+    },
+    {
+     "claim": "Learning support (4.2.1) names the opinto-ohjaaja among those giving support and guidance alongside the erityisopettaja. Support measures are teachers' joint work; a lukio student has a right to oppimisen tuki (law §28) and erityisopetus (§28 a). I read the opening of 4.2.1 and the §28 text. Chapters 4.2.2-4.2.4, 4.3 and 4.5 (erityisopetus, opiskeluhuolto, language and culture) were not read in full.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    }
+   ],
+   "recommendations": [
+    "Name the two lessons-sets after the real modules: OP1 'Minä opiskelijana' and OP2 'Jatko-opinnot, työelämä ja tulevaisuus'. Drop the brief's guessed names.",
+    "Key every topic's curriculum reference to the exact tavoite and keskeinen sisältö wording above (OP1 has 9 tavoitteet and 8 sisältöä, OP2 has 10 tavoitteet and 8 sisältöä), plus the 11 yleistä tavoitetta. Store these as a machine-readable list in the content contract. A script can regenerate it from the ePerusteet API (…/api/perusteet/6828810/kaikki, oppiaine OP), which avoids copy errors.",
+    "Cite law as Lukiolaki 714/2018 §25 (guidance), §26 (HOPS), §27 (recognition of prior learning), §28 and §28 a (support), and §11 and §13. Never cite §24 for guidance. Also cite the curriculum chapter numbers (4.1 Ohjaus, 3.6 Korkeakoulut, työelämä ja kansainvälisyys, 5.2.1 suoritusmerkinnät, 6.2 Laaja-alainen osaaminen).",
+    "Put the HOPS (opiskelusuunnitelma, ylioppilastutkintosuunnitelma, jatko-opinto- ja urasuunnitelma) in as a thread running through all lessons, as the curriculum requires every student to have it. Self-study tasks should help fill each of the three parts.",
+    "Cover the OP2 contents that the brief did not stress: yrittäjyys, oman talouden hallinta, opintotuki ja asuminen, tulevaisuuden ennakointiosaaminen, kansainväliset koulutus- ja työllistymisvaihtoehdot, monikulttuurisessa ympäristössä toimiminen, and job seeking.",
+    "Mark the following as school-specific examples, not curriculum requirements: ohjaussuunnitelma contents (the structure is required, the content is local), how and when OP1 and OP2 are timed, the shape of korkeakouluyhteistyö and working-life visits (decided locally), and the 'suoritusmerkintä' rules for incomplete courses (decided locally).",
+    "State on the site that OP is assessed S/H based on the student's self-assessment and feedback, so the lessons' tasks must be completable without being graded against a model answer. Reflection tasks should fit the 'student sets own goals' principle.",
+    "Add a 'curriculum last checked' date (2026-11-21) and a note that the ePerusteet record was published again 2026-05-22 with an attached amendment. Before launch, have a checker read that amendment (Lukion_opetussuunnitelman_perusteiden_2019_muuttaminen.pdf, linked from ePerusteet) and the latest 4.1 and OP text, to confirm nothing in OP changed.",
+    "Follow-up read not done here: the OPH PDF itself, full text of 6.1 and 6.2, chapters 4.2.2-4.5, §10-§13 full text in Finlex, and the exact credit table in 810/2018 liite 1. Assign these to a small follow-up if the contract depends on them."
+   ],
+   "versus_expected": "Expected answer 1 is refined, and in places wrong. Right: LOPS 2019 in force 1.8.2021; two compulsory guidance modules of 2 op each; the aims include study skills, self-knowledge, career management, personal study plan and further-study choices; the law gives the right to guidance and a personal study plan; transversal competences and korkeakouluyhteistyö matter. Wrong or refined: (a) the module names. OP1 is 'Minä opiskelijana' (starting lukio is part of it, as is wellbeing, but so are the HOPS, self-knowledge and information sources for further study), and OP2 is 'Jatko-opinnot, työelämä ja tulevaisuus', not the generic labels in the brief. (b) The brief says 'for some' a jatko-opintosuunnitelma. In fact every student makes a HOPS with all three parts, including 'jatko-opinto- ja urasuunnitelma' (Lukiolaki §26). (c) The task text cites '§ 24'. Guidance is §25 and the HOPS is §26. (d) Assessment is by suoritusmerkintä (S/H), based on self-assessment and feedback, which the brief did not state. (e) Additional required content not in the brief: ohjaussuunnitelma with eight required parts, opinto-ohjaaja, ryhmänohjaaja and aineenopettaja roles, post-graduation guidance for one year after the graduation year, and the school must describe transition cooperation. A new point: the ePerusteet record shows a 2026 re-publication with an amendment document, so the text should be re-checked before launch."
+  },
+  {
+   "key": "topics-mapping",
+   "summary": "PROPOSED TOPIC LIST: 18 topics, 9 for OP1 (Minä opiskelijana, 2 op) and 9 for OP2 (Jatko-opinnot, työelämä ja tulevaisuus, 2 op). Each topic is a 60-75 min lesson and one self-study step. Objective and content codes are defined in the first finding. OP1 objectives are a1-a9 and contents k1-k8. OP2 objectives are b1-b10 and contents m1-m8. General aims are g1-g11 (LOPS 2019 s. 6.21, pp. 351-354).\n\nOP1, year 1:\nT01 Lukion alku: rakenne ja käytännöt. Y1 autumn (Aug-Sep). Serves a2, a3, k1, k8.\nT02 Opiskelutaidot ja oppimaan oppiminen. Y1 autumn. Serves a4, k5, g1.\nT03 Ajankäyttö ja arjenhallinta. Y1 autumn. Serves a8, k3, g3, g4.\nT04 Hyvinvointi ja opiskelukyky. Y1 autumn-spring. Serves a9, k4, k3, g4.\nT05 Vahvuudet, arvot ja itsetuntemus. Y1 autumn. Serves a1, k2, g5, g6.\nT06 Henkilökohtainen opintosuunnitelma ja kurssivalinnat. Y1 autumn (before the first elective choices). Serves a3, a5, a2, k1, g2.\nT07 Ylioppilastutkinto ja alustava yo-suunnitelma. Y1 spring (first plan), revisited in T10. Serves a6, a7, k1, k8.\nT08 Tiedonhaku ja ohjauspalvelut: Opintopolku, ammattitieto, tiedon luotettavuus. Y1 spring. Serves k6, a7, g7, g9, g10, g11.\nT09 Valinnat ja jatko-opintopolut: ensikatsaus ja tutustuminen. Y1 spring. Serves a7, a3, k7, k1, g2.\n\nOP2, years 2-3:\nT10 HOPS-päivitys ja yo-suunnitelman hajautus. Y2 autumn, before the school's enrolment deadline (YTL cut-off 1 Dec for spring). Serves m1, b1, a6 (deepened), g8.\nT11 Osaamisen sanoittaminen ja dokumentointi (CV, portfolio). Y2 autumn. Serves b3, b2, b4, g6.\nT12 Työelämän muutos ja yrittäjyys. Y2 spring. Serves b5, b6, b1, m3, m7.\nT13 Työelämätaidot ja työnhaku (kesätyö, hakemus, haastattelu). Y2 spring, before summer-job season. Serves b4, b10, m3, m4.\nT14 Koulutusväylät ja muut reitit: ammatillinen, AMK, yliopisto, kansanopisto, välivuosi, asepalvelus ja siviilipalvelus. Y2 spring-Y3 autumn. Serves b9, b1, m2, m4.\nT15 Haut ja valintaprosessit: yhteishaku, todistusvalinta, valintakokeet, erityisjärjestelyt. Y3 autumn (before the Jan/Feb-Mar application windows). Serves b9, m2, m8, g7.\nT16 Kansainvälisyys ja monikulttuurinen toimintaympäristö: opiskelu ja työ ulkomailla. Y3 autumn (some deadlines are early). Serves b7, b8, m2.\nT17 Oma talous, opintotuki ja asuminen. Y3 autumn-spring. Serves m5, b2, m6.\nT18 Jatko-opinto- ja urasuunnitelma sekä siirtymä (capstone, wellbeing, follow-up guidance). Y3 autumn draft, Y3 spring update. Serves m1, b1, b2, m6, m7, g8, g2.\n\nDESIGN POINTS\n(1) Coverage check: every OP1 objective a1-a9 and OP2 objective b1-b10 is hit by at least one topic, and every content bullet k1-k8 and m1-m8 is hit by at least one topic. k8 and m8 (\"kulloinkin ajankohtaiset asiat\") are served by T01, T07 and T15 plus a yearly-updates box.\n(2) Sizing: 2 op is about 38 x 45 min, so OP1 and OP2 together are about 57 h of work. 18 topics at 75 min is 22.5 h, which leaves room for tasks and personal guidance. The topics therefore fit and can be taught as one or two lessons each.\n(3) Year and term are the site's suggestion. LOPS fixes neither the order nor the year of the modules. Real schools differ, so label them \"esimerkki, koulu päättää\".\n(4) Mark each topic \"core\" (needed for the objectives) or \"extension\".\n(5) Each topic links to official sources and never copies figures that change yearly.\n(6) Name the topics after the objective wording, because the contract's citations must be exact.",
+   "findings": [
+    {
+     "claim": "Primary curriculum text read in full: LOPS 2019 (OPH Määräykset ja ohjeet 2019:2a), section 6.21 Opinto-ohjaus, pp. 351-354. The only compulsory modules are OP1 Minä opiskelijana (2 op) and OP2 Jatko-opinnot, työelämä ja tulevaisuus (2 op). No elective guidance modules exist in the national text. Code key. OP1 objectives in page order: a1 vahvuuksien, osaamisen ja kiinnostuksen sanoittaminen; a2 lukio-opintojen käytänteet ja rakenne; a3 valintojen tärkeysjärjestys; a4 opiskelutaidot ja -menetelmät; a5 HOPSin merkitys urasuunnittelulle; a6 opintojen suunnittelu suhteessa yo-tutkintoon; a7 valintojen vaikutus jatko-opintoihin hakeutumiseen; a8 ajankäytön suunnittelu; a9 hyvinvoinnin ja toimintakyvyn edistäminen. OP1 contents: k1 HOPS (opiskelu-, yo-, jatko-opinto- ja urasuunnitelma); k2 itsetuntemus, vahvuudet, osaamisen tunnistaminen ja dokumentointi; k3 toimijuus, arjenhallinta, minäpystyvyys, toimintakyky; k4 hyvinvointi, opiskelukyky, tasapainoinen elämä; k5 opiskelu- ja tiedonhankintataidot, oppimaan oppiminen; k6 tietolähteet, digitaaliset ohjauspalvelut, hakujärjestelmät; k7 työelämään sekä toisen ja korkea-asteen koulutuspaikkoihin tutustuminen; k8 ajankohtaiset asiat. OP2 objectives: b1 tulevaisuuden suunnittelu ja koulutus- ja työelämävaihtoehdot; b2 itsetuntemus, elämänsuunnittelu, elämänhallinta; b3 osaamisen tunnistaminen, sanoittaminen ja dokumentointi; b4 työelämätaidot ja oman osaamisen arviointi; b5 työelämän ja työllistymisen muodot, talouden muutokset; b6 yrittäjyys; b7 kansainväliset koulutus- ja työllistymisvaihtoehdot; b8 kulttuurisesti moninaiset ympäristöt; b9 jatkokoulutusvaihtoehdot, pääsyvaatimukset, valintaprosessit; b10 työnhaku ja työllistymismahdollisuudet. OP2 contents: m1 HOPSin päivittäminen; m2 jatko-opintojen suunnittelu ja hakeutuminen Suomessa ja ulkomailla; m3 työelämätietous ja -taidot, yrittäjyys; m4 työelämään ja jatko-opintoihin tutustuminen ja kokemusten hankkiminen; m5 oman talouden hallinta, opintotuki ja asuminen; m6 oman hyvinvoinnin edistäminen; m7 ennakointiosaaminen; m8 ajankohtaiset asiat. General aims g1-g11 are the 11 bullets of 'Opinto-ohjauksen yleiset tavoitteet' (p. 352): g1 oppimisen tavat; g2 elämänsuunnittelu ja koulutus- ja uravalinnat; g3 ajankäyttö; g4 toimijuuden, voimavarojen ja ohjaustarpeen arviointi; g5 arvojen ja läheisten vaikutus valintoihin; g6 itsearviointi ja osaamisen sanoittaminen; g7 tietolähteet, ohjauspalvelut ja hakujärjestelmät; g8 opiskelu- ja urasuunnittelutaitojen kehittymisen arviointi; g9 tiedonhaku- ja TVT-taidot; g10 lähteiden luotettavuus; g11 digitaaliset ympäristöt. Exact wording to be quoted from the PDF in the content contract; I give at most short paraphrases here.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/sites/default/files/documents/lukion_opetussuunnitelman_perusteet_2019.pdf"
+    },
+    {
+     "claim": "Where the curriculum text sits. The ePerusteet page itself is JavaScript-only and could not be read. The OPH PDF is the same national text, so cite 'LOPS 2019, luku 6.21, s. 351-354' and add the ePerusteet link as a convenience. Guidance as a whole is in ch. 4.1 Ohjaus (pp. 27-29). Higher-education cooperation is in 'Korkeakouluyhteistyö' (pp. 24-25), which says guidance supports making the jatko-opintosuunnitelma. Study structure is in 3.1.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/sites/default/files/documents/lukion_opetussuunnitelman_perusteet_2019.pdf"
+    },
+    {
+     "claim": "Ch. 4.1 (pp. 27-29) says: the student has a right to personal and other guidance (Lukiolaki 714/2018 25 §). A guidance plan (ohjaussuunnitelma) is part of the local curriculum and must cover 8 listed items (concepts; tasks and aims; organisation; actors and division of work; guidance in transitions; contents, methods and working modes; cooperation with working life; evaluation). It also treats accessibility in transitions. The HOPS (Lukiolaki 26 §) has three parts: opiskelusuunnitelma, ylioppilastutkintosuunnitelma, jatko-opinto- ja urasuunnitelma. It is made at the start of studies and updated regularly. A graduate without a study place has a right to guidance in the year after graduating (25 § 4 mom.). Guidance can be given as a study module, personal and small-group guidance, or peer guidance. Subject teachers and the group tutor (ryhmänohjaaja) also guide.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/sites/default/files/documents/lukion_opetussuunnitelman_perusteet_2019.pdf"
+    },
+    {
+     "claim": "The OP1-OP2 split is 'present state and study skills' versus 'future, working life and further study'. The curriculum itself places HOPS (k1) in OP1 and its updating (m1) in OP2, and the yo-plan and further-study plan appear in both. So the topic list should have T06/T07 in OP1 and T10/T18 as explicit 'update' topics in OP2. Gender-aware guidance and the avoidance of segregated education choices are named in the subject's task and in the higher-education text, so they are a cross-cutting rule for the lesson text and not a separate topic.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/sites/default/files/documents/lukion_opetussuunnitelman_perusteet_2019.pdf"
+    },
+    {
+     "claim": "Credit size. In LOPS 2019 one opintopiste is 11.4 x 75 min or 19 x 45 min of lessons, so 2 op is about 22.8 x 75 min or 38 x 45 min. Four op (OP1+OP2) is about 45.6 x 75 min. The 18-topic list at about 75 min each is about 22.5 h, so it fits comfortably inside the two modules and leaves time for personal guidance.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/sites/default/files/documents/lukion_opetussuunnitelman_perusteet_2019.pdf"
+    },
+    {
+     "claim": "Local curricula of Oulu schools (Kiimingin lukio LOPS 2021, approved 23.3.2021) and Puolanka lukio (approved 1.7.2021) copy the national OP1 and OP2 objectives and contents word for word. Their 'Paikallinen lisäys' fields only add local cooperation (e.g. TE-toimisto, local entrepreneurs, university and AMK visits, exchange students, 'kotikansainvälisyys'). Oulu also offers local extra modules OP3 Lukio-opintoihin perehtyminen, OP4 Opiskelutaidot and OP5 Tuutorointi. Helsinki Normaalilyseo and Sotkamo lukio also list OP1 and OP2 with the national names. So topics can follow the national wording exactly, and local modules such as study skills and orientation appear as extensions in the site.",
+     "confidence": "verified",
+     "source_url": "https://ouka.fi/media/1825/download"
+    },
+    {
+     "claim": "Oulu (Oulun suomalaisen yhteiskoulun lukion ohjaussuunnitelma 2023-2024, a school-level plan within the city model): the study plan (A) is made in the first-year autumn in guidance lessons with course choices for periods 3-5; the yo-plan (B) in the first-year spring in guidance lessons; the further-study and career plan (C) usually in year 3, with preliminary thinking from year 1. Group tutors interview students in years 1 and 2. The student writes a yo-plan with tutor, subject teachers and counsellor. Support: a self-reported info form at the start ('Tietoja ohjausta varten'). This is the most explicit timing found and is the model for T06, T07 and T18.",
+     "confidence": "verified",
+     "source_url": "https://www.ouka.fi/media/8309/download"
+    },
+    {
+     "claim": "Sotkamo lukio guidance plan (liite 7 of its curriculum): year 1 classroom guidance covers study practices and a preliminary matriculation plan, with a personal talk at least once a year; year 2 focuses on matriculation exams and further-study planning, with a personal check that the exam plan and further-study plan agree; the last year focuses on further studies with institution visits, programme presentations and working-life contact. Graduates get follow-up guidance for a year. University and AMK open days are in the autumn term. Puolanka (curriculum 2021) says that support arrangements for the exam are recorded and sent to YTL in the second year's autumn term.",
+     "confidence": "verified",
+     "source_url": "https://www.sotkamonlukio.fi/wp-content/uploads/sites/2/2021/04/LOPS21-Sotkamon-lukio-hyvaksytty.pdf"
+    },
+    {
+     "claim": "Kulosaaren yhteiskoulun lukio (Helsinki) plan: it splits the first compulsory guidance course across years 1 and 3 (study choices and a preliminary yo-plan in year 1; further-study applications and career choice in year 3) and runs the second compulsory course in year 2 with work-life knowledge and skills as the key theme. Year 2 stresses updating the study plan and making the yo-plan; year 3 stresses further study and career choices. Kulosaari therefore uses a different year split than the OP1=year 1 assumption, which supports labelling year/term as an adaptable example.",
+     "confidence": "verified",
+     "source_url": "https://ksyk.fi/wp-content/uploads/2025/01/Kulosaaren-yhteiskoulun-lukion-ohjaussuunnitelma.pdf"
+    },
+    {
+     "claim": "Juva lukio (small municipality, plan 2023): the yo-plan is made mainly in the second year and includes spreading the exams and applying for special arrangements; the further-study and career plan is updated through studies and includes a possible gap-year plan and support for entrance exams. Guidance is classroom, small-group, personal and peer. Methods listed include video tasks, news tasks, games, visits, interviews and tests. Opintopolku is named as a tool. Helsinki's city plan (Helsingin kaupungin lukioiden ohjaussuunnitelma, 7 pages) sets only common lines, leaving school-level plans to give concrete practice. It has no year-by-year timing.",
+     "confidence": "verified",
+     "source_url": "https://peda.net/juva/ops2016/otsjo2/otsjo/lukion-ohjaussuunnitelma-2023:file/download/f45379cf25a71f6b2779a345a3ed295fee820bad/Lukion%20ohjaussuunnitelma%202023.PDF"
+    },
+    {
+     "claim": "Tampere city guidance leaflet 'Suunta - Lukiolaisen tukipolku' (2023) mentions the OP1 course in the first days: counsellors help with study plans and staff introduce themselves during OP1. The counsellor guides enrolment for the matriculation exams and the end-of-studies check and further-study applications. Pattern: OP1 is the first-term orientation course in Tampere.",
+     "confidence": "likely",
+     "source_url": "https://www.tampere.fi/sites/default/files/2023-08/Suunta_LukiolaisenTukipolku.pdf"
+    },
+    {
+     "claim": "Matriculation exam enrolment (YTL): enrolment is binding and made through the school's principal. YTL's fixed latest dates are 1 December for the spring exam and 5 June for the autumn exam, and schools often set earlier dates. Source read on the YTL page (not a copy of a yearly deadline, so say 'tarkista' and link). A Turku school guide for spring 2026 shows a Wilma form opening 5.11.2025 and closing 14.11.2025 at 12:00, and that the form is checked against a 'hajauttamissuunnitelma' made with the counsellor. School practice example only.",
+     "confidence": "verified",
+     "source_url": "https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/ilmoittautuminen"
+    },
+    {
+     "claim": "Matriculation exam structure (YTL): at least five exams; äidinkieli ja kirjallisuus compulsory plus at least four more from at least three groups (matematiikka, toinen kotimainen kieli, vieras kieli, reaaliaine); at least one at the long syllabus; the required exams are taken within at most three consecutive exam sessions. This is the content base for T07 and T10. YTL links exam dates per session, so the lesson links to 'koepäivät' instead of copying them.",
+     "confidence": "verified",
+     "source_url": "https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/tutkinnon-rakenne"
+    },
+    {
+     "claim": "Joint application timing (2026, OPH news pages read): the joint application to vocational and upper secondary education ran 17 Feb-17 Mar 2026 (news dated 16 Feb 2026). The higher education spring second joint application ran 10-24 March 2026 (news dated 10 Mar 2026), and certificate-based selection results come no later than 25 May 2026. The first spring joint application is reported by a search summary as 7-21 January 2026, not read on an OPH page, so keep it likely. These dates move each year, so lessons must link to Opintopolku and say 'ajat vaihtelevat vuosittain'. Implication: T15 must be taught in Y3 autumn; for a student finishing in spring of year 3 the higher education application is in the same spring as the exams.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/uutiset/2026/korkeakoulujen-kevaan-toinen-yhteishaku-alkaa-tarjolla-noin-56-380-aloituspaikkaa"
+    },
+    {
+     "claim": "Gap in coverage: Espoo, Tampere (beyond the leaflet) and Turku city-level guidance plans with year-by-year timing were not found. Turku has school-level info templates with old (2023) application dates, which are not used. The timing proposal therefore rests on Oulu, Sotkamo, Kulosaari (Helsinki), Juva and Puolanka plus the national text. The pattern across them is consistent: year 1 gets the preliminary yo-plan, year 2 the yo-plan finalising and further-study exploration, year 3 applications.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "The Taivalkoski 'opintoohjaus.pdf' hit that appears in search results for OP1/OP2 is an old LOPS 2003-era text (module names 'Koulutus, työ ja tulevaisuus' and 'Opiskelu, työelämä ja ammatinvalinta') and is NOT the 2019 curriculum. A search summary wrongly treated it as current. It must not be used in the site.",
+     "confidence": "verified",
+     "source_url": "https://peda.net/taivalkoski/lukio/opiskelu/oppilaanohjaus/opetussuunnitelma/oo:file/download/8927de842a1301c450e84b6903c79cb65a9d7cfc/opintoohjaus.pdf"
+    }
+   ],
+   "recommendations": [
+    "Adopt the 18-topic list (9 OP1 + 9 OP2). Set 'core' vs 'extension' per topic: T01-T03, T05-T07, T10, T14-T15 and T18 are core; the rest can be shortened. Keep the national module names and objective wording exactly as in LOPS 2019 s. 6.21.",
+    "In the content contract, give each topic: ops_module (OP1/OP2), objectives (a1-a9, b1-b10, g1-g11 with exact page), contents (k1-k8, m1-m8), suggested_year and term, a 'school-adapts' flag, and a 'changes yearly' flag with an official link plus read-date.",
+    "Show year and term as 'esimerkki', not as a requirement. Oulu, Sotkamo, Juva and Kulosaari put the yo-plan in different years, and Kulosaari splits OP1 across years 1 and 3. Offer a three-year timeline view and a 'free order' self-study view.",
+    "Build the 'jatko-opinto- ja urasuunnitelma' as a thread: seed in T09 (Y1), update in T14, finalise in T18 (Y3). Also thread the yo-plan: T07 (Y1 preliminary) then T10 (Y2). Use one plan template stored in the student's browser only.",
+    "T15 and T10 are time-critical: tell the student to check the school's own earlier enrolment deadline (YTL's last days are 1 Dec / 5 June), and tell them to open Opintopolku for the current application dates. Never copy dates or figures.",
+    "Add yearly-updates boxes for k8/m8 ('kulloinkin ajankohtaiset asiat') on T01, T07, T15, so that curriculum-required 'current matters' are covered without hard-coding changing facts.",
+    "Before building the topic pages, have a critic or a second researcher read ePerusteet through its API or a browser and diff the 6.21 text against the OPH PDF used here (expected: identical), and look for Espoo, Turku and Tampere school plans to confirm the year timing; mark the result in the brief."
+   ],
+   "versus_expected": "Expected answer 2 (about 14-18 topics split over OP1 and OP2) is refined, not contradicted: 18 topics, in line with the expected list but with different boundaries. Differences. (a) The real module names are OP1 'Minä opiskelijana' and OP2 'Jatko-opinnot, työelämä ja tulevaisuus', not the expected 'starting upper secondary school / studying and wellbeing' versus 'further studies, working life and the future'. OP1 is about the student's own study, strengths and planning; OP2 is about the future. (b) The expected topic 'money, housing and independent life' is in OP2 content (m5: oman talouden hallinta, opintotuki ja asuminen), so it is a required content item, not an extra. (c) Entrepreneurship (b6), multicultural competence (b8) and 'ennakointiosaaminen' (m7) are explicit OP2 objectives or contents that the expected list missed; they are placed in T12, T16 and T12/T18. (d) The expected list left 'finding information and guidance services' (k6, g7-g11) implicit; here it is its own topic (T08). (e) The expected 'OP1 in year 1, OP2 in years 2-3' is the common school pattern but not universal (Kulosaari splits OP1 across years 1 and 3 and puts OP2 in year 2), so it is only a suggested example. (f) Expected answer 1 (two 2-op modules, HOPS with three parts, 25 and 26 § of lukiolaki, right to guidance for a year after graduation) is confirmed by the OPH text. (g) The expected claim that the 'ohjaussuunnitelma' must exist is confirmed; its 8 required items are listed in ch. 4.1.\"]",
+   "could_not_read": [
+    "https://eperusteet.opintopolku.fi/#/fi/lukiokoulutus/7534950/oppiaineet (JavaScript-only; the same national text was read in the OPH PDF instead)",
+    "https://ylioppilastutkinto.fi/ylioppilastutkinto/ilmoittautuminen (404; the correct page /fi/tutkinnon-suorittaminen/ilmoittautuminen was read)",
+    "https://tuni.fi/norssi/wp-content/uploads/NORSSI-LOPS2021_2024-S2024.pdf (download failed)",
+    "https://ah.turku.fi/kasoslaj/2021/0317002x/Images/1935743.pdf (returned an HTML page, not the plan)",
+    "Espoo city/school guidance plans with year timing (not found)",
+    "Turku and Tampere year-by-year guidance timing (not found; only a Tampere leaflet and old Turku info templates)",
+    "OPH page for the first higher-education joint application of spring 2026 (7-21 Jan 2026 seen only in a search summary)"
+   ]
+  },
+  {
+   "key": "pedagogy",
+   "summary": "Pedagogy research for the lukion opinto-ohjaus site. Primary OPH pages confirm four things. The curriculum allows guidance as course-style teaching, personal guidance, small-group guidance, peer guidance or a mix. Personal guidance follows a dialogic four-phase structure. Small groups and peer guidance work only with an adult facilitator. Diversity-respecting guidance means checking one's own assumptions. Learning-support rules changed on 1.8.2025. Not verified from a primary page: solution-focused and narrative theory as taught in Finnish teacher education, the ELGPN CMS competence areas, the content of the Finnish urasuunnittelutaitojen viitekehys, lesson lengths, and S2-specific guidance advice. Two PDFs were unreadable and the real tools (Opintopolku, Työmarkkinatori, Ammattinetti, Studentum, point calculators) were not opened. The recommended lesson-plan and student-task templates below are model-designed [M] and rest on the verified principles.\n\nRECOMMENDED LESSON PLAN TEMPLATE (front matter plus fixed sections; model design)\n- Front matter: id, title, module (OP1/OP2), curriculum refs (objective and content area, ePerusteet), prerequisites, duration_variants [45, 60, 75, 90], tools_used (each with URL and date read), materials, accessibility notes, 'yearly-changing facts' flag, self-study step id.\n- Sections: (1) Purpose in one sentence and learning outcomes in student-facing 'I can' form. (2) Teacher prep, 5 lines. (3) Timed phases as a table with a 75-min master and compressed variants. Master phases: Arrival and hook (5), Activation or prior knowledge (10), Input (10, max), Active task with real tool (25), Pair or small-group reflection (10), Personal-plan step and exit (10), Buffer (5). The 45-min variant drops the group reflection and shortens the input. The 60-min variant cuts the buffer and trims the task. The 90-min variant adds a second task or a peer-feedback round. Each phase has a 'swap' option (alternative activity), an 'if short on time' cut and an 'if ahead' extension. (4) Differentiation block: easier path, deeper path, S2/plain-language support, special-needs adjustments (reading, attention, anxiety), and an offline or no-device alternative. (5) Facilitation notes: open questions, a leading-question warning, safe-atmosphere ground rules, no forced disclosure. (6) Link to the personal study plan (what the student writes down). (7) 'When to book a meeting with the counsellor'. (8) Sources with dates read. (9) Teacher reflection prompt after the lesson.\n\nRECOMMENDED STUDENT TASK TEMPLATE (model design)\nTitle; time estimate; what you need (device or paper); numbered steps in plain Finnish (max 5); 'record' box (notes saved only in localStorage, clearable, nothing sent); reflection with 2-3 open prompts (what surprised me, what do I want to know more about, what is my next small step); self-assessment on a 4-step scale against the 'I can' outcomes (not graded); 'next step' choice (self-study path, counsellor meeting or peer chat); link to help services where relevant; printable version.",
+   "findings": [
+    {
+     "claim": "OPH lists three lukio guidance support materials: personal guidance conversation, small-group and peer guidance article, and diversity-respecting guidance. The page says its examples are non-normative.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opinto-ohjauksen-tukimateriaalit"
+    },
+    {
+     "claim": "Per the OPH small-group article, the 2019 curriculum allows guidance as course-style teaching, personal guidance, small-group guidance, peer guidance or a combination. Small groups can run inside the compulsory guidance modules.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/artikkeli-pienryhma-ja-vertaisohjausta-lukioon"
+    },
+    {
+     "claim": "Small-group guidance conditions per OPH: an adult facilitator is essential, students prefer choosing their own group, and a safe atmosphere must be built early. The article claims 3 small-group sessions can go deeper on self-knowledge than 6 classroom lessons. It gives no group size.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/artikkeli-pienryhma-ja-vertaisohjausta-lukioon"
+    },
+    {
+     "claim": "The OPH personal guidance conversation page describes four phases: trust and readiness; self-understanding and possibilities; decision-making and planning; implementation with an action plan. Content and goals arise from shared dialogue, and the counsellor assesses wellbeing and functional capacity. These phases can structure a topic's progression and the personal-plan thread.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/henkilokohtainen-ohjauskeskustelu-lukion-opinto-ohjauksessa"
+    },
+    {
+     "claim": "The OPH diversity page gives principles for inclusive content: inequality should be made visible, hidden assumptions and stereotypes should be checked, questions should be open rather than leading, and the counsellor should self-check. It says nothing about S2 or special needs.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/moninaisuutta-arvostava-opinto-ohjaus-lukiossa"
+    },
+    {
+     "claim": "Jyväskylä's guidance-training page: dialogic relationship is the core of guidance, the client is an active expert on their own situation, training uses experiential learning and reflection, and the personal study plan builds on life-history competence. It names no narrative, solution-focused or sociodynamic approach.",
+     "confidence": "verified",
+     "source_url": "https://www.jyu.fi/ops/fi/edupsy/ohjausalan-koulutukset-ja-niiden-lahtokohdat"
+    },
+    {
+     "claim": "Finnish guidance literature includes narrative and sociodynamic (Peavy) approaches and a newer dialogic counselling practice. This comes from search-result summaries only; the underlying articles (journal.fi/kasvatus, journal.fi/aikuiskasvatus, Tampere thesis) were not opened. Solution-focused guidance in Finnish teacher education has no confirming source.",
+     "confidence": "likely",
+     "source_url": "https://journal.fi/aikuiskasvatus/article/download/94111/52789/154689"
+    },
+    {
+     "claim": "ELGPN produced Tools No. 4 on career management skills (CMS), published 2015, and the Resource Kit organised around four themes including CMS. Based on search snippets. The elgpn.eu page redirected to peda.net, which did not hold the CMS content. The competence areas themselves were not read.",
+     "confidence": "likely",
+     "source_url": "https://peda.net/elgpn"
+    },
+    {
+     "claim": "A national proposal for a Finnish urasuunnittelutaitojen viitekehys (October 2023, ELO-foorumi working group) exists and includes areas such as interaction, communication, asking for help and job-search skills. Taken from a search summary only (PDF unreadable), so the area list and final status are unconfirmed.",
+     "confidence": "likely",
+     "source_url": "https://peda.net/hankkeet/elotori/elinikaisen-ohjauksen-valtakunnallinen-kehittaminen-2022-202/urasuunnittelutaitojen-viitekehys/julkaisut-ja-muu-materiaali/urasuunnittelutaitojen-viitekehys:file/download/ba5ee49e93620e7e815bdf74161656d61e852743/261023_Urasuunnittelutaitojen%20viitekehys.pdf"
+    },
+    {
+     "claim": "Lukio learning support and special education changed with effect from 1.8.2025. Students have a statutory right to tukiopetus, special-teacher support covers study strategies, reading and writing testing and exam arrangements, and special education requires an administrative decision. Content pages should link to this, not restate it.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/uutiset/2025/lukion-oppimisen-tuki-ja-erityisopetus-uudistuvat-oikeus-tukeen-vahvistuu"
+    },
+    {
+     "claim": "Matriculation arrangements for Finnish as a second language: the S2 syllabus suits students with gaps in basic Finnish, and the S2 exam can replace the mother-tongue exam. Seen only via local curriculum and city page search snippets, not primary YTL or OPH pages. No OPH page on language-aware guidance was found.",
+     "confidence": "likely",
+     "source_url": "https://www.hel.fi/fi/kasvatus-ja-koulutus/lukiokoulutus/opiskelu-lukiossa/lukio-opinnot-eri-kielilla"
+    },
+    {
+     "claim": "Lesson lengths of 45, 60, 75 and 90 minutes in Finnish lukio, with 75 common, are school-specific timetabling choices. No primary source was read, so this stays in the brief's expected answer as likely.",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "Pedagogical value of tasks with real tools (Opintopolku, Työmarkkinatori, Ammattinetti, Studentum, point calculators). None of these tools was opened, so their current features and URLs need a separate source check.",
+     "confidence": "unverified"
+    }
+   ],
+   "recommendations": [
+    "Use the four-phase structure of the OPH personal guidance page (trust and readiness, self-understanding and possibilities, decisions and planning, implementation) as the narrative arc across the OP1 to OP2 lessons. The personal study plan is the running thread, with one 'plan step' per lesson.",
+    "Design every lesson as a 75-minute master with explicit 45, 60 and 90-minute variants and per-phase swap, cut and extend options. Mark 75 as a school-adaptable example, not a curriculum fact.",
+    "Put group and pair reflection into every lesson. Give teachers a small-group variant for self-knowledge and future-planning topics, and state that peer work needs an adult facilitator.",
+    "Add a mandatory 'assumption check' note to each teacher guide, based on the OPH diversity page. Tasks use open questions, route-neutral examples and no stereotyping.",
+    "Keep student reflection and self-assessment private: localStorage only, clearable, no forms or accounts, and no prompt that asks for personal details. Add a 'when to book the counsellor' trigger to each self-study step.",
+    "Write a differentiation block into the template (plain Finnish and S2 support, reading and attention adjustments, anxiety-aware options, no-device alternative) and link to the 1.8.2025 learning-support rules rather than copying them.",
+    "For the real-tool tasks, build each around a screenshot-free instruction with stable links and a 'read on date' note. Offer a fallback paper task for when a tool changes, and recheck the tools in a source-verification brief.",
+    "Follow-up reads before building: the ELGPN CMS competence areas, the final Finnish urasuunnittelutaitojen viitekehys, the two Euroguidance or ELGPN PDFs (try browser or pdftotext), the OPH LOPS 2019 OP1 and OP2 text in ePerusteet, and a Finnish source on solution-focused guidance, plus an S2 and language-aware guidance source."
+   ],
+   "versus_expected": "Refines the brief's expected answer 3 (lesson form). The expected answer is right that guidance should be active, dialogic and reflective, with small-group, peer and personal formats. The OPH pages verify it: the curriculum allows small-group, peer and personal guidance, and personal guidance follows four dialogic phases. The 75-minute lesson length, the real-tool tasks and the guidance theories named in the brief (narrative, solution-focused) stay unconfirmed. Narrative and sociodynamic approaches appear in Finnish literature, but solution-focused did not turn up. The expected sources list named the CMS framework without detail; the research shows it is only a 2023 proposal in Finland and ELGPN Tools No. 4 dates from 2015. New points not in the expected answers: the OPH 1.8.2025 learning-support reform, the adult-facilitator condition for peer guidance, and the diversity-assumption checklist. No OPH page on language-aware or S2 guidance was found.\"]"
+  },
+  {
+   "key": "self-study-privacy",
+   "summary": "Static, account-free self-study design is lawful and low-risk if three things hold: nothing is sent to a server by the site (no analytics, forms or third-party embeds or fonts), localStorage is written only on the student's own action with a visible clear button, and a short tietosuojaseloste explains this plus the host's (GitHub Pages) IP logging. Digital services act 306/2019 (digipalvelulaki) most likely does not bind a private, free, non-commercial site (verified: scope is authorities, publicly funded services, banks and insurers, and certain consumer services from 28.6.2025; microenterprises exempt), but WCAG 2.1 AA is still the right target and is the repo's own rule. Several primary legal texts (Finlex, tietosuoja.fi) could not be read, so statute-level claims rest on secondary or search-snippet sources and are graded accordingly. The design and pedagogy parts (step order and length, motivation, referral to a counsellor) are largely model reasoning supported by OPH's description of how guidance is organised; no primary evidence on step length was found.",
+   "findings": [
+    {
+     "claim": "GDPR Art 8: where consent is the legal basis and a service is offered directly to a child, the default age is 16 and member states may lower it to no less than 13. Controllers must make reasonable efforts to verify parental consent. A service that is clearly not offered to children, and processing not based on consent, fall outside it.",
+     "confidence": "verified",
+     "source_url": "https://gdpr-text.com/fi/read/article-8/"
+    },
+    {
+     "claim": "Finland has set the age for a child's own consent to information society services at 13 (Tietosuojalaki 1050/2018, section 5). Confirmed only via secondary sources (a ministry press release and Red Cross guidance surfaced by search); Finlex section text could not be read. Also a private member's bill LA 1/2026 vp to amend section 5 exists; its content was not read, so check status before launch.",
+     "confidence": "likely",
+     "source_url": "https://valtioneuvosto.fi/-/1410853/uusi-tietosuojalaki-voimaan-vuoden-2019-alusta"
+    },
+    {
+     "claim": "Practical consequence for this site: the age rule only matters if the site relies on consent to process personal data. A site with no accounts, no forms and no analytics collects nothing from 16-19 year olds, so Art 8 is not triggered. Students under 13 are not the audience anyway (upper secondary).",
+     "confidence": "likely"
+    },
+    {
+     "claim": "GDPR Art 13 lists what a privacy notice must say when data are collected: controller identity and contact, purposes and legal basis, recipients, transfers outside the EU, retention, data subject rights (access, rectification, erasure, restriction, objection, portability), right to withdraw consent, right to complain to the supervisory authority, whether provision is required, automated decision-making.",
+     "confidence": "verified",
+     "source_url": "https://gdpr-text.com/fi/read/article-13/"
+    },
+    {
+     "claim": "Even with no data collected, a short notice (tietosuojaseloste) is wise: state that the site collects no personal data, has no accounts, analytics or forms, names the operator and a contact route (use a role address or the GitHub repo issues, not a personal e-mail, per CLAUDE.md), explains what is stored in the browser and how to clear it, and states that GitHub Pages as host logs visitor IP addresses. The Art 13 items that do not apply can be stated as 'not applicable'. The need to publish a notice despite no collection is model reasoning, not a read legal requirement.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "GitHub's own docs state that visitor IP addresses are logged on GitHub Pages sites, with or without a GitHub account, and GitHub's privacy statement lists IP address as automatically collected service data. So 'we collect nothing' must be worded as 'this site collects nothing; the host logs IPs for security'. Result came from search snippets of docs.github.com; the pages were not opened.",
+     "confidence": "likely",
+     "source_url": "https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages"
+    },
+    {
+     "claim": "Traficom treats browser local storage like cookies under section 205 of the Finnish Act on Electronic Communications Services (supervision decision against a media company ordered it to stop non-necessary cookies and local-storage technologies; legitimate interest is never a basis; only storage strictly necessary for a service the user requested is exempt). Search snippet of a decision PDF; Traficom's cookie guidance itself was not read.",
+     "confidence": "likely",
+     "source_url": "https://www.kyberturvallisuuskeskus.fi/sites/default/files/media/regulation/Sanoma%20Media%20Finland%20Oy.pdf"
+    },
+    {
+     "claim": "Design implication: saving progress in localStorage only when the student presses 'save my progress' (or ticks a step), storing no identifiers, no timestamps beyond what the feature needs, and giving a visible 'clear my data' button should fit the strictly-necessary / user-requested exemption, so no cookie banner is needed. This legal reading is model reasoning; flag for operator and recommend wording the notice accordingly. Never write to localStorage on page load.",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "Act on the Provision of Digital Services 306/2019 covers: authorities and other public bodies, public-law bodies case by case, services where an authority pays at least 50% of development or maintenance, identification and payment service providers, banks and insurers offering services to the public, some utilities, and from 28.6.2025 certain consumer services (e-commerce, e-books, some passenger transport, some banking, audiovisual access and communication services). Microenterprises (under 10 staff and turnover or balance sheet up to 2 MEUR) are not required to comply. A private, free, non-commercial education site is not in the list, so the act most likely does not apply unless it receives at least 50% public funding for the service.",
+     "confidence": "verified",
+     "source_url": "https://saavutettavuusvaatimukset.fi/fi/digipalvelulain-vaatimukset/soveltamisala-kuulummeko-lain-piiriin"
+    },
+    {
+     "claim": "For services covered by the act, an accessibility statement (saavutettavuusseloste) and an electronic feedback channel are mandatory, and the requirements are based on WCAG 2.1 (level AA named for at least one criterion on the guidance site). The exact level in the statute text was not read on Finlex.",
+     "confidence": "likely",
+     "source_url": "https://www.saavutettavuusvaatimukset.fi/fi/digipalvelulain-vaatimukset/mita-palveluja-ja-sisaltoja-laki-koskee"
+    },
+    {
+     "claim": "WCAG 2.1 added 17 success criteria over 2.0; the AA ones to design for in a static learning site are 1.3.4 Orientation, 1.3.5 Identify Input Purpose, 1.4.10 Reflow, 1.4.11 Non-text Contrast, 1.4.12 Text Spacing, 1.4.13 Content on Hover or Focus, 4.1.3 Status Messages. Level A additions: 2.1.4, 2.5.1, 2.5.2, 2.5.3, 2.5.4.",
+     "confidence": "verified",
+     "source_url": "https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/"
+    },
+    {
+     "claim": "Recommendation to publish a voluntary accessibility statement even though the law probably does not bind the site: model reasoning. Operator may be treated as covered if any school or authority funds it by 50% or more, so keep the statement and a feedback route ready.",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "Lukiolaki 714/2018 section 11: students have the right to regular subject-based guidance and to personal and other guidance suited to their needs; guidance is also due when studies are discontinued or the study right ends, and for a year after finishing if the student has not gained a place in further study (provider arranges it). Every student makes a personal study plan at the start, which has a study plan, a matriculation exam plan and a further study and career plan, updated regularly.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/ohjauksen-jarjestaminen-lukiokoulutuksessa"
+    },
+    {
+     "claim": "OPH describes guidance as delivered by personal meetings, small groups and form-group sessions, with the guidance counsellor planning lessons and learning or self-assessment tasks, and schools encouraged to cooperate with the local Ohjaamo. This supports the two-use design (lesson and self-study) and a built-in 'book a meeting' referral.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/ohjauksen-jarjestaminen-lukiokoulutuksessa"
+    },
+    {
+     "claim": "Opintopolku offers guidance by phone, chat and e-mail (free, confidential) and describes Ohjaamo as a place for everyone under 30 with free help on studies, work and housing. Search snippets indicate the Opintopolku chat is at times closed, so link to the guidance page and do not promise chat. The Opintopolku page itself returned no text on fetch.",
+     "confidence": "likely",
+     "source_url": "https://opintopolku.fi/konfo/fi/sivu/neuvonta-ja-ohjaus"
+    },
+    {
+     "claim": "Finnish national lifelong guidance strategy (Elinikäisen ohjauksen strategia) names digital, accessible, customer-centred, equal service as principles and aims at a digital guidance and mapping service using shared education and labour-market data; the strategy period is stated inconsistently across secondary sources (2020-2023 vs 2020-2028 process). The strategy document itself was not read.",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "My World of Work (Scotland) separates open self-guided material ('All about your skills', 'Tools and quizzes', sections for secondary pupils, parents, educators) from a sign-in used only to book a free appointment with a careers adviser for people 16 and over; a 'Career help' section points to human advisers. Useful model: open content without login, human help one click away. The page did not describe tool contents or whether tools need an account.",
+     "confidence": "verified",
+     "source_url": "https://www.myworldofwork.co.uk/"
+    },
+    {
+     "claim": "Step order and length: a recommended pattern is 10-20 minutes per step (read, one interactive task, one reflection, one next action), a visible progress indicator, ordering OP1 content in year 1 and OP2 in years 2-3, with a 'when to talk to a counsellor' box in every step. This is design reasoning and matches the brief's expected answer 4; no source on optimal step length or motivation research was read.",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "Referral triggers to a human counsellor worth hard-coding (model proposal): stress or wellbeing concerns, learning difficulties, thinking of dropping out or changing school, no idea about further study after the second year, deadlines (joint application, matriculation exam registration), and any task that surfaces a personal problem. Wellbeing links go to help services (student healthcare, Ohjaamo, Mieli ry style helplines to be verified at build time).",
+     "confidence": "unverified"
+    }
+   ],
+   "recommendations": [
+    "Ship the site with zero third-party requests: self-host fonts, no embeds, no CDN scripts, no analytics, no forms, no comments. State this in the privacy notice and keep it checkable by a build test (grep for external hosts).",
+    "Write localStorage only on explicit student action (tick a step, press 'save notes'), under one namespaced key, with a visible 'clear my data' button, an export/print option for notes, and a note that data stays on this device and disappears if the browser data is cleared. No cookie banner needed if this holds, but mark the legal reading for operator review.",
+    "Publish two short pages in plain Finnish: tietosuojaseloste (operator and contact via role address or repo issues; no personal data collected; what is stored on the device; GitHub Pages logs IPs; rights and the right to complain to the Tietosuojavaltuutettu; date and version) and saavutettavuusseloste (WCAG 2.1 AA target, known gaps, feedback route), stated as voluntary because the act probably does not apply.",
+    "Do not ask for age, name, school or any personal data in tasks. Reflection prompts are for the student's own device; tell them not to write anything they would not want a person using the same device to see (shared school computers).",
+    "Design every self-study step as: goal and time estimate, short text, one interactive or printable task, one reflection prompt, one next step, and a 'talk to your counsellor' box with triggers; add Opintopolku guidance, Ohjaamo and wellbeing links with read dates (rule 4 in CLAUDE.md).",
+    "Have the critic or operator fetch the Finlex texts (306/2019 sections 2-3 and the accessibility sections; 1050/2018 section 5; the Act on Electronic Communications Services section 205) and Traficom's cookie guide in a browser, since WebFetch returned only navigation or binary content for them, and check the status of LA 1/2026 vp.",
+    "Build accessibility checks into the Python build: heading order, alt text, link text, focus states, contrast tokens, reflow at 320 px, text-spacing tolerance, and no JavaScript needed to read a lesson (progressive enhancement for the path tracker)."
+   ],
+   "versus_expected": "The brief's expected answer 4 (short text, interactive task, reflection, next step; OP1 year 1, OP2 years 2-3; refer to a counsellor) is refined, not contradicted: OPH confirms guidance is organised through personal meetings, small groups and form-group sessions with counsellor-planned self-assessment tasks, and My World of Work shows the open-content plus human-adviser pattern. New items the brief did not anticipate: the age-13 rule is irrelevant if no consent-based processing happens; GitHub Pages itself logs IP addresses, so the notice must say so; Traficom likely treats localStorage like cookies under section 205, so progress saving must be user-initiated; and the digital services act 306/2019 most likely does not cover a private, free, non-commercial site, so WCAG 2.1 AA is a voluntary self-imposed standard here. Not verified from primary legal text: Finlex statute wording (306/2019, 1050/2018) and Traficom's cookie guide."
+  },
+  {
+   "key": "official-facts",
+   "summary": "Read on 2026-11-21. Most official bodies have stable, linkable pages. Verified from primary pages: the YTL structure, enrolment and retake rules; the Yliopistovalinnat todistusvalinta page (2026 scoring); the OPH spring and autumn 2026 joint-application releases; Intti call-up dates; Kela's student-aid hub; and the Työmarkkinatori front page. Not read from a primary page: Vipunen (403), Euroguidance and Siviilipalvelus (connection refused), Ammattinetti (certificate error), Studyinfo (404), and the Opintopolku front page (empty). The 2026 dates and quotas below are last-round values to link to, not to copy. The site should link to a per-year landing page and name what changes each year.",
+   "findings": [
+    {
+     "claim": "YTL rule (post-2022 structure): at least five exams. Mother tongue and literature is compulsory for everyone. At least four more exams are needed from at least three groups (mathematics, second domestic language, foreign language, reaaliaine), and at least one must be long-syllabus. Different syllabus levels of one subject count as one exam. YTL offers a tool for checking whether a combination qualifies.",
+     "confidence": "verified",
+     "source_url": "https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/tutkinnon-rakenne"
+    },
+    {
+     "claim": "Completion time: required exams normally within three consecutive exam occasions. A failed exam can be retaken in the next three occasions, and if a required exam fails on the third occasion the period can run to six. New exams can be added only in the first three. Illness or long study abroad can extend by one or two occasions on the principal's written application.",
+     "confidence": "verified",
+     "source_url": "https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/tutkinnon-rakenne"
+    },
+    {
+     "claim": "Enrolment deadlines: spring exam by 1 December, autumn exam by 5 June. Enrolment goes through the student's lukio and the principal. It is binding: combination and level cannot be changed afterwards except for a very serious reason such as illness. Deadlines may be checked each year.",
+     "confidence": "verified",
+     "source_url": "https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/ilmoittautuminen"
+    },
+    {
+     "claim": "Retakes: passed exams can be retaken without limit. During an unfinished degree a failed exam can be retaken in the next three sittings. After graduation failed exams can be retaken without limit. Graduates register mainly at their former lukio (autumn registration closes end of May, spring mid-November, per the page). Retakes are charged the normal fees.",
+     "confidence": "verified",
+     "source_url": "https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/ilmoittautuminen/kokeiden-uusiminen"
+    },
+    {
+     "claim": "The exam is held in spring and autumn at all lukios at the same time and has been fully digital since spring 2019. Legal basis: Lukiolaki 714/2018 section 18, Ylioppilastutkintolaki 502/2019 and Government Decree 612/2019. From early 2025 YTL prepares the arts and practical subject tests, and it is preparing an English-language exam. Yliopistovalinnat says the exam can be taken in English from 2028 and counts in certificate selection like the Finnish and Swedish versions.",
+     "confidence": "verified",
+     "source_url": "https://www.ylioppilastutkinto.fi/en/matriculation-examination/"
+    },
+    {
+     "claim": "The English-language YTL page does not describe the 2022 reform. The five-exam requirement is read from the current Finnish structure page. The wording 'from spring 2022' comes only from a search summary, so the year is likely, not verified. Link to the structure page and state the rule without a year, or word the year cautiously.",
+     "confidence": "likely",
+     "source_url": "https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/tutkinnon-rakenne"
+    },
+    {
+     "claim": "YTL page paths for exam dates and enrolment exist: /fi/tutkinnon-suorittaminen/koepaivat (named on the YTL index page, not opened). Earlier guessed English-language subpaths returned 404, so use the Finnish paths and the YTL front page.",
+     "confidence": "verified",
+     "source_url": "https://www.ylioppilastutkinto.fi/fi/ylioppilastutkinto"
+    },
+    {
+     "claim": "Yliopistovalinnat.fi publishes the todistusvalinta scoring: 'Todistusvalinnan pisteytykset vuodesta 2026' (11 scoring tables by field), an archive of earlier years, and a Vipunen 'Pisterajat' report of past cut-offs. Also published: valintakoe structures and exams A to I. Scoring: mother tongue, second domestic language and foreign languages score the same in all tables. Mathematics and other subjects are scored in three ways depending on the table. From 2026 Finnish or Swedish as a second language is scored like mother tongue. Some fields have threshold requirements and some programmes have a minimum score listed on Opintopolku. Some programmes use direct admission (suoravalinta), where scoring tables and thresholds do not apply.",
+     "confidence": "verified",
+     "source_url": "https://yliopistovalinnat.fi/todistusvalinnan-pisteytykset-vuodesta-2026"
+    },
+    {
+     "claim": "Yliopistovalinnat says the selection criteria for spring 2027 applications are published on Opintopolku. The points tables can change each year (the 2023-2025 tables were replaced by 2026 ones), so the site must link and never copy tables.",
+     "confidence": "verified",
+     "source_url": "https://www.yliopistovalinnat.fi/"
+    },
+    {
+     "claim": "AMK (university of applied sciences) certificate-selection scoring: no primary page for AMK scoring tables was read. Per the expected answer, AMKs publish their own criteria on Opintopolku and on their own sites. Treat this as unverified and have the site link to Opintopolku's per-programme criteria.",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "Spring 2026 second joint application: 10-24 March 2026. Certificate-selection results by 25 May. AMK entrance exam 26-28 May. University national entrance exams 26 May to 6 June. All results confirmed by 2 July. About 56,380 places in about 1,680 options; about 45,760 of them for holders of matriculation, vocational or equivalent qualifications.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/uutiset/2026/korkeakoulujen-kevaan-toinen-yhteishaku-alkaa-tarjolla-noin-56-380-aloituspaikkaa"
+    },
+    {
+     "claim": "Ensikertalaiskiintiö (first-time applicant quota): about 70% of all places in spring 2026 were reserved for people applying for their first higher-education place. In autumn 2026 about 74% of the places for those with a secondary qualification (about 9,700) were reserved. The share changes each round, so link and give no fixed figure. Spring 2027 dates and quota were not found on a primary page.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/uutiset/2026/korkeakoulujen-syksyn-yhteishaussa-tarjolla-yli-12-100-opiskelupaikkaa"
+    },
+    {
+     "claim": "Autumn 2026 joint application: 31 August to 10 September 2026, over 12,100 places in over 350 options, programmes start January 2027, mostly AMKs. Results no later than 19 November 2026 (this OPH page; a search snippet gave 16.10, so link to Opintopolku for the true date). Up to six options ranked, at most one offer.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/uutiset/2026/korkeakoulujen-syksyn-yhteishaussa-tarjolla-yli-12-100-opiskelupaikkaa"
+    },
+    {
+     "claim": "New rule, first applied autumn 2026: accepting a new degree place ends existing valid study rights at the same or lower level (university bachelor's and master's, AMK degrees, AMK master's). It applies to applications made after 1 Aug 2026 for programmes starting after 1 Jan 2027. A lesson must teach it and link to OPH or Opintopolku.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/uutiset/2026/korkeakoulujen-syksyn-yhteishaussa-tarjolla-yli-12-100-opiskelupaikkaa"
+    },
+    {
+     "claim": "Spring 2027 dates were not found on a primary page. A Helsinki University page (secondary) lists 9-23 March 2027 for its spring application, marked unconfirmed (and a doubtful 2026 typo in the same table). The pattern is the March joint application, with exact dates confirmed each spring on Opintopolku. In 2027 the site should show no date, only the rule.",
+     "confidence": "likely",
+     "source_url": "https://www.helsinki.fi/fi/hakeminen-ja-opetus/hae-kandi-ja-maisteriohjelmiin"
+    },
+    {
+     "claim": "Opintopolku (opintopolku.fi) is where all joint applications are submitted. The front page returned no text to the fetch, so its sections and per-year landing pages were not verified. A guessed /wp/fi/korkeakoulu/yhteishaku/ path returned 404, so do not deep-link to it.",
+     "confidence": "likely",
+     "source_url": "https://opintopolku.fi/konfo/fi/"
+    },
+    {
+     "claim": "Kela student aid hub: for lukio and vocational students it lists opintoraha (amount depends on living situation), asumislisä and koulumatkatuki (commute of at least 7 km one way). For higher education it lists opintoraha, opintolaina, asumislisä, an income limit, the health-care fee (YTHS; the autumn due date shown was 15 November), opintolainahyvitys and korkoavustus. The page gives no amounts. Amounts and income limits change each year, so link only.",
+     "confidence": "verified",
+     "source_url": "https://www.kela.fi/opintotuki"
+    },
+    {
+     "claim": "Intti.fi (Defence Forces) covers call-ups, voluntary service for women, and a section 'other service options and exemptions'. 2026 call-ups run 17 August to 15 December 2026 for men born in 2008. YLPALVO regulation updates took effect 1 July 2026. Call-up dates and the Varusmiehen opas change each year.",
+     "confidence": "verified",
+     "source_url": "https://intti.fi/"
+    },
+    {
+     "claim": "Women's voluntary military service: law in force from 1 June 2022. Applicant must be a Finnish citizen fit for service, at least 18 at the start, and must start no later than the year turning 29. Application is online and closes around mid-January, with selection events at the regional offices. This comes from a search summary of government and parliament sources and was not read on intti.fi, so treat details (dates, interruption period) as likely.",
+     "confidence": "likely",
+     "source_url": "https://valtioneuvosto.fi/-/236553176/laki-naisten-vapaaehtoisesta-asepalveluksesta-voimaan-1.6.2022-1"
+    },
+    {
+     "claim": "Civil service (siviilipalvelus.fi): the page could not be read (connection refused). Length, application procedure and the operating agency are not verified here. Link to siviilipalvelus.fi and to the Intti section, and do not state durations.",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "TE-services moved to municipalities and 45 employment areas (työllisyysalue) on 1 Jan 2025. TE-offices were closed, and the municipal trials 2021-2024 ended. Työmarkkinatori stays the electronic service channel, and discretionary tasks are centralised in the KEHA centre. This comes from search summaries of TEM, Kela and Työmarkkinatori releases. The Työmarkkinatori front page I read did not itself mention the move, so this is likely, not verified.",
+     "confidence": "likely",
+     "source_url": "https://valtioneuvosto.fi/-/1410877/tyovoimapalvelut-uudistuvat-1.1.2025-kunnille-vastuu-tyovoimapalveluista-valtiolle-ohjausrooli"
+    },
+    {
+     "claim": "Työmarkkinatori (tyomarkkinatori.fi) offers open vacancies, the 'Oma työpolku' job-seeker profile, e-services with the employment authorities, an employer section, and Ohjaamo guidance-centre information and visitor statistics. It also carries news such as the joint-application announcements.",
+     "confidence": "verified",
+     "source_url": "https://tyomarkkinatori.fi/"
+    },
+    {
+     "claim": "Ammattinetti: unread. The fetch failed with a certificate error (the host appears to share a certificate with the Työmarkkinatori family), so its current address and status are unverified. Search for the current Ammattinetti URL before linking, and check whether the content has moved into Työmarkkinatori.",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "Vipunen (vipunen.fi) returned 403 on both tries. A Vipunen 'Pisterajat' report is linked from the Yliopistovalinnat page (read), which supports using Vipunen for past admission cut-offs. Its role as statistics source is likely from the project brief and general knowledge only.",
+     "confidence": "likely",
+     "source_url": "https://www.yliopistovalinnat.fi/fi/todistusvalinta"
+    },
+    {
+     "claim": "Euroguidance and Studyinfo for international: not read. Euroguidance gave connection refused; studyinfo.fi/wp2/en/ gave 404. Both remain unverified, and the right addresses need finding in a later pass (for example via the English version of Opintopolku and the Finnish National Agency for Education site).",
+     "confidence": "unverified"
+    }
+   ],
+   "recommendations": [
+    "Build one 'Ajantasaiset tiedot' (official links) page keyed by topic, each link carrying the name of the source and a 'luettu' date. Never copy dates, quotas, points tables, aid amounts or call-up dates. Write the rule in plain words and link to the page for the year.",
+    "Use per-page 'changes yearly' tags for: YTL exam dates and enrolment deadlines (1 Dec and 5 Jun are stable but must be linked); joint-application windows and results dates; ensikertalaiskiintiö shares; todistusvalinta tables (new set from 2026); entrance-exam dates; Kela amounts and income limits; Intti call-up dates and women's application window.",
+    "Teach the rules that are stable enough to state: five-exam structure with compulsory mother tongue and one long-syllabus exam; three-occasion completion window; unlimited retakes of passed exams; up to six options in the joint application with one offer; and the new rule that accepting a new degree place ends existing study rights (from applications after 1 Aug 2026). Mark each with its source and date.",
+    "Do not state the five-exam rule as 'from 2022' unless a primary YTL page is read that says so; write 'nykyisen rakenteen mukaan'.",
+    "Open a follow-up pass to read what failed: Vipunen, Euroguidance, siviilipalvelus.fi, Ammattinetti, Studyinfo and the Opintopolku front page. Also read the AMK criteria pages (each AMK publishes its own selection criteria on Opintopolku and on its own site) and the Finnish National Agency for Education guidance pages. Search for current URLs rather than guessing paths, since several guessed paths returned 404.",
+    "Add a link-check step to the site build or the checker run (outside the lesson build, since the unit tests run without network) so dead official links are found before publishing.",
+    "Use WebFetch summaries cautiously: page text is processed by a small model. Spot-check any figure the site quotes against the page before use."
+   ],
+   "versus_expected": "Matches the brief's expected answers on sources (YTL, Opintopolku, Vipunen, Työmarkkinatori, Euroguidance, Ammattinetti) and on the principle of linking rather than copying. Refined: the exact five-exam rule (mother tongue compulsory, four more from three groups, at least one long), the three-consecutive-occasion rule, and the new 2026 rule that a new degree place ends existing study rights. Different from the brief: the English YTL page does not state a 2022 reform, the Työmarkkinatori front page does not mention the 2025 TE-services move (it is supported by search summaries of official releases), and Ammattinetti, Vipunen, Euroguidance, Studyinfo and civil service could not be verified."
+  },
+  {
+   "key": "existing-materials",
+   "summary": "Commercial OP1/OP2 materials exist (Studeo \"Minä opiskelijana\" and \"Jatko-opinnot, työelämä ja tulevaisuus\"; Otava \"Etevä (LOPS21)\", paid digital licence). Official OPH support materials are professional-facing articles on guidance methods, with no licence stated on the index page. I found no openly licensed, curriculum-mapped set of full lessons for OP1/OP2, but aoe.fi (JavaScript-only) could not be searched, so the gap is likely rather than proven. Edita and Sanoma Pro were not found for this subject.",
+   "findings": [
+    {
+     "claim": "Studeo is the publisher named in school materials lists for OP1 'Minä opiskelijana' (Turku 2024-25 and 2026-27; Viitasaari 2024-25). Source is search-result summaries of school lists, not the lists read directly.",
+     "confidence": "likely",
+     "source_url": "https://blog.edu.turku.fi/pml/files/2026/06/Oppimateriaalit-lukuvuodelle-2026-2027.pdf"
+    },
+    {
+     "claim": "Studeo OP2 'Jatko-opinnot, työelämä ja tulevaisuus' (Ahonen, 2021) is catalogued as a 641-page textbook (Celianet listing seen in search results only). Tampere's list says OP2 needs no purchased material, so use varies by school.",
+     "confidence": "likely",
+     "source_url": "https://www.celianet.fi/en/work/395799"
+    },
+    {
+     "claim": "Otava sells 'Etevä (LOPS21)' as a digital book with a 48-month single-user licence covering OP1 'Minä opiskelijana' and OP2 'Jatko-opinnot, työelämä ja tulevaisuus'; authors Antti Humalamäki and Henri Huovinen. Read on the product page.",
+     "confidence": "verified",
+     "source_url": "https://otava.kauppakv.fi/EN/page/product/eteva-lops21-digikirja-48-kk-onl/2834371"
+    },
+    {
+     "claim": "No Sanoma Pro or Edita lukio opinto-ohjaus course book was found; searches pointed to Studeo (older lists: Tabletkoulu) and Otava.",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "Some schools use no textbook for OP01 (Sotkamo 2021-22 list, from a search snippet).",
+     "confidence": "likely",
+     "source_url": "https://www.sotkamonlukio.fi/wp-content/uploads/sites/2/2021/06/Oppimateriaalit-lv-2021-2022.pdf"
+    },
+    {
+     "claim": "OPH 'Opinto-ohjauksen tukimateriaalit' lists three items (personal guidance conversation, small-group and peer guidance article, diversity-respecting guidance in lukio). They are guidance method materials for professionals, not lessons. The page states no licence, and says its examples are not normative.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opinto-ohjauksen-tukimateriaalit"
+    },
+    {
+     "claim": "OPH publishes no blanket CC BY 4.0 licence that I could find. OPH's copyright pages concern licences it buys for schools via Kopiosto. Treat OPH page text as link-and-brief-quote only.",
+     "confidence": "unverified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/tekijanoikeus-ja-kopiointi-oppilaitoksissa"
+    },
+    {
+     "claim": "aoe.fi is a JavaScript single-page app. WebFetch returned only the site title and the API path I guessed returned 404. I could not list its guidance materials or their licences. CC BY 4.0 is the common aoe.fi licence, but this is from memory and not read on the site.",
+     "confidence": "unverified",
+     "source_url": "https://aoe.fi"
+    },
+    {
+     "claim": "Porin lukio's learning-support handbook (covering OP7 and OP8 support courses) says it is published under CC-BY. It is an example of open local material, but it covers learning support, not OP1/OP2 lessons.",
+     "confidence": "likely",
+     "source_url": "https://www.pori.fi/app/uploads/sites/2026/01/oppimisen-tuki-porin-lukiossa.pdf"
+    },
+    {
+     "claim": "Local material is mostly guidance plans and study guides: Oulu city's ohjaussuunnitelma for LOPS21, Tampere 'Suunta' support path, Espoo and Sipoo guides. These describe organisation and are not teaching content. Licences were not checked.",
+     "confidence": "likely",
+     "source_url": "https://www.ouka.fi/media/15927/download"
+    },
+    {
+     "claim": "Swedish-language: OPH has a 'Studiehandledning i gymnasiet' page, and Swedish-language Finnish material is mainly local curricula, guidance plans and study guides (Espoo MG handledningsplan 2025-26, Sipoo Studieguide 2026-27). No ready-made open course material in Swedish was found.",
+     "confidence": "likely",
+     "source_url": "https://www.oph.fi/sv/utbildning-och-examina/studiehandledning-i-gymnasiet"
+    },
+    {
+     "claim": "Euroguidance Finland (run by OPH) serves guidance professionals. Ohjaamo materials (HAMK URAA, UTU recommendations) are professional-facing. Neither yields student-facing lessons, and their licences were not checked.",
+     "confidence": "likely",
+     "source_url": "https://www.oph.fi/en/development/euroguidance-supports-guidance-professionals"
+    },
+    {
+     "claim": "Searches did not surface e-Opin, Peda.net or city sites carrying openly licensed OP1/OP2 full lessons. Peda.net holds many school pages and PDFs, and absence from search is not proof of absence.",
+     "confidence": "unverified"
+    }
+   ],
+   "recommendations": [
+    "Treat the gap as likely real, since no openly licensed full-lesson OP1/OP2 set turned up. Before publishing any 'first open set' claim, check aoe.fi in a browser (search 'opinto-ohjaus', 'uraohjaus' and 'OP1') and read licences there.",
+    "Write original text only. The commercial books are Studeo and Otava, so record title and chapter structure only in the diary and never mirror their chapter order closely.",
+    "Reuse nothing from OPH pages beyond links and brief quotes unless a page states a licence. Link to the three OPH support pages for the counsellor's own method guidance.",
+    "Publish the site under CC BY 4.0 (or CC BY-SA) with a clear LICENSE file, so it matches the aoe.fi norm and others can reuse it. This needs an operator decision.",
+    "Add a counsellor 'how to teach it' layer and a student self-study layer per topic, because found material is either paid textbooks or professional method articles.",
+    "Consider adding Swedish-language versions later, since no open studiehandledning course material was found. This is out of scope for now."
+   ],
+   "versus_expected": "Expected answer 6 (publishers sell textbooks, some schools share open material, an open curriculum-mapped backbone seems rare) is refined. Right: commercial books exist, from Studeo and Otava. Edita and Sanoma Pro were not found for this subject. Open local material exists but is mostly plans and learning-support handbooks, one CC-BY. The 'rare' claim is likely but not proven, because aoe.fi could not be read. The OPH index page names no licence."
+  }
+ ],
+ "critic": {
+  "gaps": [
+   "CONTRADICTION (law citation): the self-study-privacy researcher states 'Lukiolaki 714/2018 section 11' gives the right to guidance, citing the OPH page 'Ohjauksen järjestäminen lukiokoulutuksessa'. I re-read that OPH page (2026-11-21) and it does cite '11§'. But the curriculum text itself (ePerusteet 6828810, ch. 4.1, read by me in the API JSON) cites 'Lukiolaki 714/2018, 25 §' and '25 § 4 mom.'. §11 is the oppimäärä content section, which names opinto-ohjaus as part of the syllabus. Resolution: cite §25 (guidance) and §26 (HOPS) as the curriculum does. Do not copy the OPH page's §11 reference. Finlex itself could not be read in my two tries (the ajantasa URL returned 404, and the /lainsaadanto/2018/714 page returned only navigation), so the §25 heading comes from the curriculum's citation plus the curriculum researcher's Finlex read. Grade: likely (I could not read the statute myself).",
+   "CONTRADICTION (source access): the topics-mapping researcher says ePerusteet is JavaScript-only and used the OPH PDF (cites 'luku 6.21, s. 351-354'). The curriculum researcher read the ePerusteet API. I confirmed the API works: GET …/api/perusteet/6828810/kaikki returns 4.28 MB of JSON, and the oppiaine OP is id 6835370, OP1 6835293, OP2 6835294. The chapter number '6.21' and the page numbers 351-354 are not verified by anyone except that researcher's PDF read. The ePerusteet API data has no chapter numbering for subjects. Cite by ePerusteet module (OP1/OP2) and section title, and treat PDF page numbers as optional.",
+   "CONTRADICTION (peruste id): the could_not_read list uses ePerusteet front-end id 7534950, while the API record that carries OPH-2263-2019 is 6828810. 7534950 may be another version or the English-language peruste. The front-end deep-link URL format for 6828810 is unverified. The contract should store the API ids (peruste 6828810, oppiaine 6835370, modules 6835293/6835294) and keep one checked human URL.",
+   "UNREAD AMENDMENT: the ePerusteet record was republished on 2026-05-22 (globalVersion aikaleima 1779433019269, which I confirmed in the JSON) with an amendment document attached. Nobody read the amendment. The OP module text in today's JSON matches the researchers' lists word for word (I checked all 9+10 tavoitteet and 8+8 sisällöt), so the current OP text is safe. Whether the amendment touches ch. 4.1 or 4.2 is still unknown.",
+   "Lesson-length claim: the pedagogy researcher graded 45/60/75/90-minute lessons as unverified. The curriculum itself (ch. 3.1, read in the JSON) gives 45 and 75 minutes as examples ('19 x 45 minuutin tai 11,4 x 75 minuutin oppituntia' per op). So 45 and 75 are verified as the curriculum's examples. 60 and 90 are still only school practice.",
+   "Hours arithmetic: topics-mapping says 18 topics x 75 min = 22.5 h fits '57 h'. 4 op = 76 x 45 min = 57 h of lessons (verified ratio). The 57 h is scheduled lesson time across both modules, not 'work', so 22.5 h of site lessons covers about 40% of it. That fits, but the site should not claim to cover the whole of OP1+OP2 time.",
+   "Unread primary legal texts: Finlex 306/2019, 1050/2018 §5, laki sähköisen viestinnän palveluista §205, and Traficom's cookie guide. The localStorage legal reading (user-initiated storage is exempt) is model reasoning. It is low risk if storage happens only on the student's own action, but it needs operator sign-off.",
+   "GitHub Pages IP logging claim rests on search snippets (likely). Read docs.github.com before writing the tietosuojaseloste.",
+   "Unread official tools: Opintopolku front page (empty fetch), Ammattinetti (certificate error, may have moved into Työmarkkinatori), Vipunen (403), Euroguidance and siviilipalvelus.fi (connection refused), Studyinfo (404), aoe.fi (JavaScript-only). None of these may be deep-linked until a browser check confirms current URLs.",
+   "Guidance theory and frameworks: ELGPN CMS areas and the Finnish urasuunnittelutaitojen viitekehys (2023 proposal) are only likely. Solution-focused guidance has no source. Do not name these frameworks in curriculum fields; they may appear only as optional background.",
+   "S2 and language-aware guidance: no OPH or YTL primary page was read. Yliopistovalinnat (which I read) confirms that from 2026 S2/R2 is scored like äidinkieli in todistusvalinta. That is one solid S2 fact for T15.",
+   "Year and term placement has no national basis (verified: LOPS fixes neither). It rests on five local plans, Oulu, Sotkamo, Kulosaari, Juva and Puolanka, and none from Espoo, Turku or Tampere.",
+   "Existing-materials: the 'Studeo OP2 641 pages' figure looks implausible and comes from a search-summary catalogue listing. It does not matter for the build. The 'no open OP1/OP2 lesson set' claim stays likely until aoe.fi is searched in a browser.",
+   "Women's voluntary service details and the civil service length are not verified. State no durations or dates; link to intti.fi and siviilipalvelus.fi after a URL check.",
+   "First spring 2026 higher-education joint application (7-21 Jan) is seen only in a search summary. It does not matter for content because dates are linked, not copied."
+  ],
+  "spot_checks": [
+   {
+    "claim": "Opinto-ohjaus has exactly two modules: OP1 'Minä opiskelijana' (2 op, compulsory) and OP2 'Jatko-opinnot, työelämä ja tulevaisuus' (2 op, compulsory). OP1 has 9 tavoitteet and 8 sisällöt, OP2 has 10 tavoitteet and 8 sisällöt, worded as the researchers listed.",
+    "result": "VERIFIED. I downloaded the API JSON and parsed oppiaine koodi OP (id 6835370): moduulit OP1 (6835293) and OP2 (6835294), laajuus 2, pakollinen true. All 9+10 tavoitteet and 8+8 sisällöt match the curriculum researcher's paraphrases. Record last published 2026-05-22 (aikaleima).",
+    "url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+   },
+   {
+    "claim": "The right to guidance is Lukiolaki 714/2018 §25 (including §25 4 mom., guidance in the year after graduation); the HOPS is §26 with three parts; and the self-study researcher's 'section 11' is right.",
+    "result": "PARTLY VERIFIED. The curriculum JSON cites 'Lukiolaki 714/2018, 25 § 4 mom.' for post-graduation guidance and 'Lukiolain 26 §:n 2 momentin mukaan' for when the HOPS is made, and its HOPS sentence names the three parts. The OPH page does cite '11§', which conflicts with the curriculum. Use §25/§26. Two Finlex tries failed (404, then navigation only), so I did not read the statute text myself.",
+    "url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/ohjauksen-jarjestaminen-lukiokoulutuksessa"
+   },
+   {
+    "claim": "Opinto-ohjaus gets a suoritusmerkintä S/H, not a numeric grade; 1 op = 19 x 45 min or 11.4 x 75 min.",
+    "result": "VERIFIED in the curriculum JSON: numeric grades are given 'lukuun ottamatta opinto-ohjauksen opintojaksoja', which get 'suoritusmerkintä (S = suoritettu, H = hylätty)'. The op ratio sentence gives '19 x 45 minuutin tai 11,4 x 75 minuutin oppituntia'.",
+    "url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+   },
+   {
+    "claim": "YTL enrolment closes 1 December (spring) and 5 June (autumn), is binding, and goes through the lukio principal.",
+    "result": "VERIFIED: 'viimeistään 1.12.' and 'viimeistään 5.6.'; enrolment 'on aina sitova'; submitted 'lukion rehtorille kirjallisena'. Changes are accepted only for a serious reason such as illness.",
+    "url": "https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/ilmoittautuminen"
+   },
+   {
+    "claim": "Autumn 2026 joint application ran 31.8-10.9.2026 with results by 19.11.2026. About 74% of the roughly 9,700 places for secondary-qualified applicants were reserved for first-time applicants. A new rule says accepting a new degree place ends existing study rights at the same or lower level, for rounds starting after 1.8.2026 that select for programmes starting after 1.1.2027.",
+    "result": "VERIFIED on the OPH news page, all figures as stated. Also checked Yliopistovalinnat: 'Erilaisia pisteytystaulukoita on yhteensä 11', and from 2026 S2/R2 is scored like äidinkieli in all programmes (verified). The English-language matriculation exam year (2028) is not on that page and remains as the official-facts researcher read it elsewhere.",
+    "url": "https://www.oph.fi/fi/uutiset/2026/korkeakoulujen-syksyn-yhteishaussa-tarjolla-yli-12-100-opiskelupaikkaa"
+   }
+  ],
+  "versus_expected": [
+   {
+    "aspect": "1. Curriculum",
+    "verdict": "refined",
+    "note": "Right on LOPS 2019 (in force 1.8.2021), two compulsory 2-op modules, and the law's right to guidance and a HOPS. Wrong on the module content labels: OP1 is 'Minä opiskelijana' and OP2 is 'Jatko-opinnot, työelämä ja tulevaisuus'. Also wrong on 'for some a further study plan': every student's HOPS includes a jatko-opinto- ja urasuunnitelma (§26, verified in the curriculum text). Missing from the brief: S/H assessment and post-graduation guidance (§25 4 mom.)."
+   },
+   {
+    "aspect": "2. Topics",
+    "verdict": "refined",
+    "note": "14-18 topics over OP1/OP2 holds (18 proposed). The brief missed curriculum-required items: yrittäjyys, kansainvälisyys and monikulttuurisuus, ennakointiosaaminen, and information sources and digital guidance services. Money and housing is required OP2 content, not an extra. Gap year and army or civil service are not named in the curriculum, so they belong inside the 'routes' topic as school-neutral examples."
+   },
+   {
+    "aspect": "3. Lesson form",
+    "verdict": "refined",
+    "note": "The curriculum itself uses 45 and 75 minutes as its examples (verified). 60 and 90 are school practice only. OPH verifies dialogic personal guidance (four phases) and small-group and peer guidance with an adult facilitator. The real-tool tasks are sound, but Ammattinetti's current address is unverified. The narrative and solution-focused theories are unconfirmed and should not be named as curriculum."
+   },
+   {
+    "aspect": "4. Self-study path",
+    "verdict": "refined",
+    "note": "The structure (text, task, reflection, next step, refer to a counsellor) holds and matches OPH's description of guidance. 'OP1 year 1, OP2 years 2-3' is common but not universal (Kulosaari splits OP1 across years 1 and 3), so show it as an example. New: write localStorage only on the student's own action, and the privacy notice must mention the host's IP logging."
+   },
+   {
+    "aspect": "5. Sources",
+    "verdict": "refined",
+    "note": "ePerusteet (via the API), OPH, YTL, Yliopistovalinnat, Kela, intti.fi and Työmarkkinatori are verified as stable link targets. Vipunen, Ammattinetti, Euroguidance, Studyinfo and siviilipalvelus.fi could not be read. The 'national CMS framework' is only a 2023 proposal, so it is background, not a curriculum source."
+   },
+   {
+    "aspect": "6. Existing material",
+    "verdict": "refined",
+    "note": "Commercial OP1/OP2 materials exist from Otava (Etevä, verified) and likely Studeo. Sanoma Pro and Edita were not found. Open material is mostly guidance plans plus OPH method articles with no stated licence. 'An open curriculum-mapped full-lesson set is rare' is likely, unproven until aoe.fi is checked in a browser."
+   }
+  ],
+  "proposal": [
+   {
+    "task": "a",
+    "title": "Final topic list: 18 topics (OP1: 9, OP2: 9)",
+    "detail": "Code key, stored in data/curriculum.yaml and regenerated from the API: OP1.t1-t9 and OP1.s1-s8 are OP1 tavoitteet and sisällöt in ePerusteet order. OP2.t1-t10 and OP2.s1-s8 are the same for OP2. OP.yt1-yt11 are the subject's yleiset tavoitteet. ePerusteet ids: peruste 6828810, oppiaine 6835370, OP1 6835293, OP2 6835294. Year and term are 'esimerkki, koulu päättää' (the curriculum fixes neither). Core = needed to cover every tavoite; ext = shortenable.\n\nOP1 Minä opiskelijana\n01 Lukio alkaa: opintojen rakenne ja käytännöt. Y1 syksy, alkuviikot. OP1.t2, t3; OP1.s1, s8. Core.\n02 Opiskelutaidot ja oppimaan oppiminen. Y1 syksy. OP1.t4; OP1.s5; OP.yt1. Core.\n03 Ajankäyttö ja arjen hallinta. Y1 syksy. OP1.t8; OP1.s3; OP.yt3, yt4. Core.\n04 Hyvinvointi ja opiskelukyky. Y1 syksy-kevät. OP1.t9; OP1.s4, s3; OP.yt4. Core.\n05 Itsetuntemus, vahvuudet ja arvot. Y1 syksy. OP1.t1; OP1.s2; OP.yt5, yt6. Core.\n06 Henkilökohtainen opintosuunnitelma ja kurssivalinnat. Y1 syksy, before the first own choices. OP1.t3, t5, t2; OP1.s1; OP.yt2. Core.\n07 Ylioppilastutkinto ja alustava yo-suunnitelma. Y1 kevät. OP1.t6, t7; OP1.s1, s8. Core.\n08 Tietolähteet ja ohjauspalvelut: Opintopolku, ammattitieto, lähteiden luotettavuus. Y1 kevät. OP1.s6; OP1.t7; OP.yt7, yt9, yt10, yt11. Core (it is the only home of OP1.s6).\n09 Valinnat ja jatko-opintopolut: tutustuminen työelämään ja oppilaitoksiin. Y1 kevät. OP1.t7, t3; OP1.s7, s1; OP.yt2. Core (it is the only home of OP1.s7).\n\nOP2 Jatko-opinnot, työelämä ja tulevaisuus\n10 Suunnitelmien päivitys: HOPS ja yo-kokeiden hajautus. Y2 syksy, before the school's own enrolment deadline (YTL's last date is 1.12). OP2.s1; OP2.t1; OP1.t6 revisited; OP.yt8. Includes applying for erityisjärjestelyt in the yo-tutkinto (link YTL). Core.\n11 Osaamisen tunnistaminen, sanoittaminen ja dokumentointi (CV, portfolio). Y2 syksy. OP2.t3, t2, t4; OP.yt6. Core (only home of OP2.t3).\n12 Muuttuva työelämä, yrittäjyys ja ennakointi. Y2 kevät. OP2.t5, t6, t1; OP2.s3, s7. Core (only home of OP2.t5, t6).\n13 Työelämätaidot ja työnhaku: kesätyö, hakemus, haastattelu. Y2 kevät. OP2.t4, t10; OP2.s3, s4. Core.\n14 Koulutusväylät ja muut reitit: yliopisto, AMK, ammatillinen, kansanopisto, välivuosi, asepalvelus tai siviilipalvelus, työ. Y2 kevät - Y3 syksy. OP2.t9, t1; OP2.s2, s4. All routes presented as equal. Core.\n15 Haku ja valinta: yhteishaku, todistusvalinta, valintakokeet, ensikertalaisuus. Y3 syksy, before the spring application windows. OP2.t9; OP2.s2, s8; OP.yt7. Core.\n16 Kansainvälisyys ja monikulttuurinen toimintaympäristö: opiskelu ja työ ulkomailla. Y3 syksy (some deadlines are early); can move to Y2. OP2.t7, t8; OP2.s2. Core (only home of OP2.t7, t8).\n17 Oma talous, opintotuki ja asuminen. Y3 syksy-kevät. OP2.s5; OP2.t2; OP2.s6. Core (only home of OP2.s5).\n18 Jatko-opinto- ja urasuunnitelma ja siirtymä lukion jälkeen. Y3 syksy draft, Y3 kevät update. OP2.s1, s6, s7; OP2.t1, t2; OP.yt8, yt2. Includes the post-graduation right to guidance (Lukiolaki §25 4 mom.). Core.\n\nCoverage: every OP1.t1-t9, OP1.s1-s8, OP2.t1-t10, OP2.s1-s8 and OP.yt1-yt11 is served at least once. A build test must fail if any code is left without a topic. Cross-cutting rules, not topics: sukupuolitietoinen ohjaus (non-segregated choices), the HOPS thread (topics 06, 07, 09, 10, 14, 18), and yearly-updates boxes for OP1.s8 and OP2.s8 on topics 01, 07 and 15. Optional extensions for later, marked as local examples: tutor and peer guidance, and an orientation day (Oulu has local OP3-OP5 modules).",
+    "sources": [
+     "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki",
+     "https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/ilmoittautuminen",
+     "https://ksyk.fi/wp-content/uploads/2025/01/Kulosaaren-yhteiskoulun-lukion-ohjaussuunnitelma.pdf",
+     "https://www.ouka.fi/media/8309/download"
+    ]
+   },
+   {
+    "task": "b",
+    "title": "Content contract for one topic (example: 07 Ylioppilastutkinto ja alustava yo-suunnitelma)",
+    "detail": "File: content/topics/07-ylioppilastutkinto.md, Markdown with YAML front matter.\n\nFRONT MATTER (all required unless marked optional)\n- id: op1-07-ylioppilastutkinto (stable slug)\n- module: OP1 (enum OP1|OP2)\n- order: 7 (unique within the site, 1-18)\n- title: \"Ylioppilastutkinto ja alustava yo-suunnitelma\"\n- summary: one sentence in plain Finnish\n- curriculum: list of {code, kind: tavoite|sisalto|yleinen_tavoite, eperusteet_id} — here [{code: OP1.t6, kind: tavoite, eperusteet_id: 6835293}, {code: OP1.t7, ...}, {code: OP1.s1, kind: sisalto}, {code: OP1.s8, kind: sisalto}]. The build resolves code to exact wording from data/curriculum.yaml and fails on unknown codes. Text is never typed here.\n- curriculum_source: {peruste: 6828810, diaarinumero: OPH-2263-2019, checked: 2026-11-21}\n- law (optional): list, e.g. [\"Lukiolaki 714/2018 §26\"]\n- suggested_timing: {year: 1, term: kevät, note: \"esimerkki, koulu päättää\"}\n- role: core | extension\n- duration_options: [45, 60, 75] (minutes; 75 is the master plan; 90 optional)\n- self_study_minutes: 15-25\n- prerequisites: [op1-06-hops] (topic ids; may be empty)\n- hops_part (optional): opiskelusuunnitelma | ylioppilastutkintosuunnitelma | jatko-opinto- ja urasuunnitelma\n- official_links: list of {title, url, publisher, read: YYYY-MM-DD, changes_yearly: bool} — here the YTL tutkinnon rakenne, ilmoittautuminen and koepäivät pages, read 2026-11-21. The build fails if 'read' is missing or older than a set age (e.g. 12 months).\n- yearly_facts: list of fact keys from data/yearly-facts.yaml that the topic mentions only by link (e.g. ytl_enrolment_deadline, ytl_exam_dates)\n- school_adapts: list of things marked 'esimerkki' (e.g. the school's own earlier enrolment date, Wilma practice)\n- materials: list (paper, device, printout)\n- accessibility: notes (e.g. 'tasks work without a device')\n- last_reviewed: date\n\nBODY SECTIONS (fixed H2 headings, checked by the build in this order)\n1. ## Opiskelijalle — student text, 300-600 words, selkeä yleiskieli, with 'Osaan…' outcomes at the top that mirror the cited tavoitteet. Facts only in rule form (e.g. 'vähintään viisi koetta, äidinkieli pakollinen'); every changing figure is a link.\n2. ## Tehtävät — 1-3 tasks. Each has a title, time, what you need, max 5 numbered steps, and an offline alternative. At least one task uses a real official tool via a stable link (here: the YTL combination check). No model answers to grade against (OP is S/H, based on self-assessment).\n3. ## Pohdinta — 2-3 open prompts, never asking for personal data to be shared with the site, plus a 4-step self-assessment against the 'Osaan' outcomes (not graded).\n4. ## Itseopiskelun askel — goal; time estimate; read → do one task → reflect → 'next step'; what to write into which HOPS part; a tick 'Merkitse tehdyksi' that writes localStorage only on click.\n5. ## Tuntisuunnitelma (75 min) — table of phases with minutes, activity, teacher's role, swap option, cut-if-short. Master: Virittäytyminen 5 / Aiemman tiedon aktivointi 10 / Lyhyt alustus 10 max / Työskentely todellisella työkalulla 25 / Pari- tai pienryhmäpohdinta 10 / HOPS-askel ja exit 10 / Puskuri 5.\n   ### 60 min — cut the buffer, trim the task to 20 and the activation to 5.\n   ### 45 min — hook 3, input 7, task 20, HOPS and exit 10, reflection as homework; no group phase.\n   ### 90 min (optional) — add a peer-feedback round or a second task.\n   Plus: teacher prep (max 5 lines), open-question bank, a leading-question warning, an 'assumption check' (OPH diversity principles), ground rules, and no forced disclosure.\n6. ## Eriyttäminen — easier path; deeper path; S2 and plain-language support (glossary); reading, attention and anxiety adjustments; no-device version; link to the learning-support page (rules changed 1.8.2025) instead of restating it.\n7. ## Milloin opinto-ohjaajalle — concrete triggers (e.g. unsure whether the combination qualifies, needs special arrangements, a deadline is near, stress) and wellbeing and help links (Opintopolku guidance, Ohjaamo, student healthcare), each with a read date.\n8. ## Lähteet — generated from front matter: curriculum codes with exact wording, law, and official links with read dates.\n\nChecks: unknown curriculum codes, a missing section, a link without a read date, a hard-coded yearly figure (matched against a pattern list such as dates and € amounts in yearly-fact topics), or an external non-link resource all fail the build.",
+    "sources": [
+     "C:\\src\\lukion-opinto-ohjaus\\CLAUDE.md",
+     "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki",
+     "https://www.oph.fi/fi/koulutus-ja-tutkinnot/henkilokohtainen-ohjauskeskustelu-lukion-opinto-ohjauksessa",
+     "https://www.oph.fi/fi/koulutus-ja-tutkinnot/moninaisuutta-arvostava-opinto-ohjaus-lukiossa"
+    ]
+   },
+   {
+    "task": "c",
+    "title": "Site structure (static, Python-built, no JavaScript needed to read)",
+    "detail": "/ Etusivu — what the site is (an open backbone for lukion opinto-ohjaus following LOPS 2019), two entry buttons: 'Opettajalle / opinto-ohjaajalle' and 'Opiskelijalle: itseopiskelupolku', module cards for OP1 and OP2, 'opetussuunnitelma tarkistettu 2026-11-21', and the licence (CC BY 4.0 proposed; operator decision).\n/op1/ and /op2/ Module pages — the official module name, 2 op, pakollinen, S/H assessment, the module's tavoitteet and sisällöt in exact wording (generated from data/curriculum.yaml, linked to ePerusteet), a coverage matrix (topic x code), and the ordered topic list with timing labelled 'esimerkki'.\n/op1/07-ylioppilastutkinto/ Topic page — two views of the same Markdown: the default student view (Opiskelijalle, Tehtävät, Pohdinta, Itseopiskelun askel, Milloin opinto-ohjaajalle, Lähteet) and /op1/07-ylioppilastutkinto/tunti/ as the lesson view (curriculum box, Tuntisuunnitelma 75/60/45, Eriyttäminen, Lähteet). Both are plain HTML links, so they work without JavaScript.\n/polku/ Self-study path — all 18 steps in suggested order (Y1 → Y3), with a 'free order' note. Progress ticks and optional notes are stored under one namespaced localStorage key (e.g. 'loo:v1'), written only on the student's click, never on page load. A visible 'Tyhjennä tietoni' button, export or print of one's own notes, and a note that data stays on this device (warning about shared school computers). Without JavaScript the page is a plain ordered list.\n/tulosta/ Print views — one print stylesheet; per-topic lesson plan print (tunti view prints cleanly on A4), plus 'all OP1 lesson plans' and 'all OP2 lesson plans' combined pages.\n/opetussuunnitelma/ Curriculum page — the yleiset tavoitteet, OP1 and OP2 objectives and contents with codes, which topics serve each, ch. 4.1 summary (rights, HOPS three parts, roles), law references (§25, §26, §27, §28), and an explicit 'koulu päättää' list.\n/lahteet/ Sources and current facts — all official links grouped by topic with publisher and read date, plus the yearly-facts table (task d) with a 'tarkista ajantasainen tieto' link per row.\n/tietosuoja/ Tietosuojaseloste — no personal data collected, no accounts, analytics, forms, embeds or third-party fonts; what localStorage holds and how to clear it; GitHub Pages as host logs IP addresses (verify wording against GitHub docs); contact via repository issues or a role address; right to complain to the Tietosuojavaltuutettu; version and date.\n/saavutettavuus/ Saavutettavuusseloste — voluntary, WCAG 2.1 AA target, known gaps, feedback route.\nBuild guarantees: zero external requests (self-hosted fonts, a grep test for external hosts in the output), reflow at 320 px, contrast tokens, heading order, link text and alt text checks, and every page reachable without JavaScript.",
+    "sources": [
+     "C:\\src\\lukion-opinto-ohjaus\\CLAUDE.md",
+     "https://saavutettavuusvaatimukset.fi/fi/digipalvelulain-vaatimukset/soveltamisala-kuulummeko-lain-piiriin",
+     "https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/"
+    ]
+   },
+   {
+    "task": "d",
+    "title": "Facts that change yearly: link, never copy",
+    "detail": "Store these in data/yearly-facts.yaml as key, plain-language rule, official URL, publisher, read date. Topics may state the stable rule but must link for the value.\n- ytl_exam_dates: yo-koepäivät per session. YTL /fi/tutkinnon-suorittaminen/koepaivat (path named on the YTL index, not opened).\n- ytl_enrolment_deadline: YTL last dates 1.12 (spring) and 5.6 (autumn) are stable (verified) but must be linked. The school's own earlier date is marked as a school example.\n- ytl_fees: exam and retake fees (YTL).\n- ytl_rules_changes: English-language exam (2028 per Yliopistovalinnat, as read by the researcher), new subjects or test changes (YTL).\n- joint_application_windows: spring first and second higher-education joint applications, autumn joint application, and the joint application for toinen aste (Opintopolku and OPH news). Values for 2026 were verified but are not to be copied.\n- admission_results_dates: certificate-selection and final results dates (Opintopolku).\n- places_and_quota: number of places and the ensikertalaiskiintiö share (about 70% in spring 2026, about 74% in autumn 2026, so it changes per round; OPH news).\n- todistusvalinta_tables: university scoring tables (11 tables from 2026; Yliopistovalinnat) and AMK criteria (per programme on Opintopolku).\n- cut_off_points: past pisterajat (Vipunen report linked from Yliopistovalinnat; Vipunen unread).\n- entrance_exam_dates: AMK valintakoe and university valintakokeet dates (Opintopolku, Yliopistovalinnat).\n- study_right_rule: the one-study-right rule from autumn 2026 is stable as a rule but recent, so link to OPH or Opintopolku.\n- kela_student_aid: opintoraha, asumislisä, opintolaina, income limits, koulumatkatuki, YTHS fee and due date (kela.fi/opintotuki).\n- intti_callups: kutsunnat dates and age cohort, women's voluntary service application window (intti.fi).\n- civil_service: length and application (siviilipalvelus.fi, URL to verify).\n- employment_services: TE-services moved to municipal työllisyysalueet on 1.1.2025 (likely). Työmarkkinatori services, and Ammattinetti's current home (to verify).\n- learning_support_rules: learning support and special education, changed 1.8.2025 (OPH).\n- guidance_services: Opintopolku neuvonta (chat availability varies), Ohjaamo locations, wellbeing helplines (verify at build).\n- curriculum_version: ePerusteet publication date (last 2026-05-22) plus the amendment status; the site shows 'tarkistettu' with a date.\n- international: Euroguidance and Studyinfo addresses and exchange deadlines (unverified, find current URLs).\nRule for the checker: any number, date or euro amount that sits next to one of these keys in topic text fails the build unless it is inside a link label to the official page.",
+    "sources": [
+     "https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/ilmoittautuminen",
+     "https://www.oph.fi/fi/uutiset/2026/korkeakoulujen-syksyn-yhteishaussa-tarjolla-yli-12-100-opiskelupaikkaa",
+     "https://yliopistovalinnat.fi/todistusvalinnan-pisteytykset-vuodesta-2026",
+     "https://www.kela.fi/opintotuki",
+     "https://intti.fi/",
+     "https://www.oph.fi/fi/uutiset/2025/lukion-oppimisen-tuki-ja-erityisopetus-uudistuvat-oikeus-tukeen-vahvistuu"
+    ]
+   }
+  ]
+ }
+}

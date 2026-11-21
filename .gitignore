@@ -10,3 +10,4 @@ node_modules/
 # raw downloads are re-fetchable; normalized and curated data is committed
 data/raw/
 *.log
+_site/
