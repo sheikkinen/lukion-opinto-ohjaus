@@ -12,3 +12,4 @@
 | D-008 | 2026-11-21 | Licence: CC BY 4.0 ("license CC-BY") for the content and the code; the curriculum text quoted from Opetushallitus and linked sources keep their own terms | operator [O] | message during brief 002 |
 | D-009 | 2026-11-21 | Illustrations made on p-image (pimage's Replicate model, $0.005 each) instead of klein, because drive E: is full and klein cannot write its job files; within the operator's "klein or pimage" and the €10 grant | producer [M] | brief 003 judgement |
 | D-010 | 2026-11-21 | Publish the committed version now for manual inspection, with docs/known-issues.md; brief 005 fixes follow in the next push ("Publish now") | operator [O] | the answer to "Publish the committed version now for inspection?" |
+| D-011 | 2026-11-21 | Terveystieto gets its own GitHub Pages site; one shared engine builds every subject site ("Separate, shared engine") | operator [O] | brief 008 |
