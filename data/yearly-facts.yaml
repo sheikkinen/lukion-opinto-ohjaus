@@ -28,13 +28,13 @@ facts:
     url: https://opintopolku.fi/konfo/fi/sivu/hakuaikataulut
     publisher: Opetushallitus (Opintopolku)
     read: 2026-11-21
-    note: Opintopolku on JavaScript-sovellus. Etusivu avattiin selaimella (Chrome), ja hakuaikataulut-sivu näkyi sen valikon linkkinä, mutta sivun omaa sisältöä ei avattu. Varalinkki on etusivu https://opintopolku.fi/konfo/fi/.
+    note: Opintopolku on JavaScript-sovellus. Sivu avattiin selaimella (Chrome) 2026-11-21, ja se näyttää hakuajat ja tulosten julkistamisajat täysin. Vakaa osoite riittää, varalinkkiä ei tarvita.
   - key: admission_results_dates
     rule: Valintojen tulosten julkistamisajat vaihtelevat haun mukaan, ja ne löytyvät Opintopolusta ja kunkin haun tiedoista.
     url: https://opintopolku.fi/konfo/fi/sivu/hakuaikataulut
     publisher: Opetushallitus (Opintopolku)
     read: 2026-11-21
-    note: Sama varmennus kuin joint_application_windows. Tulossivua (korkeakoulujen-yhteishaun-valintojen-tulokset) ei avattu.
+    note: Sama sivu kuin joint_application_windows. Se näyttää myös tulosten julkistamisajat.
   - key: places_and_quota
     rule: Aloituspaikkojen määrät ja ensikertalaiskiintiön osuus vaihtelevat haun ja koulutuksen mukaan, ja ne katsotaan koulutuksen omalta Opintopolun sivulta.
     url: https://opintopolku.fi/konfo/fi/
@@ -59,12 +59,6 @@ facts:
     publisher: Yliopistovalinnat.fi (suomalaiset yliopistot)
     read: 2026-11-21
     note: Etusivu avattiin. Se ei itse anna päiviä, vaan linkittää todistusvalinnan ja valintakokeiden sivuille. Ammattikorkeakoulujen valintakokeet ovat Opintopolussa.
-  - key: study_right_rule
-    rule: Korkeakoulututkintoon johtavia opintoja koskevat opiskeluoikeuden säännöt ovat voimassa olevaa lainsäädäntöä, ja voimassa oleva sääntö luetaan Opintopolusta tai Opetushallituksesta.
-    url: https://opintopolku.fi/konfo/fi/
-    publisher: Opetushallitus (Opintopolku)
-    read: 2026-11-21
-    note: Sääntöä koskevaa yksittäistä sivua ei avattu eikä säännön sisältöä vahvistettu, joten rule-kenttä on tarkoituksella yleinen. Etsi tarkempi OPH:n tai Opintopolun sivu ennen kuin aiheessa kerrotaan säännön yksityiskohtia.
   - key: kela_student_aid
     rule: Opintoraha, asumislisä, opintolaina, niiden tulorajat ja koulumatkatuki määräytyvät Kelan ohjeiden mukaan ja muuttuvat, joten summat ja rajat katsotaan Kelan sivuilta.
     url: https://www.kela.fi/opiskelu
@@ -77,11 +71,11 @@ facts:
     publisher: Puolustusvoimat
     read: 2026-11-21
   - key: civil_service
-    rule: Siviilipalveluksesta ja sen hakemisesta kerrotaan viranomaisen omilla sivuilla, joten palveluksen pituutta tai hakuohjeita ei toisteta.
-    url: https://intti.fi/
-    publisher: Puolustusvoimat (Intti.fi, muut palvelusvaihtoehdot)
+    rule: Siviilipalvelus on vaihtoehto asevelvollisille, joiden vakaumus estää aseellisen varusmiespalveluksen. Hakemisen ehdot ja ajankohta luetaan Intti.fi-sivuston sivulta Muut palvelusvaihtoehdot ja palveluksesta vapautetut, joten palveluksen pituutta tai hakuohjeita ei toisteta.
+    url: https://intti.fi/muut-palvelusvaihtoehdot-ja-palveluksesta-vapautetut
+    publisher: Puolustusvoimat (Intti.fi)
     read: 2026-11-21
-    note: siviilipalvelus.fi ei auennut (WebFetch yhteys evättiin, Chrome palautti tyhjän sivun), joten sitä ei linkitetä. Intti.fi avattiin ja se linkittää muut palvelusvaihtoehdot, mutta etusivu ei itse käsittele siviilipalvelusta. Yritä siviilipalvelus.fi uudelleen selaimella ennen linkitystä.
+    note: Intti.fi:n etusivu ei itse käsittele siviilipalvelusta. Valikossa Intti edessä > Yksilölliset järjestelyt on linkki Muut palvelusvaihtoehdot ja palveluksesta vapautetut. Sivu avattiin 2026-11-21, ja siinä on osio siviilipalveluksesta asevelvollisille, joiden vakaumus estää varusmiespalveluksen. Aiempi osoite intti.fi/muut-palvelusvaihtoehdot antoi 404, ja oikea osoite on edellä. siviilipalvelus.fi ei auennut. Naisille ei ole siviilipalvelua, vaan vapaaehtoinen asepalvelus.
   - key: employment_services
     rule: Työnhaun ja työllisyyspalvelujen asiointi tapahtuu Työmarkkinatorilla, ja palvelujen järjestäjä ja kanavat voivat muuttua.
     url: https://tyomarkkinatori.fi/
@@ -93,13 +87,14 @@ facts:
     url: https://www.oph.fi/fi/uutiset/2025/lukion-oppimisen-tuki-ja-erityisopetus-uudistuvat-oikeus-tukeen-vahvistuu
     publisher: Opetushallitus
     read: 2026-11-21
-    note: Uutinen on julkaistu 20.3.2025, ja muutos tuli voimaan 1.8.2025. Se on uutinen eikä yleinen aloitussivu, mutta vakaampaa OPH-sivua ei avattu.
+    stable_figures: ["20.3.2025", "1.8.2025"]
+    note: Uutinen on julkaistu 20.3.2025, ja muutos tuli voimaan 1.8.2025. Aiheiden Tuki-linkki osoittaa vakaaseen OPH:n sivuun Oppimisen tuen uudistus (https://www.oph.fi/fi/oppimisen-tuen-uudistus), joka kertoo vain, että tukijärjestelmä uudistui. Oikeus tukeen on lukiolaissa, ja uutinen kertoo uudistuksen.
   - key: guidance_services
     rule: Opintopolun neuvonta ja ohjaus -sivu kokoaa neuvontapalvelujen yhteystiedot ja linkit muihin palveluihin, esimerkiksi Ohjaamoon. Opintopolku ei anna henkilökohtaista opinto- tai uraneuvontaa korkeakouluhakijoille, vaan heitä neuvovat korkeakoulujen hakijapalvelut. Neuvontakanavien aukioloajat ja paikalliset ohjauspalvelut katsotaan palvelujen omilta sivuilta.
     url: https://opintopolku.fi/konfo/fi/sivu/neuvonta-ja-ohjaus
     publisher: Opetushallitus (Opintopolku)
     read: 2026-11-21
-    note: Sivu ei näyttänyt sisältöä WebFetchillä, mutta tarkistaja luki sen Chromella 2026-11-21 ja sen sisältö vastaa sääntöä. Se on myös linkkinä Opintopolun etusivun valikossa. Ohjaamoja ja hyvinvointipalveluita ei vahvistettu, ne linkitetään aiheissa erikseen.
+    note: Sivu luettiin Chromella 2026-11-21, ja sen sisältö vastaa sääntöä. Opintopolun ohjeen mukaan se ei anna henkilökohtaista ohjausta korkeakouluhakijoille. Ohjaamoja ja hyvinvointipalveluita ei vahvistettu, ne linkitetään aiheissa erikseen.
   - key: curriculum_version
     rule: Lukion opetussuunnitelman perusteet 2019 on voimassa oleva valtakunnallinen opetussuunnitelma, ja sen sisältö luetaan ePerusteista ja Opetushallituksen julkaisusivulta.
     url: https://www.oph.fi/fi/tilastot-ja-julkaisut/julkaisut/lukion-opetussuunnitelman-perusteet-2019
@@ -107,8 +102,8 @@ facts:
     read: 2026-11-21
     note: Sivu avattiin, eikä se mainitse muutoksia. ePerusteiden tietueen uusi julkaisu 2026-05-22 ja siihen liitetty muutos jäävät varmistamatta. Sivusto näyttää oman tarkistuspäivänsä.
   - key: international
-    rule: Kansainvälisyyteen ja ulkomailla opiskeluun liittyvää ohjausta tukee Opetushallituksen Euroguidance, ja ulkomaille hakemisen palvelut löytyvät Opintopolun englanninkielisestä Studyinfosta.
-    url: https://www.oph.fi/en/development/euroguidance-supports-guidance-professionals
-    publisher: Opetushallitus (Euroguidance Finland)
+    rule: Kansainvälisyyteen ja ulkomaille lähtöön liittyvät ohjelmat nuorille ja korkeakouluopiskelijoille löytyvät Opetushallituksen Kansainvälistymispalvelut yksilöille -sivulta, ja Suomeen tulevien kansainvälisten opiskelijoiden haku on Opintopolun englanninkielisessä Studyinfossa.
+    url: https://www.oph.fi/fi/kansainvalisyys/kansainvalistymispalvelut-yksiloille
+    publisher: Opetushallitus
     read: 2026-11-21
-    note: Euroguidance-sivu avattiin, mutta se on ohjauksen ammattilaisille eikä siinä ole vaihtohakujen määräaikoja. Studyinfo (https://opintopolku.fi/konfo/en/) avattiin Chromella, ja studyinfo.fi ohjaa sinne. Vaihtojen määräaikoja ei vahvistettu. aoe.fi avautui vain otsikon verran eikä ole tässä tiedostossa.
+    note: Sivu avattiin. Se kertoo etenkin korkeakouluopiskelijoiden ulkomaanharjoittelusta, nuorten vapaaehtoistyöstä ja pohjoismaisesta Nordkurssista, ei yleisesti vaihto-opiskelusta tai tutkinnoista ulkomailla, joten tutkinto-opintoja koskeva lause ei saa nojata siihen yksin. Studyinfo (https://opintopolku.fi/konfo/en/) avattiin Chromella, ja studyinfo.fi ohjaa sinne. Vaihtojen määräaikoja ei vahvistettu. Euroguidance-sivu (https://www.oph.fi/en/development/euroguidance-supports-guidance-professionals) on ohjauksen ammattilaisille, ja aihe 16 mainitsee sen vain ohjaajan valmistelussa.

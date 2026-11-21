@@ -8,7 +8,7 @@ curriculum: [OP2.t7, OP2.t8, OP2.s2]
 suggested_timing: {year: 3, term: syksy}
 role: core
 duration_options: [45, 60, 75]
-self_study_minutes: 40
+self_study_minutes: 45
 prerequisites: [op2-14-koulutusvaylat]
 hops_part: jatko-opinto- ja urasuunnitelma
 official_links:
@@ -24,9 +24,13 @@ official_links:
     url: "https://www.kela.fi/opiskelu"
     publisher: "Kela"
     read: 2026-11-21
-  - title: "Oppimisen tuen uudistus (uutinen)"
-    url: "https://www.oph.fi/fi/uutiset/2025/lukion-oppimisen-tuki-ja-erityisopetus-uudistuvat-oikeus-tukeen-vahvistuu"
+  - title: "Oppimisen tuen uudistus"
+    url: "https://www.oph.fi/fi/oppimisen-tuen-uudistus"
     publisher: "Opetushallitus"
+    read: 2026-11-21
+  - title: "Lukiolaki 714/2018 (Finlex)"
+    url: "https://www.finlex.fi/fi/lainsaadanto/2018/714"
+    publisher: "Finlex"
     read: 2026-11-21
   - title: "Etsi lähin Ohjaamo"
     url: "https://ohjaamot.fi/lahin-ohjaamo"
@@ -56,10 +60,10 @@ school_adapts:
   - "Missä vaiheessa kansainvälisyys käsitellään (esimerkki: kolmannen vuoden syksy; hakuajat voivat olla varhaisia, joten aiheen voi tuoda aiemmaksi)"
   - "Kenelle opiskelija varaa ohjausajan ja miten (opinto-ohjaaja, ryhmänohjaaja, erityisopettaja, opiskeluhuolto)"
 materials:
-  - "Puhelin tai tietokone (Tehtävä 1), tai tulostetut tapauskortit ja tulostettu kuvaus yhdestä ulkomaan ohjelmasta"
+  - "Puhelin tai tietokone (Tehtävä 1), tai pelkkä paperi ja kynä: kaikki tehtävät onnistuvat paperilla"
   - "Oma muistio, paperinen tai sähköinen"
   - "Maailmankartta tai karttapohja (Tehtävä 2)"
-  - "Tulostetut tapauskortit (Tehtävä 3)"
+  - "Tapauskortit tai tämän sivun tapaukset (Tehtävä 3)"
 accessibility:
   - "Kaikki tehtävät voi tehdä ilman laitetta paperilla."
   - "Pohdinnat tehdään omaan muistioon; mitään ei tarvitse kertoa muille."
@@ -75,7 +79,7 @@ last_reviewed: 2026-11-21
 - Osaan nimetä erilaisia kansainvälisiä koulutus- ja työllistymisvaihtoehtoja.
 - Osaan etsiä tietoa ulkomailla opiskelusta ja sinne hakeutumisesta virallisista lähteistä.
 - Osaan arvioida, mitä ulkomaille lähteminen vaatii minulta: aikaa, rahaa, kielitaitoa ja ennakkovalmisteluja.
-- Osaan toimia monikulttuurisessa ympäristössä ja tunnistaa omia oletuksiani.
+- Osaan kirjoittaa kysymyksen, jolla tarkistan oletukseni toisesta ihmisestä sen sijaan, että päättelisin.
 - Osaan kirjata kansainvälisyyden jatko-opinto- ja urasuunnitelmaani, vaikka päätyisin jäämään Suomeen.
 
 ### Mitä kansainvälisyys voi olla?
@@ -110,9 +114,8 @@ solidaarisuusjoukoissa ja pohjoismaisen Nordkurssin. Jokaisella ohjelmalla on om
 Opintopolun englanninkielinen osa [Studyinfo](https://opintopolku.fi/konfo/en/) on tehty Suomeen tuleville
 kansainvälisille opiskelijoille. Siitä näet, miten he hakevat Suomeen. Se ei kerro, miten sinä haet ulkomaille.
 
-[Euroguidance Finland](https://www.oph.fi/en/development/euroguidance-supports-guidance-professionals) on
-Opetushallituksen palvelu ohjauksen ammattilaisille. Sivu on englanniksi. Opinto-ohjaajasi voi käyttää sitä,
-kun etsitte yhdessä tietoa ulkomaista.
+OPH:n sivu kertoo etenkin korkeakouluopiskelijoiden harjoittelusta ja nuorten vapaaehtoisohjelmista. Jos mietit
+tutkinto-opintoja ulkomailla, kysy tietoa korkeakoulun tai ohjelman omalta sivulta ja opinto-ohjaajalta.
 
 Hakujen ja vaihtohakujen määräajat vaihtelevat, ja jotkin ovat varhaisia. Älä luota vanhaan tietoon. Katso ajankohtainen
 tieto aina koulutuksen tai ohjelman omalta sivulta.
@@ -123,7 +126,7 @@ Kun löydät kiinnostavan vaihtoehdon, kysy aina nämä kysymykset:
 - Mitä kieltä siellä opiskellaan tai työskennellään ja mitä kielitaitoa vaaditaan?
 - Miten haetaan ja milloin haku päättyy?
 - Mitä se maksaa ja mitä tukea on saatavilla? Katso rahasta myös aihe 17 ja
-  [Kelan opiskelusivu](https://www.kela.fi/opiskelu), josta löydät opintotuen yleiset tiedot ja voit selvittää, miten tuki koskee ulkomailla opiskelua.
+  [Kelan opiskelusivu](https://www.kela.fi/opiskelu), josta löydät opintotuen yleiset tiedot ja kysy, miten tuki koskee ulkomailla opiskelua.
 - Mitä tarvitset käytännössä: asuminen, vakuutus, viisumi tai oleskelulupa, rokotukset?
 
 ### Monikulttuurinen toimintaympäristö
@@ -140,16 +143,16 @@ siitä kenellekään.
 ### Muista ennakoida
 
 Kansainvälinen reitti vaatii yleensä enemmän ajoissa tehtyä valmistelua kuin kotimainen. Anna aikaa kielitaidon
-vahvistamiselle, rahan suunnittelulle ja papereille. Muista myös, että oppimisen ja hyvinvoinnin tuki ei katoa
-ulkomaille lähtiessä. Voit puhua opinto-ohjaajan tai opiskeluhuollon kanssa, ennen kuin lähdet.
+vahvistamiselle, rahan suunnittelulle ja papereille. Voit puhua opinto-ohjaajan tai opiskeluhuollon kanssa, ennen kuin lähdet. Mikä tuki on käytössä ulkomailla, riippuu
+ohjelmasta ja kohteesta. Kysy se etukäteen ohjelman järjestäjältä.
 
 ## Tehtävät
 
-### Tehtävä 1: Tutki ulkomaan mahdollisuuksia
+### Tehtävä 1: Tutki yhtä ulkomaan mahdollisuutta
 
 **Aika:** 15 min
 **Tarvitset:** puhelimen tai tietokoneen, oman muistion
-**Ilman laitetta:** Pyydä opinto-ohjaajalta tulostettu kuvaus yhdestä ulkomaan ohjelmasta ja vastaa vaiheiden 3–5 kysymyksiin.
+**Ilman laitetta:** Kirjoita paperille viisi kysymystä tämän sivun listasta *Kun löydät kiinnostavan vaihtoehdon, kysy aina nämä kysymykset*. Valitse yksi ulkomaan mahdollisuus, josta olet kuullut tai jonka keksit (esimerkiksi kielikurssi, vaihto-opiskelu tai vapaaehtoistyö). Kirjoita jokaisen kysymyksen alle, mitä jo tiedät ja mitä et. Kirjoita lopuksi, mistä tarkistaisit puuttuvat tiedot: OPH:n sivu *Kansainvälistymispalvelut yksilöille* tai kysymys opinto-ohjaajalle.
 
 1. Avaa Opetushallituksen sivu [Kansainvälistymispalvelut yksilöille](https://www.oph.fi/fi/kansainvalisyys/kansainvalistymispalvelut-yksiloille).
 2. Valitse yksi sivulla mainittu mahdollisuus, esimerkiksi vapaaehtoistyö tai harjoittelu.
@@ -157,18 +160,18 @@ ulkomaille lähtiessä. Voit puhua opinto-ohjaajan tai opiskeluhuollon kanssa, e
 4. Kirjoita muistioosi kolme asiaa, jotka opit, ja yksi asia, joka mietityttää.
 5. Kirjoita yksi kysymys, jonka voisit kysyä opinto-ohjaajalta.
 
-### Tehtävä 2: Kartoita vaihtoehdot
+### Tehtävä 2: Kartoita kolme vaihtoehtoa
 
-**Aika:** 10 min
+**Aika:** 15 min
 **Tarvitset:** karttapohjan tai paperin, kyniä, oman muistion
 **Ilman laitetta:** Tehtävä on paperitehtävä. Voit piirtää kartan käsin tai tehdä kolme saraketta: opiskelu, työ, muu oppiminen.
 
 1. Merkitse kartalle tai sarakkeisiin kolme paikkaa tai tapaa, joissa voisit joskus opiskella, työskennellä tai oppia ulkomailla.
-2. Kirjoita jokaisen viereen yksi etu ja yksi asia, joka vaatisi valmistelua.
+2. Kirjoita jokaisen viereen yksi etu ja se, mitä se vaatisi sinulta: aikaa, rahaa, kielitaitoa vai valmisteluja.
 3. Lisää yksi vaihtoehto, joka tapahtuu Suomessa ja jossa kohtaat monikulttuurista toimintaa, esimerkiksi kielikerho, kansainvälinen harrastus tai vapaaehtoistyö.
 4. Alleviivaa yksi vaihtoehto, jonka haluaisit selvittää tarkemmin, ja kirjoita muistioosi ensimmäinen askel.
 
-### Tehtävä 3: Kuvitteelliset opiskelijat ja kansainväliset reitit
+### Tehtävä 3: Mieti kuvitteellisten opiskelijoiden reittejä
 
 **Aika:** 10 min
 **Tarvitset:** tapauskortit tai tämän sivun tekstin, puhelimen tai tietokoneen
@@ -182,8 +185,9 @@ Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
 1. Valitse yksi tapaus.
 2. Jos valitsit Ilonan tai Eemilin: mieti, mitä kansainvälisiä vaihtoehtoja hänelle voisi löytyä. Etsi [OPH:n kansainvälistymispalveluista](https://www.oph.fi/fi/kansainvalisyys/kansainvalistymispalvelut-yksiloille) tai [Kelan opiskelusivulta](https://www.kela.fi/opiskelu) yksi asia, jonka hän tarvitsisi tietää, ja kirjoita hänelle kaksi kysymystä.
-3. Jos valitsit Miran: mieti, miten hän voisi toimia monikulttuurisessa työyhteisössä. Hän voi kysyä ennen kuin päättelee, kuunnella ja tarkistaa oletuksensa. Kirjoita hänelle kolme lausetta, joilla hän voisi aloittaa keskustelun työkaverinsa kanssa.
-4. Mieti hiljaa itseksesi: mikä tapauksessa muistutti omaa tilannettasi, mikä ei?
+3. Jos valitsit Miran: mieti, miten hän voisi toimia monikulttuurisessa työyhteisössä. Kirjoita hänelle kolme lausetta, joilla hän voisi aloittaa keskustelun työkaverinsa kanssa.
+4. Kirjoita yksi lause, jolla kysyisit toiselta ihmiseltä, mitä hän tarkoittaa, sen sijaan että oletat.
+5. Mieti hiljaa itseksesi: mikä tapauksessa muistutti omaa tilannettasi, mikä ei?
 
 ## Pohdinta
 
@@ -198,7 +202,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan nimetä erilaisia kansainvälisiä koulutus- ja työllistymisvaihtoehtoja.
 - Osaan etsiä tietoa ulkomailla opiskelusta ja sinne hakeutumisesta virallisista lähteistä.
 - Osaan arvioida, mitä ulkomaille lähteminen vaatii minulta: aikaa, rahaa, kielitaitoa ja ennakkovalmisteluja.
-- Osaan toimia monikulttuurisessa ympäristössä ja tunnistaa omia oletuksiani.
+- Osaan kirjoittaa kysymyksen, jolla tarkistan oletukseni toisesta ihmisestä sen sijaan, että päättelisin.
 - Osaan kirjata kansainvälisyyden jatko-opinto- ja urasuunnitelmaani, vaikka päätyisin jäämään Suomeen.
 
 Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
@@ -208,45 +212,49 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 **Tavoite:** Kartoitat omat kansainväliset vaihtoehtosi ja kirjaat jatko-opinto- ja urasuunnitelmaasi vähintään yhden
 asian, jonka haluat selvittää.
 
-**Aikaa kuluu:** noin 40 minuuttia.
+**Aikaa kuluu:** noin 45 minuuttia.
 
 **Näin etenet:**
 
 1. **Lue** osio Opiskelijalle (8 min). Avaa ainakin OPH:n sivu Kansainvälistymispalvelut yksilöille.
-2. **Tee** Tehtävä 1 (15 min) ja Tehtävä 2 (10 min). Tehtävä 3 on lisätehtävä, jos haluat jatkaa (10 min).
-3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
+2. **Tee** Tehtävä 1 (15 min) ja Tehtävä 2 (15 min). Tehtävä 3 on lisätehtävä, jos haluat jatkaa (10 min).
+3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (7 min).
 4. **Seuraava askel:** aihe 17 *Oma talous, opintotuki ja asuminen*. Raha ratkaisee usein, miten ulkomaan vaihtoehto
    toteutuu.
 
 **HOPSiin:** Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* vähintään yksi kansainvälinen vaihtoehto, jota
-haluat selvittää, ja yksi vaihtoehto, joka tapahtuu Suomessa. Merkitse, mitä sinun pitää vielä tarkistaa. Jos koulusi
-käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
+haluat selvittää, ja yksi vaihtoehto, joka tapahtuu Suomessa. Merkitse, mitä sinun pitää vielä tarkistaa. HOPS on koulun
+kanssa jaettu asiakirja. Kirjaa siihen vain se, minkä haluat koulun tietävän. Raha-asiat, perhe, terveys ja kielitausta
+voivat jäädä omaan muistioosi. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoite:** jokainen opiskelija lähtee tunnilta kolme kansainvälistä vaihtoehtoa ja yksi asia, jonka haluaa selvittää.
-Kukaan ei kerro omia suunnitelmiaan ääneen, ellei itse halua.
+**Tavoite:** jokainen opiskelija lähtee tunnilta kolme kansainvälistä vaihtoehtoa ja yksi asia, jonka haluaa selvittää
+(Tehtävä 2). Lyhyemmissä versioissa tuotos on pienempi. 60 minuutissa ryhmätyö tehdään yhdellä tapauksella, ja siinä
+tehdään aina Tehtävän 3 vaihe 4 (oletuksen tarkistuskysymys). 45 minuutissa Tehtävä 3 jää kotiin tai seuraavalle tunnille,
+Tehtävästä 1 tehdään vain vaiheet 1–3, ja oletuksen tarkistuskysymys kirjoitetaan exit-lapulle. Kukaan ei kerro omia suunnitelmiaan
+ääneen, ellei itse halua.
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden paikan tai asian, joka tulee mieleen sanasta "kansainvälisyys". | Kerää laput ja lue muutama ääneen. Älä arvioi. | Sähköinen nimetön sanapilvi koulun omalla välineellä. | Lue vain kaksi lappua. |
-| Aiemman tiedon aktivointi | 10 | Pareittain: missä kansainvälisyyttä ja monikulttuurisuutta voi kohdata koulussa, työssä, harrastuksissa tai netissä? Kirjatkaa yleisiä esimerkkejä. Kenenkään ei tarvitse kertoa omaa taustaansa. | Ohjaa kohti arkisia esimerkkejä. Muistuta, että kansainvälisyys ei vaadi matkustamista. | Yksin kirjoittaen. | Keskustelu koko ryhmässä. |
-| Lyhyt alustus | 10 | Opiskelijat kirjaavat kolme ryhmää: opiskelu, työ ja muu oppiminen, sekä viisi kysymystä vaihtoehdon tarkistamiseen. | Näytä OPH:n Kansainvälistymispalvelut yksilöille -sivu, Kelan opiskelusivu ja Studyinfo (miten kansainväliset opiskelijat hakevat Suomeen). Kerro, miksi määräajat tarkistetaan aina erikseen. Kerro koulun oma käytäntö (esimerkki). | Tulosta kysymyslista. | Jätä Euroguidance maininnaksi. |
-| Työskentely | 25 | Tehtävä 1 (15 min) ja Tehtävä 2 (10 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Älä ehdota yhtä reittiä. Auta hakemaan tietoa. | Paperipohja ilman laitetta. Pari voi tehdä yhdessä. | Tehtävä 2 kotiin. |
+| Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden paikan tai asian, joka tulee mieleen sanasta "kansainvälisyys". | Kerää laput ja lue muutama ääneen. Älä arvioi. | Sähköinen nimetön sanapilvi koulun omalla välineellä. | Lue vain kaksi lappua ja siirry eteenpäin. |
+| Aiemman tiedon aktivointi | 8 | Yksin kaksi minuuttia: kirjoita kaksi esimerkkiä siitä, missä kansainvälisyyttä ja monikulttuurisuutta voi kohdata koulussa, työssä, harrastuksissa tai netissä. Sitten pareittain viisi minuuttia: vertailkaa yleisiä esimerkkejä. Kenenkään ei tarvitse kertoa omaa taustaansa. | Ohjaa kohti arkisia esimerkkejä. Muistuta, että kansainvälisyys ei vaadi matkustamista. Kokoa kolme esimerkkiä taululle. | Yksin kirjoittaen. | Jätä pariosuus pois ja kokoa taululle vain kolme esimerkkiä. |
+| Lyhyt alustus | 7 | Opiskelijat lukevat taululla tai lapulla valmiina olevat kolme ryhmää (opiskelu, työ, muu oppiminen) ja viisi kysymystä vaihtoehdon tarkistamiseen. Ei kirjoitettavaa. | Näytä OPH:n Kansainvälistymispalvelut yksilöille -sivu. Kerro, miksi määräajat tarkistetaan aina erikseen. Mainitse Kelan opiskelusivu ja Studyinfo (miten kansainväliset opiskelijat hakevat Suomeen) tehtävien linkkeinä. Kerro koulun oma käytäntö (esimerkki). | Jaa kysymyslista paperilla. | Jätä Kela ja Studyinfo pois; ne löytyvät tehtävien linkeistä. |
+| Työskentely | 30 | Tehtävä 1 (15 min) ja Tehtävä 2 (15 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Älä ehdota yhtä reittiä. Auta hakemaan tietoa. | Paperipohja ilman laitetta. Pari voi tehdä yhdessä. | Tehtävän 1 vaiheet 4–5 kotiin. Tehtävä 2 tehdään aina, koska se tuottaa tunnin tavoitteen. |
 | Pari- tai pienryhmäpohdinta | 10 | Tehtävä 3 (10 min) pienryhmissä kuvitteellisilla tapauksilla. Ryhmä kirjoittaa kaksi kysymystä tapauksen opiskelijalle (Miralle kolme avauslausetta). | Ohjaa puhumaan tapauksista, ei omista suunnitelmista. Kokoa kysymykset taululle. | Yksin tai parin kanssa. | Yksi tapaus koko ryhmälle yhdessä. |
-| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin yhden kansainvälisen vaihtoehdon ja yhden asian, jonka selvittävät. Exit-lappu: yksi kysymys ohjaajalle. | Kerro, milloin ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Exit sähköisesti tunnin jälkeen. |
-| Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset ohjausaikaan. | – | – |
+| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin yhden kansainvälisen vaihtoehdon ja yhden asian, jonka selvittävät. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Kerro, milloin ja miten ohjausaika varataan (esimerkki). Kerro, että HOPS on koulun kanssa jaettu: kirjataan vaihtoehdon nimi ja selvitettävä asia, ei talous- tai perhetietoja. | Kirjaus paperille. | Exit sähköisesti tunnin jälkeen. |
+| Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### 60 min
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden paikan tai asian, joka tulee mieleen sanasta "kansainvälisyys". | Kerää laput ja lue muutama ääneen. Älä arvioi. | Sähköinen nimetön sanapilvi koulun omalla välineellä. | Lue vain kaksi lappua. |
-| Aiemman tiedon aktivointi | 5 | Pareittain: missä kansainvälisyyttä ja monikulttuurisuutta voi kohdata koulussa, työssä, harrastuksissa tai netissä? Kirjatkaa yleisiä esimerkkejä. Kenenkään ei tarvitse kertoa omaa taustaansa. | Ohjaa kohti arkisia esimerkkejä. Muistuta, että kansainvälisyys ei vaadi matkustamista. | Yksin kirjoittaen. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Lyhyt alustus | 8 | Opiskelijat kirjaavat kolme ryhmää: opiskelu, työ ja muu oppiminen, sekä viisi kysymystä vaihtoehdon tarkistamiseen. | Näytä OPH:n Kansainvälistymispalvelut yksilöille -sivu, Kelan opiskelusivu ja Studyinfo (miten kansainväliset opiskelijat hakevat Suomeen). Kerro, miksi määräajat tarkistetaan aina erikseen. Kerro koulun oma käytäntö (esimerkki). | Tulosta kysymyslista. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Työskentely | 20 | Tehtävä 1 (15 min) yksin. Nopeat aloittavat Tehtävän 2. | Kierrä ja kysy avoimia kysymyksiä. Älä ehdota yhtä reittiä. Auta hakemaan tietoa. | Paperipohja ilman laitetta. Pari voi tehdä yhdessä. | Tehtävä 2 kotiin. |
-| Pari- tai pienryhmäpohdinta | 10 | Tehtävä 3 (10 min) pareittain yhdellä kuvitteellisella tapauksella. Kirjoittakaa kaksi kysymystä tapauksen opiskelijalle (Miralle kolme avauslausetta). | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin tai parin kanssa. | Yksi yhteinen tapaus koko ryhmälle. |
-| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin yhden kansainvälisen vaihtoehdon ja yhden asian, jonka selvittävät. Exit-lappu: yksi kysymys ohjaajalle. Jos Tehtävä 2 jäi kotiin, kirjaa vain se, mikä on valmista. | Kerro, milloin ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Exit sähköisesti tunnin jälkeen. |
+| Virittäytyminen | 3 | Opiskelijat kirjoittavat nimettömälle lapulle yhden paikan tai asian, joka tulee mieleen sanasta "kansainvälisyys". | Kerää laput ja lue muutama ääneen. Älä arvioi. | Sähköinen nimetön sanapilvi koulun omalla välineellä. | Lue vain kaksi lappua. |
+| Aiemman tiedon aktivointi | 5 | Yksin kaksi minuuttia: kaksi esimerkkiä siitä, missä kansainvälisyyttä voi kohdata koulussa, työssä, harrastuksissa tai netissä. Sitten pareittain kolme minuuttia. Kenenkään ei tarvitse kertoa omaa taustaansa. | Ohjaa kohti arkisia esimerkkejä. Muistuta, että kansainvälisyys ei vaadi matkustamista. | Yksin kirjoittaen. | Jätä pariosuus pois ja kokoa kolme esimerkkiä taululle. |
+| Lyhyt alustus | 5 | Opiskelijat lukevat valmiin kysymyslistan (viisi kysymystä vaihtoehdon tarkistamiseen). Ei kirjoitettavaa. | Näytä OPH:n Kansainvälistymispalvelut yksilöille -sivu ja kerro, miksi määräajat tarkistetaan aina erikseen. Kerro koulun oma käytäntö (esimerkki). | Jaa kysymyslista paperilla. | Jätä koulun oma käytäntö pois ja kerro se exitin yhteydessä. |
+| Työskentely | 30 | Tehtävä 1 (15 min) ja Tehtävä 2 (15 min) yksin. | Kierrä ja kysy avoimia kysymyksiä. Älä ehdota yhtä reittiä. Auta hakemaan tietoa. | Paperipohja ilman laitetta. Pari voi tehdä yhdessä. | Tehtävän 1 vaiheet 4–5 kotiin. Tehtävä 2 tehdään aina. |
+| Pari- tai pienryhmäpohdinta | 7 | Tehtävä 3 pareittain yhdellä kuvitteellisella tapauksella (vaiheet 1–4). Vaihe 4 tehdään aina, valittiinpa mikä tapaus tahansa. Kirjoittakaa kaksi kysymystä tapauksen opiskelijalle (Miralle kolme avauslausetta). | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin tai parin kanssa. | Yksi yhteinen tapaus koko ryhmälle. |
+| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin yhden kansainvälisen vaihtoehdon ja yhden asian, jonka selvittävät. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Kerro, milloin ja miten ohjausaika varataan (esimerkki). Kerro, että HOPS on koulun kanssa jaettu: kirjataan vaihtoehdon nimi ja selvitettävä asia, ei talous- tai perhetietoja. | Kirjaus paperille. | Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### 45 min
@@ -254,29 +262,30 @@ Kukaan ei kerro omia suunnitelmiaan ääneen, ellei itse halua.
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
 | Virittäytyminen | 3 | Opiskelijat kirjoittavat nimettömälle lapulle yhden paikan tai asian, joka tulee mieleen sanasta "kansainvälisyys". | Kerää laput ja lue muutama ääneen. Älä arvioi. | Sähköinen nimetön sanapilvi koulun omalla välineellä. | Lue vain kaksi lappua. |
-| Aiemman tiedon aktivointi | 3 | Pareittain: missä kansainvälisyyttä ja monikulttuurisuutta voi kohdata koulussa, työssä, harrastuksissa tai netissä? Kirjatkaa yleisiä esimerkkejä. Kenenkään ei tarvitse kertoa omaa taustaansa. | Ohjaa kohti arkisia esimerkkejä. Muistuta, että kansainvälisyys ei vaadi matkustamista. | Yksin kirjoittaen. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Lyhyt alustus | 5 | Opiskelijat kirjaavat kolme ryhmää: opiskelu, työ ja muu oppiminen, sekä viisi kysymystä vaihtoehdon tarkistamiseen. | Näytä OPH:n Kansainvälistymispalvelut yksilöille -sivu, Kelan opiskelusivu ja Studyinfo (miten kansainväliset opiskelijat hakevat Suomeen). Kerro, miksi määräajat tarkistetaan aina erikseen. Kerro koulun oma käytäntö (esimerkki). | Tulosta kysymyslista. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Työskentely | 19 | Tehtävä 1 (15 min) yksin. Loppuaika muistiinpanojen viimeistelyyn. | Kierrä ja kysy avoimia kysymyksiä. Älä ehdota yhtä reittiä. Auta hakemaan tietoa. | Paperipohja ilman laitetta. Pari voi tehdä yhdessä. | Tehtävän 1 viimeiset vaiheet kotiin. |
-| Pari- tai pienryhmäpohdinta | 5 | Yksi kuvitteellinen tapaus Tehtävästä 3 koko ryhmälle yhdessä. Ryhmä kirjoittaa kaksi kysymystä tapauksen opiskelijalle (Miralle kolme avauslausetta). | Pidä keskustelu tapauksessa, ei opiskelijoiden omissa tilanteissa. Kirjoita kysymykset taululle. | Yksin tai parin kanssa. | Tehtävä 3 kotiin. |
-| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin yhden kansainvälisen vaihtoehdon ja yhden asian, jonka selvittävät. Exit-lappu: yksi kysymys ohjaajalle. Jos Tehtävä 2 jäi kotiin, kirjaa vain se, mikä on valmista. | Kerro, milloin ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Kirjaus loppuun kotona. Tehtävä 2, Pohdinta ja exit-kysymys tunnin jälkeen. |
+| Aiemman tiedon aktivointi | 4 | Yksin: kirjoita kaksi esimerkkiä siitä, missä kansainvälisyyttä voi kohdata koulussa, työssä, harrastuksissa tai netissä. Ei jaeta. | Kokoa taululle muutama yleinen esimerkki vapaaehtoisilta. Muistuta, että kansainvälisyys ei vaadi matkustamista. | – | Jätä taululle kokoaminen pois ja siirry alustukseen. |
+| Lyhyt alustus | 5 | Opiskelijat lukevat valmiin kysymyslistan (viisi kysymystä vaihtoehdon tarkistamiseen). Ei kirjoitettavaa. | Näytä vain OPH:n Kansainvälistymispalvelut yksilöille -sivu ja kerro, miksi määräajat tarkistetaan aina erikseen. | Jaa kysymyslista paperilla. | Näytä sivu ja anna linkki; kysymykset luetaan tehtävässä. |
+| Työskentely | 25 | Tehtävä 2 (15 min) ensin. Sitten Tehtävän 1 vaiheet 1–3 (10 min) sille vaihtoehdolle, jonka alleviivasit. | Kierrä ja kysy avoimia kysymyksiä. Älä ehdota yhtä reittiä. Auta hakemaan tietoa. | Paperipohja ilman laitetta. | Tehtävän 1 vaiheet kotiin. Tehtävä 2 tehdään aina. |
+| HOPS-askel ja exit | 6 | Opiskelijat kirjaavat HOPSiin yhden kansainvälisen vaihtoehdon ja yhden asian, jonka selvittävät. Exit-lappu: yksi lause, jolla kysyisit toiselta ihmiseltä, mitä hän tarkoittaa, sen sijaan että oletat (Tehtävä 3, vaihe 4), ja yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan (esimerkki). Kerro, että HOPS on koulun kanssa jaettu: kirjataan vaihtoehdon nimi ja selvitettävä asia, ei talous- tai perhetietoja. | Kirjaus paperille. | Kirjaus loppuun kotona. Tehtävä 3, Pohdinta ja exit sähköisesti tunnin jälkeen. |
 | Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### Valmistelu
 
-- Avaa OPH:n Kansainvälistymispalvelut yksilöille, Studyinfo ja Kelan opiskelusivu ja kokeile niitä itse.
+- Avaa OPH:n Kansainvälistymispalvelut yksilöille, Studyinfo ja Kelan opiskelusivu ja kokeile niitä itse. Ohjaajalle on lisäksi englanninkielinen [Euroguidance Finland](https://www.oph.fi/en/development/euroguidance-supports-guidance-professionals) ohjauksen ammattilaisille.
 - Tarkista koulun oma kansainvälisyystoiminta ja se, kuka neuvoo ulkomaan jaksoissa (esimerkki).
-- Tulosta tapauskortit ja paperipohjat niille, jotka eivät käytä laitetta.
+- Tulosta tapauskortit ja kysymyslista jaettavaksi. Itseopiskelija pärjää ilman niitä: tapaukset ja kysymykset ovat tällä sivulla.
 - Varaa karttapohja tai paperia Tehtävään 2.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 
 ### Avoimet kysymykset
 
-- Millaista kansainvälisyyttä arjessasi jo on?
+Kysymykset ovat yksityiseen kirjoittamiseen tai vapaaehtoiseen pariin. Kenenkään ei tarvitse vastata ääneen eikä kertoa omaa tilannettaan. Kysymyksen voi esittää myös kuvitteellisesta henkilöstä.
+
+- Millaista kansainvälisyyttä ihmisen arjessa voi jo olla?
 - Mitä kansainvälisyys voisi antaa opinnoille tai työlle, ja mitä se vaatisi?
-- Mistä tiedät, että tieto hakuajasta tai kustannuksesta on ajan tasalla?
-- Mitä voit tehdä, jos kielitaito jännittää?
-- Miten kysyt toiselta, ettet oleta hänestä väärin?
-- Millaisia vaihtoehtoja on olemassa, jos et halua lähteä ulkomaille?
+- Mistä tietää, että tieto hakuajasta tai kustannuksesta on ajan tasalla?
+- Mitä voi tehdä, jos kielitaito jännittää?
+- Miten voi kysyä toiselta niin, ettei oleta hänestä väärin?
+- Millaisia vaihtoehtoja on olemassa, jos ei halua lähteä ulkomaille?
 
 Vältä johdattelevia kysymyksiä, kuten "Etkö haluaisi lähteä vaihtoon?" Kysy mieluummin: "Mitä toivoisit
 kansainvälisyyden tuovan elämääsi, jos mitään?"
@@ -289,7 +298,7 @@ kansainvälisyyden tuovan elämääsi, jos mitään?"
 - Opiskelijan oma kulttuuri- tai kielitausta on hänen oma asiansa. Älä pyydä edustamaan ryhmää.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että jokaisella on varaa lähteä ulkomaille tai että perhe tukee
   lähtöä? Oletanko tietyn kielitaustan perusteella, mihin opiskelija haluaa tai ei halua mennä? Puhunko kulttuureista
-  yleistäen? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
+  yleistäen? Puhunko tytöistä ja pojista tai tietystä sukupuolesta, kun puhun siitä, kuka lähtee ulkomaille ja kuka jää? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
 
@@ -297,7 +306,7 @@ kansainvälisyyden tuovan elämääsi, jos mitään?"
 
 **Syvempi polku:** Valitse yksi kansainvälinen vaihtoehto ja selvitä siitä hakutapa, kielitaito, kustannukset, tunnustaminen ja ensimmäinen askel. Vertaa sitä yhteen vaihtoehtoon Suomessa. Pohdi, miten monikulttuurisessa ryhmässä voi kuunnella ja kysyä paremmin.
 
-**S2 ja selkeä kieli:** Käy sanasto läpi ennen tehtäviä. Tee halutessasi sanataulukko, jossa vasemmalla on suomenkielinen sana ja oikealla sana omalla kielellä. Opintopolun englanninkielinen Studyinfo on rinnakkainen lukemisen apu. Opiskelijan oma kielitausta on voimavara, mutta sitä ei kysytä eikä käytetä esimerkkinä, ellei hän itse halua.
+**S2 ja selkeä kieli:** Käy alla oleva sanasto läpi ennen Tehtävää 1. Tee halutessasi sanataulukko, jossa vasemmalla on suomenkielinen sana ja oikealla sana omalla kielellä. Opintopolun englanninkielinen Studyinfo on rinnakkainen lukemisen apu. Opiskelijan oma kielitausta on voimavara, mutta sitä ei kysytä eikä käytetä esimerkkinä, ellei hän itse halua.
 
 - *vaihto-opiskelu = opiskelu toisessa maassa määräajan, usein yksi lukukausi tai vuosi*
 - *tutkinto-opiskelija = opiskelija, joka suorittaa koko tutkinnon*
@@ -308,11 +317,11 @@ kansainvälisyyden tuovan elämääsi, jos mitään?"
 - *oleskelulupa = lupa asua toisessa maassa pidempään*
 - *kansainvälinen opiskelija = opiskelija, joka tulee opiskelemaan toisesta maasta*
 
-**Lukeminen, keskittyminen ja jännitys:** Anna kysymyslista yhdellä sivulla ja tehtävä vaihe kerrallaan. Salli kuulokkeet ja oma rauhallinen paikka. Jos ulkomaan ajatus jännittää, muista, että selvittäminen ei sido mihinkään ja että yksi pieni askel riittää.
+**Lukeminen, keskittyminen ja jännitys:** Ohjaajalle: anna kysymyslista yhdellä sivulla ja tehtävä vaihe kerrallaan. Salli kuulokkeet ja oma rauhallinen paikka. Jos ulkomaan ajatus jännittää, muista, että selvittäminen ei sido mihinkään ja että yksi pieni askel riittää.
 
-**Ilman laitetta:** Karttapohja tai kolme saraketta, tapaukset ja tulostettu ohjelmakuvaus toimivat paperilla.
+**Ilman laitetta:** Kaikki kolme tehtävää onnistuvat paperilla ja kynällä. Tehtävän 1 paperiversio on kuvattu tehtävässä. Tarkista puuttuvat tiedot myöhemmin kirjastossa tai koulun koneella.
 
-**Tuki:** Oppimisen tuen säännöt uudistuivat. Katso Opetushallituksen [uutinen oppimisen tuen uudistuksesta](https://www.oph.fi/fi/uutiset/2025/lukion-oppimisen-tuki-ja-erityisopetus-uudistuvat-oikeus-tukeen-vahvistuu) ja koulusi oma käytäntö (esimerkki).
+**Tuki:** Lukiolaisella on [lukiolain](https://www.finlex.fi/fi/lainsaadanto/2018/714) mukaan oikeus oppimisen tukeen. Lue lisää Opetushallituksen sivulta [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja kysy koulusi omasta käytännöstä (esimerkki).
 
 ## Milloin opinto-ohjaajalle
 
@@ -323,7 +332,7 @@ Varaa aika opinto-ohjaajalle, jos
 - kielitaito, raha tai epävarmuus estää sinua selvittämästä asiaa, ja se on estänyt sinua yli kaksi viikkoa
 - haluat tietää, mitä tukea voit saada ulkomailla opiskeluun tai harjoitteluun
 - olet joutunut syrjinnän tai kiusaamisen kohteeksi tai sinua on kohdeltu huonosti kielen, taustan tai ulkonäön vuoksi, ja se on toistunut
-- et tiedä, haluatko ulkomaille, ja asia on huolestuttanut sinua yli kaksi viikkoa
+- et tiedä, haluatko ulkomaille, ja asia huolettaa sinua. Sinun ei tarvitse tietää vastausta etukäteen, riittää että haluat puhua siitä
 
 Voit puhua myös ryhmänohjaajan, erityisopettajan tai opiskeluhuollon kanssa. Koulusi kertoo, miten aika varataan
 (esimerkki).

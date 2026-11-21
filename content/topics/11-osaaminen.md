@@ -49,11 +49,11 @@ school_adapts:
   - "Kenelle opiskelija varaa ohjausajan ja miten (opinto-ohjaaja, ryhmänohjaaja, erityisopettaja, opiskeluhuolto)"
   - "Millä laitteilla ja missä tiloissa opiskelijat voivat kirjoittaa ja tallentaa asiakirjoja (esimerkki)"
 materials:
-  - "Puhelin tai tietokone (Tehtävä 2), tai tulostettu osaamislistan pohja"
+  - "Puhelin tai tietokone (Tehtävä 2, valinnainen), tai paperi ja kynä"
   - "Oma muistio, paperinen tai sähköinen"
-  - "Tulostetut tapauskortit (Tehtävä 3)"
+  - "Tapauskortit (Tehtävä 3), jos ohjaaja tulostaa ne; opiskelija voi käyttää myös tämän sivun tapauksia tai omaa keksittyä tapausta"
 accessibility:
-  - "Kaikki tehtävät voi tehdä ilman laitetta paperipohjalla."
+  - "Kaikki tehtävät voi tehdä yksin pelkällä paperilla ja kynällä."
   - "Pohdinnat tehdään omaan muistioon; mitään ei tarvitse kertoa muille."
   - "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."
 last_reviewed: 2026-11-21
@@ -66,7 +66,7 @@ last_reviewed: 2026-11-21
 - Osaan tunnistaa omaa osaamistani sekä koulussa että sen ulkopuolella.
 - Osaan sanoittaa osaamiseni omin sanoin ja kirjata sen muistiin niin, että voin käyttää sitä esimerkiksi CV:ssä.
 - Osaan kertoa, mitä työelämätaidot ovat, ja arvioida omaa osaamistani niiden suhteen.
-- Osaan kuvata vahvuuteni konkreettisilla esimerkeillä ja huomata, mitä haluan vielä oppia.
+- Osaan kuvata vahvuuteni konkreettisilla esimerkeillä, kirjoittaa yhden lauseen siitä, mitä osaamiseni kertoo minusta, ja valita taidon, jota haluan seuraavaksi kehittää.
 
 ### Mitä osaaminen on?
 
@@ -86,8 +86,7 @@ Aloita muistelemalla tilanteita, joissa sinulla meni hyvin tai opit jotakin. Kys
 - Mitä muut ovat sanoneet minun tekemisestäni?
 - Mitä haluaisin vielä oppia?
 
-Voit myös kysyä luotettavalta ihmiseltä, mitä hän on huomannut sinun osaavan. Se ei ole välttämätöntä, ja vastaus on
-vain yksi näkökulma.
+Kun huomaat osaamisesi, opit tuntemaan itseäsi. Se auttaa suunnittelemaan opintoja ja elämää: mitä haluat tehdä lisää ja mitä kokeilla. Voit myös kysyä luotettavalta ihmiseltä, mitä hän on huomannut sinun osaavan. Se ei ole välttämätöntä, ja vastaus on vain yksi näkökulma.
 
 ### Mitä ovat työelämätaidot?
 
@@ -129,16 +128,19 @@ muiden näkevän. Harjoitus-CV:ssä voit käyttää paikkamerkkejä, kuten *Nimi
 
 **Aika:** 15 min
 **Tarvitset:** muistion, kynän tai tietokoneen
-**Ilman laitetta:** Tehtävä on paperitehtävä.
+**Ilman laitetta:** Tehtävä on paperitehtävä. Paperi ja kynä riittävät.
+
+Jos teit aiheessa 05 vahvuuslistan, voit käyttää sitä lähtökohtana. Tässä tehtävässä kirjoitat tilanteet konkreettisemmin: mitä teit ja mitä siitä seurasi.
 
 1. Kirjoita kolme tilannetta, joissa onnistuit tai opit jotakin. Ne voivat olla koulusta, harrastuksesta, kotoa tai työstä.
 2. Kirjoita jokaisesta tilanteesta, mitä taitoja tarvitsit. Vertaa niitä tämän sivun työelämätaitojen luetteloon (vuorovaikutus, suunnittelu, ongelmanratkaisu, vastuu, tiedonhaku, digitaidot, oppiminen).
 3. Merkitse jokaisen taidon viereen, onko se vahva, kehittyvä vai uusi.
 4. Valitse kaksi taitoa, joita haluat harjoitella lisää, ja pidä lista muistiossasi. Sitä ei tarvitse näyttää kenellekään.
+5. Kirjoita yksi lause: mitä osaamisesi kertoo sinusta ja mitä haluaisit sen avulla kokeilla tai opiskella seuraavaksi?
 
 ### Tehtävä 2: Kirjoita osaamisesi näkyväksi
 
-**Aika:** 10 min
+**Aika:** 12 min
 **Tarvitset:** osaamislistan Tehtävästä 1, paperia tai tekstitiedoston
 **Ilman laitetta:** Kirjoita kolmivaiheinen kuvaus (tilanne, oma tekeminen, tulos) paperille.
 
@@ -147,11 +149,11 @@ muiden näkevän. Harjoitus-CV:ssä voit käyttää paikkamerkkejä, kuten *Nimi
 3. Kirjoita CV-pohjaan paperille tai tekstitiedostoon yksi kohta, joka perustuu kuvaukseesi. Käytä nimen ja yhteystietojen paikalla paikkamerkkejä, kuten *Nimi Sukunimi*.
 4. Jos haluat, katso [Europassin sivustolta](https://europass.europa.eu/fi) CV-mallia. Älä luo tiliä äläkä kirjoita siihen oikeita tietojasi.
 
-### Tehtävä 3: Osaaminen näkyviin, kuvitteelliset tapaukset
+### Tehtävä 3: Tee kuvitteellisen opiskelijan osaaminen näkyväksi
 
 **Aika:** 10 min
 **Tarvitset:** tapauskortit tai tämän sivun tekstin
-**Ilman laitetta:** Lue tapaukset tältä sivulta ja kirjoita jokaiselle valitsemallesi tapaukselle kolme taitoa paperille.
+**Ilman laitetta:** Keksi paperille oma kuvitteellinen opiskelija, jolla on osaamista kotoa, harrastuksesta tai omatoimisesta oppimisesta. Kirjoita hänelle kolme taitoa ja yksi lause, jolla hän voisi kuvata osaamistaan CV:ssä.
 
 Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
@@ -170,14 +172,14 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 
 1. Mikä osaamisesi on yllättänyt sinut, kun kirjoitit sen ylös?
 2. Mitä taitoa haluaisit kehittää seuraavaksi, ja miten voisit harjoitella sitä?
-3. Mihin voisit käyttää osaamislistaasi tulevaisuudessa?
+3. Miten osaamislistasi voisi auttaa sinua suunnittelemaan opintoja tai tulevaa elämää?
 
 **Itsearviointi.** Arvioi jokainen kohta asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*.
 
 - Osaan tunnistaa omaa osaamistani sekä koulussa että sen ulkopuolella.
 - Osaan sanoittaa osaamiseni omin sanoin ja kirjata sen muistiin niin, että voin käyttää sitä esimerkiksi CV:ssä.
 - Osaan kertoa, mitä työelämätaidot ovat, ja arvioida omaa osaamistani niiden suhteen.
-- Osaan kuvata vahvuuteni konkreettisilla esimerkeillä ja huomata, mitä haluan vielä oppia.
+- Osaan kuvata vahvuuteni konkreettisilla esimerkeillä, kirjoittaa yhden lauseen siitä, mitä osaamiseni kertoo minusta, ja valita taidon, jota haluan seuraavaksi kehittää.
 
 Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
 
@@ -190,72 +192,74 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 **Näin etenet:**
 
 1. **Lue** osio Opiskelijalle (8 min).
-2. **Tee** Tehtävä 1 (15 min) ja Tehtävä 2 (10 min). Tehtävä 3 on lisätehtävä, jos haluat jatkaa (10 min).
+2. **Tee** Tehtävä 1 (15 min) ja Tehtävä 2 (12 min). Tehtävä 3 on lisätehtävä, jos haluat jatkaa (10 min).
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** aihe 12 *Muuttuva työelämä, yrittäjyys ja ennakointi*.
 
-**HOPSiin:** Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* kolme osaamista, jotka tunnistit, ja kaksi taitoa, joita haluat kehittää. Voit liittää mukaan viittauksen osaamislistaasi. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
+**HOPSiin:** Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* kolme osaamista, jotka tunnistit, ja kaksi taitoa, joita haluat kehittää. Voit liittää mukaan viittauksen osaamislistaasi. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki). HOPS on koulun kanssa jaettu asiakirja. Kirjaa siihen vain se, minkä haluat koulun tietävän. Terveyteen, perheeseen ja tuen tarpeeseen liittyvät ajatukset voit pitää omassa muistiossasi. Osaamislista voi myös jäädä kokonaan omaan käyttöösi.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoite:** jokainen opiskelija tunnistaa omaa osaamistaan, kirjoittaa siitä yhden konkreettisen kuvauksen ja tietää, miten dokumentoida sitä. Kukaan ei kerro omaa osaamistaan ääneen, ellei itse halua.
+**Tavoite:** jokainen opiskelija tunnistaa omaa osaamistaan, kirjoittaa siitä yhden konkreettisen kuvauksen ja tietää, miten dokumentoida sitä. Lyhyemmät tunnit antavat pienemmän tuotoksen: 60 minuutissa osaamislista tehdään kahdesta tilanteesta, 45 minuutissa yhdestä tilanteesta. Kuvaus (Tehtävä 2) tehdään kaikissa versioissa. Lause siitä, mitä osaaminen kertoo sinusta (Tehtävä 1, vaihe 5), jää 45 minuutin tunnilla omaan työhön kotona. Tehtävä 3 jää 45 ja 60 minuutin tunneilla kotiin tai pariin. Kukaan ei kerro omaa osaamistaan ääneen, ellei itse halua.
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jossa ihmiset yleensä ovat hyviä mutta eivät huomaa sitä. | Lue muutama lappu ääneen. Älä arvioi. | Käden nosto: olen joskus aliarvioinut itseäni. | Lue kaksi lappua. |
-| Aiemman tiedon aktivointi | 10 | Pareittain: mitä on osaaminen? Mistä sitä kertyy? Lista taululle. | Täydennä lista kouluun kuulumattomalla osaamisella. | Lista yksin paperille. | Kerää lista vain taululle. |
-| Lyhyt alustus | 10 | Opiskelijat kirjaavat muistiin: kolmivaiheinen kuvausmalli, työelämätaidot, dokumentoinnin tavat. | Esittele malli esimerkillä. Näytä Europass ja Työmarkkinatori (vain keksityt tiedot, ei tilejä). Kerro koulun tavat tallentaa osaamista (esimerkki). | Malli paperilla. | Näytä vain malli ja yksi työkalu. |
-| Työskentely | 25 | Tehtävä 1 (15 min) ja Tehtävä 2 (10 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Älä arvioi osaamista. | Paperipohja ilman laitetta. | Tehtävä 2 kotiin. |
+| Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jossa ihmiset yleensä ovat hyviä mutta eivät huomaa sitä. | Lue muutama lappu ääneen. Älä arvioi. | Kirjoita ajatus vain itsellesi paperille. Ketään ei pyydetä kertomaan, onko hän aliarvioinut itseään. | Lue kaksi lappua. |
+| Aiemman tiedon aktivointi | 8 | Pareittain: mitä on osaaminen? Mistä sitä kertyy? Lista taululle. | Täydennä lista kouluun kuulumattomalla osaamisella. | Lista yksin paperille. | Kerää lista vain taululle. |
+| Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin: kolmivaiheinen kuvausmalli, työelämätaidot, dokumentoinnin tavat. | Esittele malli esimerkillä. Näytä Europass ja Työmarkkinatori (vain keksityt tiedot, ei tilejä). Kerro koulun tavat tallentaa osaamista (esimerkki). | Malli paperilla. | Näytä vain malli ja yksi työkalu. |
+| Työskentely | 28 | Tehtävä 1 (15 min) ja Tehtävä 2 (12 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Älä arvioi osaamista. | Paperipohja ilman laitetta. | Tehtävä 1 kahdesta tilanteesta tai Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Tehtävä 3 (10 min) kolmen hengen ryhmissä kuvitteellisilla tapauksilla. | Ohjaa puhumaan tapauksista, ei omista taidoista. Kokoa lopuksi lauseet taululle. | Yksin tai parin kanssa. | Yksi yhteinen tapaus. |
-| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin kolme osaamista ja kaksi kehittämiskohdetta. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä). | Kerro, miten osaamista voi tallentaa ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Exit sähköisesti tunnin jälkeen. |
-| Puskuri | 5 | Kysymyksiä, keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset ohjausaikaan. | – | – |
+| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin sen osaamisen ja kehittämiskohteen, jonka haluavat jakaa. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Muistuta: HOPS on koulun kanssa jaettu asiakirja. Sinne kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, miten osaamista voi tallentaa ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Exit sähköisesti tunnin jälkeen. |
+| Puskuri | 6 | Kysymyksiä, keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset ohjausaikaan. | – | – |
 
 ### 60 min
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jossa ihmiset yleensä ovat hyviä mutta eivät huomaa sitä. | Lue muutama lappu ääneen. Älä arvioi. | Käden nosto: olen joskus aliarvioinut itseäni. | Lue kaksi lappua. |
-| Aiemman tiedon aktivointi | 5 | Pareittain: mitä on osaaminen? Mistä sitä kertyy? Lista taululle. | Täydennä lista kouluun kuulumattomalla osaamisella. | Lista yksin paperille. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin: kolmivaiheinen kuvausmalli, työelämätaidot, dokumentoinnin tavat. | Esittele malli esimerkillä. Näytä Europass ja Työmarkkinatori (vain keksityt tiedot, ei tilejä). Kerro koulun tavat tallentaa osaamista (esimerkki). | Malli paperilla. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Työskentely | 20 | Tehtävä 1 (15 min) yksin. Nopeat aloittavat Tehtävän 2. | Kierrä ja kysy avoimia kysymyksiä. Älä arvioi osaamista. | Paperipohja ilman laitetta. | Tehtävä 2 kotiin. |
-| Pari- tai pienryhmäpohdinta | 10 | Tehtävä 3 (10 min) pareittain yhdellä kuvitteellisella tapauksella. Kirjoittakaa tapaukselle kolme taitoa ja yksi lause, jolla hän voisi kuvata osaamistaan CV:ssä. | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin tai parin kanssa. | Yksi yhteinen tapaus koko ryhmälle. |
-| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin kolme osaamista ja kaksi kehittämiskohdetta. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä). Jos Tehtävä 2 jäi kotiin, kirjaa vain se, mikä on valmista. | Kerro, miten osaamista voi tallentaa ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Exit sähköisesti tunnin jälkeen. |
-| Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
+| Virittäytyminen | 4 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jossa ihmiset yleensä ovat hyviä mutta eivät huomaa sitä. | Lue kaksi lappua ääneen. Älä arvioi. | Kirjoita ajatus vain itsellesi paperille. | Ohita lukeminen. |
+| Aiemman tiedon aktivointi | 6 | Pareittain: mitä on osaaminen? Mistä sitä kertyy? Lista taululle. | Täydennä lista kouluun kuulumattomalla osaamisella. | Lista yksin paperille. | Täydennä lista itse ja siirry eteenpäin. |
+| Lyhyt alustus | 7 | Opiskelijat kirjaavat muistiin kolmivaiheisen kuvausmallin. Työelämätaidot ovat valmiina listalla. | Esittele malli yhdellä esimerkillä. Europass ja Työmarkkinatori jäävät linkeiksi (vain keksityt tiedot, ei tilejä). | Malli paperilla. | Jätä dokumentoinnin tavat tehtävän ohjeeseen. |
+| Työskentely | 25 | Tehtävä 1 kahdesta tilanteesta (10 min) ja Tehtävä 2 (12 min). Laitteille ja siirtymille 3 min. | Kierrä ja kysy avoimia kysymyksiä. Älä arvioi osaamista. | Paperipohja ilman laitetta. | Tehtävä 1 kotiin ja Tehtävä 2 heti yhdestä tilanteesta. |
+| Pari- tai pienryhmäpohdinta | 8 | Tehtävä 3 pareittain yhdellä kuvitteellisella tapauksella (8 min): kolme taitoa ja yksi CV-lause. | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin tai parin kanssa. | Yksi yhteinen tapaus koko ryhmälle tai Tehtävä 3 kotiin. |
+| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin sen osaamisen ja kehittämiskohteen, jonka haluavat jakaa. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). Kirjataan vain se, mikä on valmista. | Muistuta: HOPS on koulun kanssa jaettu asiakirja. Sinne kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, miten osaamista voi tallentaa ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Kirjaus loppuun kotona. Exit sähköisesti tunnin jälkeen. |
+| Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### 45 min
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 3 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jossa ihmiset yleensä ovat hyviä mutta eivät huomaa sitä. | Lue muutama lappu ääneen. Älä arvioi. | Käden nosto: olen joskus aliarvioinut itseäni. | Lue kaksi lappua. |
-| Aiemman tiedon aktivointi | 3 | Pareittain: mitä on osaaminen? Mistä sitä kertyy? Lista taululle. | Täydennä lista kouluun kuulumattomalla osaamisella. | Lista yksin paperille. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Lyhyt alustus | 5 | Opiskelijat kirjaavat muistiin: kolmivaiheinen kuvausmalli, työelämätaidot, dokumentoinnin tavat. | Esittele malli esimerkillä. Näytä Europass ja Työmarkkinatori (vain keksityt tiedot, ei tilejä). Kerro koulun tavat tallentaa osaamista (esimerkki). | Malli paperilla. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Työskentely | 19 | Tehtävä 1 (15 min) yksin. Loppuaika muistiinpanojen viimeistelyyn. | Kierrä ja kysy avoimia kysymyksiä. Älä arvioi osaamista. | Paperipohja ilman laitetta. | Tehtävän 1 viimeiset vaiheet kotiin. |
-| Pari- tai pienryhmäpohdinta | 5 | Yksi kuvitteellinen tapaus Tehtävästä 3 koko ryhmälle yhdessä. Ryhmä kirjoittaa tapaukselle kolme taitoa ja yhden lauseen, jolla hän voisi kuvata osaamistaan CV:ssä. | Pidä keskustelu tapauksessa, ei opiskelijoiden omissa tilanteissa. Kirjoita lauseet taululle. | Yksin tai parin kanssa. | Tehtävä 3 kotiin. |
-| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin kolme osaamista ja kaksi kehittämiskohdetta. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä). Jos Tehtävä 2 jäi kotiin, kirjaa vain se, mikä on valmista. | Kerro, miten osaamista voi tallentaa ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Kirjaus loppuun kotona. Tehtävä 2, Pohdinta ja exit-kysymys tunnin jälkeen. |
-| Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
+| Virittäytyminen | 3 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jossa ihmiset yleensä ovat hyviä mutta eivät huomaa sitä. | Lue kaksi lappua ääneen. Älä arvioi. | Kirjoita ajatus vain itsellesi. | Ohita lukeminen. |
+| Aiemman tiedon aktivointi | 4 | Pareittain: mitä on osaaminen? Mistä sitä kertyy? Kaksi esimerkkiä taululle. | Täydennä esimerkeillä, jotka eivät liity kouluun. | Lista yksin paperille. | Täydennä lista itse. |
+| Lyhyt alustus | 5 | Opiskelijat kirjaavat muistiin kolmivaiheisen kuvausmallin (tilanne, oma teko, tulos). | Esittele malli yhdellä esimerkillä. Europass, Työmarkkinatori ja työelämätaidot ovat valmiina listalla. | Malli paperilla. | Siirry heti tehtävään. |
+| Työskentely | 22 | Tehtävä 1 yhdestä tilanteesta, vaiheet 1–2 (8 min; vaiheet 3–5 jäävät kotiin tai itseopiskeluun), ja Tehtävä 2 (12 min). Laitteille ja siirtymille 2 min. Tehtävä 3 jää kotiin. | Kierrä ja kysy avoimia kysymyksiä. Älä arvioi osaamista. | Paperipohja ilman laitetta. | Tehtävä 2 vaiheet 3–4 kotiin. |
+| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin sen osaamisen ja kehittämiskohteen, jonka haluavat jakaa. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). Kirjataan vain se, mikä on valmista. | Muistuta: HOPS on koulun kanssa jaettu asiakirja. Sinne kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, miten osaamista voi tallentaa ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Kirjaus loppuun kotona. Exit sähköisesti tunnin jälkeen. |
+| Puskuri | 3 | Kysymyksiä ja keskeneräisten loppuun. | Ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### Valmistelu
 
 - Tutustu Europassin sivustoon ja Työmarkkinatoriin itse. Käytä Europassissa vain keksittyjä tietoja äläkä luo tiliä.
 - Selvitä, miten koulussa voi tallentaa osaamista ja lukion ulkopuolista toimintaa (esimerkki).
 - Valmistele yksi oma esimerkki kolmivaiheisesta kuvauksesta, joka ei liity koulumenestykseen.
-- Tulosta osaamislistan pohja ja tapauskortit niille, jotka eivät käytä laitetta.
+- Tulosta tapauskortit tai kirjoita tapaukset taululle. Opiskelija voi tehdä tehtävät myös pelkällä paperilla.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 
 ### Avoimet kysymykset
+
+Kysymykset sopivat yksityiseen kirjoittamiseen, vapaaehtoiseen pariin tai yleiseen keskusteluun. Kukaan ei vastaa ääneen omasta tilanteestaan. Ryhmässä puhutaan yleisesti ("ihmiset", "joku") tai kuvitteellisista tapauksista.
 
 - Mitä osaaminen on? Mistä sitä kertyy?
 - Miksi ihmiset aliarvioivat omaa osaamistaan?
 - Mitä eroa on sanoilla "olen hyvä" ja "tein näin ja siitä seurasi tämä"?
 - Millaista osaamista tarvitaan melkein kaikessa työssä?
 - Miten osaamisesta voi kertoa, jos ei ole ollut töissä?
-- Mitä aiot oppia seuraavaksi?
+- Mitä ihminen voi oppia seuraavaksi, ja miten?
 
 Vältä johdattelevia kysymyksiä, kuten "Eikö sinulla ole mitään taitoja?" Kysy mieluummin: "Mitä teet usein, ja mitä siinä tarvitaan?"
 
 ### Pelisäännöt ja oletusten tarkistus
 
 - Kukaan ei kerro osaamisestaan, arvosanoistaan tai perhetilanteestaan ryhmälle. Ryhmätyö tehdään kuvitteellisilla tapauksilla.
+- HOPS on koulun kanssa jaettu asiakirja. Muistuta tunnin alussa ja lopussa, että sinne kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon.
 - Älä pyydä opiskelijoita arvioimaan toistensa osaamista. Jokainen kirjoittaa omasta osaamisestaan.
 - Kaikki osaaminen on arvokasta, myös kotona, harrastuksissa ja omatoimisessa oppimisessa kertynyt.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että jollakin on työkokemusta tai harrastuksia, joihin on varaa? Yhdistänkö tietyt taidot tiettyyn sukupuoleen tai taustaan? Oletanko, että kaikilla on kotona rauhallinen paikka kirjoittaa? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
@@ -278,7 +282,7 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö sinulla ole mitään taitoja?" K
 
 **Lukeminen, keskittyminen ja jännitys:** Anna kolmivaiheinen malli yhdellä sivulla ja tee tehtävä vaihe kerrallaan. Jos omasta osaamisesta kirjoittaminen jännittää, muista, että lista on vain omaan käyttöösi.
 
-**Ilman laitetta:** Osaamislista, kuvaukset ja CV-pohja onnistuvat paperilla. Älä kirjoita oikeita henkilötietoja verkkoon.
+**Ilman laitetta:** Osaamislista, kuvaus ja CV-kohta onnistuvat yksin pelkällä paperilla ja kynällä. Tulosteita ei tarvita. Älä kirjoita oikeita henkilötietoja verkkoon.
 
 **Tuki:** Oppimisen tuen säännöt uudistuivat. Katso Opetushallituksen sivu [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja koulusi oma käytäntö (esimerkki).
 
@@ -292,7 +296,7 @@ Varaa aika opinto-ohjaajalle, jos
 - haluat selvittää, mitä taitoja jokin ala vaatii
 - vertaat itseäsi muihin ja se vie voimia useimpina päivinä yli kaksi viikkoa
 - jokin verkkopalvelu pyytää luomaan tilin tai antamaan henkilötietoja etkä ole varma, kannattaako
-- et tiedä, mitä haluat tehdä lukion jälkeen, ja se on huolestuttanut sinua yli kaksi viikkoa
+- sinulla ei ole vielä suuntaa lukion jälkeen ja se painaa mieltäsi (sinun ei tarvitse tietää, mutta voit puhua siitä)
 
 Voit puhua myös ryhmänohjaajan, erityisopettajan tai opiskeluhuollon kanssa. Koulusi kertoo, miten aika varataan (esimerkki).
 

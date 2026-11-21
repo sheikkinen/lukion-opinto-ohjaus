@@ -47,9 +47,9 @@ school_adapts:
   - "Koulun kriisisuunnitelma ja yhteiset tapahtumat, jotka tukevat yhteisöllisyyttä"
 materials:
   - "Oma muistio, paperinen tai sähköinen"
-  - "Tulostettu hyvinvoinnin kartta (Tehtävä 1) tai tyhjä paperi"
+  - "Tyhjä paperi hyvinvoinnin karttaa varten (Tehtävä 1); valmis pohja on vain lisä"
   - "Koulun opiskeluhuollon yhteystiedot (esimerkki)"
-  - "Tulostetut tapauskortit (Tehtävä 3)"
+  - "Tapaukset (Tehtävä 3) ovat sivulla; tulostetut tapauskortit ovat vain lisä"
 accessibility:
   - "Kaikki tehtävät voi tehdä paperilla ilman laitetta."
   - "Pohdinnat tehdään omaan muistioon; mitään ei tarvitse kertoa muille."
@@ -63,7 +63,7 @@ last_reviewed: 2026-11-21
 
 - Osaan nimetä tapoja, jotka edistävät omaa hyvinvointiani ja toimintakykyäni, ja kokeilla niitä.
 - Osaan kuvata, mitä hyvinvointi, opiskelukyky ja tasapainoinen elämä tarkoittavat.
-- Osaan tunnistaa, mitä voimia minulla on ja mikä niitä kuluttaa, ja luottaa omiin keinoihini.
+- Osaan tunnistaa, mitä voimia minulla on ja mikä niitä kuluttaa, ja kirjoittaa niistä oman listani.
 - Osaan arvioida tuen ja ohjauksen tarvettani ja tiedän, mistä saan apua.
 
 ### Mitä hyvinvointi on?
@@ -119,7 +119,7 @@ Hyvinvointi on tärkeä asia kaikilla reiteillä: ammattikorkeakoulussa, yliopis
 
 **Aika:** 15 min
 **Tarvitset:** paperia, kyniä, oman muistion
-**Ilman laitetta:** Tämä on paperitehtävä.
+**Ilman laitetta:** Tämä on paperitehtävä, jonka teet yksin paperilla ja kynällä.
 
 1. Piirrä paperille iso ympyrä ja jaa se neljään osaan: uni ja lepo, ruoka ja liike, ihmiset, tekeminen.
 2. Kirjoita jokaiseen osaan yksi asia, joka antaa sinulle voimia.
@@ -131,24 +131,24 @@ Hyvinvointi on tärkeä asia kaikilla reiteillä: ammattikorkeakoulussa, yliopis
 
 **Aika:** 10 min
 **Tarvitset:** puhelimen tai tietokoneen, oman muistion
-**Ilman laitetta:** Pyydä opinto-ohjaajalta tai ryhmänohjaajalta lista koulun tukihenkilöistä ja kirjoita siitä kaksi nimeä muistioosi.
+**Ilman laitetta:** Kirjoita paperille, keitä koulussasi tiedät auttavan: esimerkiksi ryhmänohjaaja, opinto-ohjaaja, erityisopettaja, kuraattori. Merkitse kysymysmerkillä ne, joista et tiedä, ja kysy koulussa tai katso koulun ilmoitustaululta. Kirjoita paperille myös, että hätätilanteessa soitetaan 112.
 
 1. Avaa Opetushallituksen sivu [Opiskeluhuolto](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto) ja lue yksi kohta, joka kertoo, mitä palveluja opiskeluhuolto antaa.
 2. Etsi koulusi sivuilta, kuka tekee opiskeluhuoltoa omassa koulussasi (esimerkki).
 3. Kirjoita muistioosi kolme paikkaa tai ihmistä, joilta voisit pyytää apua.
 4. Jos ehdit, katso [Mielenterveystalon nuorten sivulta](https://www.mielenterveystalo.fi/fi/nuoret), millaisia omahoito-ohjelmia siellä on.
 
-### Tehtävä 3: Kuvitteelliset jaksajat
+### Tehtävä 3: Ehdota keinoja kuvitteellisille jaksajille
 
 **Aika:** 10 min
-**Tarvitset:** tapauskortit tai tämän sivun tekstin, oman muistion
-**Ilman laitetta:** Lue tapaukset tältä sivulta ja kirjoita vastaukset paperille. Voit tehdä tehtävän myös keskustellen parin kanssa.
+**Tarvitset:** tämän sivun tapaukset, oman muistion
+**Ilman laitetta:** Lue tapaukset tältä sivulta tai kopioi ne paperille ja kirjoita vastaukset paperille. Voit tehdä tehtävän myös keskustellen parin kanssa.
 
 Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
-- **Eemil** nukkuu huonosti ennen kokeita. Hän ei halua vaivata ketään.
-- **Ilona** on aina ahkera ja harrastaa paljon. Viime viikkoina mikään ei ole tuntunut kiinnostavalta, ja opinnot ovat jääneet jälkeen.
-- **Mira** aikoo lukion jälkeen kansanopistoon tai töihin. Hän miettii, mitä opiskelukyky tarkoittaa siellä.
+- **Veeti** nukkuu huonosti ennen kokeita. Hän ei halua vaivata ketään.
+- **Aino** on aina ahkera ja harrastaa paljon. Viime viikkoina mikään ei ole tuntunut kiinnostavalta, ja opinnot ovat jääneet jälkeen.
+- **Jonna** aikoo lukion jälkeen kansanopistoon tai töihin. Hän miettii, mitä opiskelukyky tarkoittaa siellä.
 
 1. Valitse yksi tapaus.
 2. Kirjoita hänelle kaksi ehdotusta: yksi, jonka hän voi kokeilla itse, ja yksi, jossa hän pyytää apua.
@@ -167,7 +167,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 
 - Osaan nimetä tapoja, jotka edistävät omaa hyvinvointiani ja toimintakykyäni, ja kokeilla niitä.
 - Osaan kuvata, mitä hyvinvointi, opiskelukyky ja tasapainoinen elämä tarkoittavat.
-- Osaan tunnistaa, mitä voimia minulla on ja mikä niitä kuluttaa, ja luottaa omiin keinoihini.
+- Osaan tunnistaa, mitä voimia minulla on ja mikä niitä kuluttaa, ja kirjoittaa niistä oman listani.
 - Osaan arvioida tuen ja ohjauksen tarvettani ja tiedän, mistä saan apua.
 
 Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
@@ -185,61 +185,63 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** aihe 05 *Itsetuntemus, vahvuudet ja arvot*. Siellä tutkit, mikä sinulle on tärkeää.
 
-**HOPSiin:** Kirjoita HOPSin osaan *opiskelusuunnitelma* yksi asia, jolla tuet jaksamistasi, ja se, kenen puoleen voit kääntyä. Älä kirjoita siihen terveystietoja tai muita arkoja asioita. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
+**HOPSiin:** HOPS on koulun kanssa jaettu asiakirja. Kirjoita siihen vain se, minkä haluat jakaa. Kirjoita HOPSin osaan *opiskelusuunnitelma* yksi asia, jolla tuet jaksamistasi, ja se, kenen puoleen voit kääntyä. Älä kirjoita siihen terveystietoja tai muita arkoja asioita. Ne voit pitää omassa muistiossasi. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoite:** jokainen opiskelija tekee oman hyvinvoinnin kartan ja tietää, mistä apua saa. Kukaan ei kerro omasta jaksamisestaan, terveydestään tai tunteistaan ääneen, ellei itse halua.
+**Tavoite:** jokainen opiskelija tekee oman hyvinvoinnin kartan (Tehtävä 1) ja tietää, mistä apua saa (Tehtävä 2). 75 ja 60 minuutissa molemmat tehtävät tehdään kokonaan. 45 minuutissa apupaikat käydään läpi alustuksessa ja Tehtävästä 2 tehdään vain lyhennetty versio, joten tunnin tuotos on pienempi. Kukaan ei kerro omasta jaksamisestaan, terveydestään tai tunteistaan ääneen, ellei itse halua.
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka antaa ihmiselle voimia, ja yhden, joka vie voimia. | Kerää laput, sekoita ja lue muutama ääneen. Älä arvioi. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
-| Aiemman tiedon aktivointi | 10 | Totta vai tarua -väitteet pareittain: "Jaksaminen on oma vika." "Uni ei vaikuta oppimiseen." "Apua saa vain, jos on todella huonosti." "Jokainen palautuu samalla tavalla." | Kerro, että väitteet ovat keskustelun avauksia. Kytke lappujen asiat väitteisiin. Älä kerro omia kokemuksiasi. | Väitteet paperilla, opiskelija vastaa yksin. | Käy läpi kaksi väitettä. |
+| Aiemman tiedon aktivointi | 10 | Totta vai tarua -väitteet pareittain: "Jaksaminen on oma vika." "Uni ei vaikuta oppimiseen." "Apua saa vain, jos on todella huonosti." "Jokainen palautuu samalla tavalla." | Kerro, että väitteet ovat keskustelun avauksia, ja kytke lappujen asiat väitteisiin. Vastausvihjeet: jaksaminen ei ole oma vika; uni vaikuttaa oppimiseen; apua saa jo silloin, kun on epävarma; ihmiset palautuvat eri tavoin. Älä kerro omia kokemuksiasi. | Väitteet paperilla, opiskelija vastaa yksin. | Käy läpi kaksi ensimmäistä väitettä. |
 | Lyhyt alustus | 10 | Opiskelijat kirjaavat muistiin hyvinvoinnin, toimintakyvyn ja opiskelukyvyn merkityksen sekä paikat, joista apua saa. | Piirrä taululle voimien ja kuorman vaaka. Esittele koulun opiskeluhuolto ja yhteystiedot (esimerkki). Mainitse kriisiapu. | Jaa lista paikoista paperilla. | Esittele vain koulun palvelut. |
 | Työskentely | 25 | Tehtävä 1 (15 min) ja Tehtävä 2 (10 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Älä kysy henkilökohtaisia asioita. Kerro, että kartta on opiskelijan oma. | Pari voi puhua kartan rakenteesta ilman sisältöä. Paperipohja. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Tehtävä 3 (10 min) kolmen hengen ryhmissä kuvitteellisilla tapauksilla. Ryhmä kirjoittaa kaksi ehdotusta tapaukselle. | Ohjaa puhumaan tapauksista, ei omista tilanteista. Kokoa ehdotukset taululle. | Yksin tai parin kanssa. | Yksi tapaus koko ryhmälle yhdessä. |
-| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin yhden jaksamista tukevan asian. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Muistuta, että HOPSiin ei kirjata terveystietoja. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin yhden jaksamista tukevan asian. HOPS on koulun kanssa jaettu, joten terveys- ja kotiasiat jäävät omaan muistioon. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Muistuta, että HOPSiin ei kirjata terveystietoja. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 5 | Kysymyksiä, keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan tai opiskeluhuoltoon. | – | – |
 
 ### 60 min
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka antaa ihmiselle voimia, ja yhden, joka vie voimia. | Kerää laput, sekoita ja lue muutama ääneen. Älä arvioi. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
-| Aiemman tiedon aktivointi | 5 | Totta vai tarua -väitteet pareittain: "Jaksaminen on oma vika." "Uni ei vaikuta oppimiseen." "Apua saa vain, jos on todella huonosti." "Jokainen palautuu samalla tavalla." | Kerro, että väitteet ovat keskustelun avauksia. Kytke lappujen asiat väitteisiin. Älä kerro omia kokemuksiasi. | Väitteet paperilla, opiskelija vastaa yksin. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin hyvinvoinnin, toimintakyvyn ja opiskelukyvyn merkityksen sekä paikat, joista apua saa. | Piirrä taululle voimien ja kuorman vaaka. Esittele koulun opiskeluhuolto ja yhteystiedot (esimerkki). Mainitse kriisiapu. | Jaa lista paikoista paperilla. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Työskentely | 20 | Tehtävä 1 (15 min) yksin. Nopeat aloittavat Tehtävän 2. | Kierrä ja kysy avoimia kysymyksiä. Älä kysy henkilökohtaisia asioita. Kerro, että kartta on opiskelijan oma. | Pari voi puhua kartan rakenteesta ilman sisältöä. Paperipohja. | Tehtävä 2 kotiin. |
-| Pari- tai pienryhmäpohdinta | 10 | Tehtävä 3 (10 min) pareittain yhdellä kuvitteellisella tapauksella. Kirjoittakaa tapaukselle kaksi ehdotusta: yksi, jonka hän voi kokeilla itse, ja yksi, jossa hän pyytää apua. | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin tai parin kanssa. | Yksi yhteinen tapaus koko ryhmälle. |
-| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin yhden jaksamista tukevan asian. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). Jos Tehtävä 2 jäi kotiin, kirjaa vain se, mikä on valmista. | Muistuta, että HOPSiin ei kirjata terveystietoja. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
+| Virittäytyminen | 4 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka antaa ihmiselle voimia, ja yhden, joka vie voimia. | Kerää laput, sekoita ja lue muutama ääneen. Älä arvioi. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
+| Aiemman tiedon aktivointi | 5 | Kolme totta vai tarua -väitettä pareittain: "Jaksaminen on oma vika." "Uni ei vaikuta oppimiseen." "Apua saa vain, jos on todella huonosti." | Kerro, että väitteet ovat keskustelun avauksia. Vastausvihjeet: jaksaminen ei ole oma vika, ja apua saa jo silloin, kun on epävarma. Älä kerro omia kokemuksiasi. Unen vihje: uni vaikuttaa oppimiseen. | Väitteet paperilla, opiskelija vastaa yksin. | Jätä unta koskeva väite pois. |
+| Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin hyvinvoinnin, toimintakyvyn ja opiskelukyvyn merkityksen sekä paikat, joista apua saa. | Piirrä taululle voimien ja kuorman vaaka. Esittele koulun opiskeluhuolto ja yhteystiedot (esimerkki). Mainitse kriisiapu. | Jaa lista paikoista paperilla. | Esittele vain koulun palvelut ja anna kriisiavun linkit kirjallisena. |
+| Työskentely | 25 | Tehtävä 1 (15 min) ja Tehtävä 2 (10 min) yksin. | Kierrä ja kysy avoimia kysymyksiä. Älä kysy henkilökohtaisia asioita. Kerro, että kartta on opiskelijan oma. | Pari voi puhua kartan rakenteesta ilman sisältöä. Paperipohja. | Tehtävän 2 vaihe 4 kotiin. |
+| Pari- tai pienryhmäpohdinta | 8 | Tehtävä 3 pareittain yhdellä kuvitteellisella tapauksella (8 min). Kirjoittakaa tapaukselle kaksi ehdotusta: yksi, jonka hän voi kokeilla itse, ja yksi, jossa hän pyytää apua. | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin tai parin kanssa. | Yksi yhteinen tapaus koko ryhmälle. |
+| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin yhden jaksamista tukevan asian. HOPS on koulun kanssa jaettu, joten terveys- ja kotiasiat jäävät omaan muistioon. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Muistuta, että HOPSiin ei kirjata terveystietoja. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### 45 min
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 3 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka antaa ihmiselle voimia, ja yhden, joka vie voimia. | Kerää laput, sekoita ja lue muutama ääneen. Älä arvioi. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
-| Aiemman tiedon aktivointi | 3 | Kaksi totta vai tarua -väitettä pareittain: "Jaksaminen on oma vika." "Uni ei vaikuta oppimiseen." | Kerro, että väitteet ovat keskustelun avauksia. Kytke lappujen asiat väitteisiin. Älä kerro omia kokemuksiasi. | Väitteet paperilla, opiskelija vastaa yksin. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Lyhyt alustus | 5 | Opiskelijat kirjaavat muistiin hyvinvoinnin, toimintakyvyn ja opiskelukyvyn merkityksen sekä paikat, joista apua saa. | Piirrä taululle voimien ja kuorman vaaka. Esittele koulun opiskeluhuolto ja yhteystiedot (esimerkki). Mainitse kriisiapu. | Jaa lista paikoista paperilla. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Työskentely | 19 | Tehtävä 1 (15 min) yksin. Loppuaika muistiinpanojen viimeistelyyn. | Kierrä ja kysy avoimia kysymyksiä. Älä kysy henkilökohtaisia asioita. Kerro, että kartta on opiskelijan oma. | Pari voi puhua kartan rakenteesta ilman sisältöä. Paperipohja. | Tehtävän 1 viimeiset vaiheet kotiin. |
-| Pari- tai pienryhmäpohdinta | 5 | Yksi kuvitteellinen tapaus Tehtävästä 3 koko ryhmälle yhdessä. Ryhmä kirjoittaa tapaukselle kaksi ehdotusta: yksi, jonka hän voi kokeilla itse, ja yksi, jossa hän pyytää apua. | Pidä keskustelu tapauksessa, ei opiskelijoiden omissa tilanteissa. Kirjoita ehdotukset taululle. | Yksin tai parin kanssa. | Tehtävä 3 kotiin. |
-| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin yhden jaksamista tukevan asian. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). Jos Tehtävä 2 jäi kotiin, kirjaa vain se, mikä on valmista. | Muistuta, että HOPSiin ei kirjata terveystietoja. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Kirjaus loppuun kotona. Tehtävä 2, Pohdinta ja exit-kysymys tunnin jälkeen. |
-| Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
+| Virittäytyminen | 3 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka antaa ihmiselle voimia. | Kerää laput, sekoita ja lue muutama ääneen. Älä arvioi. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
+| Aiemman tiedon aktivointi | 4 | Kaksi totta vai tarua -väitettä pareittain (2 min), sitten vastaukset yhdessä: "Jaksaminen on oma vika." "Uni ei vaikuta oppimiseen." | Kerro, että väitteet ovat keskustelun avauksia. Vastausvihjeet: jaksaminen ei ole oma vika, ja uni vaikuttaa oppimiseen. Älä kerro omia kokemuksiasi. | Väitteet paperilla, opiskelija vastaa yksin. | Käsittele vain ensimmäinen väite. |
+| Lyhyt alustus | 5 | Opiskelijat kirjaavat muistiin paikat, joista apua saa, ja hyvinvoinnin merkityksen. | Piirrä taululle voimien ja kuorman vaaka. Esittele koulun opiskeluhuolto (esimerkki) ja mainitse kriisiapu. Anna yhteystiedot kirjallisena. | Jaa lista paikoista paperilla. | Esittele vain koulun palvelut. |
+| Työskentely | 22 | Tehtävä 1 (15 min) yksin. Tehtävästä 2 vain vaiheet 1 ja 3 (7 min). | Kierrä ja kysy avoimia kysymyksiä. Älä kysy henkilökohtaisia asioita. Kerro, että kartta on opiskelijan oma. | Pari voi puhua kartan rakenteesta ilman sisältöä. Paperipohja. | Tehtävän 2 vaiheet kotiin. |
+| Pari- tai pienryhmäpohdinta | 4 | Yksi kuvitteellinen tapaus Tehtävästä 3 koko ryhmälle yhdessä. Ryhmä sanoo ääneen kaksi ehdotusta tapaukselle. | Pidä keskustelu tapauksessa, ei opiskelijoiden omissa tilanteissa. Kirjoita ehdotukset taululle. | Yksin tai parin kanssa. | Tehtävä 3 kotiin. |
+| HOPS-askel ja exit | 6 | Opiskelijat kirjaavat HOPSiin yhden jaksamista tukevan asian. HOPS on koulun kanssa jaettu, joten terveys- ja kotiasiat jäävät omaan muistioon. Pohdinta tehdään kotona. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Muistuta, että HOPSiin ei kirjata terveystietoja. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Kirjaus loppuun kotona. Exit-kysymys tunnin jälkeen. |
+| Puskuri | 1 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### Valmistelu
 
 - Selvitä koulun opiskeluhuollon palvelut, yhteystiedot ja tapa varata aika (esimerkki). Sovi etukäteen opiskeluhuollon kanssa, voiko heidät kutsua tunnille tai pyytää lyhyt tervehdys.
 - Lue läpi koulun kriisisuunnitelma ja tiedä, mitä teet, jos opiskelija hätääntyy.
-- Tulosta hyvinvoinnin kartat, tapauskortit ja apupaikkojen lista.
+- Tulosta halutessasi apupaikkojen lista. Kartta ja tapaukset onnistuvat myös tyhjällä paperilla.
 - Varaa rauhallinen paikka, johon opiskelija voi tarvittaessa siirtyä.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 
 ### Avoimet kysymykset
 
+Kysymykset on tarkoitettu ensin yksityiseen kirjoittamiseen omaan muistioon. Ryhmässä puhutaan yleisesti tai kuvitteellisista tapauksista. Kukaan ei vastaa henkilökohtaiseen kysymykseen ääneen.
+
 - Mitkä asiat auttavat ihmistä palautumaan?
-- Miten tunnistat, että kuorma alkaa olla liian suuri?
+- Mistä ihminen voi tunnistaa, että kuorma alkaa olla liian suuri?
 - Mikä voisi helpottaa avun pyytämistä?
-- Mitä voit tehdä, jos huomaat, että kaverisi ei jaksa?
-- Millaista tukea toivoisit koululta?
+- Mitä voi tehdä, jos huomaa, että kaveri ei jaksa?
+- Millaista tukea koulu voisi tarjota?
 - Miten tasapaino voisi näyttää eri ihmisten elämässä?
 
 Vältä johdattelevia kysymyksiä, kuten "Eikö sinun pitäisi nukkua enemmän?" Kysy mieluummin: "Mikä auttaisi sinua palautumaan?"
@@ -257,7 +259,7 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö sinun pitäisi nukkua enemmän?"
 
 **Syvempi polku:** Seuraa viikon ajan, mitkä asiat antavat voimia ja mitkä vievät, ja kirjaa yksi havainto päivässä. Tutustu yhteen Mielenterveystalon omahoito-ohjelmaan ja mieti, miten sitä voisi käyttää. Mieti, miten tukisit kaveria, joka kertoo huolistaan.
 
-**S2 ja selkeä kieli:** Käy sanasto läpi ennen tehtäviä. Tee halutessasi sanataulukko, jossa vasemmalla on suomenkielinen sana ja oikealla sana omalla kielellä. Apua voi pyytää omalla kielellä, jos koulu voi järjestää tulkin tai kielitaitoisen tukihenkilön. Kysy asiasta koulultasi.
+**S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1. Kartan sanat voi kirjoittaa omalla kielellä; suomeksi tarvitset vain apupaikkojen nimet. Apua voi pyytää omalla kielellä, jos koulu voi järjestää tulkin tai kielitaitoisen tukihenkilön. Kysy asiasta koulultasi.
 
 - *hyvinvointi = se, että voit kohtuullisen hyvin*
 - *toimintakyky = se, että pystyt tekemään arjen asioita*
@@ -269,7 +271,7 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö sinun pitäisi nukkua enemmän?"
 
 **Lukeminen, keskittyminen ja jännitys:** Tee kartta kuvina tai yksittäisinä sanoina. Pidä taukoja. Jos aihe herättää vaikeita tunteita, voit keskeyttää tehtävän ja mennä sovittuun rauhalliseen paikkaan tai puhua aikuisen kanssa.
 
-**Ilman laitetta:** Kartta, apupaikkojen lista ja tapaukset toimivat paperilla.
+**Ilman laitetta:** Kartta, apupaikkojen lista ja tapaukset toimivat yksin paperilla ja kynällä.
 
 **Tuki:** Oppimisen tuen säännöt uudistuivat. Katso Opetushallituksen sivu [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja koulusi oma käytäntö (esimerkki).
 

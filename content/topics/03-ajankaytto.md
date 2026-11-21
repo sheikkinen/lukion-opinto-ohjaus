@@ -10,7 +10,7 @@ law:
 suggested_timing: {year: 1, term: syksy}
 role: core
 duration_options: [45, 60, 75]
-self_study_minutes: 40
+self_study_minutes: 45
 prerequisites: [op1-01-lukio-alkaa]
 hops_part: opiskelusuunnitelma
 official_links:
@@ -49,7 +49,7 @@ materials:
   - "Tyhjä viikkokalenteri paperilla tai kalenterisovellus"
   - "Värikyniä tai tusseja"
   - "Oma muistio, paperinen tai sähköinen"
-  - "Tulostetut tapauskortit (Tehtävä 3)"
+  - "Tapaukset (Tehtävä 3) ovat sivulla; tulostetut tapauskortit ovat vain lisä"
 accessibility:
   - "Kaikki tehtävät voi tehdä paperilla ilman laitetta."
   - "Pohdinnat tehdään omaan muistioon; mitään ei tarvitse kertoa muille."
@@ -104,9 +104,9 @@ Ajankäytön taidot auttavat kaikilla reiteillä: ammattikorkeakoulussa, yliopis
 
 ### Tehtävä 1: Piirrä oma viikkosi
 
-**Aika:** 15 min
+**Aika:** 20 min
 **Tarvitset:** viikkokalenterin tai tyhjän paperin, värikyniä, oman muistion
-**Ilman laitetta:** Piirrä paperille seitsemän saraketta ja jaa päivät tunteihin. Tämä tehtävä sopii paperille.
+**Ilman laitetta:** Piirrä paperille seitsemän saraketta ja jaa päivät tunteihin. Tämä tehtävä sopii yksin paperille.
 
 1. Piirrä viikkosi taulukkoon tai kalenteriin. Merkitse ensin kiinteät asiat: koulu, työ, harrastukset, matkat.
 2. Merkitse toisella värillä, milloin opiskelet ja kuinka kauan. Merkitse kolmannella värillä lepo, ruoka ja asiat, jotka antavat voimia.
@@ -125,16 +125,16 @@ Ajankäytön taidot auttavat kaikilla reiteillä: ammattikorkeakoulussa, yliopis
 4. Katso, mitä huomaat. Älä tuomitse itseäsi. Jos uni tai jaksaminen mietityttää, katso [Mielenterveystalon nuorten sivulta](https://www.mielenterveystalo.fi/fi/nuoret), onko siellä omahoito-ohjelmaa aiheesta (2 min).
 5. Kirjoita muistioosi yksi asia, jonka haluat kokeilla. Vapaaehtoinen, ei tunnilla: seuraa seuraavaa päivää samalla pohjalla ja vertaa sitä muistiin (1 min).
 
-### Tehtävä 3: Kuvitteelliset viikot
+### Tehtävä 3: Ehdota muutosta kuvitteellisen viikkoon
 
 **Aika:** 10 min
-**Tarvitset:** tapauskortit tai tämän sivun tekstin, oman muistion
-**Ilman laitetta:** Lue tapaukset tältä sivulta ja kirjoita vastaukset paperille. Voit tehdä tehtävän myös keskustellen parin kanssa.
+**Tarvitset:** tämän sivun tapaukset, oman muistion
+**Ilman laitetta:** Lue tapaukset tältä sivulta tai kopioi ne paperille ja kirjoita vastaukset paperille. Voit tehdä tehtävän myös keskustellen parin kanssa.
 
 Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
 - **Alex** käy viikon aikana kolmena iltana töissä ja harjoittelee kahdesti. Koe lähestyy.
-- **Eemil** asuu kaukana koulusta. Matkat vievät paljon aikaa.
+- **Aada** asuu kaukana koulusta. Matkat vievät paljon aikaa.
 - **Sanni** suunnittelee välivuotta kansanopistossa ja työssä. Hän miettii, miten ajankäytön taidot auttavat siellä.
 
 1. Valitse yksi tapaus.
@@ -163,71 +163,73 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 
 **Tavoite:** Teet viikkosuunnitelman, kokeilet sitä ja huomaat, mitä muuttaisit.
 
-**Aikaa kuluu:** noin 40 minuuttia. Halutessasi lisäksi yhden päivän seuranta.
+**Aikaa kuluu:** noin 45 minuuttia. Halutessasi lisäksi yhden päivän seuranta.
 
 **Näin etenet:**
 
 1. **Lue** osio Opiskelijalle (8 min).
-2. **Tee** Tehtävä 1 (15 min) ja Tehtävä 2 (10 min; halutessasi seuranta yhden päivän ajan). Tehtävä 3 on lisätehtävä (10 min).
+2. **Tee** Tehtävä 1 (20 min) ja Tehtävä 2 (10 min; halutessasi seuranta yhden päivän ajan). Tehtävä 3 on lisätehtävä (10 min).
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** aihe 04 *Hyvinvointi ja opiskelukyky*. Siellä katsot, mikä auttaa jaksamaan.
 
-**HOPSiin:** Kirjoita HOPSin osaan *opiskelusuunnitelma* yksi muutos, jonka teet viikkoosi, ja yksi asia, josta haluat keskustella ohjaajan kanssa. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
+**HOPSiin:** HOPS on koulun kanssa jaettu asiakirja. Kirjoita siihen vain se, minkä haluat jakaa. Kirjoita HOPSin osaan *opiskelusuunnitelma* yksi opiskeluun liittyvä muutos, jonka teet viikkoosi, esimerkiksi milloin opiskelet. Työ-, uni-, matka- ja kotiasiat sekä asiat, joista haluat keskustella ohjaajan kanssa, voit pitää omassa muistiossasi. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoite:** jokainen opiskelija tekee oman viikkosuunnitelman ja lähtee tunnilta yhden muutoksen ja yhden kysymyksen kanssa. Kukaan ei kerro omasta arjestaan ääneen, ellei itse halua.
+**Tavoite:** jokainen opiskelija tekee oman viikkosuunnitelman (Tehtävä 1) ja lähtee tunnilta yhden muutoksen ja yhden kysymyksen kanssa. 75 minuutissa tarkastellaan myös yhtä päivää (Tehtävä 2) ja harjoitellaan ryhmätyötä kuvitteellisilla tapauksilla (Tehtävä 3). 60 minuutissa Tehtävä 2 jää kotiin ja Tehtävä 3 tehdään lyhennettynä. 45 minuutissa myös Tehtävä 3 on lyhyt yhteinen keskustelu, joten tunnin tuotos on pienempi. Kukaan ei kerro omasta arjestaan ääneen, ellei itse halua.
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka vie heidän viikostaan eniten aikaa, ja yhden, jolle toivoisivat lisää aikaa. | Kerää laput, sekoita ja lue muutama ääneen. Älä arvioi. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
-| Aiemman tiedon aktivointi | 10 | Totta vai tarua -väitteet pareittain: "Kiireinen ihminen on tehokas." "Lepo on ajan haaskausta." "Suunnitelman pitää pitää täsmälleen." "Avun pyytäminen myöhässä on liian myöhäistä." | Kerro, että väitteet ovat keskustelun avauksia. Kytke lappujen asiat väitteisiin. | Väitteet paperilla, opiskelija vastaa yksin. | Käy läpi kaksi väitettä. |
-| Lyhyt alustus | 10 | Opiskelijat kirjaavat muistiin viikon suunnittelun viisi vaihetta sekä toimijuuden, arjenhallinnan ja voimavarat. | Piirrä esimerkkiviikko taululle. Näytä, miten väljyys ja lepo näkyvät suunnitelmassa. | Jaa vaiheet paperilla. | Käsittele voimavarat yhdellä esimerkillä. |
-| Työskentely | 25 | Tehtävä 1 (15 min) ja Tehtävä 2 (10 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Älä arvioi, kenen viikko on "hyvä". Kunnioita erilaisia elämäntilanteita. | Pari voi katsoa toistensa kalenterin rakennetta ilman sisältöä. Paperipohja. | Tehtävä 2 kotiin. |
+| Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka vie ihmisen viikosta eniten aikaa, ja yhden, jolle toivoisi lisää aikaa. | Kerää laput, sekoita ja lue muutama ääneen. Älä arvioi. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
+| Aiemman tiedon aktivointi | 10 | Totta vai tarua -väitteet pareittain: "Kiireinen ihminen on tehokas." "Lepo on ajan haaskausta." "Suunnitelman pitää pitää täsmälleen." "Avun pyytäminen myöhässä on liian myöhäistä." | Kerro, että väitteet ovat keskustelun avauksia, ja kytke lappujen asiat väitteisiin. Vastausvihjeet: kiire ei tee tehokkaaksi; lepo auttaa jaksamaan ja oppimaan; suunnitelma on luonnos, jota saa muuttaa; apua voi pyytää myös viime hetkellä, ja usein asioista voi sopia. | Väitteet paperilla, opiskelija vastaa yksin. | Käy läpi kaksi ensimmäistä väitettä. |
+| Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin viikon suunnittelun viisi vaihetta sekä toimijuuden, arjenhallinnan ja voimavarat. | Piirrä esimerkkiviikko taululle. Näytä, miten väljyys ja lepo näkyvät suunnitelmassa. | Jaa vaiheet paperilla. | Käsittele voimavarat yhdellä esimerkillä. |
+| Työskentely | 30 | Tehtävä 1 (20 min) ja Tehtävä 2 (10 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Älä arvioi, kenen viikko on "hyvä". Kunnioita erilaisia elämäntilanteita. | Pari voi katsoa toistensa kalenterin rakennetta ilman sisältöä. Paperipohja. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Tehtävä 3 (10 min) kolmen hengen ryhmissä kuvitteellisilla tapauksilla. Ryhmä kirjoittaa kaksi ehdotusta tapaukselle. | Ohjaa puhumaan tapauksista, ei omista viikoista. Kokoa ehdotukset taululle. | Yksin tai parin kanssa. | Yksi tapaus koko ryhmälle yhdessä. |
-| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin yhden muutoksen. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan ja mistä tukea saa (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
-| Puskuri | 5 | Kysymyksiä, keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
+| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin yhden opiskeluun liittyvän muutoksen, esimerkiksi opiskelun ajan. HOPS on koulun kanssa jaettu, joten työ-, uni-, matka- ja kotiasiat jäävät omaan muistioon. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan ja mistä tukea saa (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
+| Puskuri | 2 | Kysymyksiä, keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### 60 min
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka vie heidän viikostaan eniten aikaa, ja yhden, jolle toivoisivat lisää aikaa. | Kerää laput, sekoita ja lue muutama ääneen. Älä arvioi. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
-| Aiemman tiedon aktivointi | 5 | Totta vai tarua -väitteet pareittain: "Kiireinen ihminen on tehokas." "Lepo on ajan haaskausta." "Suunnitelman pitää pitää täsmälleen." "Avun pyytäminen myöhässä on liian myöhäistä." | Kerro, että väitteet ovat keskustelun avauksia. Kytke lappujen asiat väitteisiin. | Väitteet paperilla, opiskelija vastaa yksin. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin viikon suunnittelun viisi vaihetta sekä toimijuuden, arjenhallinnan ja voimavarat. | Piirrä esimerkkiviikko taululle. Näytä, miten väljyys ja lepo näkyvät suunnitelmassa. | Jaa vaiheet paperilla. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Työskentely | 20 | Tehtävä 1 (15 min) yksin. Nopeat aloittavat Tehtävän 2. | Kierrä ja kysy avoimia kysymyksiä. Älä arvioi, kenen viikko on "hyvä". Kunnioita erilaisia elämäntilanteita. | Pari voi katsoa toistensa kalenterin rakennetta ilman sisältöä. Paperipohja. | Tehtävä 2 kotiin. |
-| Pari- tai pienryhmäpohdinta | 10 | Tehtävä 3 (10 min) pareittain yhdellä kuvitteellisella tapauksella. Kirjoittakaa tapaukselle kaksi ehdotusta, mitä hän voisi muuttaa viikossaan. | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin tai parin kanssa. | Yksi yhteinen tapaus koko ryhmälle. |
-| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin yhden muutoksen. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). Jos Tehtävä 2 jäi kotiin, kirjaa vain se, mikä on valmista. | Kerro, miten ohjausaika varataan ja mistä tukea saa (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
+| Virittäytyminen | 4 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka vie ihmisen viikosta eniten aikaa, ja yhden, jolle toivoisi lisää aikaa. | Kerää laput, sekoita ja lue muutama ääneen. Älä arvioi. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
+| Aiemman tiedon aktivointi | 5 | Kolme totta vai tarua -väitettä pareittain: "Kiireinen ihminen on tehokas." "Lepo on ajan haaskausta." "Suunnitelman pitää pitää täsmälleen." | Kerro, että väitteet ovat keskustelun avauksia. Vastausvihjeet: kiire ei tee tehokkaaksi; lepo auttaa jaksamaan; suunnitelma on luonnos, jota saa muuttaa. | Väitteet paperilla, opiskelija vastaa yksin. | Jätä kolmas väite pois. |
+| Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin viikon suunnittelun viisi vaihetta sekä toimijuuden, arjenhallinnan ja voimavarat. | Piirrä esimerkkiviikko taululle. Näytä, miten väljyys ja lepo näkyvät suunnitelmassa. | Jaa vaiheet paperilla. | Käsittele voimavarat yhdellä esimerkillä ja jätä loput sivulle. |
+| Työskentely | 25 | Tehtävä 1 (20 min) yksin. Loppuaika viimeistelyyn. | Kierrä ja kysy avoimia kysymyksiä. Älä arvioi, kenen viikko on "hyvä". Kunnioita erilaisia elämäntilanteita. | Pari voi katsoa toistensa kalenterin rakennetta ilman sisältöä. Paperipohja. | Tehtävän 1 vaihe 4 kotiin. |
+| Pari- tai pienryhmäpohdinta | 8 | Tehtävä 3 pareittain yhdellä kuvitteellisella tapauksella (8 min). Kirjoittakaa tapaukselle kaksi ehdotusta, mitä hän voisi muuttaa viikossaan. | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin tai parin kanssa. | Yksi yhteinen tapaus koko ryhmälle. |
+| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin yhden opiskeluun liittyvän muutoksen, esimerkiksi opiskelun ajan. HOPS on koulun kanssa jaettu, joten työ-, uni-, matka- ja kotiasiat jäävät omaan muistioon. Tehtävä 2 tehdään kotona. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan ja mistä tukea saa (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### 45 min
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 3 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka vie heidän viikostaan eniten aikaa, ja yhden, jolle toivoisivat lisää aikaa. | Kerää laput, sekoita ja lue muutama ääneen. Älä arvioi. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
-| Aiemman tiedon aktivointi | 3 | Kaksi totta vai tarua -väitettä pareittain: "Kiireinen ihminen on tehokas." "Lepo on ajan haaskausta." | Kerro, että väitteet ovat keskustelun avauksia. Kytke lappujen asiat väitteisiin. | Väitteet paperilla, opiskelija vastaa yksin. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Lyhyt alustus | 5 | Opiskelijat kirjaavat muistiin viikon suunnittelun viisi vaihetta sekä toimijuuden, arjenhallinnan ja voimavarat. | Piirrä esimerkkiviikko taululle. Näytä, miten väljyys ja lepo näkyvät suunnitelmassa. | Jaa vaiheet paperilla. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Työskentely | 19 | Tehtävä 1 (15 min) yksin. Loppuaika muistiinpanojen viimeistelyyn. | Kierrä ja kysy avoimia kysymyksiä. Älä arvioi, kenen viikko on "hyvä". Kunnioita erilaisia elämäntilanteita. | Pari voi katsoa toistensa kalenterin rakennetta ilman sisältöä. Paperipohja. | Tehtävän 1 viimeiset vaiheet kotiin. |
-| Pari- tai pienryhmäpohdinta | 5 | Yksi kuvitteellinen tapaus Tehtävästä 3 koko ryhmälle yhdessä. Ryhmä kirjoittaa tapaukselle kaksi ehdotusta, mitä hän voisi muuttaa viikossaan. | Pidä keskustelu tapauksessa, ei opiskelijoiden omissa tilanteissa. Kirjoita kysymykset taululle. | Yksin tai parin kanssa. | Tehtävä 3 kotiin. |
-| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin yhden muutoksen. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). Jos Tehtävä 2 jäi kotiin, kirjaa vain se, mikä on valmista. | Kerro, miten ohjausaika varataan ja mistä tukea saa (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Kirjaus loppuun kotona. Tehtävä 2, Pohdinta ja exit-kysymys tunnin jälkeen. |
-| Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
+| Virittäytyminen | 3 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka vie ihmisen viikosta eniten aikaa. | Kerää laput, sekoita ja lue muutama ääneen. Älä arvioi. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
+| Aiemman tiedon aktivointi | 4 | Kaksi totta vai tarua -väitettä pareittain (2 min), sitten vastaukset yhdessä: "Kiireinen ihminen on tehokas." "Lepo on ajan haaskausta." | Kerro, että väitteet ovat keskustelun avauksia. Vastausvihjeet: kiire ei tee tehokkaaksi, ja lepo auttaa jaksamaan ja oppimaan. | Väitteet paperilla, opiskelija vastaa yksin. | Käsittele vain ensimmäinen väite. |
+| Lyhyt alustus | 5 | Opiskelijat kirjaavat muistiin viikon suunnittelun viisi vaihetta. | Piirrä esimerkkiviikko taululle. Näytä, miten väljyys ja lepo näkyvät suunnitelmassa. Toimijuus ja voimavarat jäävät sivun tekstiin. | Jaa vaiheet paperilla. | Jätä esimerkkiviikon piirtäminen pois ja näytä valmis kuva. |
+| Työskentely | 22 | Tehtävä 1 (20 min) yksin. Kaksi minuuttia kalenterin ja värien hakemiseen. | Kierrä ja kysy avoimia kysymyksiä. Älä arvioi, kenen viikko on "hyvä". Kunnioita erilaisia elämäntilanteita. | Pari voi katsoa toistensa kalenterin rakennetta ilman sisältöä. Paperipohja. | Tehtävän 1 vaihe 4 kotiin. |
+| Pari- tai pienryhmäpohdinta | 4 | Yksi kuvitteellinen tapaus Tehtävästä 3 koko ryhmälle yhdessä. Ryhmä sanoo ääneen kaksi ehdotusta tapaukselle. | Pidä keskustelu tapauksessa, ei opiskelijoiden omissa tilanteissa. Kirjoita ehdotukset taululle. | Yksin tai parin kanssa. | Tehtävä 3 kotiin. |
+| HOPS-askel ja exit | 6 | Opiskelijat kirjaavat HOPSiin yhden opiskeluun liittyvän muutoksen, esimerkiksi opiskelun ajan. HOPS on koulun kanssa jaettu, joten työ-, uni-, matka- ja kotiasiat jäävät omaan muistioon. Tehtävä 2 ja Pohdinta tehdään kotona. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan ja mistä tukea saa (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Kirjaus loppuun kotona. Exit-kysymys tunnin jälkeen. |
+| Puskuri | 1 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### Valmistelu
 
 - Piirrä itse oma esimerkkiviikko ja mieti, mitä jätät pois tai lisäät. Älä käytä omaa viikkoasi esimerkkinä, ellet halua.
 - Tarkista koulun lukujärjestys, jaksot ja kokeiden ajoittuminen (esimerkki).
-- Tulosta viikkopohjat, tapauskortit ja paperipohjat niille, jotka eivät käytä laitetta.
+- Tulosta halutessasi viikkopohjat ja tapauskortit. Tehtävät onnistuvat myös tyhjällä paperilla.
 - Varaa värikyniä ja nimettömiä lappuja.
 - Pidä kartta koulun tukihenkilöistä näkyvillä: ryhmänohjaaja, opinto-ohjaaja, erityisopettaja, opiskeluhuolto.
 
 ### Avoimet kysymykset
 
-- Mikä viikossa tuntuu sinusta tärkeimmältä?
-- Mitä tapahtuu, kun jätät viikkoon väljyyttä?
-- Mistä huomaat, että aikasi on loppumassa?
-- Mihin asioihin voit omassa arjessasi vaikuttaa?
-- Mitä voimia sinulle antaa ja mitä vie?
-- Millaista apua toivoisit ajankäyttöön ja keneltä?
+Kysymykset on tarkoitettu ensin yksityiseen kirjoittamiseen omaan muistioon. Ryhmässä puhutaan yleisesti tai kuvitteellisista tapauksista. Kukaan ei vastaa henkilökohtaiseen kysymykseen ääneen.
+
+- Mikä viikossa on tärkeintä?
+- Mitä tapahtuu, kun viikkoon jättää väljyyttä?
+- Mistä huomaa, että aika on loppumassa?
+- Mihin asioihin arjessa voi vaikuttaa ja mihin ei?
+- Mikä antaa ihmiselle voimia ja mikä vie niitä?
+- Millaista apua ajankäyttöön voi pyytää ja keneltä?
 
 Vältä johdattelevia kysymyksiä, kuten "Eikö olisi parempi lopettaa harrastus?" Kysy mieluummin: "Mitä toivot viikoltasi?"
 
@@ -245,7 +247,7 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö olisi parempi lopettaa harrastus
 
 **Syvempi polku:** Seuraa viikon ajan ajankäyttöäsi, vertaa suunnitelmaa toteutuneeseen ja kirjaa, mikä muuttui ja miksi. Tee toinen suunnitelma koeviikolle.
 
-**S2 ja selkeä kieli:** Käy sanasto läpi ennen tehtäviä. Tee halutessasi sanataulukko, jossa vasemmalla on suomenkielinen sana ja oikealla sana omalla kielellä. Viikon voi suunnitella myös kuvilla tai sanoilla omalla kielellä.
+**S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1. Kirjoita viikkopohjaan päivien nimet suomeksi ja omalla kielelläsi. Viikon voi suunnitella myös kuvilla tai sanoilla omalla kielellä.
 
 - *ajankäyttö = miten käytät aikasi*
 - *kiinteä asia = asia, joka on jo sovittu aikaan*
@@ -255,9 +257,9 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö olisi parempi lopettaa harrastus
 - *minäpystyvyys = usko siihen, että pystyt hoitamaan tehtävän*
 - *vuorovaikutus = toimiminen toisten ihmisten kanssa, esimerkiksi kuunteleminen ja puhuminen*
 
-**Lukeminen, keskittyminen ja jännitys:** Käytä valmista viikkopohjaa ja tee yksi askel kerrallaan. Käytä ajastinta ja pidä tauot. Jos suunnittelu stressaa, muista, että suunnitelma on luonnos, jota saa muuttaa.
+**Lukeminen, keskittyminen ja jännitys:** Täytä viikko yksi päivä kerrallaan ja pidä tauko päivien välillä. Jos viikon täyttäminen tuntuu raskaalta, aloita päivästä, joka on helpoin hahmottaa. Suunnitelma on luonnos, jota saa muuttaa.
 
-**Ilman laitetta:** Viikkopohja, päiväseuranta ja tapaukset toimivat paperilla.
+**Ilman laitetta:** Viikkopohja, päiväseuranta ja tapaukset toimivat yksin paperilla ja kynällä.
 
 **Tuki:** Oppimisen tuen säännöt uudistuivat. Katso Opetushallituksen sivu [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja koulusi oma käytäntö (esimerkki).
 

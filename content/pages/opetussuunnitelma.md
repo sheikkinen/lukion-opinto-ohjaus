@@ -23,8 +23,9 @@ Jokaisen tavoitteen ja sisällön vieressä näkyy, mitkä sivuston aiheet sitä
 
 - Opinto-ohjaus on lukiossa oppiaine, jonka pakolliset moduulit ovat OP1 ja OP2. Kumpikin on laajuudeltaan kaksi opintopistettä.
 - Opinto-ohjauksesta ei anneta arvosanaa. Opintojaksoista annetaan suoritusmerkinnät. Arviointi perustuu opiskelijan itsearviointiin ja ohjaavaan, kannustavaan palautteeseen.
-- Opiskelijalla on oikeus ohjaukseen. Oikeus on kirjattu [lukiolakiin (714/2018)](https://www.finlex.fi/fi/lainsaadanto/2018/714) pykälään 25. Lukion jälkeen oikeus on rajattu: sen saa henkilö, joka on suorittanut lukion oppimäärän mutta ei ole saanut opiskelupaikkaa tutkintoon johtavassa koulutuksessa. Ohjausta saa oppimäärän suorittamisvuotta seuraavan vuoden aikana, ja siitä vastaa lukio, joka antoi päättötodistuksen.
+- Opiskelijalla on oikeus ohjaukseen. Oikeus on kirjattu [lukiolakiin (714/2018)](https://www.finlex.fi/fi/lainsaadanto/2018/714) pykälään 25. Lukion jälkeen oikeus on rajattu: sen saa henkilö, joka on suorittanut lukion oppimäärän mutta ei ole saanut opiskelupaikkaa tutkintoon johtavassa koulutuksessa. Ohjaus koskee opintoihin hakeutumista ja urasuunnitelmia. Ohjausta saa oppimäärän suorittamisvuotta seuraavan vuoden aikana, ja siitä vastaa koulutuksen järjestäjä, jonka oppilaitoksessa oppimäärä on suoritettu.
 - Jokaisella opiskelijalla on henkilökohtainen opintosuunnitelma eli HOPS (lukiolaki, pykälä 26). Siinä on kolme osaa: opiskelusuunnitelma, ylioppilastutkintosuunnitelma sekä jatko-opinto- ja urasuunnitelma.
+- Sivuston aiheet ovat runko, eivät koko moduulin ohjausta. Yhdeksän aihetta ei vastaa kahta opintopistettä sellaisenaan, ja koulu päättää, miten ohjausta annetaan aiheiden lisäksi.
 - Tarkka sanamuoto on opetussuunnitelman perusteissa ja laissa. Tämä sivu on tiivistelmä, ei lakiteksti.
 
 ## Koulu päättää

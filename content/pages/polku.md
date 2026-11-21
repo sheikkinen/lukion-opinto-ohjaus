@@ -14,8 +14,6 @@ Jos selaimessasi on JavaScript päällä, voit merkitä askeleita tehdyiksi ja k
 
 {{path_controls}}
 
-Ilman JavaScriptiä polku on tavallinen lista, jonka voit lukea ja josta voit avata aiheet.
-
 ## Askeleet
 
 {{path_list}}

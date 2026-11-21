@@ -4,13 +4,13 @@ module: OP1
 order: 8
 title: "Tietolähteet ja ohjauspalvelut"
 summary: "Opit löytämään luotettavaa tietoa jatko-opinnoista ja työelämästä sekä tuntemaan palvelut, joista saat apua."
-curriculum: [OP1.s6, OP1.t7, OP.yt7, OP.yt9, OP.yt10, OP.yt11]
+curriculum: [OP1.s6, OP.yt7, OP.yt9, OP.yt10, OP.yt11]
 law:
   - "Lukiolaki 714/2018 § 25"
 suggested_timing: {year: 1, term: kevät}
 role: core
 duration_options: [45, 60, 75]
-self_study_minutes: 40
+self_study_minutes: 45
 prerequisites: [op1-07-ylioppilastutkinto]
 hops_part: jatko-opinto- ja urasuunnitelma
 official_links:
@@ -61,11 +61,11 @@ school_adapts:
   - "Koulun tapa kirjata jatko-opinto- ja urasuunnitelman luonnos (esimerkki: sähköinen HOPS)"
   - "Koulun yhteistyö paikallisen Ohjaamon, oppilaitosten ja työelämän kanssa"
 materials:
-  - "Puhelin tai tietokone (Tehtävät 1 ja 2), tai tulostetut sivukuvat ja paperipohja"
+  - "Puhelin tai tietokone (Tehtävät 1 ja 2), tai paperi ja kynä"
   - "Oma muistio, paperinen tai sähköinen"
-  - "Tulostetut tapauskortit (Tehtävä 3)"
+  - "Kuvitteellinen verkkokeskustelu (Tehtävä 3) tältä sivulta tai tulostettuna; opiskelija voi tehdä tehtävän myös omalla keksityllä keskustelulla"
 accessibility:
-  - "Kaikki tehtävät voi tehdä ilman laitetta paperipohjalla."
+  - "Kaikki tehtävät voi tehdä yksin pelkällä paperilla ja kynällä."
   - "Pohdinnat tehdään omaan muistioon; mitään ei tarvitse kertoa muille."
   - "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."
 last_reviewed: 2026-11-21
@@ -78,7 +78,7 @@ last_reviewed: 2026-11-21
 - Osaan nimetä tärkeimmät tietolähteet ja palvelut, joista löydän tietoa jatko-opinnoista, työelämästä ja hakemisesta.
 - Osaan arvioida, onko löytämäni tieto luotettavaa ja sopiiko se minun tilanteeseeni.
 - Osaan arvioida omia tiedonhakutaitojani, kun etsin koulutus- ja työelämätietoa, ja tiedän, milloin kannattaa kysyä ihmiseltä.
-- Osaan toimia verkossa käytävissä urasuunnittelukeskusteluissa kohteliaasti ja tarkistaa väitteet, ja arvioida omaa toimintaani niissä.
+- Osaan tarkistaa verkkokeskustelun väitteen ja kirjoittaa vastauksen, joka on kohtelias, kysyy lähdettä ja suojaa yksityisyyteni.
 - Osaan kirjata jatko-opinto- ja urasuunnitelmaani, mistä etsin tietoa seuraavaksi.
 
 ### Miksi tietolähteillä on väliä?
@@ -117,6 +117,8 @@ Kysy jokaisesta lähteestä neljä kysymystä:
 3. **Onko tieto ajan tasalla?** Katso päiväys. Hakuajat, pisteet ja maksut vanhenevat nopeasti.
 4. **Voitko tarkistaa saman toisesta lähteestä?** Virallisen lähteen tieto painaa enemmän kuin keskustelupalstan viesti.
 
+Neljäs kysymys on laajennus: se kysyy, voitko tarkistaa tiedon toisesta paikasta. Jos olet arvioinut lähteitä aiemmin, kolme ensimmäistä ovat sinulle tuttuja.
+
 Sosiaalisessa mediassa tieto kulkee nopeasti. Tuttavan kokemus voi olla arvokas, mutta se kertoo hänen tilanteestaan,
 ei sinun. Tarkista säännöt ja päivämäärät aina virallisesta lähteestä. Jos haluat harjoitella tiedon arviointia,
 katso [Mediataitokoulun materiaalit](https://www.mediataitokoulu.fi/).
@@ -139,7 +141,7 @@ Verkossa käydään paljon keskusteluja koulutuksista ja ammateista. Ne voivat a
 
 **Aika:** 15 min
 **Tarvitset:** puhelimen tai tietokoneen, oman muistion
-**Ilman laitetta:** Pyydä opinto-ohjaajalta tulostetut tiedot muutamasta koulutuksesta Opintopolusta. Valitse yksi ja kirjoita muistioon vastaukset vaiheiden 3–4 kysymyksiin.
+**Ilman laitetta:** Valitse paperille yksi koulutus tai ammatti, joka kiinnostaa tai jonka nimi on outo. Kirjoita, mitä jo tiedät siitä ja mitä et tiedä. Tee lista kysymyksistä: mitä siellä opiskellaan, miten haetaan, missä hakuajat näkyvät ja mitä sen jälkeen voi tehdä. Merkitse jokaiselle kysymykselle, mistä vastauksen voisi saada: Opintopolusta, oppilaitoksen neuvonnasta vai ihmiseltä (opinto-ohjaaja, tuttava). Tarkista vastaukset, kun saat laitteen tai ohjausajan.
 
 1. Avaa [Opintopolku](https://opintopolku.fi/konfo/fi/).
 2. Etsi yksi koulutus, joka kiinnostaa sinua tai jonka nimi on sinulle outo.
@@ -149,19 +151,19 @@ Verkossa käydään paljon keskusteluja koulutuksista ja ammateista. Ne voivat a
 
 ### Tehtävä 2: Arvioi lähde ja omat tiedonhakutaitosi
 
-**Aika:** 10 min
-**Tarvitset:** puhelimen tai tietokoneen, Tehtävän 1 koulutuksen tai ammatin, muistion
-**Ilman laitetta:** Pyydä opinto-ohjaajalta kaksi tulostettua tekstiä samasta aiheesta, toinen virallisesta lähteestä ja toinen blogista. Kirjoita kummastakin tekijä, päiväys ja tarkoitus ja tee sitten vaiheet 2 ja 3.
+**Aika:** 15 min
+**Tarvitset:** puhelimen tai tietokoneen, koulutuksen tai ammatin (Tehtävästä 1 tai uuden), muistion
+**Ilman laitetta:** Muista jokin tieto koulutuksesta tai ammatista, jonka olet kuullut tuttavalta, somesta tai kirjasta. Kirjoita paperille: kuka sen kertoi, milloin ja mitä hän halusi. Kirjoita sitten, mistä virallisesta paikasta voisit tarkistaa sen (Opintopolku, oppilaitos, opinto-ohjaaja). Tee vaihe 3 omilla tiedonhakutaidoillasi.
 
-1. Etsi hakukoneella Tehtävän 1 koulutuksesta tai ammatista yksi toinen lähde, esimerkiksi blogi tai uutinen. Kirjoita siitä tekijä, päiväys ja tarkoitus (3 min).
-2. Valitse lähteestä yksi väite ja tarkista se [Opintopolusta](https://opintopolku.fi/konfo/fi/) tai [Työmarkkinatorilta](https://tyomarkkinatori.fi/). Kirjoita, kumpaan lähteeseen luotat ja miksi (4 min).
-3. Valitse yksi kysymys ja vastaa siihen asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*: löysinkö virallisen sivun, huomasinko päiväyksen, tarkistinko väitteen kahdesta paikasta. Kirjoita yksi taito, jota harjoittelet seuraavaksi (3 min).
+1. Etsi hakukoneella Tehtävän 1 koulutuksesta tai ammatista yksi toinen lähde, esimerkiksi blogi tai uutinen. Kirjoita siitä tekijä, päiväys ja tarkoitus (5 min).
+2. Valitse lähteestä yksi väite ja tarkista se [Opintopolusta](https://opintopolku.fi/konfo/fi/) tai [Työmarkkinatorilta](https://tyomarkkinatori.fi/). Kirjoita, kumpaan lähteeseen luotat ja miksi (6 min).
+3. Valitse yksi kysymys ja vastaa siihen asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*: löysinkö virallisen sivun, huomasinko päiväyksen, tarkistinko väitteen kahdesta paikasta. Kirjoita yksi taito, jota harjoittelet seuraavaksi (4 min).
 
-### Tehtävä 3: Kohtelias ja tarkka verkkokeskustelussa
+### Tehtävä 3: Vastaa kohteliaasti ja tarkasti verkkokeskustelussa
 
 **Aika:** 10 min
 **Tarvitset:** tämän sivun tekstin, oman muistion
-**Ilman laitetta:** Lue keskustelu tältä sivulta ja kirjoita vastauksesi paperille.
+**Ilman laitetta:** Keksi paperille lyhyt keskustelu, jossa kaksi viestiä on eri mieltä jonkin alan työpaikoista. Kirjoita siihen kohtelias vastaus, joka kysyy lähdettä ja ohjaa virallisen palvelun luo. Tarkista vastaus vaiheen 3 kysymyksillä.
 
 Kuvitteellinen verkkokeskustelu (kaikki viestit ja henkilöt ovat keksittyjä):
 
@@ -187,7 +189,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan nimetä tärkeimmät tietolähteet ja palvelut, joista löydän tietoa jatko-opinnoista, työelämästä ja hakemisesta.
 - Osaan arvioida, onko löytämäni tieto luotettavaa ja sopiiko se minun tilanteeseeni.
 - Osaan arvioida omia tiedonhakutaitojani, kun etsin koulutus- ja työelämätietoa, ja tiedän, milloin kannattaa kysyä ihmiseltä.
-- Osaan toimia verkossa käytävissä urasuunnittelukeskusteluissa kohteliaasti ja tarkistaa väitteet, ja arvioida omaa toimintaani niissä.
+- Osaan tarkistaa verkkokeskustelun väitteen ja kirjoittaa vastauksen, joka on kohtelias, kysyy lähdettä ja suojaa yksityisyyteni.
 - Osaan kirjata jatko-opinto- ja urasuunnitelmaani, mistä etsin tietoa seuraavaksi.
 
 Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
@@ -196,79 +198,81 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 
 **Tavoite:** Tutustut kolmeen tietolähteeseen, harjoittelet lähteen arviointia ja verkkokeskustelua, arvioit omia tiedonhakutaitojasi ja kirjaat muistiin, mistä etsit tietoa jatkossa.
 
-**Aikaa kuluu:** noin 40 minuuttia.
+**Aikaa kuluu:** noin 45 minuuttia.
 
 **Näin etenet:**
 
 1. **Lue** osio Opiskelijalle (8 min).
-2. **Tee** Tehtävä 1 (15 min) ja Tehtävä 2 (10 min). Tehtävä 3 on lisätehtävä, jos haluat jatkaa (10 min).
-3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
+2. **Tee** Tehtävä 1 (15 min) ja Tehtävä 2 (15 min). Tehtävä 3 on lisätehtävä, jos haluat jatkaa (10 min).
+3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (7 min).
 4. **Seuraava askel:** aihe 09 *Valinnat ja jatko-opintopolut*.
 
-**HOPSiin:** Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* kolme lähdettä tai palvelua, joita aiot käyttää, yksi tiedonhakutaito, jota harjoittelet, ja yksi asia, jonka haluat selvittää seuraavaksi. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
+**HOPSiin:** Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* kolme lähdettä tai palvelua, joita aiot käyttää, yksi tiedonhakutaito, jota harjoittelet, ja yksi asia, jonka haluat selvittää seuraavaksi. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki). HOPS on koulun kanssa jaettu asiakirja. Kirjaa siihen vain se, minkä haluat koulun tietävän. Terveyteen, perheeseen ja tuen tarpeeseen liittyvät ajatukset voit pitää omassa muistiossasi.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoite:** jokainen opiskelija tuntee muutaman luotettavan tietolähteen, on kokeillut lähteen arviointia ja tietää, keneltä pyytää apua. Kukaan ei kerro omia suunnitelmiaan ääneen, ellei itse halua.
+**Tavoite:** jokainen opiskelija tuntee muutaman luotettavan tietolähteen, on kokeillut lähteen arviointia ja tietää, keneltä pyytää apua. Lyhyemmät tunnit antavat pienemmän tuotoksen: 60 minuutissa Tehtävä 1 tehdään lyhyesti ja Tehtävä 2 kokonaan, 45 minuutissa tehdään vain Tehtävä 2 (lähteen arviointi). Tehtävä 1 ja Tehtävä 3 jäävät silloin kotiin. Kukaan ei kerro omia suunnitelmiaan ääneen, ellei itse halua.
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle, mistä ovat viimeksi hakeneet tietoa tulevaisuudesta. | Lue muutama lappu ääneen. Älä arvioi vastauksia. | Käden nosto: verkosta, ihmiseltä, kirjasta. | Lue kaksi lappua. |
-| Aiemman tiedon aktivointi | 10 | Pareittain: mitä palveluita tunnette, joista saa tietoa opinnoista tai töistä? Kirjataan yhteiseen listaan. | Täydennä lista palveluilla, joita kukaan ei maininnut. | Lista yksin paperille. | Kerää lista vain taululle. |
-| Lyhyt alustus | 10 | Opiskelijat kirjaavat muistiin palvelut, neljä lähteen arviointikysymystä ja neljä kohtaa verkkokeskustelun tarkistuslistaan (kohtelias, kysyy lähdettä, tarkistaa väitteen, suojaa yksityisyyden). | Näytä Opintopolku, Yliopistovalinnat.fi, Ammattikorkeakouluun.fi, Työmarkkinatori ja Ohjaamo. Kerro koulun ohjauspalvelut (esimerkki). | Palvelulista paperilla. | Esittele vain kolme palvelua. |
-| Työskentely | 25 | Tehtävä 1 (15 min) ja Tehtävä 2 (10 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Älä ehdota "oikeaa" koulutusta. | Tulostetut tekstit ja paperipohja. Tiedonhakutaitojen itsearviointi (Tehtävä 2) paperilla. | Tehtävä 2 kotiin. |
+| Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle, mistä ovat viimeksi hakeneet tietoa tulevaisuudesta. | Lue muutama lappu ääneen. Älä arvioi vastauksia. | Kirjoita vastaus vain itsellesi paperille (verkosta, ihmiseltä, kirjasta). Ketään ei pyydetä näyttämään vastaustaan. | Lue kaksi lappua. |
+| Aiemman tiedon aktivointi | 7 | Pareittain: mitä palveluita tunnette, joista saa tietoa opinnoista tai töistä? Kirjataan yhteiseen listaan. | Täydennä lista palveluilla, joita kukaan ei maininnut. | Lista yksin paperille. | Kerää lista vain taululle. |
+| Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin palvelut, neljä lähteen arviointikysymystä ja neljä kohtaa verkkokeskustelun tarkistuslistaan (kohtelias, kysyy lähdettä, tarkistaa väitteen, suojaa yksityisyyden). | Näytä kaksi palvelua kokonaan (Opintopolku ja Työmarkkinatori). Muut palvelut (Yliopistovalinnat.fi, Ammattikorkeakouluun.fi, Ohjaamo) käydään palvelulistan riveiltä. Kerro koulun ohjauspalvelut (esimerkki). | Palvelulista paperilla. | Esittele vain Opintopolku. |
+| Työskentely | 30 | Tehtävä 1 (15 min) ja Tehtävä 2 (15 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Älä ehdota "oikeaa" koulutusta. | Paperipohja ilman laitetta: kysymyslista ja keksitty lähdevertailu. | Tehtävä 1 lyhyemmin tai Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Tehtävä 3 (10 min) kolmen hengen ryhmissä: ryhmä kirjoittaa Nooralle vastauksen kuvitteelliseen verkkokeskusteluun ja tarkistaa sen tarkistuslistalla. | Ohjaa puhumaan kuvitteellisesta keskustelusta, ei opiskelijoiden omista tileistä tai viesteistä. Kokoa lopuksi hyvät vastaukset taululle. | Yksin tai parin kanssa. | Yksi yhteinen tapaus. |
-| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin kolme palvelua ja yhden selvitettävän asian. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä). | Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Exit sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin kolme palvelua ja yhden selvitettävän asian. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Muistuta: HOPS on koulun kanssa jaettu asiakirja. Sinne kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 5 | Kysymyksiä, keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset ohjausaikaan. | – | – |
 
 ### 60 min
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle, mistä ovat viimeksi hakeneet tietoa tulevaisuudesta. | Lue muutama lappu ääneen. Älä arvioi vastauksia. | Käden nosto: verkosta, ihmiseltä, kirjasta. | Lue kaksi lappua. |
-| Aiemman tiedon aktivointi | 5 | Pareittain: mitä palveluita tunnette, joista saa tietoa opinnoista tai töistä? Kirjataan yhteiseen listaan. | Täydennä lista palveluilla, joita kukaan ei maininnut. | Lista yksin paperille. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin palvelut, neljä lähteen arviointikysymystä ja neljä kohtaa verkkokeskustelun tarkistuslistaan (kohtelias, kysyy lähdettä, tarkistaa väitteen, suojaa yksityisyyden). | Näytä Opintopolku, Yliopistovalinnat.fi, Ammattikorkeakouluun.fi, Työmarkkinatori ja Ohjaamo. Kerro koulun ohjauspalvelut (esimerkki). | Palvelulista paperilla. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Työskentely | 20 | Tehtävä 1 (15 min) yksin. Nopeat aloittavat Tehtävän 2. | Kierrä ja kysy avoimia kysymyksiä. Älä ehdota "oikeaa" koulutusta. | Tulostetut tekstit ja paperipohja. Tiedonhakutaitojen itsearviointi (Tehtävä 2) paperilla. | Tehtävä 2 kotiin. |
-| Pari- tai pienryhmäpohdinta | 10 | Tehtävä 3 (10 min) pareittain: kirjoittakaa Nooralle vastaus kuvitteelliseen verkkokeskusteluun ja tarkistakaa se tarkistuslistalla. | Ohjaa puhumaan kuvitteellisesta keskustelusta, ei opiskelijoiden omista tileistä tai viesteistä. | Yksin tai parin kanssa. | Yksi yhteinen tapaus koko ryhmälle. |
-| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin kolme palvelua ja yhden selvitettävän asian. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä). Jos Tehtävä 2 jäi kotiin, kirjaa vain se, mikä on valmista. | Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Exit sähköisesti tunnin jälkeen. |
-| Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
+| Virittäytyminen | 4 | Opiskelijat kirjoittavat nimettömälle lapulle, mistä ovat viimeksi hakeneet tietoa tulevaisuudesta. | Lue kaksi lappua ääneen. Älä arvioi vastauksia. | Kirjoita vastaus vain itsellesi paperille. | Ohita lukeminen, käy vain läpi lähteiden lajit taululla. |
+| Aiemman tiedon aktivointi | 5 | Pareittain: mitä palveluita tunnette, joista saa tietoa opinnoista tai töistä? Lista taululle. | Täydennä lista palveluilla, joita kukaan ei maininnut. | Lista yksin paperille. | Kerää lista vain taululle ja täydennä itse. |
+| Lyhyt alustus | 6 | Opiskelijat saavat valmiin palvelulistan ja alleviivaavat siitä kolme palvelua. Neljä lähteen arviointikysymystä kirjataan muistiin. | Näytä vain Opintopolku. Muut palvelut ovat palvelulistalla riveinä. Kerro koulun ohjauspalvelut (esimerkki). | Palvelulista paperilla. | Jätä verkkokeskustelun tarkistuslista Tehtävään 3. |
+| Työskentely | 27 | Tehtävä 1 lyhyesti (12 min: yksi koulutus, vaiheet 1–3 ja 5). Tehtävä 2 kokonaan (15 min). | Kierrä ja kysy avoimia kysymyksiä. Älä ehdota "oikeaa" koulutusta. | Paperipohja ilman laitetta: kysymyslista ja keksitty lähdevertailu. | Tehtävä 1 kotiin ja Tehtävä 2 heti. |
+| Pari- tai pienryhmäpohdinta | 8 | Tehtävä 3 pareittain (8 min): kirjoittakaa Nooralle vastaus kuvitteelliseen verkkokeskusteluun ja tarkistakaa se neljällä kysymyksellä. | Ohjaa puhumaan kuvitteellisesta keskustelusta, ei opiskelijoiden omista tileistä tai viesteistä. | Yksin tai parin kanssa. | Yksi yhteinen vastaus koko ryhmälle tai Tehtävä 3 kotiin. |
+| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin kolme palvelua ja yhden selvitettävän asian. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Muistuta: HOPS on koulun kanssa jaettu asiakirja. Sinne kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Kirjaus loppuun kotona. Exit sähköisesti tunnin jälkeen. |
+| Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### 45 min
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 3 | Opiskelijat kirjoittavat nimettömälle lapulle, mistä ovat viimeksi hakeneet tietoa tulevaisuudesta. | Lue muutama lappu ääneen. Älä arvioi vastauksia. | Käden nosto: verkosta, ihmiseltä, kirjasta. | Lue kaksi lappua. |
-| Aiemman tiedon aktivointi | 3 | Pareittain: mitä palveluita tunnette, joista saa tietoa opinnoista tai töistä? Kirjataan yhteiseen listaan. | Täydennä lista palveluilla, joita kukaan ei maininnut. | Lista yksin paperille. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Lyhyt alustus | 5 | Opiskelijat kirjaavat muistiin palvelut, neljä lähteen arviointikysymystä ja neljä kohtaa verkkokeskustelun tarkistuslistaan (kohtelias, kysyy lähdettä, tarkistaa väitteen, suojaa yksityisyyden). | Näytä Opintopolku, Yliopistovalinnat.fi, Ammattikorkeakouluun.fi, Työmarkkinatori ja Ohjaamo. Kerro koulun ohjauspalvelut (esimerkki). | Palvelulista paperilla. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Työskentely | 19 | Tehtävä 1 (15 min) yksin. Loppuaika muistiinpanojen viimeistelyyn. | Kierrä ja kysy avoimia kysymyksiä. Älä ehdota "oikeaa" koulutusta. | Tulostetut tekstit ja paperipohja. Tiedonhakutaitojen itsearviointi (Tehtävä 2) paperilla. | Tehtävän 1 viimeiset vaiheet kotiin. |
-| Pari- tai pienryhmäpohdinta | 5 | Koko ryhmä kirjoittaa yhdessä Nooralle vastauksen kuvitteelliseen verkkokeskusteluun ja tarkistaa sen tarkistuslistalla. | Pidä keskustelu kuvitteellisessa keskustelussa, ei opiskelijoiden omissa viesteissä. Kirjoita hyvät vastaukset taululle. | Yksin tai parin kanssa. | Tehtävä 3 kotiin. |
-| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin kolme palvelua ja yhden selvitettävän asian. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä). Jos Tehtävä 2 jäi kotiin, kirjaa vain se, mikä on valmista. | Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Kirjaus loppuun kotona. Tehtävä 2, Pohdinta ja exit-kysymys tunnin jälkeen. |
-| Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
+| Virittäytyminen | 3 | Opiskelijat kirjoittavat nimettömälle lapulle, mistä ovat viimeksi hakeneet tietoa tulevaisuudesta. | Lue kaksi lappua ääneen. Älä arvioi. | Kirjoita vastaus vain itsellesi. | Ohita lukeminen. |
+| Aiemman tiedon aktivointi | 4 | Pareittain: mitä palveluita tunnette, joista saa tietoa opinnoista tai töistä? Lista taululle. | Täydennä lista palveluilla, joita kukaan ei maininnut. | Lista yksin paperille. | Täydennä lista itse, ilman pariaan. |
+| Lyhyt alustus | 5 | Opiskelijat kirjaavat neljä lähteen arviointikysymystä. Palvelulista on valmiina paperilla tai näytöllä. | Näytä vain Opintopolku. Muut palvelut käydään palvelulistan riveiltä jälkeenpäin. Kerro koulun ohjauspalvelut (esimerkki). | Palvelulista paperilla. | Siirry heti tehtävään; kysymykset ovat Tehtävän 2 ohjeessa. |
+| Työskentely | 22 | Tehtävä 2 yksin (15 min). Opiskelija valitsee koulutuksen tai ammatin (3 min) ja laitteet avataan (4 min). Tehtävä 1 ja 3 jäävät kotiin. | Kierrä ja kysy avoimia kysymyksiä. Älä ehdota "oikeaa" koulutusta. | Paperipohja ilman laitetta: keksitty lähdevertailu. | Vaihe 3 (omat tiedonhakutaidot) kotiin. |
+| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin kolme palvelua ja yhden selvitettävän asian. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Muistuta: HOPS on koulun kanssa jaettu asiakirja. Sinne kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Kirjaus loppuun kotona. Exit sähköisesti tunnin jälkeen. |
+| Puskuri | 3 | Kysymyksiä ja keskeneräisten loppuun. | Ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### Valmistelu
 
 - Avaa Opintopolku, Yliopistovalinnat.fi, Ammattikorkeakouluun.fi ja Työmarkkinatori ja kokeile niitä itse.
 - Tarkista, ovatko koulun laitteet ja verkko käytettävissä tunnilla (esimerkki).
-- Tulosta paperipohjat, vertailutekstit ja kuvitteellinen verkkokeskustelu niille, jotka eivät käytä laitetta.
+- Tulosta palvelulista ja kuvitteellinen verkkokeskustelu niille, jotka eivät käytä laitetta. Opiskelija voi tehdä tehtävät myös pelkällä paperilla.
 - Selvitä koulun ohjauspalvelut ja ajanvaraustapa (esimerkki).
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 
 ### Avoimet kysymykset
 
-- Mistä tiedosta olet tähän asti tehnyt päätöksiä?
-- Mikä saa sinut luottamaan lähteeseen? Mikä saa epäilemään?
+Kysymykset sopivat yksityiseen kirjoittamiseen, vapaaehtoiseen pariin tai yleiseen keskusteluun. Kukaan ei vastaa ääneen omasta tilanteestaan. Ryhmässä puhutaan yleisesti ("ihmiset", "joku") tai kuvitteellisista tapauksista.
+
+- Mistä tiedosta ihmiset tekevät päätöksiä opinnoistaan?
+- Mikä saa ihmisen luottamaan lähteeseen? Mikä saa epäilemään?
 - Mitä eroa on virallisella tiedolla ja tuttavan kokemuksella?
 - Miten huomaat, että tieto on vanhentunutta?
-- Millaisessa tilanteessa haluaisit puhua ihmisen kanssa?
-- Mitä tekisit, jos kaksi lähdettä kertoisi eri asian?
+- Millaisessa tilanteessa on hyvä puhua ihmisen kanssa eikä vain lukea sivua?
+- Mitä voi tehdä, jos kaksi lähdettä kertoo eri asian?
 - Miten voit kysyä verkossa lähdettä loukkaamatta ketään?
-- Mitä et haluaisi kertoa julkisessa keskustelussa itsestäsi?
+- Mitä tietoja ihmisen kannattaa jättää kertomatta julkisessa keskustelussa?
 
 Vältä johdattelevia kysymyksiä, kuten "Eikö Opintopolku ole paras lähde?" Kysy mieluummin: "Mitä tietoa kukin palvelu antaa ja mitä ei?"
 
 ### Pelisäännöt ja oletusten tarkistus
 
 - Kukaan ei kerro suunnitelmiaan, arvosanojaan tai terveyttään ryhmälle. Ryhmätyö tehdään kuvitteellisilla tapauksilla.
+- HOPS on koulun kanssa jaettu asiakirja. Muistuta tunnin alussa ja lopussa, että sinne kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon.
 - Älä pyydä opiskelijoita näyttämään omia hakuja, viestejä tai henkilökohtaisia tilejään. Verkkokeskustelutehtävässä käytetään vain kuvitteellista keskustelua.
 - Kaikki reitit ovat yhtä arvokkaita. Älä esitä yliopistoa oletusreittinä.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että jokaisella on oma laite, nopea yhteys tai suomi äidinkielenä? Oletanko, että kotona on joku, joka tuntee koulutusjärjestelmän? Yhdistänkö jonkin alan tai palvelun tiettyyn sukupuoleen tai taustaan? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
@@ -292,7 +296,7 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö Opintopolku ole paras lähde?" K
 
 **Lukeminen, keskittyminen ja jännitys:** Anna palvelulista ja neljä arviointikysymystä yhdellä sivulla. Tutustukaa yhteen palveluun kerrallaan. Jos vaihtoehtojen määrä ahdistaa, tänään riittää tutustua yhteen palveluun.
 
-**Ilman laitetta:** Tulostetut sivukuvat, vertailutekstit ja keskustelukatkelma korvaavat verkon.
+**Ilman laitetta:** Kaikki tehtävät onnistuvat yksin pelkällä paperilla ja kynällä: kysymyslista, muistista tehty lähdevertailu ja keksitty keskustelu. Kun saat laitteen tai ohjausajan, tarkista vastaukset. Tulosteita ei tarvita.
 
 **Tuki:** Oppimisen tuen säännöt uudistuivat. Katso Opetushallituksen sivu [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja koulusi oma käytäntö (esimerkki).
 
@@ -304,9 +308,9 @@ Varaa aika opinto-ohjaajalle, jos
 - löydät kaksi lähdettä, jotka kertovat eri asian, etkä saa selville, kumpi on oikeassa
 - et ole varma, onko jokin sivu luotettava, ja päätös on tehtävä kahden viikon sisällä, esimerkiksi hakuaika päättyy
 - verkkopalvelun käyttö on vaikeaa esimerkiksi laitteen, kielen tai lukemisen vuoksi
-- olet kirjoittanut verkkokeskusteluun jotain, mitä kadut, tai joku on kirjoittanut sinusta loukkaavasti
+- olet kirjoittanut verkkokeskusteluun jotain, mitä kadut, tai joku on kirjoittanut sinusta loukkaavasti (kerro asiasta myös opiskeluhuollolle ja tallenna viesti, jos voit)
 - vaihtoehtoja tuntuu olevan liikaa tai liian vähän ja olet pohtinut sitä yli kaksi viikkoa
-- et tiedä, mitä haluat tehdä lukion jälkeen, ja se on huolestuttanut sinua yli kaksi viikkoa
+- sinulla ei ole vielä suuntaa lukion jälkeen ja se painaa mieltäsi (sinun ei tarvitse tietää, mutta voit puhua siitä)
 
 Voit puhua myös ryhmänohjaajan, erityisopettajan tai opiskeluhuollon kanssa. Koulusi kertoo, miten aika varataan (esimerkki).
 

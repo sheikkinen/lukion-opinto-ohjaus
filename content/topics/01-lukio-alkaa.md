@@ -50,12 +50,12 @@ school_adapts:
   - "Koulun sähköinen järjestelmä, esimerkiksi Wilma, ja sen käyttö: poissaolot, ilmoittautumiset, viestit"
   - "Koulun omat järjestyssäännöt, poissaolokäytännöt ja tukimuodot"
   - "Ryhmänohjaajan ja opinto-ohjaajan työnjako ja ohjausajan varaaminen"
-  - "Koulukohtaiset syventävät ja soveltavat opintojaksot"
+  - "Koulukohtaiset opintojaksot ja se, mitkä valtakunnalliset valinnaiset opintojaksot koulu tarjoaa (esimerkki)"
 materials:
   - "Koulun opinto-opas tai opintojaksoluettelo (esimerkki)"
   - "Oma muistio, paperinen tai sähköinen"
-  - "Tulostettu lukujärjestyksen kartta (Tehtävä 1) tai tyhjä paperi"
-  - "Tulostetut tapauskortit (Tehtävä 3)"
+  - "Tyhjä paperi karttaa varten (Tehtävä 1); valmis pohja on vain lisä"
+  - "Tapaukset (Tehtävä 3) ovat sivulla; tulostetut tapauskortit ovat vain lisä"
 accessibility:
   - "Kaikki tehtävät voi tehdä paperilla ilman laitetta."
   - "Pohdinnat tehdään omaan muistioon; mitään ei tarvitse kertoa muille."
@@ -85,7 +85,7 @@ Lukio-opinnot jaetaan **opintojaksoihin**. Arjessa niitä kutsutaan usein kursse
 Opinnot jakautuvat kolmeen ryhmään:
 
 - **Pakolliset opinnot** kuuluvat kaikille.
-- **Valtakunnalliset syventävät opinnot** ovat valinnaisia ja yhteisiä kaikille lukioille.
+- **Valtakunnalliset valinnaiset opinnot** ovat yhteisiä kaikille lukioille. Niihin kuuluvat syventävät ja soveltavat opintojaksot.
 - **Koulukohtaiset opinnot** ovat valinnaisia, ja ne vaihtelevat koulun mukaan.
 
 Lisäksi voit tehdä opintoja muissa oppilaitoksissa, jos koulusi sallii sen. Kysy asiasta opinto-ohjaajalta. Montako opintopistettä tarvitset, näet [Opetushallituksen sivulta](https://www.oph.fi/fi/koulutus-ja-tutkinnot/lukiokoulutus) ja koulusi opinto-oppaasta. Opintojen aikataulu, jaksot ja kurssitarjotin ovat koulun omia käytäntöjä (esimerkki).
@@ -102,7 +102,7 @@ Jokaisella koululla on omat tapansa. Selvitä ensimmäisinä viikkoina nämä as
 - missä ilmoitetaan opintojaksovalinnoista ja koska niiden takaraja on
 - miten saat tukea oppimiseen
 
-Lukiolla on velvollisuus antaa sinulle ohjausta. Oikeus ohjaukseen on kirjattu lukiolakiin. Lukion jälkeen oikeus on rajattu: sen saa henkilö, joka on suorittanut lukion oppimäärän mutta ei ole saanut opiskelupaikkaa tutkintoon johtavassa koulutuksessa. Ohjausta saa oppimäärän suorittamisvuotta seuraavan vuoden aikana, ja siitä vastaa lukio, joka antoi päättötodistuksen. Lue säännös [lukiolaista](https://www.finlex.fi/fi/lainsaadanto/2018/714). Tuen säännöt ovat uudistuneet, ja ne löytyvät [Opetushallituksen sivulta](https://www.oph.fi/fi/oppimisen-tuen-uudistus).
+Lukiolla on velvollisuus antaa sinulle ohjausta. Oikeus ohjaukseen on kirjattu lukiolakiin. Lukion jälkeen oikeus on rajattu: sen saa henkilö, joka on suorittanut lukion oppimäärän mutta ei ole saanut opiskelupaikkaa tutkintoon johtavassa koulutuksessa. Ohjaus liittyy opintoihin hakeutumiseen ja urasuunnitelmiin. Sitä saa oppimäärän suorittamisvuotta seuraavan vuoden aikana, ja siitä vastaa koulutuksen järjestäjä, jonka oppilaitoksessa oppimäärä on suoritettu. Lue säännös [lukiolaista](https://www.finlex.fi/fi/lainsaadanto/2018/714). Tuen säännöt ovat uudistuneet, ja ne löytyvät [Opetushallituksen sivulta](https://www.oph.fi/fi/oppimisen-tuen-uudistus).
 
 ### Mikä on HOPS?
 
@@ -120,10 +120,10 @@ Kaikki reitit lukion jälkeen ovat yhtä arvokkaita. Ammattikorkeakoulu, yliopis
 
 **Aika:** 15 min
 **Tarvitset:** koulun opinto-oppaan tai opintojaksoluettelon (esimerkki), paperia, kynän
-**Ilman laitetta:** Tämä on paperitehtävä. Jos opinto-opasta ei ole tulostettuna, kysy opinto-ohjaajalta paperikopio.
+**Ilman laitetta:** Piirrä kartta paperille ja kirjoita siihen se, minkä jo tiedät. Merkitse kysymysmerkillä kohdat, jotka puuttuvat, ja täytä ne, kun pääset opinto-oppaaseen tai kysyt koulussa. Ohita vaihe 1, jos et pääse nettiin.
 
 1. Avaa [Opetushallituksen lukiokoulutus-sivu](https://www.oph.fi/fi/koulutus-ja-tutkinnot/lukiokoulutus) ja lue yksi kohta, joka kertoo lukio-opintojen rakenteesta.
-2. Piirrä paperille kolme laatikkoa: pakolliset opinnot, valtakunnalliset syventävät opinnot ja koulukohtaiset opinnot.
+2. Piirrä paperille kolme laatikkoa: pakolliset opinnot, valtakunnalliset valinnaiset opinnot ja koulukohtaiset opinnot.
 3. Etsi koulusi opinto-oppaasta yksi opintojakso jokaiseen laatikkoon ja kirjoita ne laatikoihin.
 4. Lisää karttaan kaksi kohtaa: mistä saat tietoa koulun arjesta ja kenelle voit puhua, jos asia on hankala.
 5. Kirjoita karttaan yksi kysymys, jonka haluat kysyä opinto-ohjaajalta.
@@ -140,16 +140,16 @@ Kaikki reitit lukion jälkeen ovat yhtä arvokkaita. Ammattikorkeakoulu, yliopis
 4. Laita ne järjestykseen. Kirjoita jokaisen viereen yksi lause siitä, miksi se on tässä kohdassa.
 5. Päätä, mistä kahdesta asiasta voit tarvittaessa tinkiä. Tallenna lista muistioosi.
 
-### Tehtävä 3: Kuvitteelliset aloittajat
+### Tehtävä 3: Auta kuvitteellisia aloittajia
 
 **Aika:** 10 min
-**Tarvitset:** tapauskortit tai tämän sivun tekstin, oman muistion
-**Ilman laitetta:** Lue tapaukset tältä sivulta ja kirjoita vastaukset paperille. Jos haluat tulosteen, pyydä sitä opinto-ohjaajalta.
+**Tarvitset:** tämän sivun tapaukset (tai tapauskortit, jos ohjaaja jakaa ne), oman muistion
+**Ilman laitetta:** Lue tapaukset tältä sivulta tai kopioi ne paperille ja kirjoita vastaukset paperille.
 
 Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
-- **Ilona** aloittaa lukiossa ja haluaa tehdä paljon opintoja heti ensimmäisenä syksynä. Hän miettii, mitä ehtii.
-- **Eemil** on muuttanut uudelle paikkakunnalle. Hän ei tunne vielä ketään ja miettii, keneltä voi kysyä apua.
+- **Mira** aloittaa lukiossa ja haluaa tehdä paljon opintoja heti alussa. Hän miettii, mitä ehtii.
+- **Alex** on muuttanut uudelle paikkakunnalle. Hän ei tunne vielä ketään ja miettii, keneltä voi kysyä apua.
 - **Niko** suunnittelee lukion jälkeen kansanopistoa tai työtä. Hän miettii, mitä hyötyä HOPSista on hänelle.
 
 1. Valitse yksi tapaus.
@@ -162,7 +162,7 @@ Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekään.
 
 1. Mikä lukion rakenteessa tai arjessa tuntuu nyt selvältä ja mikä vielä epäselvältä?
-2. Mitä toivot lukiolta ensimmäisen vuoden aikana? Mikä auttaisi sinua pääsemään siihen?
+2. Mitä toivot lukiolta alkuvaiheessa? Mikä auttaisi sinua pääsemään siihen?
 3. Mitä tekisit, jos huomaisit, että jokin asia ei ala sujua? Kenen puoleen kääntyisit?
 
 **Itsearviointi.** Arvioi jokainen kohta asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*.
@@ -187,64 +187,66 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** aihe 02 *Opiskelutaidot ja oppimaan oppiminen*. Opintojaksojen valintoihin pääset tarkemmin aiheessa 06 *Henkilökohtainen opintosuunnitelma ja kurssivalinnat*.
 
-**HOPSiin:** Kirjoita HOPSin osaan *opiskelusuunnitelma* kolme tärkeintä asiaasi lukion alussa ja yksi kysymys, jonka haluat kysyä ohjaajalta. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
+**HOPSiin:** HOPS on koulun kanssa jaettu asiakirja. Kirjoita siihen vain se, minkä haluat jakaa. Tuen tarpeet, terveys ja kotiasiat voit pitää omassa muistiossasi. Kirjoita HOPSin osaan *opiskelusuunnitelma* kolme tärkeintä asiaasi lukion alussa (esimerkiksi opintoihin liittyvät) ja yksi kysymys, jonka haluat kysyä ohjaajalta. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoite:** jokainen opiskelija lähtee tunnilta oman lukio-kartan, kolmen tärkeän asian listan ja yhden kysymyksen kanssa. Kukaan ei kerro omia asioitaan ääneen, ellei itse halua.
+**Tavoite:** jokainen opiskelija lähtee tunnilta oman lukio-kartan ja yhden kysymyksen kanssa. 75 ja 60 minuutissa syntyy myös kolmen tärkeän asian lista. 45 minuutissa lista tehdään kotona, joten tunnin tuotos on pienempi. Kukaan ei kerro omia asioitaan ääneen, ellei itse halua.
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jota odottavat lukiossa, ja yhden, joka jännittää. | Kerää laput, sekoita ja lue muutama ääneen. Kiitä rehellisyydestä, älä korjaa. | Sähköinen nimetön seinä koulun omalla välineellä. | Lue vain kaksi lappua. |
-| Aiemman tiedon aktivointi | 10 | Totta vai tarua -väitteet pareittain: "Kaikki opintojaksot ovat pakollisia." "Opinto-ohjaus arvioidaan numerolla." "Jokainen lukion käynyt saa ohjausta lukiolta aina, kun haluaa." "HOPS on opettajan tekemä suunnitelma." | Käy vastaukset läpi opetussuunnitelman, lukiolain ja koulun opinto-oppaan avulla. Ohjausväite on tarua: lukion jälkeen oikeus on vain sillä, joka on suorittanut oppimäärän eikä ole saanut opiskelupaikkaa tutkintoon johtavassa koulutuksessa, ja vain oppimäärän suorittamisvuotta seuraavan vuoden ajan. Kytke lappujen huolet väitteisiin. | Väitteet paperilla, opiskelija vastaa yksin. | Käy läpi kaksi väitettä. |
+| Aiemman tiedon aktivointi | 10 | Totta vai tarua -väitteet pareittain: "Kaikki opintojaksot ovat pakollisia." "Opinto-ohjaus arvioidaan numerolla." "Jokainen lukion käynyt saa ohjausta lukiolta aina, kun haluaa." "HOPS on opettajan tekemä suunnitelma." | Käy väitteet läpi opetussuunnitelman, lukiolain ja koulun opinto-oppaan avulla. "Kaikki opintojaksot ovat pakollisia" on tarua: osa opinnoista on valinnaisia. "Opinto-ohjaus arvioidaan numerolla" on tarua: opinto-ohjauksen moduulit saavat merkinnän suoritettu tai hylätty. "HOPS on opettajan tekemä" on tarua: HOPS on opiskelijan oma suunnitelma, jota tehdään ohjauksessa. Ohjausväite on tarua: lukion jälkeen oikeus on vain sillä, joka on suorittanut oppimäärän eikä ole saanut opiskelupaikkaa tutkintoon johtavassa koulutuksessa, ja vain oppimäärän suorittamisvuotta seuraavan vuoden ajan. Kytke lappujen huolet väitteisiin. | Väitteet paperilla, opiskelija vastaa yksin. | Käy läpi kaksi väitettä. |
 | Lyhyt alustus | 10 | Opiskelijat kirjaavat muistiin lukio-opintojen rakenteen: opintojakso, moduuli, opintopiste ja kolme opintojen ryhmää. | Piirrä rakenne taululle. Kerro koulun jaksot, kurssitarjotin ja viestikanava (esimerkki). Näytä, mistä ajankohtaiset asiat löytyvät. | Jaa rakenne paperilla. | Jätä HOPS lyhyeen mainintaan. |
 | Työskentely | 25 | Tehtävä 1 (15 min) ja Tehtävä 2 (10 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Auta löytämään asioita opinto-oppaasta. Älä kerro, mitkä asiat ovat "oikeita". | Pari voi tehdä yhdessä yhdellä oppaalla. Paperipohja ilman laitetta. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Tehtävä 3 (10 min) kolmen hengen ryhmissä kuvitteellisilla tapauksilla. Ryhmä kirjoittaa kolme kysymystä tapauksen opiskelijalle. | Ohjaa puhumaan tapauksista, ei omista tilanteista. Kokoa lopuksi kysymyksiä taululle. | Yksin tai parin kanssa. | Yksi tapaus koko ryhmälle yhdessä. |
-| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat kolme tärkeää asiaa ja yhden kysymyksen HOPSiin. Exit-lappu: mistä saat apua, jos jokin on hankalaa (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan ja milloin HOPSia päivitetään (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin vain sen, minkä haluavat jakaa koulun kanssa. HOPS on koulun kanssa jaettu asiakirja, joten tuen tarpeet, terveys ja kotiasiat jäävät omaan muistioon. Exit-lappu: mistä saat apua, jos jokin on hankalaa (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan ja milloin HOPSia päivitetään (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 5 | Kysymyksiä, keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### 60 min
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jota odottavat lukiossa, ja yhden, joka jännittää. | Kerää laput, sekoita ja lue muutama ääneen. Kiitä rehellisyydestä, älä korjaa. | Sähköinen nimetön seinä koulun omalla välineellä. | Lue vain kaksi lappua. |
-| Aiemman tiedon aktivointi | 5 | Totta vai tarua -väitteet pareittain: "Kaikki opintojaksot ovat pakollisia." "Opinto-ohjaus arvioidaan numerolla." "Jokainen lukion käynyt saa ohjausta lukiolta aina, kun haluaa." "HOPS on opettajan tekemä suunnitelma." | Käy vastaukset läpi opetussuunnitelman, lukiolain ja koulun opinto-oppaan avulla. Ohjausväite on tarua: lukion jälkeen oikeus on vain sillä, joka on suorittanut oppimäärän eikä ole saanut opiskelupaikkaa tutkintoon johtavassa koulutuksessa, ja vain oppimäärän suorittamisvuotta seuraavan vuoden ajan. Kytke lappujen huolet väitteisiin. | Väitteet paperilla, opiskelija vastaa yksin. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin lukio-opintojen rakenteen: opintojakso, moduuli, opintopiste ja kolme opintojen ryhmää. | Piirrä rakenne taululle. Kerro koulun jaksot, kurssitarjotin ja viestikanava (esimerkki). Näytä, mistä ajankohtaiset asiat löytyvät. | Jaa rakenne paperilla. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Työskentely | 20 | Tehtävä 1 (15 min) yksin. Nopeat aloittavat Tehtävän 2. | Kierrä ja kysy avoimia kysymyksiä. Auta löytämään asioita opinto-oppaasta. Älä kerro, mitkä asiat ovat "oikeita". | Pari voi tehdä yhdessä yhdellä oppaalla. Paperipohja ilman laitetta. | Tehtävä 2 kotiin. |
-| Pari- tai pienryhmäpohdinta | 10 | Tehtävä 3 (10 min) pareittain yhdellä kuvitteellisella tapauksella. Kirjoittakaa kolme kysymystä tapauksen opiskelijalle. | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin tai parin kanssa. | Yksi yhteinen tapaus koko ryhmälle. |
-| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat kolme tärkeää asiaa ja yhden kysymyksen HOPSiin. Exit-lappu: mistä saat apua, jos jokin on hankalaa (nimetön tai nimellä, opiskelija valitsee). Jos Tehtävä 2 jäi kotiin, kirjaa vain se, mikä on valmista. | Kerro, miten ohjausaika varataan ja milloin HOPSia päivitetään (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
+| Virittäytyminen | 4 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jota odottavat lukiossa, ja yhden, joka jännittää. | Kerää laput, sekoita ja lue muutama ääneen. Kiitä rehellisyydestä, älä korjaa. | Sähköinen nimetön seinä koulun omalla välineellä. | Lue vain kaksi lappua. |
+| Aiemman tiedon aktivointi | 6 | Kolme totta vai tarua -väitettä pareittain: "Kaikki opintojaksot ovat pakollisia." "Opinto-ohjaus arvioidaan numerolla." "Jokainen lukion käynyt saa ohjausta lukiolta aina, kun haluaa." | Käy väitteet läpi opetussuunnitelman, lukiolain ja koulun opinto-oppaan avulla. "Kaikki opintojaksot ovat pakollisia" on tarua: osa opinnoista on valinnaisia. "Opinto-ohjaus arvioidaan numerolla" on tarua: opinto-ohjauksen moduulit saavat merkinnän suoritettu tai hylätty. Ohjausväite on tarua: lukion jälkeen oikeus on vain sillä, joka on suorittanut oppimäärän eikä ole saanut opiskelupaikkaa tutkintoon johtavassa koulutuksessa, ja vain oppimäärän suorittamisvuotta seuraavan vuoden ajan. Kytke lappujen huolet väitteisiin. | Väitteet paperilla, opiskelija vastaa yksin. | Jätä ohjausväite pois ja kerro sen vastaus alustuksessa. |
+| Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin lukio-opintojen rakenteen: opintojakso, moduuli, opintopiste ja kolme opintojen ryhmää. | Piirrä rakenne taululle. Kerro koulun jaksot, kurssitarjotin ja viestikanava (esimerkki). Näytä, mistä ajankohtaiset asiat löytyvät. | Jaa rakenne paperilla. | Jätä HOPS yhteen lauseeseen ja kerro koulun käytännöt ohjeena tunnin jälkeen. |
+| Työskentely | 25 | Tehtävä 1 (15 min) yksin. Sen jälkeen Tehtävä 2 (10 min). | Kierrä ja kysy avoimia kysymyksiä. Auta löytämään asioita opinto-oppaasta. Älä kerro, mitkä asiat ovat "oikeita". | Pari voi tehdä yhdessä yhdellä oppaalla. Paperipohja ilman laitetta. | Tehtävä 2 kotiin. |
+| Pari- tai pienryhmäpohdinta | 7 | Tehtävä 3 pareittain yhdellä kuvitteellisella tapauksella. Kirjoittakaa tapauksen opiskelijalle kolme kysymystä (7 min, lyhennetty). | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin tai parin kanssa. | Yksi yhteinen tapaus koko ryhmälle. |
+| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin vain sen, minkä haluavat jakaa koulun kanssa. HOPS on koulun kanssa jaettu asiakirja, joten tuen tarpeet, terveys ja kotiasiat jäävät omaan muistioon. Exit-lappu: mistä saat apua, jos jokin on hankalaa (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan ja milloin HOPSia päivitetään (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### 45 min
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 3 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jota odottavat lukiossa, ja yhden, joka jännittää. | Kerää laput, sekoita ja lue muutama ääneen. Kiitä rehellisyydestä, älä korjaa. | Sähköinen nimetön seinä koulun omalla välineellä. | Lue vain kaksi lappua. |
-| Aiemman tiedon aktivointi | 3 | Kaksi totta vai tarua -väitettä pareittain: "Kaikki opintojaksot ovat pakollisia." "Jokainen lukion käynyt saa ohjausta lukiolta aina, kun haluaa." | Käy vastaukset läpi opetussuunnitelman, lukiolain ja koulun opinto-oppaan avulla. Ohjausväite on tarua: lukion jälkeen oikeus on vain sillä, joka on suorittanut oppimäärän eikä ole saanut opiskelupaikkaa tutkintoon johtavassa koulutuksessa, ja vain oppimäärän suorittamisvuotta seuraavan vuoden ajan. Kytke lappujen huolet väitteisiin. | Väitteet paperilla, opiskelija vastaa yksin. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Lyhyt alustus | 5 | Opiskelijat kirjaavat muistiin lukio-opintojen rakenteen: opintojakso, moduuli, opintopiste ja kolme opintojen ryhmää. | Piirrä rakenne taululle. Kerro koulun jaksot, kurssitarjotin ja viestikanava (esimerkki). Näytä, mistä ajankohtaiset asiat löytyvät. | Jaa rakenne paperilla. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Työskentely | 19 | Tehtävä 1 (15 min) yksin. Loppuaika muistiinpanojen viimeistelyyn. | Kierrä ja kysy avoimia kysymyksiä. Auta löytämään asioita opinto-oppaasta. Älä kerro, mitkä asiat ovat "oikeita". | Pari voi tehdä yhdessä yhdellä oppaalla. Paperipohja ilman laitetta. | Tehtävän 1 viimeiset vaiheet kotiin. |
-| Pari- tai pienryhmäpohdinta | 5 | Yksi kuvitteellinen tapaus Tehtävästä 3 koko ryhmälle yhdessä. Ryhmä kirjoittaa kolme kysymystä tapauksen opiskelijalle. | Pidä keskustelu tapauksessa, ei opiskelijoiden omissa tilanteissa. Kirjoita kysymykset taululle. | Yksin tai parin kanssa. | Tehtävä 3 kotiin. |
-| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin Tehtävän 1 kartan pohjalta yhden tärkeän asian ja yhden kysymyksen. Jos Tehtävä 2 jäi kotiin, kolme tärkeää asiaa kirjataan HOPSiin kotona. Exit-lappu: mistä saat apua, jos jokin on hankalaa (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan ja milloin HOPSia päivitetään (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Kirjaus loppuun kotona. Tehtävä 2, Pohdinta ja exit-kysymys tunnin jälkeen. |
+| Virittäytyminen | 3 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jota odottavat lukiossa. | Kerää laput, sekoita ja lue muutama ääneen. Kiitä rehellisyydestä, älä korjaa. | Sähköinen nimetön seinä koulun omalla välineellä. | Lue vain kaksi lappua. |
+| Aiemman tiedon aktivointi | 4 | Kaksi totta vai tarua -väitettä pareittain (2 min), sitten vastaukset yhdessä: "Kaikki opintojaksot ovat pakollisia." "Jokainen lukion käynyt saa ohjausta lukiolta aina, kun haluaa." | Käy väitteet läpi opetussuunnitelman, lukiolain ja koulun opinto-oppaan avulla. "Kaikki opintojaksot ovat pakollisia" on tarua: osa opinnoista on valinnaisia. "Jokainen lukion käynyt saa ohjausta lukiolta aina, kun haluaa" on tarua: lukion jälkeen oikeus on vain sillä, joka on suorittanut oppimäärän eikä ole saanut opiskelupaikkaa tutkintoon johtavassa koulutuksessa, ja vain oppimäärän suorittamisvuotta seuraavan vuoden ajan. Kytke lappujen huolet väitteisiin. | Väitteet paperilla, opiskelija vastaa yksin. | Käsittele vain ohjausväite ja jätä toinen väite alustukseen. |
+| Lyhyt alustus | 5 | Opiskelijat kirjaavat muistiin lukio-opintojen rakenteen: opintojakso, moduuli, opintopiste ja kolme opintojen ryhmää. | Piirrä rakenne taululle. Jätä koulun jaksot ja viestikanava kirjalliseen ohjeeseen, jonka jaat tunnin lopussa (esimerkki). | Jaa rakenne paperilla. | Jätä HOPS tunnin jälkeiseen ohjeeseen. |
+| Työskentely | 20 | Tehtävä 1 (15 min) yksin. Viisi minuuttia opinto-oppaan avaamiseen ja viimeistelyyn. | Kierrä ja kysy avoimia kysymyksiä. Auta löytämään asioita opinto-oppaasta. Älä kerro, mitkä asiat ovat "oikeita". | Pari voi tehdä yhdessä yhdellä oppaalla. Paperipohja ilman laitetta. | Tehtävän 1 viimeiset vaiheet kotiin. |
+| Pari- tai pienryhmäpohdinta | 4 | Yksi kuvitteellinen tapaus Tehtävästä 3 koko ryhmälle yhdessä. Ryhmä sanoo ääneen kolme kysymystä tapauksen opiskelijalle. | Pidä keskustelu tapauksessa, ei opiskelijoiden omissa tilanteissa. Kirjoita kysymykset taululle. | Yksin tai parin kanssa. | Tehtävä 3 kotiin. |
+| HOPS-askel ja exit | 7 | Opiskelijat kirjaavat HOPSiin Tehtävän 1 kartan pohjalta yhden tärkeän asian ja yhden kysymyksen. HOPS on koulun kanssa jaettu, joten omat huolet jäävät muistioon. Tehtävä 2 (kolmen asian lista) tehdään kotona. Exit-lappu: mistä saat apua, jos jokin on hankalaa (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan ja milloin HOPSia päivitetään (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Kirjaus loppuun kotona. Pohdinta ja exit-kysymys tunnin jälkeen. |
 | Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### Valmistelu
 
 - Tutustu itse opetussuunnitelman perusteisiin ja koulusi opinto-oppaaseen ja tarkista, mitä sanoja käytät.
 - Selvitä koulun jaksot, kurssitarjotin, viestikanava ja ohjausajan varaaminen (esimerkki).
-- Tulosta opinto-oppaan sivut, tapauskortit ja paperipohjat niille, jotka eivät käytä laitetta.
+- Tulosta halutessasi opinto-oppaan sivut ja tapauskortit. Tehtävät onnistuvat myös tyhjällä paperilla.
 - Pidä kartta koulun tukihenkilöistä näkyvillä: ryhmänohjaaja, opinto-ohjaaja, erityisopettaja, opiskeluhuolto.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 
 ### Avoimet kysymykset
 
-- Mikä lukion rakenteessa yllätti sinut?
-- Mitä sinä tarvitset, jotta lukion alku tuntuu hallittavalta?
-- Mitkä asiat voisit jättää vähemmälle, jos kaikkea ei ehdi?
-- Mistä tiedät, että löysit asian oikeasta paikasta?
-- Millaisen tuen kanssa jaksat parhaiten?
-- Mitä kysyisit jollekulle, joka aloitti lukion vuosi sitten?
+Kysymykset on tarkoitettu ensin yksityiseen kirjoittamiseen omaan muistioon. Pari- tai ryhmäkeskusteluun nostetaan vain ne asiat, jotka opiskelija itse haluaa jakaa. Kukaan ei vastaa henkilökohtaiseen kysymykseen ääneen.
 
-Vältä johdattelevia kysymyksiä, kuten "Eikö olisi viisasta ottaa vähemmän opintojaksoja?" Kysy mieluummin: "Mitä toivot ensimmäiseltä vuodelta?"
+- Mikä lukion rakenteessa on yllättävää?
+- Mikä auttaisi lukion alkua tuntumaan hallittavalta?
+- Mitä asioita voi jättää vähemmälle, jos kaikkea ei ehdi?
+- Mistä tietää, että löysi asian oikeasta paikasta?
+- Millainen tuki auttaa lukion alussa?
+- Mitä kysyisit jollekulle, joka on ollut lukiossa pidempään?
+
+Vältä johdattelevia kysymyksiä, kuten "Eikö olisi viisasta ottaa vähemmän opintojaksoja?" Kysy mieluummin: "Mitä toivot lukion alulta?"
 
 ### Pelisäännöt ja oletusten tarkistus
 
@@ -255,23 +257,23 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö olisi viisasta ottaa vähemmän 
 
 ## Eriyttäminen
 
-**Helpompi polku:** Käytä valmista pohjaa. Kirjoita paperille kolme lauseenaloitusta ja täydennä ne: *Kysyn apua keneltä…*, *Tiedot löytyvät…*, *Tärkeintä minulle alussa on…*. Tee Tehtävä 2 näillä kolmella lauseella ja jätä kartta (Tehtävä 1) myöhemmäksi.
+**Helpompi polku:** Käytä valmista pohjaa. Kirjoita paperille kaksi lauseenaloitusta ja täydennä ne: *Kysyn apua keneltä…*, *Tiedot löytyvät…*. Tee Tehtävän 1 kartta vain näillä kahdella lauseella ja yhdellä opintojaksolla. Tee Tehtävä 2 vain kolmella asialla ilman perusteluja.
 
-**Syvempi polku:** Vertaa opinto-oppaan sanoja ja opetussuunnitelman perusteiden sanoja ja selvitä, mikä on koulun oma käytäntö ja mikä kaikille yhteinen. Hahmottele ensimmäisen lukuvuoden opintojaksot ja mieti, mitä jättäisit pois, jos aika loppuisi.
+**Syvempi polku:** Vertaa opinto-oppaan sanoja ja opetussuunnitelman perusteiden sanoja ja selvitä, mikä on koulun oma käytäntö ja mikä kaikille yhteinen. Hahmottele lähimpien jaksojen opintojaksot ja mieti, mitä jättäisit pois, jos aika loppuisi.
 
-**S2 ja selkeä kieli:** Käy sanasto läpi ennen tehtäviä. Tee halutessasi sanataulukko, jossa vasemmalla on suomenkielinen sana ja oikealla sana omalla kielellä. Pyydä S2-opettajalta tai opinto-ohjaajalta kolme tärkeintä sanaa kuvakortteina.
+**S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1. Kirjoita kolmelle sanalle (opintojakso, opintopiste, HOPS) lyhyt esimerkki omasta koulustasi. Voit lisätä sanan viereen sanan omalla kielelläsi.
 
 - *opintojakso (arkikielessä kurssi)* = lukion yksi opintokokonaisuus
 - *moduuli* = opintojakson osa
 - *opintopiste* = mitta, jolla opintojen laajuus lasketaan
 - *pakollinen* = pitää tehdä
-- *valtakunnallinen syventävä* = valinnainen opintojakso, joka on sama kaikissa lukioissa
+- *valtakunnallinen valinnainen* = opintojakso, jonka voi valita ja joka on sama kaikissa lukioissa (esimerkiksi syventävä tai soveltava)
 - *oppimäärä* = kaikki opinnot, jotka lukion suorittamiseen kuuluvat
 - *HOPS* = oma suunnitelma opinnoista ja tulevaisuudesta
 
-**Lukeminen, keskittyminen ja jännitys:** Piirrä lukion rakenne kuvana tai taulukkona ja tee tehtävät yksi kerrallaan. Pidä tauko tehtävien välillä. Jos lukion alku jännittää, muista, että kaikki eivät tiedä kaikkea heti ja että tukea on saatavilla.
+**Lukeminen, keskittyminen ja jännitys:** Opinto-opas on pitkä. Lue siitä vain ne kolme opintojaksoa, jotka kartta vaatii. Jos lukion alku jännittää, kysy ensin yksi pieni asia, esimerkiksi mistä lukujärjestyksesi löytyy. Kaikki eivät tiedä kaikkea heti.
 
-**Ilman laitetta:** Kaikki tehtävät toimivat paperilla: kolmen laatikon kartta ja lappulista. Tapaukset voi lukea tältä sivulta tai kirjoittaa paperille.
+**Ilman laitetta:** Kaikki tehtävät toimivat paperilla yksin: kolmen laatikon kartta ja lappulista. Tapaukset ovat tällä sivulla, ja voit kopioida ne paperille.
 
 **Tuki:** Oppimisen tuen säännöt uudistuivat. Katso Opetushallituksen sivu [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja koulusi oma käytäntö (esimerkki).
 
@@ -280,12 +282,12 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö olisi viisasta ottaa vähemmän 
 Varaa aika opinto-ohjaajalle, jos
 
 - et ymmärrä, miten opintojaksot ja moduulit toimivat tai miten kurssitarjotinta luetaan, vaikka olet lukenut koulun opinto-oppaan
-- et ole löytänyt koulun ajankohtaisia asioita, esimerkiksi lukujärjestystä tai viestejä, vaikka olet etsinyt niitä kaksi viikkoa
+- et ole ensimmäisen viikon jälkeen löytänyt koulun ajankohtaisia asioita, esimerkiksi lukujärjestystä tai viestejä, vaikka olet kysynyt niitä ryhmänohjaajalta
 - opintojaksovalinnan koulun oma takaraja on alle kaksi viikkoa päässä etkä ole vielä päättänyt (esimerkki)
 - olet ollut poissa yli viikon etkä tiedä, miten pääset takaisin mukaan
 - olet väsynyt, huolestunut tai alakuloinen suurimman osan päivistä yli kaksi viikkoa
 - olet vaihtanut koulua tai paikkakuntaa ja lukion käytännöt ovat edelleen vieraita
-- et tiedä, mitä haluat tehdä lukion jälkeen, ja se on huolestuttanut sinua yli kaksi viikkoa
+- mietit lukion jälkeistä aikaa ja se huolestuttaa sinua. Sinun ei tarvitse tietää vielä mitään, mutta voit puhua siitä
 
 Voit puhua myös ryhmänohjaajan, erityisopettajan tai opiskeluhuollon kanssa. Koulusi kertoo, miten aika varataan (esimerkki).
 

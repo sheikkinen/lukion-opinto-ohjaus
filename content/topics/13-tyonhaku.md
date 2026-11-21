@@ -8,7 +8,7 @@ curriculum: [OP2.t4, OP2.t10, OP2.s3, OP2.s4]
 suggested_timing: {year: 2, term: kevät}
 role: core
 duration_options: [45, 60, 75]
-self_study_minutes: 40
+self_study_minutes: 50
 prerequisites: [op2-11-osaaminen]
 hops_part: jatko-opinto- ja urasuunnitelma
 official_links:
@@ -18,6 +18,10 @@ official_links:
     read: 2026-11-21
   - title: "Työsuojeluhallinto"
     url: "https://tyosuojelu.fi/"
+    publisher: "Työsuojeluhallinto"
+    read: 2026-11-21
+  - title: "Työsuojeluhallinto: nuori työntekijä"
+    url: "https://tyosuojelu.fi/tyosuhde/nuori-tyontekija"
     publisher: "Työsuojeluhallinto"
     read: 2026-11-21
   - title: "Oppimisen tuen uudistus"
@@ -43,9 +47,9 @@ school_adapts:
   - "Kenelle opiskelija varaa ohjausajan ja miten (opinto-ohjaaja, ryhmänohjaaja, erityisopettaja, opiskeluhuolto)"
   - "Mihin osaamisen dokumentteihin (CV, portfolio) opiskelijalla on pääsy koulun omissa järjestelmissä"
 materials:
-  - "Puhelin tai tietokone (Tehtävä 1), tai tulostettu työpaikkailmoitus"
+  - "Puhelin tai tietokone (Tehtävä 1), tai tämän sivun kuvitteellinen työpaikkailmoitus"
   - "Oma muistio, paperinen tai sähköinen"
-  - "Tulostetut tapauskortit (Tehtävä 3)"
+  - "Tapaukset ovat tällä sivulla; ohjaaja voi tulostaa ne kortteina"
   - "Opiskelijan oma CV-luonnos aiheesta 11, jos sellainen on (vapaaehtoinen)"
 accessibility:
   - "Kaikki tehtävät voi tehdä ilman laitetta paperilla."
@@ -70,7 +74,7 @@ Työelämätaidot ovat taitoja, joita tarvitaan melkein kaikessa työssä. Niit�
 ottaminen, sovitusta kiinni pitäminen, palautteen vastaanottaminen ja uuden oppiminen. Moni taito on jo sinulla.
 Olet harjoitellut niitä ryhmätöissä, harrastuksissa, kotona ja vapaaehtoistehtävissä.
 
-Taidot eivät ole tunnuksia, jotka joko on tai ei ole. Voit arvioida kutakin taitoa omassa muistiossasi esimerkiksi
+Taidot eivät ole leimoja, jotka joko on tai ei ole. Voit arvioida kutakin taitoa omassa muistiossasi esimerkiksi
 näin: tämän osaan jo, tätä harjoittelen, tätä en ole vielä kokeillut. Arvio saa muuttua.
 
 ### Miten työtä haetaan?
@@ -96,9 +100,13 @@ harjoitella ääneen yksin tai kaverin kanssa.
 
 ### Oikeudet työssä
 
-Myös nuorella työntekijällä on oikeuksia ja vastuita. Työsopimus ja työaika kuuluvat sääntöihin, ja nuorille on
-omia suojasääntöjä. Lue ne [Työsuojeluhallinnon sivuilta](https://tyosuojelu.fi/) ennen kuin aloitat uudessa
-paikassa. Jos sinulta pyydetään työtä ilman palkkaa, tehtävä tuntuu vaaralliselta tai sinua kohdellaan epäasiallisesti tai häiritään, vika ei ole sinussa. Kerro luotettavalle aikuiselle ja katso Työsuojeluhallinnon sivuilta, mitä tietoa siellä on nuoren työstä ja epäasiallisesta kohtelusta. Jos jokin muu työssä mietityttää, kysy opinto-ohjaajalta tai Ohjaamosta. Kysyminen on normaalia.
+Myös nuorella työntekijällä on oikeuksia ja vastuita. Työsopimus ja työaika kuuluvat sääntöihin, ja nuorille on omia suojasääntöjä. Lue ne [Työsuojeluhallinnon sivulta nuoresta työntekijästä](https://tyosuojelu.fi/tyosuhde/nuori-tyontekija) ennen kuin aloitat uudessa paikassa.
+
+Työstä maksetaan yleensä palkka. Sivun mukaan ammatillisen koulutuksen työssäoppiminen on kuitenkin tavallisesti palkatonta. Myös vapaaehtoistyö ja koulun järjestämä työelämään tutustuminen ovat erilaisia kuin tavallinen työ. Ne voivat olla hyviä kokemuksia, vaikka niistä ei makseta palkkaa. Sivu ei kerro, milloin muu palkaton työ on mahdollista, joten kysy asiasta.
+
+Jos työnantaja pyytää sinua tekemään tavallista työtä ilman palkkaa, kysy ennen kuin suostut: onko tämä palkallista työtä, harjoittelua vai tutustumista? Kuka asiasta sopii ja kauanko se kestää? Mitä sovitaan kirjallisesti? Jos vastaukset eivät selviä, kysy opinto-ohjaajalta tai Ohjaamosta.
+
+Jos sinua kohdellaan epäasiallisesti, sinua häiritään tai tehtävä tuntuu vaaralliselta, vika ei ole sinussa. Kerro luotettavalle aikuiselle. Työsuojeluhallinnon sivu neuvoo kysymään ensin työpaikalta ja tarvittaessa työsuojeluviranomaisen neuvontaan.
 
 Kaikki reitit lukion jälkeen ovat yhtä arvokkaita. Työ voi olla ensimmäinen askel, väliaikainen vaihe tai osa
 jatko-opintoja. Kokemusta voi kertyä myös opiskelun ohessa.
@@ -107,9 +115,11 @@ jatko-opintoja. Kokemusta voi kertyä myös opiskelun ohessa.
 
 ### Tehtävä 1: Lue yksi työpaikkailmoitus
 
-**Aika:** 15 min
+**Aika:** 12 min
 **Tarvitset:** puhelimen tai tietokoneen, oman muistion
-**Ilman laitetta:** Pyydä opinto-ohjaajalta muutama tulostettu työpaikkailmoitus. Valitse yksi ja merkitse siihen kynällä, mitä työssä tehdään, mitä pyydetään ja mitä tarjotaan.
+**Ilman laitetta:** Käytä tämän sivun kuvitteellista ilmoitusta. Kirjoita paperille kolme otsikkoa (*Mitä tehdään*, *Mitä pyydetään*, *Mitä tarjotaan*) ja täytä ne ilmoituksen perusteella. Voit käyttää myös paperista ilmoitusta, esimerkiksi lehden tai kaupan ilmoitustaulun.
+
+*Kuvitteellinen ilmoitus:* Kyläkahvila hakee kesätyöntekijää tiskin taakse. Työhön kuuluvat asiakaspalvelu, kassa ja tilojen siivous. Pyydämme palvelualttiutta, sovituista ajoista kiinni pitämistä ja halua oppia. Aiempaa kokemusta ei vaadita. Perehdytys annetaan, ja palkka maksetaan työehtosopimuksen mukaan. Hae kertomalla lyhyesti, kuka olet ja miksi haet.
 
 1. Avaa [Työmarkkinatori](https://tyomarkkinatori.fi/) ja etsi avoimia työpaikkoja. Valitse yksi ilmoitus, joka kiinnostaa tai herättää uteliaisuutta.
 2. Kirjoita muistioosi, mitä työssä tehdään ja mitä osaamista ilmoituksessa pyydetään.
@@ -117,23 +127,25 @@ jatko-opintoja. Kokemusta voi kertyä myös opiskelun ohessa.
 4. Kirjoita yksi asia, jonka haluaisit kysyä työnantajalta.
 5. Kirjoita yksi asia, jonka voisit tehdä, jotta osaaminen karttuu (esimerkiksi harrastus, vapaaehtoistyö tai kesätyö).
 
-### Tehtävä 2: Kirjoita hakemuksen ensimmäinen kappale ja harjoittele haastattelua
+### Tehtävä 2: Kirjoita hakemuksen ensimmäinen versio
 
-**Aika:** 10 min
+**Aika:** 20 min
 **Tarvitset:** Tehtävän 1 ilmoituksen, paperia tai tekstinkäsittelyn, oman muistion
-**Ilman laitetta:** Kirjoita kappale käsin paperille. Voit kirjoittaa sen myös kuvitteelliselle työpaikalle, jos et halua käyttää oikeaa ilmoitusta.
+**Ilman laitetta:** Kirjoita hakemus käsin paperille. Käytä tämän sivun kuvitteellista ilmoitusta, jos sinulla ei ole muuta.
 
-1. Kirjoita yksi lause, joka kertoo, kuka olet ja miksi haet tätä työtä. Älä kirjoita siihen oikeaa nimeäsi tai yhteystietojasi, jos teet tehtävän verkossa.
-2. Valitse kaksi omaa osaamista, jotka sopivat ilmoitukseen, ja kirjoita kummastakin yksi konkreettinen esimerkki. Poista kaikki, mikä ei ole totta tai tuntuu liian kehuvalta.
-3. Harjoittele ääneen vastausta kysymykseen *Miksi haet tätä työtä?* Kirjoita sitten yksi kysymys, jonka itse kysyisit työnantajalta.
+1. Kirjoita avauskappale, jossa on yksi tai kaksi lausetta: kuka olet ja miksi haet tätä työtä. Älä kirjoita oikeaa nimeäsi tai yhteystietojasi, jos teet tehtävän verkossa.
+2. Valitse kaksi omaa osaamista, jotka sopivat ilmoitukseen, ja kirjoita kummastakin yksi konkreettinen esimerkki.
+3. Kirjoita lopuksi yksi lause: kiität ja kerrot, että voit tulla haastatteluun.
+4. Lue luonnos ääneen. Poista kaikki, mikä ei ole totta tai tuntuu liian kehuvalta.
+5. Harjoittele ääneen vastausta kysymykseen *Miksi haet tätä työtä?* Kirjoita sitten yksi kysymys, jonka itse kysyisit työnantajalta.
 
 Hakemus jää omaksi luonnoksesi. Sitä ei lähetetä minnekään.
 
-### Tehtävä 3: Kuvitteelliset työnhakijat
+### Tehtävä 3: Auta kuvitteellisia työnhakijoita
 
 **Aika:** 10 min
-**Tarvitset:** tapauskortit tai tämän sivun tekstin, puhelimen tai tietokoneen
-**Ilman laitetta:** Lue tapaukset tältä sivulta ja kirjoita kysymykset paperille.
+**Tarvitset:** tämän sivun tekstin, puhelimen tai tietokoneen
+**Ilman laitetta:** Lue tapaukset tältä sivulta ja kirjoita kysymykset ja vinkit paperille. Käytä apuna osion *Oikeudet työssä* tekstiä.
 
 Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
@@ -143,7 +155,7 @@ Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
 1. Valitse yksi tapaus.
 2. Mieti, mitä osaamista hänellä jo on, vaikka hän ei ole ollut töissä.
-3. Etsi [Työmarkkinatorilta](https://tyomarkkinatori.fi/) tai [Työsuojeluhallinnon sivuilta](https://tyosuojelu.fi/) yksi asia, josta hänelle olisi hyötyä, ja kirjoita hänelle kaksi vinkkiä tai kysymystä.
+3. Etsi [Työmarkkinatorilta](https://tyomarkkinatori.fi/) tai [Työsuojeluhallinnon sivuilta](https://tyosuojelu.fi/tyosuhde/nuori-tyontekija) yksi asia, josta hänelle olisi hyötyä, ja kirjoita hänelle kaksi vinkkiä tai kysymystä. Jos valitsit Alexin, kirjoita kysymykset, jotka hän voisi esittää ennen kuin vastaa koetyöstä.
 4. Mieti hiljaa itseksesi: mikä tapauksessa muistutti omaa tilannettasi, mikä ei?
 
 ## Pohdinta
@@ -166,31 +178,31 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 
 ## Itseopiskelun askel
 
-**Tavoite:** Teet ensimmäisen version työhakemuksen avauskappaleesta ja tiedät, mistä työpaikkoja ja työelämän neuvoja löytyy.
+**Tavoite:** Kirjoitat työhakemuksen ensimmäisen version yhteen ilmoitukseen ja tiedät, mistä työpaikkoja ja työelämän neuvoja löytyy.
 
-**Aikaa kuluu:** noin 40 minuuttia.
+**Aikaa kuluu:** noin 50 minuuttia.
 
 **Näin etenet:**
 
 1. **Lue** osio Opiskelijalle (8 min). Avaa ainakin Työmarkkinatorin sivu.
-2. **Tee** Tehtävä 1 (15 min) ja Tehtävä 2 (10 min). Tehtävä 3 on lisätehtävä, jos haluat jatkaa (10 min).
+2. **Tee** Tehtävä 1 (12 min) ja Tehtävä 2 (20 min). Tehtävä 3 on lisätehtävä, jos haluat jatkaa (10 min).
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** aihe 14 *Koulutusväylät ja muut reitit*.
 
-**HOPSiin:** Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* kolme työelämätaitoa, joita haluat harjoitella, ja yksi tapa, jolla aiot hankkia työelämäkokemusta. Merkitse, että suunnitelma on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
+**HOPSiin:** HOPS on koulun kanssa jaettu asiakirja. Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* vain se, minkä haluat jakaa: esimerkiksi kolme työelämätaitoa, joita haluat harjoitella, ja yksi tapa hankkia työelämäkokemusta. Hakemusluonnos, työpaikan ongelmat, terveys ja perheasiat jäävät omaan muistioosi. Merkitse, että suunnitelma on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoite:** jokainen opiskelija lähtee tunnilta työpaikkailmoituksen lukutaito ja hakemuksen avauskappale mukanaan. Kukaan ei kerro omista kokemuksistaan tai suunnitelmistaan ääneen, ellei itse halua.
+**Tavoite:** jokainen opiskelija lähtee tunnilta työpaikkailmoituksen lukutaito ja hakemuksen ensimmäinen versio (avauskappale, kaksi esimerkkiä ja lopetuslause) mukanaan. Lyhyemmissä versioissa tuotos on avauskappale ja yksi esimerkki; loppu jää kotitehtäväksi. Kukaan ei kerro omista kokemuksistaan tai suunnitelmistaan ääneen, ellei itse halua.
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jonka luulevat työnhaussa olevan vaikeaa. | Kerää laput, sekoita ja lue muutama ääneen. Älä korjaa vielä. | Sähköinen nimetön sanapilvi koulun omalla välineellä. | Lue vain kaksi lappua. |
-| Aiemman tiedon aktivointi | 10 | Pareittain: mitä työelämätaitoja ihminen käyttää tavallisena koulupäivänä tai harrastuksessa? Lista taululle. | Kokoa lista ja kytke se työelämätaitoihin. Kysy, missä taitoja voi harjoitella. | Lista yksin paperille. | Kerää vain kolme taitoa. |
-| Lyhyt alustus | 10 | Opiskelijat kirjaavat muistiin: työelämätaidot, hakemuksen kolme kysymystä, haastattelun valmistelu, oikeudet työssä. | Näytä Työmarkkinatori ja Työsuojeluhallinnon sivu. Kerro, miten koulussa tutustutaan työelämään (esimerkki). | Jaa tiivistys paperilla. | Jätä oikeudet lyhyeen mainintaan ja linkkiin. |
-| Työskentely | 25 | Tehtävä 1 (15 min) ja Tehtävä 2 (10 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Älä korjaa sisältöä, vaan kysy: mitä tämä esimerkki kertoo sinusta? | Paperipohja ilman laitetta, tulostetut ilmoitukset. Pari voi lukea ilmoitusta yhdessä. | Tehtävä 2 kotiin. |
-| Pari- tai pienryhmäpohdinta | 10 | Tehtävä 3 (10 min) kolmen hengen ryhmissä kuvitteellisilla tapauksilla. Ryhmä kirjoittaa kaksi haastattelukysymystä tai vinkkiä tapauksen hakijalle. | Ohjaa puhumaan tapauksista, ei omista kokemuksista. Kokoa lopuksi vinkit taululle. | Yksin tai parin kanssa. | Yksi tapaus koko ryhmälle yhdessä. |
-| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin kolme harjoiteltavaa taitoa ja yhden kokemuksen hankkimisen tavan. Exit-lappu: yksi kysymys työnhausta (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan ja mistä työelämäkokemusta voi hakea (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit-kysymys sähköisesti tunnin jälkeen. |
+| Aiemman tiedon aktivointi | 8 | Pareittain: mitä työelämätaitoja ihminen käyttää tavallisena koulupäivänä tai harrastuksessa? Lista taululle. | Kokoa lista ja kytke se työelämätaitoihin. Kysy, missä taitoja voi harjoitella. | Lista yksin paperille. | Kerää vain kolme taitoa. |
+| Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin: työelämätaidot, hakemuksen kolme kysymystä, haastattelun valmistelu. | Näytä Työmarkkinatori. Kerro lyhyesti, että palkaton työ on poikkeus ja mistä oikeudet luetaan (osio Oikeudet työssä). Kerro, miten koulussa tutustutaan työelämään (esimerkki). | Jaa tiivistys paperilla. | Jätä oikeudet yhteen lauseeseen ja linkkiin. |
+| Työskentely | 32 | Tehtävä 1 (12 min) ja Tehtävä 2 (20 min) yksin tai parin kanssa. Laitteiden avaamiseen on varattu aikaa. | Kierrä ja kysy avoimia kysymyksiä. Älä korjaa sisältöä, vaan kysy: mitä tämä esimerkki kertoo osaamisestasi? | Kuvitteellinen ilmoitus tehtävästä ja paperi. Pari voi lukea ilmoitusta yhdessä. | Tehtävän 2 vaiheet 4 ja 5 kotiin. |
+| Pari- tai pienryhmäpohdinta | 8 | Tehtävä 3 (8 min) pareittain yhdellä kuvitteellisella tapauksella. Pari kirjoittaa kaksi vinkkiä tai kysymystä tapauksen hakijalle. | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. Kokoa lopuksi vinkit taululle. | Yksin tai kolmen hengen ryhmässä. | Yksi tapaus koko ryhmälle yhdessä tai kotitehtäväksi. |
+| HOPS-askel ja exit | 9 | Opiskelijat kirjoittavat omaan muistioonsa kolme harjoiteltavaa taitoa ja yhden tavan hankkia kokemusta. HOPSiin he valitsevat vain sen, minkä haluavat jakaa koulun kanssa. Exit-lappu: yksi kysymys työnhausta (nimetön tai nimellä, opiskelija valitsee). | Muistuta: HOPS on koulun kanssa jaettu asiakirja, joten työpaikkaongelmat, terveys ja perhe jäävät omaan muistioon. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit-kysymys sähköisesti tunnin jälkeen. |
 | Puskuri | 5 | Kysymyksiä, keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset ohjausaikaan. | – | – |
 
 ### 60 min
@@ -198,42 +210,42 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jonka luulevat työnhaussa olevan vaikeaa. | Kerää laput, sekoita ja lue muutama ääneen. Älä korjaa vielä. | Sähköinen nimetön sanapilvi koulun omalla välineellä. | Lue vain kaksi lappua. |
-| Aiemman tiedon aktivointi | 5 | Pareittain: mitä työelämätaitoja ihminen käyttää tavallisena koulupäivänä tai harrastuksessa? Lista taululle. | Kokoa lista ja kytke se työelämätaitoihin. Kysy, missä taitoja voi harjoitella. | Lista yksin paperille. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin: työelämätaidot, hakemuksen kolme kysymystä, haastattelun valmistelu, oikeudet työssä. | Näytä Työmarkkinatori ja Työsuojeluhallinnon sivu. Kerro, miten koulussa tutustutaan työelämään (esimerkki). | Jaa tiivistys paperilla. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Työskentely | 20 | Tehtävä 1 (15 min) yksin. Nopeat aloittavat Tehtävän 2. | Kierrä ja kysy avoimia kysymyksiä. Älä korjaa sisältöä, vaan kysy: mitä tämä esimerkki kertoo sinusta? | Paperipohja ilman laitetta, tulostetut ilmoitukset. Pari voi lukea ilmoitusta yhdessä. | Tehtävä 2 kotiin. |
-| Pari- tai pienryhmäpohdinta | 10 | Tehtävä 3 (10 min) pareittain yhdellä kuvitteellisella tapauksella. Kirjoittakaa kaksi kysymystä tapauksen opiskelijalle. | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin tai parin kanssa. | Yksi yhteinen tapaus koko ryhmälle. |
-| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin kolme harjoiteltavaa taitoa ja yhden kokemuksen hankkimisen tavan. Exit-lappu: yksi kysymys työnhausta (nimetön tai nimellä, opiskelija valitsee). Jos Tehtävä 2 jäi kotiin, kirjaa vain se, mikä on valmista. | Kerro, miten ohjausaika varataan ja mistä työelämäkokemusta voi hakea (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
-| Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
+| Aiemman tiedon aktivointi | 5 | Pareittain: mitä työelämätaitoja ihminen käyttää tavallisena koulupäivänä tai harrastuksessa? Lista taululle. | Kokoa lista ja kytke se työelämätaitoihin. | Lista yksin paperille. | Kerää vain kolme taitoa. |
+| Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin: työelämätaidot, hakemuksen kolme kysymystä, haastattelun valmistelu. | Näytä Työmarkkinatori. Mainitse lyhyesti palkattoman työn kysymykset ja oikeuksien lähde. | Jaa tiivistys paperilla. | Jätä oikeudet yhteen lauseeseen ja linkkiin. |
+| Työskentely | 27 | Tehtävä 1 (12 min) ja Tehtävä 2 vaiheet 1–4 (15 min) yksin. | Kierrä ja kysy avoimia kysymyksiä. Älä korjaa sisältöä. | Kuvitteellinen ilmoitus tehtävästä ja paperi. | Tehtävän 2 vaihe 4 kotiin. |
+| Pari- tai pienryhmäpohdinta | 8 | Tehtävä 3 (8 min) pareittain yhdellä kuvitteellisella tapauksella. Pari kirjoittaa kaksi vinkkiä tai kysymystä. | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin. | Tehtävä 3 kotiin. |
+| HOPS-askel ja exit | 7 | Opiskelijat kirjoittavat omaan muistioonsa kolme harjoiteltavaa taitoa ja yhden tavan hankkia kokemusta. HOPSiin he kirjaavat vain sen, minkä haluavat jakaa koulun kanssa. Exit-lappu: yksi kysymys (nimetön tai nimellä, opiskelija valitsee). | Muistuta, että HOPS on koulun kanssa jaettu asiakirja. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit-kysymys sähköisesti tunnin jälkeen. |
 
 ### 45 min
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 3 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jonka luulevat työnhaussa olevan vaikeaa. | Kerää laput, sekoita ja lue muutama ääneen. Älä korjaa vielä. | Sähköinen nimetön sanapilvi koulun omalla välineellä. | Lue vain kaksi lappua. |
-| Aiemman tiedon aktivointi | 3 | Pareittain: mitä työelämätaitoja ihminen käyttää tavallisena koulupäivänä tai harrastuksessa? Lista taululle. | Kokoa lista ja kytke se työelämätaitoihin. Kysy, missä taitoja voi harjoitella. | Lista yksin paperille. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Lyhyt alustus | 5 | Opiskelijat kirjaavat muistiin: työelämätaidot, hakemuksen kolme kysymystä, haastattelun valmistelu, oikeudet työssä. | Näytä Työmarkkinatori ja Työsuojeluhallinnon sivu. Kerro, miten koulussa tutustutaan työelämään (esimerkki). | Jaa tiivistys paperilla. | Käsittele vain tärkeimmät kohdat, loput linkkeinä tunnin jälkeen. |
-| Työskentely | 19 | Tehtävä 1 (15 min) yksin. Loppuaika muistiinpanojen viimeistelyyn. | Kierrä ja kysy avoimia kysymyksiä. Älä korjaa sisältöä, vaan kysy: mitä tämä esimerkki kertoo sinusta? | Paperipohja ilman laitetta, tulostetut ilmoitukset. Pari voi lukea ilmoitusta yhdessä. | Tehtävän 1 viimeiset vaiheet kotiin. |
-| Pari- tai pienryhmäpohdinta | 5 | Yksi kuvitteellinen tapaus Tehtävästä 3 koko ryhmälle yhdessä. Ryhmä kirjoittaa kaksi kysymystä tapauksen opiskelijalle. | Pidä keskustelu tapauksessa, ei opiskelijoiden omissa tilanteissa. Kirjoita kysymykset taululle. | Yksin tai parin kanssa. | Tehtävä 3 kotiin. |
-| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin kolme harjoiteltavaa taitoa ja yhden kokemuksen hankkimisen tavan. Exit-lappu: yksi kysymys työnhausta (nimetön tai nimellä, opiskelija valitsee). Jos Tehtävä 2 jäi kotiin, kirjaa vain se, mikä on valmista. | Kerro, miten ohjausaika varataan ja mistä työelämäkokemusta voi hakea (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Kirjaus loppuun kotona. Tehtävä 2, Pohdinta ja exit-kysymys tunnin jälkeen. |
-| Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
+| Virittäytyminen ja aiemman tiedon aktivointi | 4 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jonka luulevat työnhaussa olevan vaikeaa, ja nimeävät yhden työelämätaidon, jota ovat käyttäneet. | Lue muutama lappu ääneen. Älä korjaa vielä. | Kirjoitus omaan muistioon. | Lue vain kaksi lappua. |
+| Lyhyt alustus | 6 | Opiskelijat kirjaavat muistiin: hakemuksen kolme kysymystä ja se, mistä oikeudet luetaan. | Näytä yksi valmiiksi valittu ilmoitus Työmarkkinatorilta. Mainitse yhdellä lauseella palkattoman työn kysymykset ja linkki. | Jaa tiivistys paperilla. | Jätä oikeudet linkkiin. |
+| Työskentely | 25 | Tehtävä 1 vaiheet 1–3 (10 min) valmiista ilmoituksista, sitten Tehtävä 2 vaiheet 1–3 (15 min): avauskappale, yksi esimerkki ja lopetuslause. | Kierrä ja kysy avoimia kysymyksiä. Auta valitsemaan ilmoitus. | Kuvitteellinen ilmoitus tehtävästä ja paperi. | Lopetuslause ja vaiheet 4–5 kotiin. |
+| HOPS-askel ja exit | 7 | Opiskelijat kirjoittavat omaan muistioonsa yhden harjoiteltavan taidon ja yhden tavan hankkia kokemusta. HOPSiin he kirjaavat vain sen, minkä haluavat jakaa koulun kanssa. Exit-lappu: yksi kysymys (nimetön tai nimellä, opiskelija valitsee). | Muistuta, että HOPS on koulun kanssa jaettu asiakirja. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Kirjaus ja exit kotona. Tehtävät 1 ja 2 loppuun, Tehtävä 3 ja Pohdinta kotona. |
+| Puskuri | 3 | Kysymyksiä ja keskeneräisten loppuun. | Ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### Valmistelu
 
-- Avaa Työmarkkinatori ja Työsuojeluhallinnon sivu ja kokeile niitä itse.
+- Avaa Työmarkkinatori ja Työsuojeluhallinnon sivu nuoresta työntekijästä ja kokeile niitä itse.
 - Tarkista koulun oma työelämään tutustumisen käytäntö (esimerkki).
-- Tulosta muutama erilainen työpaikkailmoitus ja tapauskortit niille, jotka eivät käytä laitetta.
-- Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
+- Valitse 45 minuutin tunnille etukäteen kolme erilaista ilmoitusta Työmarkkinatorilta.
+- Varaa nimettömiä lappuja virittäytymiseen ja exitiin. Tapauskortit ovat vapaaehtoiset, sillä tapaukset ovat sivulla.
 - Mieti etukäteen, miten kerrot kesätyön, harrastuksen ja vapaaehtoistyön olevan yhtä arvokasta kokemusta.
 
 ### Avoimet kysymykset
 
+Kysymykset ovat yksityiseen kirjoittamiseen tai vapaaehtoiseen parikeskusteluun. Kukaan ei vastaa omasta tilanteestaan ryhmälle; ryhmässä puhutaan yleisesti tai kuvitteellisista tapauksista.
+
 - Mitä taitoja tarvitaan melkein kaikessa työssä?
 - Mistä työpaikan voi löytää, jos ilmoitusta ei ole?
 - Mitä hakemuksessa voi kertoa, jos ei ole ollut töissä?
-- Mitä voit kysyä työnantajalta haastattelussa, ja miksi se on hyvä?
-- Mitä tekisit, jos et saisi hakemaasi paikkaa?
-- Miten työ, opiskelu ja vapaa-aika sovitetaan yhteen?
-- Millaista kokemusta työ voi antaa, vaikka et jäisi alalle?
+- Mitä haastattelussa voi kysyä työnantajalta, ja miksi se on hyvä?
+- Mitä hakija voi tehdä, jos hän ei saa hakemaansa paikkaa?
+- Miten työn, opiskelun ja vapaa-ajan voi sovittaa yhteen?
+- Millaista kokemusta työ voi antaa, vaikka ei jäisi alalle?
+- Mitä voi kysyä, kun työnantaja ehdottaa palkatonta koetyötä?
 
 Vältä johdattelevia kysymyksiä, kuten "Eikö ole parempi hakea ensin kesätöihin?" Kysy mieluummin: "Mitä toivoisit, että työkokemus antaisi sinulle?"
 
@@ -242,11 +254,11 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö ole parempi hakea ensin kesätö
 - Kukaan ei kerro omista työkokemuksistaan, perhetaustastaan tai arvosanoistaan ryhmälle. Ryhmätyö tehdään kuvitteellisilla tapauksilla.
 - Työnhausta puhutaan yleisesti. Opiskelija, jolla on ongelma työpaikalla, ohjataan henkilökohtaiseen keskusteluun.
 - Kaikki reitit ovat yhtä arvokkaita. Älä esitä työtä tai opiskelua ainoana oikeana jatkona.
-- **Oletusten tarkistus ennen tuntia:** Oletanko, että jollakin alalla työskentelee tietyn sukupuolen edustajia? Oletanko, että jokaisella on sukulaisia tai tuttuja, jotka auttavat työpaikan löytämisessä? Oletanko, että jokaisella on oma tietokone tai suomi äidinkielenä? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
+- **Oletusten tarkistus ennen tuntia:** Oletanko, että tietty ala sopii tietylle sukupuolelle tai että jollakin alalla työskentelee tietyn sukupuolen edustajia? Kysynkö kaikilta samoja kysymyksiä työnhausta? Oletanko, että jokaisella on sukulaisia tai tuttuja, jotka auttavat työpaikan löytämisessä? Oletanko, että jokaisella on oma tietokone tai suomi äidinkielenä? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
 
-**Helpompi polku:** Tee Tehtävä 1 valmiilla kysymyksillä: *Mitä työssä tehdään?*, *Mitä pyydetään?*, *Mitä osaan jo?* Vastaa jokaiseen yhdellä lauseella. Kirjoita Tehtävän 2 sijaan vain lause *Haen tätä työtä, koska…* ja harjoittele sitä ääneen. Kirjaa HOPSiin yksi taito.
+**Helpompi polku:** Tee Tehtävä 1 valmiilla kysymyksillä: *Mitä työssä tehdään?*, *Mitä pyydetään?*, *Mitä osaan jo?* Vastaa jokaiseen yhdellä lauseella. Kirjoita Tehtävän 2 sijaan vain avauskappale, esimerkiksi lause *Haen tätä työtä, koska…*, ja harjoittele sitä ääneen. Kirjaa HOPSiin yksi taito, jos haluat jakaa sen koulun kanssa.
 
 **Syvempi polku:** Kirjoita koko hakemusluonnos valitsemaasi ilmoitukseen tai tutki yrittäjyyttä ja itsenäistä työtä vaihtoehtona. Vertaa kahta ilmoitusta ja mieti, mikä kuuluu osaamiseesi ja mikä on uutta. Valmistele vastaukset kolmeen haastattelukysymykseen.
 
@@ -259,22 +271,23 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö ole parempi hakea ensin kesätö
 - *työsopimus = sopimus työn ehdoista, esimerkiksi palkasta ja työajasta*
 - *palkka = raha, jonka saat tehdystä työstä*
 - *epäasiallinen kohtelu = loukkaava tai häiritsevä käytös työssä*
-- *koetyö = lyhyt työjakso, jolla työnantaja kokeilee, sopiiko työ sinulle*
+- *palkaton työ = työ, josta ei makseta palkkaa. Kysy etukäteen, mistä on kyse, kauanko se kestää ja mitä sovitaan kirjallisesti*
+- *harjoittelu = opintoihin tai tutustumiseen kuuluva jakso, josta sovitaan etukäteen*
 
-**Lukeminen, keskittyminen ja jännitys:** Anna ilmoitus tulostettuna ja alleviivaa sanat, joita se pyytää. Tee tehtävä vaihe kerrallaan ja salli kuulokkeet. Jos haastattelu jännittää, harjoittele ääneen yksin tai kaverin kanssa. Mielenterveystalon sivuilta löytyy apua jännitykseen.
+**Lukeminen, keskittyminen ja jännitys:** Tulosta ilmoitus tai käytä sivun kuvitteellista ilmoitusta ja alleviivaa sanat, joita se pyytää. Tee tehtävä vaihe kerrallaan ja salli kuulokkeet. Jos haastattelu jännittää, harjoittele ääneen yksin tai kaverin kanssa. Mielenterveystalon sivuilta löytyy apua jännitykseen.
 
-**Ilman laitetta:** Tulostettu ilmoitus, käsin kirjoitettu kappale ja tapaukset toimivat paperilla.
+**Ilman laitetta:** Kuvitteellinen ilmoitus, käsin kirjoitettu hakemus ja tapaukset ovat tällä sivulla, joten ne toimivat paperilla myös yksin ja ilman laitetta.
 
-**Tuki:** Oppimisen tuen säännöt uudistuivat. Katso Opetushallituksen sivu [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja koulusi oma käytäntö (esimerkki).
+**Tuki:** Oppimisen tuesta kerrotaan lisää Opetushallituksen sivulla [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus). Kysy koulusi omasta käytännöstä opinto-ohjaajalta (esimerkki).
 
 ## Milloin opinto-ohjaajalle
 
 Varaa aika opinto-ohjaajalle, jos
 
-- et tiedä, mistä aloittaa kesätyön tai muun työn etsiminen, ja haku alkaa tai päättyy kahden viikon sisällä
+- et tiedä, mistä aloittaa kesätyön tai muun työn etsiminen, ja haluat apua ensimmäiseen askeleeseen
 - tarvitset apua hakemuksen tai CV:n kirjoittamiseen ja haku päättyy alle kahden viikon päästä
 - haastattelu jännittää niin paljon, että olet jättänyt hakematta
-- sinulta on pyydetty tekemään työtä ilman palkkaa tai sopimusta, esimerkiksi koetyötä, joka tuntuu liian pitkältä tai oikealta työltä, etkä tiedä, onko se oikein
+- sinulta on pyydetty tekemään työtä ilman palkkaa tai sopimusta, esimerkiksi koetyötä, joka tuntuu liian pitkältä tai tavalliselta työltä, ja haluat keskustella siitä ennen kuin vastaat
 - työtehtävä tuntuu vaaralliselta tai sinua ei ole perehdytetty siihen
 - sinua kohdellaan työssä epäasiallisesti tai sinua on häiritty
 - työnteko ja opiskelu eivät mahdu yhteen ja olet jäänyt jälkeen yhdessä tai useammassa opintojaksossa
@@ -285,7 +298,7 @@ Voit puhua myös ryhmänohjaajan, erityisopettajan tai opiskeluhuollon kanssa. K
 
 - [Etsi lähin Ohjaamo (luettu 21.11.2026)](https://ohjaamot.fi/lahin-ohjaamo): ohjausta alle 30-vuotiaille opiskeluun, työhön ja arkeen.
 - [Työmarkkinatori (luettu 21.11.2026)](https://tyomarkkinatori.fi/): avoimet työpaikat ja työnhaun neuvot.
-- [Työsuojeluhallinto (luettu 21.11.2026)](https://tyosuojelu.fi/): tietoa nuoren työstä, epäasiallisesta kohtelusta ja palkasta.
+- [Työsuojeluhallinto: nuori työntekijä (luettu 21.11.2026)](https://tyosuojelu.fi/tyosuhde/nuori-tyontekija): tietoa nuoren työstä ja palkasta sekä työsuojeluviranomaisen neuvonnasta.
 - [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia esimerkiksi jännitykseen.
 - [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, voit soittaa nimettömästi. Hätätilanteessa soita hätänumeroon.
 
