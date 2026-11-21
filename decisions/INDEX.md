@@ -10,3 +10,4 @@
 | D-006 | 2026-11-21 | Site language: Finnish ("site target language: Finnish"); confirms that part of D-005 | operator [O] | message during brief 001 |
 | D-007 | 2026-11-21 | Budget €10 for images. Operator's recommendation: nano-banana for graphs and images needing specifics; klein or pimage for generic images. Option: enliven the site with graphs and images | operator [O] | brief 003 |
 | D-008 | 2026-11-21 | Licence: CC BY 4.0 ("license CC-BY") for the content and the code; the curriculum text quoted from Opetushallitus and linked sources keep their own terms | operator [O] | message during brief 002 |
+| D-009 | 2026-11-21 | Illustrations made on p-image (pimage's Replicate model, $0.005 each) instead of klein, because drive E: is full and klein cannot write its job files; within the operator's "klein or pimage" and the €10 grant | producer [M] | brief 003 judgement |

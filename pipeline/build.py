@@ -15,7 +15,7 @@ import sys
 from datetime import date
 from pathlib import Path
 
-from pipeline import checks, views_site, views_topic
+from pipeline import checks, images, views_site, views_topic
 from pipeline.layout import SiteData
 from pipeline.loaders import load_curriculum, load_pages, load_topics, load_yearly_facts
 from pipeline.models import Problem
@@ -99,10 +99,13 @@ def build_site(root: Path, out: Path, partial: bool = False, today: date | None 
         if slug not in pages:
             problems.append(Problem(f"content/pages/{slug}.md", 1, "required static page is missing", "pages"))
     facts = load_yearly_facts(root)
-    data = SiteData(curriculum, [], pages, facts or {}, today, root / "templates")
+    picture_set, image_problems = images.load_images(root)
+    problems += image_problems
+    data = SiteData(curriculum, [], pages, facts or {}, today, root / "templates", picture_set)
     problems += collect_content_problems(data, all_topics, facts, root)
     renderable = [t for t in all_topics if not any(p.kind == "front-matter" and p.path == t.path for p in problems)]
-    data = SiteData(curriculum, renderable, pages, facts or {}, today, root / "templates")
+    data = SiteData(curriculum, renderable, pages, facts or {}, today, root / "templates", picture_set)
+    problems += images.check_pages(picture_set, {t.id for t in all_topics}, views_topic.section_names(all_topics))
     if all(slug in pages for slug in REQUIRED_PAGES):
         prepare_output(root, out)
         write_site(data, out)

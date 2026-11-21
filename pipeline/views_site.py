@@ -91,7 +91,7 @@ def module_page(data: SiteData, module: str) -> str:
     main = f"""<article class="module">
 <p class="kicker">Moduuli</p>
 <h1>{esc(module_title(data, module))}</h1>
-<dl class="meta">
+{data.images.header(ctx, module.lower())}<dl class="meta">
 <div><dt>Laajuus</dt><dd>{esc(info["credits"])} opintopistettä, {status}</dd></div>
 <div><dt>Arviointi</dt><dd>suoritusmerkintä (S tai H), ei arvosanaa</dd></div>
 <div><dt>Aiheita</dt><dd>{len(data.module_topics(module))}</dd></div>
@@ -294,6 +294,7 @@ def static_page(data: SiteData, slug: str, directory: str, current: str | None =
         "module_codes:OP2": lambda: module_codes(ctx, data, "OP2"),
     }
     body = render_with_blocks(text, blocks)
-    main = f'<article class="page">\n<h1>{esc(page.title)}</h1>\n{body}\n</article>'
+    header = data.images.header(ctx, "front") if slug == "etusivu" else ""
+    main = f'<article class="page">\n<h1>{esc(page.title)}</h1>\n{header}{body}\n</article>'
     description = str(page.meta.get("description", page.title))
     return render_page(data, ctx, page.title, main, description, current=current, scripts=scripts)

@@ -1,0 +1,282 @@
+# Image plan for brief 003 (art director, 2026-11-21).
+# Read by tools/images.py. Diagrams: nano-banana, exact Finnish labels, facts only from stable rules in the topics.
+# Illustrations: klein (local), the style line below is put in front of every illustration prompt.
+# Fields: id, kind (diagram|illustration), model (nano-banana|klein), aspect, page (topic id | front | op1 | op2),
+# placement ("header" or the exact H2 heading the picture follows), prompt, alt (Finnish).
+# Illustrations are decorative page headers: decorative: true tells the build to render alt="" (brief 003); the alt
+# text is kept for the checker and the record. Diagrams carry information: their alt is the full description.
+# Diagrams also list expected_labels (exact strings; a label listed once may appear more than once only where the
+# prompt says so) and facts_from (topic id and section the facts come from).
+
+style: >-
+  Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges.
+  Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white
+  background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space.
+  Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple
+  friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no
+  celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere;
+  any screens, books, papers and boards are blank or show only simple abstract shapes.
+
+images:
+
+  # ---------------------------------------------------------------- diagrams (nano-banana)
+
+  - id: dg-opintojen-rakenne
+    kind: diagram
+    model: nano-banana
+    aspect: "16:9"
+    page: op1-01-lukio-alkaa
+    placement: Opiskelijalle
+    prompt: >-
+      A clean flat infographic on a pure white background, high contrast, dark slate text, muted teal and sand
+      accent shapes, simple sans-serif font, generous spacing. Top row: a small chain of three rounded boxes joined
+      by right-pointing arrows, reading "Opintojakso" then "Moduuli" then "Opintopisteet", with a small caption
+      under the chain reading "Opintojakso koostuu moduuleista. Laajuus mitataan opintopisteinä." Below it, three
+      equal side-by-side cards under a heading "Opinnot jakautuvat kolmeen ryhmään": card one "Pakolliset opinnot"
+      with the line "Kuuluvat kaikille"; card two "Valtakunnalliset valinnaiset opinnot" with the line
+      "Yhteisiä kaikille lukioille" and a second smaller line "Syventävät ja soveltavat opintojaksot"; card three "Koulukohtaiset opinnot" with the line "Valinnaisia,
+      vaihtelevat koulun mukaan". Use exactly these Finnish texts, spelled exactly as written, each once, and no
+      other text, numbers, icons with letters, logos or watermark. The heading of card two is "Valtakunnalliset
+      valinnaiset opinnot", word for word; do not replace "valinnaiset" with any other word.
+    alt: >-
+      Kaavio lukio-opintojen rakenteesta. Ylhäällä nuolilla yhdistetty ketju: opintojakso, moduuli,
+      opintopisteet. Selite: opintojakso koostuu moduuleista, ja laajuus mitataan opintopisteinä. Alla otsikko
+      "Opinnot jakautuvat kolmeen ryhmään" ja kolme korttia: pakolliset opinnot kuuluvat kaikille;
+      valtakunnalliset valinnaiset opinnot ovat yhteisiä kaikille lukioille, ja niihin kuuluvat syventävät ja
+      soveltavat opintojaksot; koulukohtaiset opinnot
+      ovat valinnaisia ja vaihtelevat koulun mukaan.
+    expected_labels:
+      - "Opintojakso"
+      - "Moduuli"
+      - "Opintopisteet"
+      - "Opintojakso koostuu moduuleista. Laajuus mitataan opintopisteinä."
+      - "Opinnot jakautuvat kolmeen ryhmään"
+      - "Pakolliset opinnot"
+      - "Kuuluvat kaikille"
+      - "Valtakunnalliset valinnaiset opinnot"
+      - "Yhteisiä kaikille lukioille"
+      - "Syventävät ja soveltavat opintojaksot"
+      - "Koulukohtaiset opinnot"
+      - "Valinnaisia, vaihtelevat koulun mukaan"
+    facts_from:
+      - {topic: op1-01-lukio-alkaa, section: "Opiskelijalle / Miten opinnot on rakennettu?"}
+
+  - id: dg-hops-kolme-osaa
+    kind: diagram
+    model: nano-banana
+    aspect: "16:9"
+    page: op1-06-hops
+    placement: Opiskelijalle
+    prompt: >-
+      A clean flat infographic on a pure white background, high contrast, dark slate text, simple sans-serif font,
+      generous spacing. At the top centre a rounded title box reading "HOPS" with a smaller line under it reading
+      "Henkilökohtainen opintosuunnitelma". Below it three equal rounded cards side by side, each with its own soft
+      accent colour (muted teal, warm sand, soft coral), joined to each other by thin two-way arrows to show the
+      parts are connected. Card 1 heading "Opiskelusuunnitelma", line "Mitä opintojaksoja teen ja missä
+      järjestyksessä". Card 2 heading "Ylioppilastutkintosuunnitelma", line "Mitkä kokeet kirjoitan ja milloin".
+      Card 3 heading "Jatko-opinto- ja urasuunnitelma", line "Mitä haluan tehdä lukion jälkeen". Along the bottom
+      a thin circular arrow with the caption "Päivitän koko lukion ajan". Use exactly these Finnish texts, spelled
+      exactly as written, each once, and no other text, numbers, logos or watermark.
+    alt: >-
+      Kaavio henkilökohtaisen opintosuunnitelman (HOPS) kolmesta osasta. Osat on yhdistetty toisiinsa nuolilla,
+      koska ne liittyvät toisiinsa. Ensimmäinen osa, opiskelusuunnitelma: mitä opintojaksoja teen ja missä
+      järjestyksessä. Toinen osa, ylioppilastutkintosuunnitelma: mitkä kokeet kirjoitan ja milloin. Kolmas osa,
+      jatko-opinto- ja urasuunnitelma: mitä haluan tehdä lukion jälkeen. Alareunassa kehänuoli ja teksti:
+      päivitän koko lukion ajan.
+    expected_labels:
+      - "HOPS"
+      - "Henkilökohtainen opintosuunnitelma"
+      - "Opiskelusuunnitelma"
+      - "Mitä opintojaksoja teen ja missä järjestyksessä"
+      - "Ylioppilastutkintosuunnitelma"
+      - "Mitkä kokeet kirjoitan ja milloin"
+      - "Jatko-opinto- ja urasuunnitelma"
+      - "Mitä haluan tehdä lukion jälkeen"
+      - "Päivitän koko lukion ajan"
+    facts_from:
+      - {topic: op1-06-hops, section: "Opiskelijalle / Mikä HOPS on?"}
+      - {topic: op1-06-hops, section: "Opiskelijalle / HOPSin kolme osaa"}
+
+  - id: dg-ylioppilastutkinto
+    kind: diagram
+    model: nano-banana
+    aspect: "4:3"
+    page: op1-07-ylioppilastutkinto
+    placement: Opiskelijalle
+    prompt: >-
+      A clean flat infographic on a pure white background, high contrast, dark slate text, simple sans-serif font,
+      generous spacing. Title at the top: "Ylioppilastutkinto". Under it a large rounded banner reading
+      "Vähintään viisi koetta". Below the banner on the left, one highlighted card in muted teal reading
+      "Äidinkieli ja kirjallisuus" with a smaller line "Pakollinen kaikille". To the right of it a plus sign and a
+      wider panel headed "Vähintään neljä koetta vähintään kolmesta ryhmästä", containing four equal sand-coloured
+      tiles in a row: "Matematiikka", "Toinen kotimainen kieli", "Vieras kieli", "Reaaliaine". At the bottom two
+      small rule boxes side by side: "Vähintään yksi pitkän oppimäärän koe" and "Pakolliset kokeet enintään kolmella
+      peräkkäisellä tutkintokerralla". Use exactly these Finnish texts, spelled exactly as written, each once, and
+      no other text, numbers, logos or watermark.
+    alt: >-
+      Kaavio ylioppilastutkinnon rakenteesta. Tutkintoon tarvitaan vähintään viisi koetta. Äidinkieli ja
+      kirjallisuus on pakollinen kaikille. Lisäksi tarvitaan vähintään neljä koetta vähintään kolmesta ryhmästä:
+      matematiikka, toinen kotimainen kieli, vieras kieli ja reaaliaine. Vähintään yhden kokeen pitää olla pitkän
+      oppimäärän koe. Pakolliset kokeet suoritetaan enintään kolmella peräkkäisellä tutkintokerralla.
+    expected_labels:
+      - "Ylioppilastutkinto"
+      - "Vähintään viisi koetta"
+      - "Äidinkieli ja kirjallisuus"
+      - "Pakollinen kaikille"
+      - "Vähintään neljä koetta vähintään kolmesta ryhmästä"
+      - "Matematiikka"
+      - "Toinen kotimainen kieli"
+      - "Vieras kieli"
+      - "Reaaliaine"
+      - "Vähintään yksi pitkän oppimäärän koe"
+      - "Pakolliset kokeet enintään kolmella peräkkäisellä tutkintokerralla"
+    facts_from:
+      - {topic: op1-07-ylioppilastutkinto, section: "Opiskelijalle / Mistä tutkinto koostuu?"}
+
+  - id: dg-reitit-lukion-jalkeen
+    kind: diagram
+    model: nano-banana
+    aspect: "4:3"
+    page: op2-14-koulutusvaylat
+    placement: Opiskelijalle
+    prompt: >-
+      A clean flat infographic on a pure white background, high contrast, dark slate text, simple sans-serif font,
+      generous spacing. A central circle reading "Lukion jälkeen". Around it, evenly spaced on a ring, eight
+      circles of exactly the same size and the same visual weight, each joined to the centre by an equal straight
+      line, so that no route looks bigger, higher or more important than another. The eight circles read:
+      "Yliopisto", "Ammattikorkeakoulu (AMK)", "Ammatillinen koulutus", "Kansanopisto", "Välivuosi",
+      "Asepalvelus tai siviilipalvelus", "Työ", "Opiskelu tai työ ulkomailla". Soft muted colours for the circles
+      (teal, sand, sky blue, coral), all equally saturated. A caption along the bottom: "Kaikki reitit ovat yhtä
+      arvokkaita. Reittejä voi myös yhdistää." Use exactly these Finnish texts, spelled exactly as written, each
+      once, and no other text, numbers, arrows ranking the routes, logos or watermark.
+    alt: >-
+      Kaavio lukion jälkeisistä reiteistä. Keskellä teksti "Lukion jälkeen", ja sen ympärillä kahdeksan
+      samankokoista reittiä: yliopisto, ammattikorkeakoulu (AMK), ammatillinen koulutus, kansanopisto,
+      välivuosi, asepalvelus tai siviilipalvelus, työ sekä opiskelu tai työ ulkomailla. Alareunassa teksti:
+      kaikki reitit ovat yhtä arvokkaita, ja reittejä voi myös yhdistää.
+    expected_labels:
+      - "Lukion jälkeen"
+      - "Yliopisto"
+      - "Ammattikorkeakoulu (AMK)"
+      - "Ammatillinen koulutus"
+      - "Kansanopisto"
+      - "Välivuosi"
+      - "Asepalvelus tai siviilipalvelus"
+      - "Työ"
+      - "Opiskelu tai työ ulkomailla"
+      - "Kaikki reitit ovat yhtä arvokkaita. Reittejä voi myös yhdistää."
+    facts_from:
+      - {topic: op2-14-koulutusvaylat, section: "Opiskelijalle / Mitä reittejä on?"}
+
+  - id: dg-haku-vaihe-vaiheelta
+    kind: diagram
+    model: nano-banana
+    aspect: "16:9"
+    page: op2-15-haku-ja-valinta
+    placement: Opiskelijalle
+    prompt: >-
+      A clean flat infographic on a pure white background, high contrast, dark slate text, simple sans-serif font,
+      generous spacing. Title at the top left: "Haku vaihe vaiheelta". Below it six rounded step cards in two rows of
+      three, read left to right and top to bottom, joined by simple arrows, each card with a large step number in a
+      small muted teal circle. Step 1 "Valitse muutama kiinnostava koulutus". Step 2 "Katso, miten ja milloin
+      haetaan". Step 3 "Tarkista pääsyvaatimukset ja valintatavat". Step 4 "Tee hakemus Opintopolussa". Step 5
+      "Valmistaudu valintakokeeseen tai todistusvalintaan". Step 6 "Mieti varasuunnitelma". The only numbers in the
+      picture are the step numbers 1 to 6. Use exactly these Finnish texts, spelled exactly as written, each once,
+      and no other text, dates, logos or watermark.
+    alt: >-
+      Kaavio haun vaiheista. Kuusi vaihetta järjestyksessä: 1. Valitse muutama kiinnostava koulutus. 2. Katso,
+      miten ja milloin haetaan. 3. Tarkista pääsyvaatimukset ja valintatavat. 4. Tee hakemus Opintopolussa.
+      5. Valmistaudu valintakokeeseen tai todistusvalintaan. 6. Mieti varasuunnitelma.
+    expected_labels:
+      - "Haku vaihe vaiheelta"
+      - "1"
+      - "2"
+      - "3"
+      - "4"
+      - "5"
+      - "6"
+      - "Valitse muutama kiinnostava koulutus"
+      - "Katso, miten ja milloin haetaan"
+      - "Tarkista pääsyvaatimukset ja valintatavat"
+      - "Tee hakemus Opintopolussa"
+      - "Valmistaudu valintakokeeseen tai todistusvalintaan"
+      - "Mieti varasuunnitelma"
+    facts_from:
+      - {topic: op2-15-haku-ja-valinta, section: "Opiskelijalle / Mikä on yhteishaku?"}
+      - {topic: op2-15-haku-ja-valinta, section: "Opiskelijalle / Hakijan oma työ"}
+
+  - id: dg-ohjauksen-aikajana
+    kind: diagram
+    model: nano-banana
+    aspect: "16:9"
+    page: op1-01-lukio-alkaa
+    placement: Opiskelijalle
+    prompt: >-
+      A clean flat infographic timeline on a pure white background, high contrast, dark slate text, simple
+      sans-serif font, generous spacing. A small tag in the top right corner reading "Esimerkki, koulu päättää".
+      A horizontal timeline divided into three equal columns headed "1. vuosi", "2. vuosi" and "3. vuosi". Above
+      the first column a muted teal band reading "OP1"; above the second and third columns together one warm sand
+      band reading "OP2". Each column holds two rounded cards, an upper one marked "Syksy" and a lower one marked
+      "Kevät" (so "Syksy" and "Kevät" each appear three times, once per column). Card texts: 1. vuosi Syksy
+      "Lukio alkaa ja HOPS", 1. vuosi Kevät "Alustava yo-suunnitelma", 2. vuosi Syksy "Suunnitelmien päivitys",
+      2. vuosi Kevät "Koulutusväylät", 3. vuosi Syksy "Haku ja valinta", 3. vuosi Kevät "Jatko-opinto- ja
+      urasuunnitelma". Use exactly these Finnish texts, spelled exactly as written, and no other text, dates,
+      logos or watermark.
+    alt: >-
+      Esimerkkiaikajana opinto-ohjauksesta lukion kolmena vuotena; koulu päättää oman aikataulunsa. Moduuli OP1
+      on ensimmäisenä vuonna ja moduuli OP2 toisena ja kolmantena vuonna. Ensimmäisen vuoden syksy: lukio alkaa
+      ja HOPS. Ensimmäisen vuoden kevät: alustava yo-suunnitelma. Toisen vuoden syksy: suunnitelmien päivitys.
+      Toisen vuoden kevät: koulutusväylät. Kolmannen vuoden syksy: haku ja valinta. Kolmannen vuoden kevät:
+      jatko-opinto- ja urasuunnitelma.
+    expected_labels:
+      - "Esimerkki, koulu päättää"
+      - "1. vuosi"
+      - "2. vuosi"
+      - "3. vuosi"
+      - "OP1"
+      - "OP2"
+      - "Syksy"
+      - "Kevät"
+      - "Lukio alkaa ja HOPS"
+      - "Alustava yo-suunnitelma"
+      - "Suunnitelmien päivitys"
+      - "Koulutusväylät"
+      - "Haku ja valinta"
+      - "Jatko-opinto- ja urasuunnitelma"
+    facts_from:
+      - {topic: op1-01-lukio-alkaa, section: "front matter: suggested_timing (year 1, syksy)"}
+      - {topic: op1-06-hops, section: "front matter: suggested_timing (year 1, syksy)"}
+      - {topic: op1-07-ylioppilastutkinto, section: "front matter: suggested_timing (year 1, kevät)"}
+      - {topic: op2-10-suunnitelmien-paivitys, section: "front matter: suggested_timing (year 2, syksy)"}
+      - {topic: op2-14-koulutusvaylat, section: "front matter: suggested_timing (year 2, kevät)"}
+      - {topic: op2-15-haku-ja-valinta, section: "front matter: suggested_timing (year 3, syksy)"}
+      - {topic: op2-18-urasuunnitelma, section: "front matter: suggested_timing (year 3, kevät)"}
+      - {topic: docs/content-contract.md, section: "suggested_timing: the page always adds 'esimerkki, koulu päättää'"}
+
+  - id: dg-itseopiskelun-askel
+    kind: diagram
+    model: nano-banana
+    aspect: "1:1"
+    page: op1-01-lukio-alkaa
+    placement: Itseopiskelun askel
+    prompt: >-
+      A clean flat infographic on a pure white background, high contrast, dark slate text, simple sans-serif font,
+      generous spacing. Four rounded nodes placed clockwise on a circle and joined by curved clockwise arrows, so the
+      loop reads: top "Lue", right "Tee yksi tehtävä", bottom "Pohdi", left "Seuraava askel", and the arrow from
+      "Seuraava askel" returns to "Lue". Each node has a simple abstract icon without letters (an open book, a
+      pencil, a thought bubble, a footstep). In the centre of the circle a muted teal rounded box reading
+      "Kirjaa HOPSiin". Use exactly these Finnish texts, spelled exactly as written, each once, and no other text,
+      numbers, logos or watermark.
+    alt: >-
+      Kaavio itseopiskelun askeleesta kehänä: lue, tee yksi tehtävä, pohdi ja siirry seuraavaan askeleeseen,
+      jonka jälkeen kehä alkaa alusta. Keskellä teksti: kirjaa HOPSiin.
+    expected_labels:
+      - "Lue"
+      - "Tee yksi tehtävä"
+      - "Pohdi"
+      - "Seuraava askel"
+      - "Kirjaa HOPSiin"
+    facts_from:
+      - {topic: front, section: "content/pages/etusivu.md / Näin sivustoa käytetään"}
+      - {topic: polku, section: "content/pages/polku.md (lue, tee yksi tehtävä, pohdi, seuraava askel; HOPS)"}
+      - {topic: docs/style-guide.md, section: "10. Itseopiskelun askel: Näin etenet"}

@@ -1,0 +1,258 @@
+- id: dg-opintojen-rakenne
+  model: google/nano-banana-2.1
+  prompt: 'A clean flat infographic on a pure white background, high contrast, dark slate text, muted teal and sand accent shapes, simple sans-serif font, generous spacing. Top row: a small chain of three rounded boxes joined by right-pointing arrows, reading "Opintojakso" then "Moduuli" then "Opintopisteet", with a small caption under the chain reading "Opintojakso koostuu moduuleista. Laajuus mitataan opintopisteinä." Below it, three equal side-by-side cards under a heading "Opinnot jakautuvat kolmeen ryhmään": card one "Pakolliset opinnot" with the line "Kuuluvat kaikille"; card two "Valtakunnalliset syventävät opinnot" with the line "Valinnaisia, yhteisiä kaikille lukioille"; card three "Koulukohtaiset opinnot" with the line "Valinnaisia, vaihtelevat koulun mukaan". Use exactly these Finnish texts, spelled exactly as written, each once, and no other text, numbers, icons with letters, logos or watermark.'
+  seed: null
+  sha256: f6dbac709850d3be24e67ddee3a0ccf812d231a568a18378352762ae95af6758
+  dollars: 0.0336
+  date: '2026-11-21'
+- id: dg-hops-kolme-osaa
+  model: google/nano-banana-2.1
+  prompt: A clean flat infographic on a pure white background, high contrast, dark slate text, simple sans-serif font, generous spacing. At the top centre a rounded title box reading "HOPS" with a smaller line under it reading "Henkilökohtainen opintosuunnitelma". Below it three equal rounded cards side by side, each with its own soft accent colour (muted teal, warm sand, soft coral), joined to each other by thin two-way arrows to show the parts are connected. Card 1 heading "Opiskelusuunnitelma", line "Mitä opintojaksoja teen ja missä järjestyksessä". Card 2 heading "Ylioppilastutkintosuunnitelma", line "Mitkä kokeet kirjoitan ja milloin". Card 3 heading "Jatko-opinto- ja urasuunnitelma", line "Mitä haluan tehdä lukion jälkeen". Along the bottom a thin circular arrow with the caption "Päivitän koko lukion ajan". Use exactly these Finnish texts, spelled exactly as written, each once, and no other text, numbers, logos or watermark.
+  seed: null
+  sha256: 03978be563411f16a74e955044be402dcc6f5cfc79ace3b6e6e720c9ff18991f
+  dollars: 0.0336
+  date: '2026-11-21'
+- id: dg-ylioppilastutkinto
+  model: google/nano-banana-2.1
+  prompt: 'A clean flat infographic on a pure white background, high contrast, dark slate text, simple sans-serif font, generous spacing. Title at the top: "Ylioppilastutkinto". Under it a large rounded banner reading "Vähintään viisi koetta". Below the banner on the left, one highlighted card in muted teal reading "Äidinkieli ja kirjallisuus" with a smaller line "Pakollinen kaikille". To the right of it a plus sign and a wider panel headed "Vähintään neljä koetta vähintään kolmesta ryhmästä", containing four equal sand-coloured tiles in a row: "Matematiikka", "Toinen kotimainen kieli", "Vieras kieli", "Reaaliaine". At the bottom two small rule boxes side by side: "Vähintään yksi pitkän oppimäärän koe" and "Pakolliset kokeet enintään kolmella peräkkäisellä tutkintokerralla". Use exactly these Finnish texts, spelled exactly as written, each once, and no other text, numbers, logos or watermark.'
+  seed: null
+  sha256: 9ad0a53fa621575162b81e88a19e64db818c72718aeeea5ad914639b4bb76684
+  dollars: 0.0336
+  date: '2026-11-21'
+- id: dg-reitit-lukion-jalkeen
+  model: google/nano-banana-2.1
+  prompt: 'A clean flat infographic on a pure white background, high contrast, dark slate text, simple sans-serif font, generous spacing. A central circle reading "Lukion jälkeen". Around it, evenly spaced on a ring, eight circles of exactly the same size and the same visual weight, each joined to the centre by an equal straight line, so that no route looks bigger, higher or more important than another. The eight circles read: "Yliopisto", "Ammattikorkeakoulu (AMK)", "Ammatillinen koulutus", "Kansanopisto", "Välivuosi", "Asepalvelus tai siviilipalvelus", "Työ", "Opiskelu tai työ ulkomailla". Soft muted colours for the circles (teal, sand, sky blue, coral), all equally saturated. A caption along the bottom: "Kaikki reitit ovat yhtä arvokkaita. Reittejä voi myös yhdistää." Use exactly these Finnish texts, spelled exactly as written, each once, and no other text, numbers, arrows ranking the routes, logos or watermark.'
+  seed: null
+  sha256: 94887dc67030975bbde65945ea88d853cd955a98c91276c26695fe0e4c0dc969
+  dollars: 0.0336
+  date: '2026-11-21'
+- id: dg-haku-vaihe-vaiheelta
+  model: google/nano-banana-2.1
+  prompt: 'A clean flat infographic on a pure white background, high contrast, dark slate text, simple sans-serif font, generous spacing. Title at the top left: "Haku vaihe vaiheelta". Below it six rounded step cards in two rows of three, read left to right and top to bottom, joined by simple arrows, each card with a large step number in a small muted teal circle. Step 1 "Valitse muutama kiinnostava koulutus". Step 2 "Katso, miten ja milloin haetaan". Step 3 "Tarkista pääsyvaatimukset ja valintatavat". Step 4 "Tee hakemus Opintopolussa". Step 5 "Valmistaudu valintakokeeseen tai todistusvalintaan". Step 6 "Mieti varasuunnitelma". The only numbers in the picture are the step numbers 1 to 6. Use exactly these Finnish texts, spelled exactly as written, each once, and no other text, dates, logos or watermark.'
+  seed: null
+  sha256: 24e529ddd985d382ca4d665a9b25ef75f26e09ab60a42f4f3f13c5871fbeea6a
+  dollars: 0.0336
+  date: '2026-11-21'
+- id: dg-ohjauksen-aikajana
+  model: google/nano-banana-2.1
+  prompt: 'A clean flat infographic timeline on a pure white background, high contrast, dark slate text, simple sans-serif font, generous spacing. A small tag in the top right corner reading "Esimerkki, koulu päättää". A horizontal timeline divided into three equal columns headed "1. vuosi", "2. vuosi" and "3. vuosi". Above the first column a muted teal band reading "OP1"; above the second and third columns together one warm sand band reading "OP2". Each column holds two rounded cards, an upper one marked "Syksy" and a lower one marked "Kevät" (so "Syksy" and "Kevät" each appear three times, once per column). Card texts: 1. vuosi Syksy "Lukio alkaa ja HOPS", 1. vuosi Kevät "Alustava yo-suunnitelma", 2. vuosi Syksy "Suunnitelmien päivitys", 2. vuosi Kevät "Koulutusväylät", 3. vuosi Syksy "Haku ja valinta", 3. vuosi Kevät "Jatko-opinto- ja urasuunnitelma". Use exactly these Finnish texts, spelled exactly as written, and no other text, dates, logos or watermark.'
+  seed: null
+  sha256: 705e236a30d2fd94ff7410fd0de68f78b65736fbde7e64caebd70d2be47183bc
+  dollars: 0.0336
+  date: '2026-11-21'
+- id: dg-itseopiskelun-askel
+  model: google/nano-banana-2.1
+  prompt: 'A clean flat infographic on a pure white background, high contrast, dark slate text, simple sans-serif font, generous spacing. Four rounded nodes placed clockwise on a circle and joined by curved clockwise arrows, so the loop reads: top "Lue", right "Tee yksi tehtävä", bottom "Pohdi", left "Seuraava askel", and the arrow from "Seuraava askel" returns to "Lue". Each node has a simple abstract icon without letters (an open book, a pencil, a thought bubble, a footstep). In the centre of the circle a muted teal rounded box reading "Kirjaa HOPSiin". Use exactly these Finnish texts, spelled exactly as written, each once, and no other text, numbers, logos or watermark.'
+  seed: null
+  sha256: 7a13cb7e5969161272da0eba6c0d34cfe89695487a683238869e93c20456ffd5
+  dollars: 0.0336
+  date: '2026-11-21'
+- id: dg-opintojen-rakenne
+  model: google/nano-banana-2.1
+  prompt: 'A clean flat infographic on a pure white background, high contrast, dark slate text, muted teal and sand accent shapes, simple sans-serif font, generous spacing. Top row: a small chain of three rounded boxes joined by right-pointing arrows, reading "Opintojakso" then "Moduuli" then "Opintopisteet", with a small caption under the chain reading "Opintojakso koostuu moduuleista. Laajuus mitataan opintopisteinä." Below it, three equal side-by-side cards under a heading "Opinnot jakautuvat kolmeen ryhmään": card one "Pakolliset opinnot" with the line "Kuuluvat kaikille"; card two "Valtakunnalliset valinnaiset opinnot" with the line "Yhteisiä kaikille lukioille" and a second smaller line "Syventävät ja soveltavat opintojaksot"; card three "Koulukohtaiset opinnot" with the line "Valinnaisia, vaihtelevat koulun mukaan". Use exactly these Finnish texts, spelled exactly as written, each once, and no other text, numbers, icons with letters, logos or watermark. The heading of card two is
+    "Valtakunnalliset valinnaiset opinnot", word for word; do not replace "valinnaiset" with any other word.'
+  seed: null
+  sha256: f2dd557b4f525ce4da41cc80330f1f25b28da287a81d5ccc1e5963a5409b9f22
+  dollars: 0.0336
+  date: '2026-11-21'
+- id: il-front
+  model: prunaai/p-image
+  prompt: A wide sunny school courtyard in early autumn with birch trees, where a few upper secondary students walk and talk in small groups, one checks a phone with a blank screen, two sit on a bench; a gentle winding path leads from the courtyard towards an open horizon with soft hills, suggesting many directions ahead. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards
+    are blank or show only simple abstract shapes.
+  seed: 1597579415
+  sha256: 8e5086e7efce0651cbc35c721032a7e063731267c708355c2f6136ea7c76020f
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op1
+  model: prunaai/p-image
+  prompt: 'A bright school entrance hall at the start of the school year: a few new students arriving with backpacks, one holding a door open for another, a friendly adult guidance counsellor greeting them, large windows with autumn leaves outside, a blank notice board. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1372554723
+  sha256: 95f52363d211808737cad7ae150ec7c33af58e1bdc4ffd97202a469caafef717
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op2
+  model: prunaai/p-image
+  prompt: Older students standing together on a gentle hilltop at golden hour, looking out over a landscape where several paths branch towards a small town, a campus, a workshop, a forest and a distant harbour, each path equally lit and equally inviting. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 1610113116
+  sha256: 3d6e2ffadcf319579bf68cde02d7ad6f7fcee2dec5fce8b013e9d91e3163cff4
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op1-01-lukio-alkaa
+  model: prunaai/p-image
+  prompt: 'First week of upper secondary school: three new students in a light school corridor looking together at a simple abstract map drawn with shapes and dotted lines, one pointing the way, lockers and plants in the background, a relaxed and curious mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1985304470
+  sha256: bb52c96fdcf70eb3cc2269a52b23bdda34b58ed7d9a2773efc2954c7f2d25a53
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op1-02-opiskelutaidot
+  model: prunaai/p-image
+  prompt: 'A calm school library table where students try different ways of studying: one sketches a mind map of circles and lines on blank paper, one explains something to a friend with hand gestures, one listens with headphones, one flips small blank flash cards. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 398252401
+  sha256: 5b31ffd8bcea9751ce37e06913687d3d78aaa665f98a031bfeef00ca54bc026d
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op1-03-ajankaytto
+  model: prunaai/p-image
+  prompt: A student at a tidy desk by a window arranging coloured blank sticky notes into a simple weekly grid of seven columns drawn only with lines and colour blocks, with a cup of tea, a plant, a pair of sneakers and a guitar nearby to suggest rest and hobbies; evening light. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 1037031015
+  sha256: 40d3f549b37f90affc45ef0d199480356708a58fe59c7f125fb79693f86393c4
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op1-04-hyvinvointi
+  model: prunaai/p-image
+  prompt: 'Students recharging in a quiet park in late afternoon: one walks a bicycle, two share a snack on the grass, one rests against a tree with eyes closed, soft clouds; a peaceful, balanced, caring mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 426006963
+  sha256: 4d6f6f7a8435d567d9457d4c7b7b7878ef10d56b6650c2e57a6c736a49535209
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op1-05-itsetuntemus
+  model: prunaai/p-image
+  prompt: 'A thoughtful student sitting by a large window, surrounded by soft floating simple symbols of interests and strengths: a music note, a paintbrush, a football, a plant, a wrench, a heart and puzzle pieces, drawn as gentle abstract shapes without any letters; a reflective, warm mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple
+    abstract shapes.'
+  seed: 424671853
+  sha256: f6bd82cd2f54e3dfe0e71fc143d3e5d74dbdf688d472a7d18de0ed0bac4bfa03
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op1-06-hops
+  model: prunaai/p-image
+  prompt: A student and a friendly guidance counsellor sitting side by side at a table, planning together over a laptop with a blank screen and three neat stacks of blank cards in three soft colours, the student moving one card; a light office with plants. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 1524128715
+  sha256: b15c02d08dbf454070ff6b85d70e65fa6cad9587f29223635ebbd177957f2723
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op1-07-ylioppilastutkinto
+  model: prunaai/p-image
+  prompt: A calm spacious exam hall seen from the side, rows of separate desks with laptops showing blank screens, a few students concentrating calmly, water bottles on the desks, tall windows with soft winter light. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 1765230952
+  sha256: b8e144e15a742e73b175c343f3133827a05a865513a1e7eef20f463b863ae879
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op1-08-tietolahteet
+  model: prunaai/p-image
+  prompt: Two students at a library table comparing information, one with a tablet showing only abstract blocks, the other holding a small magnifying glass over a blank leaflet, simple floating shapes of a lightbulb and a check mark above them; curious, careful mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 2114135744
+  sha256: d32409fcea2bccea0ed642352d8c26ae66a8d4bab63819b0d076a187bef3e446
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op1-09-jatko-opintopolut
+  model: prunaai/p-image
+  prompt: 'A student standing at a friendly crossroads in a park where several equally wide paths lead to different small scenes: a campus building, a workshop with tools, a greenhouse, a city street and a small harbour; signposts are blank wooden boards; open, hopeful mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1710599415
+  sha256: 6b625e4f62ccd48fbe398c6630d8d784dc84a0e11e8bedb8de11bc77bd9a66e4
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op2-10-suunnitelmien-paivitys
+  model: prunaai/p-image
+  prompt: 'A student at a desk revising a plan: rearranging blank cards on a corkboard connected by thread, a pencil in hand, an older draft folded beside them, a window showing autumn trees; calm, unhurried, positive mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1318905890
+  sha256: b72dab40b135c51fa315018ffb34faada3443b3ad6c396477d902a4f0fb6033e
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op2-11-osaaminen
+  model: prunaai/p-image
+  prompt: 'A student building a simple portfolio on a table: laying out blank photos and small objects from everyday life such as a football whistle, a cooking spoon, a small robot kit, a sketchbook and a volunteer badge without letters, arranging them into a tidy collection; proud, quiet mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple
+    abstract shapes.'
+  seed: 1654344097
+  sha256: 9239231e34f8cfbfc0c626be67507c8d9b2fde1479b80f3b5d1ae1836733028e
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op2-12-tyoelama-ja-ennakointi
+  model: prunaai/p-image
+  prompt: 'A wide collage-like scene of varied modern work: a young person repairing a bicycle in a small workshop, another working remotely on a laptop with a blank screen at a kitchen table, a third tending plants in a greenhouse, a fourth sketching a product idea; soft shapes connect the scenes like a gentle flowing ribbon. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and
+    boards are blank or show only simple abstract shapes.'
+  seed: 1118231400
+  sha256: ab47c22c12af67c0083c17658e246dbbc94708dda5ac6760ff8bac396dd92c49
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op2-13-tyonhaku
+  model: prunaai/p-image
+  prompt: 'A friendly summer job interview in a bright small café: a young applicant and an employer sitting across a table, both smiling, a blank sheet of paper on the table, coffee cups, plants and a sunny window. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1112120578
+  sha256: d3b0c44bbab808363293c46c23db1ee9e963c6409b9cc39a7bea692aa5079f7b
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op2-14-koulutusvaylat
+  model: prunaai/p-image
+  prompt: 'A gentle landscape seen from above with several equally sized winding roads leading from one small school to different destinations: a university building, a workshop, a cosy folk high school by a lake, a backpacker on a trail, a port with a ship; tiny students walking each road; no road is more prominent than another. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers
+    and boards are blank or show only simple abstract shapes.'
+  seed: 36671973
+  sha256: ac3d100fdb83d6f7e5bf5c1cd0d2994c6e9099ce2241b3a68de4c543395adc05
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op2-15-haku-ja-valinta
+  model: prunaai/p-image
+  prompt: Two students at a kitchen table preparing applications together, a laptop with a blank screen, a simple checklist made of tick boxes without words, a calendar drawn only as an empty grid, a mug and a plant; focused but relaxed mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 1483811839
+  sha256: e47f9d004ec5157b2b3ba1ee349b6f6fcd39a86f4691a12f0cda25e5ba113c6c
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op2-16-kansainvalisyys
+  model: prunaai/p-image
+  prompt: A diverse group of young people chatting and laughing around a table in a bright shared space, a simple globe and a paper airplane on the table, a window showing a mixed skyline of a Nordic town and distant places; welcoming, international mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 804013556
+  sha256: 4f6594ba81dfa7f981455d4ed625719826bdcda0f6ba3b89ee05ca9368c7be30
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op2-17-talous-ja-asuminen
+  model: prunaai/p-image
+  prompt: A young person in a small, simply furnished first apartment, sitting on the floor among a few moving boxes with a notebook of blank pages and a small piggy bank, a plant and a lamp; cosy, hopeful, modest mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 1106921675
+  sha256: 9079c67c24ebc27c6b45df174cd7e5345d470b605cbdb63518f33ab7ad66169f
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op2-18-urasuunnitelma
+  model: prunaai/p-image
+  prompt: Students in spring at the edge of the schoolyard looking towards an open path into a bright landscape, one waves goodbye to a friend, one carries a backpack, a guidance counsellor waves from the school door; blooming trees, a sense of a calm transition and new beginnings. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract
+    shapes.
+  seed: 1657830646
+  sha256: f6f723b4b6a315ecbf4966778aa475d42e5a5d8b785a0747328822b1cd012a04
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op1-03-ajankaytto
+  model: prunaai/p-image
+  prompt: Flat vector illustration, not a photograph, not a flat-lay, no photoreal objects, no real hands. Side view of one teenage student sitting on a chair at a simple desk, the student's whole upper body and friendly face clearly visible, reaching up to place a coloured square on a large weekly planner board on the wall in front of them. The planner is a simple grid of seven equal columns and three rows of plain colour blocks, with no writing. A window behind the desk shows a calm evening sky in soft coral; a desk lamp glows. A guitar leans against the wall and a pair of sneakers sits on the floor to suggest hobbies and rest; a mug and a small plant on the desk. Drawn in the same simple flat shapes as a children's educational book. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic
+    school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 1037031016
+  sha256: 5f3245fc1a66cb076033679927e56f9a99f65c907f278c985d0fbd2f78d556b8
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op2-11-osaaminen
+  model: prunaai/p-image
+  prompt: 'Flat vector illustration of exactly one teenage student, alone, standing at a small table seen from the front at eye level, the only person in the picture. The student holds up a sketchbook with one hand while the other hand rests on the table. On the table, large and clearly visible in the centre, lie a few everyday objects spread out in a neat row: a referee whistle on a cord, a wooden cooking spoon, a small toy robot kit, a pair of running shoes and a round badge with only a heart shape. Behind the student, a wall with a few blank picture frames. Simple room, lots of empty space, proud quiet mood. Not a group, not a meeting, no round table, no other people. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space.
+    Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1654344098
+  sha256: b218278ac25ac929796e737070e698dd359b85ab13f0c9141232ac98fb0e845c
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op2-12-tyoelama-ja-ennakointi
+  model: prunaai/p-image
+  prompt: 'Flat vector illustration divided into four equal side-by-side vertical scenes, each scene fully drawn edge to edge with a detailed background, no empty panels, no blank boxes, no frames. Scene one: a young person kneeling in a bicycle repair workshop, holding a wrench to an upside-down bicycle on a stand, tools on a wall board. Scene two: a young person working at a laptop at a home kitchen table with a cat and a teapot. Scene three: a young person watering green plants in rows inside a glass greenhouse. Scene four: a young person standing at a drawing table sketching a chair design with a pencil, a small wooden chair model beside them. Each scene shows a different job, a different setting and a different person; only one scene has a laptop. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit
+    of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1118231401
+  sha256: f59ae31bb00b99b603f2c7e7004e5dbbd398b9677df5a76e62b332614e74ba66
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op2-14-koulutusvaylat
+  model: prunaai/p-image
+  prompt: 'Flat vector illustration, map-like view from high above. A small school building sits exactly in the centre. Five roads of exactly the same width and the same colour radiate straight out from the school like the spokes of a wheel, evenly spaced, each the same length, none larger or brighter than the others. At the end of each road is a different destination of the same size: a university building with columns, a workshop with a large garage door and a gear on its roof, a red wooden folk high school house by a small lake, a forest trail with a hiker carrying a backpack, a harbour with one small ship. One tiny student walks on each road. Soft green fields between the roads. Symmetric, balanced composition. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light,
+    airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 36671974
+  sha256: 6154c0f4addea46bbf66d717eb9d8ca047dd96812e6bcecebd6aa374c08a4181
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op2-12-tyoelama-ja-ennakointi
+  model: prunaai/p-image
+  prompt: 'Flat vector illustration made of exactly four scenes in one single horizontal row, left to right, four scenes only, not six, no second row. Each scene has its own fully drawn background, no empty panels. Scene one: a young person standing beside a bicycle that is turned upside down and resting on its seat and handlebars, tightening the wheel with a wrench, nobody riding or sitting on the bicycle, tools hanging on the wall. Scene two: one young person alone at a home desk by a window, wearing headphones, on a video call; this is the only computer in the whole picture. Scene three: a young person watering rows of plants inside a glass greenhouse. Scene four: a young person at an easel sketching a chair, a small wooden chair beside them. Four different people, four different jobs, four different settings. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft
+    coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1118231402
+  sha256: 279a2b038761f018d0bb0da474d365d7a7bf191d590f96a65ac6e91706508e6e
+  dollars: 0.005
+  date: '2026-11-21'
+- id: il-op2-14-koulutusvaylat
+  model: prunaai/p-image
+  prompt: 'Flat vector illustration, map-like view from high above. In the exact centre stands one small school building with a flag pole and a schoolyard, clearly drawn and easy to see. Exactly five roads, no more, of exactly the same width and colour, lead straight out from the school to five destinations of the same size placed evenly around it like a star: top left a university building with columns; top right a workshop with a large garage door and a gear on its roof; right a red wooden folk high school house on the shore of a small lake; bottom right a forest trail with a hiker carrying a big backpack; bottom left a harbour with a pier and one ship. One tiny student walks on each road. Every road ends at its destination; no road leads nowhere. Soft green fields between the roads, balanced composition. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral
+    and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones and backgrounds, natural relaxed poses, simple friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 36671975
+  sha256: 2caf230994c666ecab352a9053a4469aeaa9f1d5c80e8aec60fe450e4b42fb7c
+  dollars: 0.005
+  date: '2026-11-21'

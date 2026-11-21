@@ -1,0 +1,314 @@
+# Illustrations (p-image on Replicate, D-009; klein could not run: E: full) for brief 003: one calm picture at the top of the front, op1, op2 and every topic page.
+# Read together with data/images.yaml (which holds the style line and the diagrams) by pipeline/images.py.
+
+images:
+
+  # ---------------------------------------------------------------- illustrations (p-image), page headers
+
+  - id: il-front
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: front
+    placement: header
+    decorative: true
+    prompt: >-
+      A wide sunny school courtyard in early autumn with birch trees, where a few upper secondary students walk
+      and talk in small groups, one checks a phone with a blank screen, two sit on a bench; a gentle winding path
+      leads from the courtyard towards an open horizon with soft hills, suggesting many directions ahead.
+    alt: >-
+      Opiskelijoita lukion pihalla syksyllä, ja polku jatkuu kohti avointa maisemaa.
+
+  - id: il-op1
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: op1
+    placement: header
+    decorative: true
+    prompt: >-
+      A bright school entrance hall at the start of the school year: a few new students arriving with backpacks,
+      one holding a door open for another, a friendly adult guidance counsellor greeting them, large windows with
+      autumn leaves outside, a blank notice board.
+    alt: >-
+      Uusia opiskelijoita saapuu valoisaan koulun aulaan, ja ohjaaja tervehtii heitä.
+
+  - id: il-op2
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: op2
+    placement: header
+    decorative: true
+    prompt: >-
+      Older students standing together on a gentle hilltop at golden hour, looking out over a landscape where
+      several paths branch towards a small town, a campus, a workshop, a forest and a distant harbour, each path
+      equally lit and equally inviting.
+    alt: >-
+      Opiskelijoita mäen päällä katsomassa maisemaa, jossa monta yhtä houkuttelevaa polkua haarautuu eri suuntiin.
+
+  - id: il-op1-01-lukio-alkaa
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: op1-01-lukio-alkaa
+    placement: header
+    decorative: true
+    prompt: >-
+      First week of upper secondary school: three new students in a light school corridor looking together at a
+      simple abstract map drawn with shapes and dotted lines, one pointing the way, lockers and plants in the
+      background, a relaxed and curious mood.
+    alt: >-
+      Kolme uutta opiskelijaa katsoo yhdessä koulun käytävällä yksinkertaista karttaa.
+
+  - id: il-op1-02-opiskelutaidot
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: op1-02-opiskelutaidot
+    placement: header
+    decorative: true
+    prompt: >-
+      A calm school library table where students try different ways of studying: one sketches a mind map of
+      circles and lines on blank paper, one explains something to a friend with hand gestures, one listens with
+      headphones, one flips small blank flash cards.
+    alt: >-
+      Opiskelijat kokeilevat kirjaston pöydän ääressä erilaisia tapoja opiskella.
+
+  - id: il-op1-03-ajankaytto
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: op1-03-ajankaytto
+    placement: header
+    decorative: true
+    prompt: >-
+      Flat vector illustration, not a photograph, not a flat-lay, no photoreal objects, no real hands. Side view of
+      one teenage student sitting on a chair at a simple desk, the student's whole upper body and friendly face
+      clearly visible, reaching up to place a coloured square on a large weekly planner board on the wall in front of
+      them. The planner is a simple grid of seven equal columns and three rows of plain colour blocks, with no
+      writing. A window behind the desk shows a calm evening sky in soft coral; a desk lamp glows. A guitar leans
+      against the wall and a pair of sneakers sits on the floor to suggest hobbies and rest; a mug and a small plant
+      on the desk. Drawn in the same simple flat shapes as a children's educational book.
+    alt: >-
+      Opiskelija järjestää viikkoaan värillisillä lapuilla seinällä olevaan viikkotaulukkoon, ja toinen opiskelija
+      istuu pöydän ääressä.
+
+  - id: il-op1-04-hyvinvointi
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: op1-04-hyvinvointi
+    placement: header
+    decorative: true
+    prompt: >-
+      Students recharging in a quiet park in late afternoon: one walks a bicycle, two share a snack on the grass,
+      one rests against a tree with eyes closed, soft clouds; a peaceful, balanced, caring mood.
+    alt: >-
+      Opiskelijat lepäävät ja liikkuvat rauhallisessa puistossa iltapäivällä.
+
+  - id: il-op1-05-itsetuntemus
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: op1-05-itsetuntemus
+    placement: header
+    decorative: true
+    prompt: >-
+      A thoughtful student sitting by a large window, surrounded by soft floating simple symbols of interests and
+      strengths: a music note, a paintbrush, a football, a plant, a wrench, a heart and puzzle pieces, drawn as
+      gentle abstract shapes without any letters; a reflective, warm mood.
+    alt: >-
+      Opiskelija pohtii ikkunan ääressä, ja hänen ympärillään on kiinnostuksia kuvaavia symboleita.
+
+  - id: il-op1-06-hops
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: op1-06-hops
+    placement: header
+    decorative: true
+    prompt: >-
+      A student and a friendly guidance counsellor sitting side by side at a table, planning together over a laptop
+      with a blank screen and three neat stacks of blank cards in three soft colours, the student moving one card;
+      a light office with plants.
+    alt: >-
+      Opiskelija ja opinto-ohjaaja suunnittelevat yhdessä pöydän ääressä.
+
+  - id: il-op1-07-ylioppilastutkinto
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: op1-07-ylioppilastutkinto
+    placement: header
+    decorative: true
+    prompt: >-
+      A calm spacious exam hall seen from the side, rows of separate desks with laptops showing blank screens,
+      a few students concentrating calmly, water bottles on the desks, tall windows with soft winter light.
+    alt: >-
+      Opiskelijat tekevät rauhallisesti koetta tietokoneilla valoisassa salissa.
+
+  - id: il-op1-08-tietolahteet
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: op1-08-tietolahteet
+    placement: header
+    decorative: true
+    prompt: >-
+      Two students at a library table comparing information, one with a tablet showing only abstract blocks, the
+      other holding a small magnifying glass over a blank leaflet, simple floating shapes of a lightbulb and a
+      check mark above them; curious, careful mood.
+    alt: >-
+      Kaksi opiskelijaa vertailee tietoa tabletilta ja esitteestä suurennuslasin avulla.
+
+  - id: il-op1-09-jatko-opintopolut
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: op1-09-jatko-opintopolut
+    placement: header
+    decorative: true
+    prompt: >-
+      A student standing at a friendly crossroads in a park where several equally wide paths lead to different
+      small scenes: a campus building, a workshop with tools, a greenhouse, a city street and a small harbour;
+      signposts are blank wooden boards; open, hopeful mood.
+    alt: >-
+      Opiskelija seisoo risteyksessä, josta monta yhtä leveää polkua johtaa eri suuntiin.
+
+  - id: il-op2-10-suunnitelmien-paivitys
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: op2-10-suunnitelmien-paivitys
+    placement: header
+    decorative: true
+    prompt: >-
+      A student at a desk revising a plan: rearranging blank cards on a corkboard connected by thread, a pencil in
+      hand, an older draft folded beside them, a window showing autumn trees; calm, unhurried, positive mood.
+    alt: >-
+      Opiskelija päivittää suunnitelmaansa järjestämällä kortteja ilmoitustaululla.
+
+  - id: il-op2-11-osaaminen
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: op2-11-osaaminen
+    placement: header
+    decorative: true
+    prompt: >-
+      Flat vector illustration of exactly one teenage student, alone, standing at a small table seen from the front at
+      eye level, the only person in the picture. The student holds up a sketchbook with one hand while the other hand
+      rests on the table. On the table, large and clearly visible in the centre, lie a few everyday objects spread out
+      in a neat row: a referee whistle on a cord, a wooden cooking spoon, a small toy robot kit, a pair of running
+      shoes and a round badge with only a heart shape. Behind the student, a wall with a few blank picture frames.
+      Simple room, lots of empty space, proud quiet mood. Not a group, not a meeting, no round table, no other people.
+    alt: >-
+      Opiskelija kokoaa osaamistaan kuvaavia arkisia esineitä yhteen pöydälle.
+
+  - id: il-op2-12-tyoelama-ja-ennakointi
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: op2-12-tyoelama-ja-ennakointi
+    placement: header
+    decorative: true
+    prompt: >-
+      Flat vector illustration made of exactly four scenes in one single horizontal row, left to right, four scenes
+      only, not six, no second row. Each scene has its own fully drawn background, no empty panels. Scene one: a young
+      person standing beside a bicycle that is turned upside down and resting on its seat and handlebars, tightening
+      the wheel with a wrench, nobody riding or sitting on the bicycle, tools hanging on the wall. Scene two: one
+      young person alone at a home desk by a window, wearing headphones, on a video call; this is the only computer in
+      the whole picture. Scene three: a young person watering rows of plants inside a glass greenhouse. Scene four: a
+      young person at an easel sketching a chair, a small wooden chair beside them. Four different people, four
+      different jobs, four different settings.
+    alt: >-
+      Neljä erilaista työtä rinnakkain: pyöräkorjaamo, etätyö kotona, kasvihuone ja tuotesuunnittelu.
+
+  - id: il-op2-13-tyonhaku
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: op2-13-tyonhaku
+    placement: header
+    decorative: true
+    prompt: >-
+      A friendly summer job interview in a bright small café: a young applicant and an employer sitting across a
+      table, both smiling, a blank sheet of paper on the table, coffee cups, plants and a sunny window.
+    alt: >-
+      Nuori hakija ja työnantaja keskustelevat ystävällisesti kahvilan pöydän ääressä.
+
+  - id: il-op2-14-koulutusvaylat
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: op2-14-koulutusvaylat
+    placement: header
+    decorative: true
+    prompt: >-
+      Flat vector illustration, map-like view from high above. In the exact centre stands one small school building
+      with a flag pole and a schoolyard, clearly drawn and easy to see. Exactly five roads, no more, of exactly the
+      same width and colour, lead straight out from the school to five destinations of the same size placed evenly
+      around it like a star: top left a university building with columns; top right a workshop with a large garage
+      door and a gear on its roof; right a red wooden folk high school house on the shore of a small lake; bottom
+      right a forest trail with a hiker carrying a big backpack; bottom left a harbour with a pier and one ship. One
+      tiny student walks on each road. Every road ends at its destination; no road leads nowhere. Soft green fields
+      between the roads, balanced composition.
+    alt: >-
+      Maisema, jossa viisi yhtä suurta tietä johtaa koulusta eri kohteisiin: yliopisto, työpaja, kansanopisto,
+      retkeilypolku ja satama.
+
+  - id: il-op2-15-haku-ja-valinta
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: op2-15-haku-ja-valinta
+    placement: header
+    decorative: true
+    prompt: >-
+      Two students at a kitchen table preparing applications together, a laptop with a blank screen, a simple
+      checklist made of tick boxes without words, a calendar drawn only as an empty grid, a mug and a plant;
+      focused but relaxed mood.
+    alt: >-
+      Kaksi opiskelijaa valmistelee hakemuksia yhdessä keittiön pöydän ääressä.
+
+  - id: il-op2-16-kansainvalisyys
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: op2-16-kansainvalisyys
+    placement: header
+    decorative: true
+    prompt: >-
+      A diverse group of young people chatting and laughing around a table in a bright shared space, a simple
+      globe and a paper airplane on the table, a window showing a mixed skyline of a Nordic town and distant
+      places; welcoming, international mood.
+    alt: >-
+      Monitaustainen nuorten ryhmä juttelee pöydän ääressä, ja pöydällä on karttapallo.
+
+  - id: il-op2-17-talous-ja-asuminen
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: op2-17-talous-ja-asuminen
+    placement: header
+    decorative: true
+    prompt: >-
+      A young person in a small, simply furnished first apartment, sitting on the floor among a few moving boxes
+      with a notebook of blank pages and a small piggy bank, a plant and a lamp; cosy, hopeful, modest mood.
+    alt: >-
+      Nuori istuu ensimmäisessä asunnossaan muuttolaatikoiden keskellä ja suunnittelee talouttaan.
+
+  - id: il-op2-18-urasuunnitelma
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: op2-18-urasuunnitelma
+    placement: header
+    decorative: true
+    prompt: >-
+      Students in spring at the edge of the schoolyard looking towards an open path into a bright landscape, one
+      waves goodbye to a friend, one carries a backpack, a guidance counsellor waves from the school door; blooming
+      trees, a sense of a calm transition and new beginnings.
+    alt: >-
+      Opiskelijat lähtevät keväällä koulun pihalta kohti avointa maisemaa.

@@ -31,18 +31,29 @@ def timing_text(topic: Topic) -> str:
     return f"{timing.get('year')}. vuosi, {timing.get('term')} (esimerkki, koulu päättää)"
 
 
-def render_section(section: Section, ident: str) -> str:
+def render_section(section: Section, ident: str, figures: str = "") -> str:
     body = render_markdown(section.text)
-    return f'<section id="{ident}" class="topic-section">\n<h2>{esc(section.title)}</h2>\n{body}\n</section>'
+    return f'<section id="{ident}" class="topic-section">\n<h2>{esc(section.title)}</h2>\n{body}\n{figures}</section>'
 
 
-def render_named_sections(topic: Topic, names: tuple[str, ...]) -> str:
+def render_named_sections(topic: Topic, names: tuple[str, ...], figures: dict[str, str] | None = None) -> str:
+    """The named sections; `figures` is {section id: picture html} from data/images.yaml, placed at the section's end."""
     parts = []
     for name in names:
         section = topic.section(name)
         if section is not None:
-            parts.append(render_section(section, SECTION_IDS[name]))
+            parts.append(render_section(section, SECTION_IDS[name], (figures or {}).get(SECTION_IDS[name], "")))
     return "\n".join(parts)
+
+
+def section_names(topics: list[Topic]) -> dict[str, set[str]]:
+    """{topic id: the section names and ids a picture may be placed at}."""
+    return {t.id: set(SECTION_IDS) | set(SECTION_IDS.values()) for t in topics}
+
+
+def topic_figures(ctx: Ctx, data: SiteData, topic: Topic) -> tuple[str, dict[str, str]]:
+    """The header picture and the section pictures of a topic."""
+    return data.images.header(ctx, topic.id), data.images.sections(ctx, topic.id, SECTION_IDS)
 
 
 def code_href(ctx: Ctx, code: str) -> str:
@@ -166,15 +177,17 @@ def tick_block(ctx: Ctx, topic: Topic) -> str:
 
 def student_page(data: SiteData, topic: Topic) -> str:
     ctx = Ctx(topic.url_dir)
+    header, figures = topic_figures(ctx, data, topic)
     parts = [
         f'<article class="topic student-view">\n<p class="kicker">Aihe {topic_label(topic)}</p>',
         f"<h1>{esc(topic.title)}</h1>",
         f'<p class="summary">{esc(topic.meta.get("summary", ""))}</p>',
+        header,
         meta_list(ctx, data, topic, lesson=False),
         view_switch(ctx, topic, "student"),
     ]
     for name in STUDENT_SECTIONS:
-        parts.append(render_named_sections(topic, (name,)))
+        parts.append(render_named_sections(topic, (name,), figures))
         if name == "Itseopiskelun askel":
             parts.append(tick_block(ctx, topic))
     parts += [sources_block(ctx, data, topic), neighbours(ctx, data, topic, ""), "</article>"]
@@ -197,7 +210,9 @@ def lesson_body(ctx: Ctx, data: SiteData, topic: Topic, full_sources: bool) -> s
         items = "".join(f"<li>{esc(item)}</li>" for item in adapts)
         parts.append(f'<section id="koulu-paattaa" class="box">\n<h2>Koulu päättää (esimerkki)</h2>\n<ul>{items}</ul>\n</section>')
     parts.append(curriculum_box(ctx, data, topic))
-    parts.append(render_named_sections(topic, LESSON_SECTIONS))
+    parts.append(data.images.diagrams(ctx, topic.id))  # so a counsellor can project it
+    sections = data.images.sections(ctx, topic.id, SECTION_IDS, diagrams=False)
+    parts.append(render_named_sections(topic, LESSON_SECTIONS, sections))
     parts.append(sources_block(ctx, data, topic) if full_sources else "")
     return "\n".join(p for p in parts if p)
 
@@ -208,6 +223,7 @@ def lesson_page(data: SiteData, topic: Topic) -> str:
         f'<article class="topic lesson-view">\n<p class="kicker">Aihe {topic_label(topic)} · opinto-ohjaajalle</p>',
         f"<h1>{esc(topic.title)}: tuntisuunnitelma</h1>",
         f'<p class="summary">{esc(topic.meta.get("summary", ""))}</p>',
+        topic_figures(ctx, data, topic)[0],
         view_switch(ctx, topic, "lesson"),
         lesson_body(ctx, data, topic, full_sources=True),
         neighbours(ctx, data, topic, "/tunti"),

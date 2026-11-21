@@ -33,3 +33,8 @@ thead { display: table-header-group; }
 /* Own notes, filled in by the script when "Tulosta omat muistiinpanot" is pressed. */
 .printing-notes main > *:not(.notes-print) { display: none !important; }
 .printing-notes .notes-print { display: block !important; }
+
+/* Illustrations are left out of print to save ink; diagrams stay and keep to the page. */
+.picture-illustration { display: none !important; }
+.picture-diagram { break-inside: avoid; page-break-inside: avoid; }
+.picture img { max-width: 100%; height: auto; }

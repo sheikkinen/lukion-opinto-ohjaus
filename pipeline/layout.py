@@ -9,6 +9,7 @@ from datetime import date
 from pathlib import Path
 from string import Template
 
+from pipeline.images import ImageSet
 from pipeline.models import Document, Topic, fi_date
 
 SITE_NAME = "Lukion opinto-ohjaus"
@@ -41,6 +42,7 @@ class SiteData:
     facts: dict[str, dict]
     today: date
     templates_dir: Path
+    images: ImageSet = field(default_factory=ImageSet)
     topics_by_id: dict[str, Topic] = field(init=False)
 
     def __post_init__(self) -> None:
