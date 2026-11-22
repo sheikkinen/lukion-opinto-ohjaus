@@ -14,6 +14,10 @@ self_study_minutes: 40
 prerequisites: [op1-03-ajankaytto]
 hops_part: opiskelusuunnitelma
 official_links:
+  - title: "Visual novel: Hyvinvointi ja opiskelukyky"
+    url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch04-hyvinvointi"
+    publisher: "Lukion opinto-ohjauksen visual novel -sarja (CC BY)"
+    read: 2026-11-22
   - title: "Opiskeluhuolto"
     url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto"
     publisher: "Opetushallitus"
@@ -173,6 +177,8 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan arvioida tuen ja ohjauksen tarvettani ja tiedän, mistä saan apua.
 
 Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
+
+**Pelaa aiheesta visual novel:** [Hyvinvointi ja opiskelukyky](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch04-hyvinvointi). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Itseopiskelun askel
 

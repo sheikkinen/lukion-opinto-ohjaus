@@ -12,6 +12,10 @@ self_study_minutes: 45
 prerequisites: [op2-14-koulutusvaylat]
 hops_part: jatko-opinto- ja urasuunnitelma
 official_links:
+  - title: "Visual novel: Kansainvälisyys"
+    url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch07-kansainvalisyys"
+    publisher: "Lukion opinto-ohjauksen visual novel -sarja (CC BY)"
+    read: 2026-11-22
   - title: "Studyinfo (Opintopolun englanninkielinen osa)"
     url: "https://opintopolku.fi/konfo/en/"
     publisher: "Opetushallitus (Opintopolku)"
@@ -206,6 +210,8 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan kirjata kansainvälisyyden jatko-opinto- ja urasuunnitelmaani, vaikka päätyisin jäämään Suomeen.
 
 Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
+
+**Pelaa aiheesta visual novel:** [Kansainvälisyys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch07-kansainvalisyys). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Itseopiskelun askel
 

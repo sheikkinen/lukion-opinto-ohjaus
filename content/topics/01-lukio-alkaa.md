@@ -16,6 +16,10 @@ self_study_minutes: 40
 prerequisites: []
 hops_part: opiskelusuunnitelma
 official_links:
+  - title: "Visual novel: Lukio alkaa"
+    url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch01-lukio-alkaa"
+    publisher: "Lukion opinto-ohjauksen visual novel -sarja (CC BY)"
+    read: 2026-11-22
   - title: "Lukiokoulutus"
     url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/lukiokoulutus"
     publisher: "Opetushallitus"
@@ -174,6 +178,8 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan kertoa, mistä henkilökohtaisessa opintosuunnitelmassa (HOPS) on kyse ja mistä saan siihen apua.
 
 Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
+
+**Pelaa aiheesta visual novel:** [Lukio alkaa](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch01-lukio-alkaa). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Itseopiskelun askel
 

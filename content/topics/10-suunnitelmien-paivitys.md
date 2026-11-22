@@ -15,6 +15,10 @@ self_study_minutes: 45
 prerequisites: [op1-07-ylioppilastutkinto, op1-09-jatko-opintopolut]
 hops_part: ylioppilastutkintosuunnitelma
 official_links:
+  - title: "Visual novel: Suunnitelmien päivitys"
+    url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch01-suunnitelmien-paivitys"
+    publisher: "Lukion opinto-ohjauksen visual novel -sarja (CC BY)"
+    read: 2026-11-22
   - title: "Tutkinnon rakenne"
     url: "https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/tutkinnon-rakenne"
     publisher: "Ylioppilastutkintolautakunta"
@@ -215,6 +219,8 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan nimetä kaksi vaihtoehtoa jatkosuunnitelmalleni ja kirjata, mitä teen pitääkseni ne auki.
 
 Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
+
+**Pelaa aiheesta visual novel:** [Suunnitelmien päivitys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch01-suunnitelmien-paivitys). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Itseopiskelun askel
 

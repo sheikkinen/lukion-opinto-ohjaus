@@ -12,6 +12,10 @@ self_study_minutes: 55
 prerequisites: [op2-14-koulutusvaylat]
 hops_part: jatko-opinto- ja urasuunnitelma
 official_links:
+  - title: "Visual novel: Haku ja valinta"
+    url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch06-haku-ja-valinta"
+    publisher: "Lukion opinto-ohjauksen visual novel -sarja (CC BY)"
+    read: 2026-11-22
   - title: "Opintopolku: hakuaikataulut"
     url: "https://opintopolku.fi/konfo/fi/sivu/hakuaikataulut"
     publisher: "Opetushallitus (Opintopolku)"
@@ -194,6 +198,8 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan tarkistaa Opintopolusta ajankohtaiset hakuasiat ja tiedän, mistä saan apua hakuun.
 
 Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
+
+**Pelaa aiheesta visual novel:** [Haku ja valinta](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch06-haku-ja-valinta). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Itseopiskelun askel
 

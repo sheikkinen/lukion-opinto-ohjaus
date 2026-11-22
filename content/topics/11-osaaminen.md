@@ -14,6 +14,10 @@ self_study_minutes: 40
 prerequisites: [op2-10-suunnitelmien-paivitys]
 hops_part: jatko-opinto- ja urasuunnitelma
 official_links:
+  - title: "Visual novel: Osaamisen tunnistaminen ja dokumentointi"
+    url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch02-osaaminen"
+    publisher: "Lukion opinto-ohjauksen visual novel -sarja (CC BY)"
+    read: 2026-11-22
   - title: "Europass"
     url: "https://europass.europa.eu/fi"
     publisher: "Euroopan unioni (Europass)"
@@ -182,6 +186,8 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan kuvata vahvuuteni konkreettisilla esimerkeillä, kirjoittaa yhden lauseen siitä, mitä osaamiseni kertoo minusta, ja valita taidon, jota haluan seuraavaksi kehittää.
 
 Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
+
+**Pelaa aiheesta visual novel:** [Osaamisen tunnistaminen ja dokumentointi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch02-osaaminen). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Itseopiskelun askel
 

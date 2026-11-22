@@ -15,6 +15,10 @@ self_study_minutes: 40
 prerequisites: [op1-06-hops]
 hops_part: ylioppilastutkintosuunnitelma
 official_links:
+  - title: "Visual novel: Ylioppilastutkinto ja yo-suunnitelma"
+    url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch07-ylioppilastutkinto"
+    publisher: "Lukion opinto-ohjauksen visual novel -sarja (CC BY)"
+    read: 2026-11-22
   - title: "Tutkinnon rakenne"
     url: "https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/tutkinnon-rakenne"
     publisher: "Ylioppilastutkintolautakunta"
@@ -224,6 +228,8 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan tarkistaa ajankohtaiset päivät ja maksut virallisilta sivuilta.
 
 Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
+
+**Pelaa aiheesta visual novel:** [Ylioppilastutkinto ja yo-suunnitelma](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch07-ylioppilastutkinto). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Itseopiskelun askel
 

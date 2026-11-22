@@ -12,6 +12,10 @@ self_study_minutes: 50
 prerequisites: [op1-09-jatko-opintopolut]
 hops_part: jatko-opinto- ja urasuunnitelma
 official_links:
+  - title: "Visual novel: Koulutusväylät ja muut reitit"
+    url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch05-koulutusvaylat"
+    publisher: "Lukion opinto-ohjauksen visual novel -sarja (CC BY)"
+    read: 2026-11-22
   - title: "Opintopolku"
     url: "https://opintopolku.fi/konfo/fi/"
     publisher: "Opetushallitus (Opintopolku)"
@@ -189,6 +193,8 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan kirjata alustavan reittivertailun jatko-opinto- ja urasuunnitelmaani ja tiedän, että saan muuttaa sitä.
 
 Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
+
+**Pelaa aiheesta visual novel:** [Koulutusväylät ja muut reitit](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch05-koulutusvaylat). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Itseopiskelun askel
 

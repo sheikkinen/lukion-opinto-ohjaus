@@ -16,6 +16,10 @@ self_study_minutes: 45
 prerequisites: [op2-15-haku-ja-valinta, op2-10-suunnitelmien-paivitys]
 hops_part: jatko-opinto- ja urasuunnitelma
 official_links:
+  - title: "Visual novel: Jatko-opinto- ja urasuunnitelma ja siirtymä"
+    url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch09-urasuunnitelma"
+    publisher: "Lukion opinto-ohjauksen visual novel -sarja (CC BY)"
+    read: 2026-11-22
   - title: "Opintopolun neuvonta ja ohjaus"
     url: "https://opintopolku.fi/konfo/fi/sivu/neuvonta-ja-ohjaus"
     publisher: "Opetushallitus (Opintopolku)"
@@ -208,6 +212,8 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Tiedän, mistä saan tukea lukion jälkeen, ja millä ehdoilla oikeus ohjaukseen jatkuu.
 
 Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
+
+**Pelaa aiheesta visual novel:** [Jatko-opinto- ja urasuunnitelma ja siirtymä](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch09-urasuunnitelma). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Itseopiskelun askel
 

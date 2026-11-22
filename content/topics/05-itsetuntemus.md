@@ -15,6 +15,10 @@ self_study_minutes: 45
 prerequisites: [op1-01-lukio-alkaa]
 hops_part: jatko-opinto- ja urasuunnitelma
 official_links:
+  - title: "Visual novel: Itsetuntemus, vahvuudet ja arvot"
+    url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch05-itsetuntemus"
+    publisher: "Lukion opinto-ohjauksen visual novel -sarja (CC BY)"
+    read: 2026-11-22
   - title: "Ammatinvalinta ja urasuunnittelu"
     url: "https://tyomarkkinatori.fi/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/ammatinvalinta-ja-urasuunnittelu"
     publisher: "KEHA-keskus (Työmarkkinatori)"
@@ -171,6 +175,8 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan arvioida itseäni ja kuvata, mitä osaan ja missä haluan kehittyä.
 
 Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
+
+**Pelaa aiheesta visual novel:** [Itsetuntemus, vahvuudet ja arvot](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch05-itsetuntemus). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Itseopiskelun askel
 

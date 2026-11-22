@@ -15,6 +15,10 @@ self_study_minutes: 45
 prerequisites: [op1-01-lukio-alkaa]
 hops_part: opiskelusuunnitelma
 official_links:
+  - title: "Visual novel: Opiskelutaidot ja oppimaan oppiminen"
+    url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch02-opiskelutaidot"
+    publisher: "Lukion opinto-ohjauksen visual novel -sarja (CC BY)"
+    read: 2026-11-22
   - title: "Lukiolaki 714/2018"
     url: "https://www.finlex.fi/fi/lainsaadanto/2018/714"
     publisher: "Finlex"
@@ -161,6 +165,8 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan kokeilla työtapaa ja tarkistaa, auttoiko se minua muistamaan asian.
 
 Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
+
+**Pelaa aiheesta visual novel:** [Opiskelutaidot ja oppimaan oppiminen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch02-opiskelutaidot). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Itseopiskelun askel
 

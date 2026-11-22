@@ -14,6 +14,10 @@ self_study_minutes: 45
 prerequisites: [op2-11-osaaminen]
 hops_part: jatko-opinto- ja urasuunnitelma
 official_links:
+  - title: "Visual novel: Muuttuva työelämä, yrittäjyys ja ennakointi"
+    url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch03-tyoelama"
+    publisher: "Lukion opinto-ohjauksen visual novel -sarja (CC BY)"
+    read: 2026-11-22
   - title: "Työmarkkinatori"
     url: "https://tyomarkkinatori.fi/"
     publisher: "KEHA-keskus (Työmarkkinatori)"
@@ -187,6 +191,8 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan kirjata HOPSiin, mitä haluan selvittää työelämästä ja tulevaisuuden taidoista.
 
 Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
+
+**Pelaa aiheesta visual novel:** [Muuttuva työelämä, yrittäjyys ja ennakointi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch03-tyoelama). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Itseopiskelun askel
 

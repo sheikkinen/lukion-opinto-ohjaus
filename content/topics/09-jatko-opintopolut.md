@@ -15,6 +15,10 @@ self_study_minutes: 45
 prerequisites: [op1-08-tietolahteet]
 hops_part: jatko-opinto- ja urasuunnitelma
 official_links:
+  - title: "Visual novel: Valinnat ja jatko-opintopolut"
+    url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch09-jatko-opintopolut"
+    publisher: "Lukion opinto-ohjauksen visual novel -sarja (CC BY)"
+    read: 2026-11-22
   - title: "Opintopolku"
     url: "https://opintopolku.fi/konfo/fi/"
     publisher: "Opetushallitus (Opintopolku)"
@@ -194,6 +198,8 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan nimetä, kenen puoleen voin kääntyä elämän- ja urasuunnittelussa ja päätösten tekemisessä.
 
 Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
+
+**Pelaa aiheesta visual novel:** [Valinnat ja jatko-opintopolut](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch09-jatko-opintopolut). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Itseopiskelun askel
 
