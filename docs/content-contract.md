@@ -116,3 +116,13 @@ Added by the extractor of brief 008; nothing above was changed.
 - The engine's assets are copied to `_site/assets/` first and this repository's `site-src/` (the pictures, and any
   file that replaces an engine asset of the same path) over them. A `templates/base.html` here would replace the
   engine's template; there is none.
+
+## Addendum 2026-11-22: the shared content guideline (lukio-runko v0.4.0)
+
+This contract now extends the shared guideline in the engine, `docs/content-guideline.md` in sheikkinen/lukio-runko
+(v0.4.0, pinned in requirements.txt). In short: every teaching claim, rule or model-answer criterion names its basis
+(a curriculum code from the topic's list, a matriculation exam requirement, a cited source or an operator decision) or
+is labelled as the site's own framing (*sivuston oma jäsennys*); value questions are written as weighing and model
+answers accept any well-argued view; checkers and judges verify claims against their basis, not against this site's
+style guide or earlier drafts; and the guideline's watch list of English habits applies. Where this contract and the
+guideline differ, the guideline applies until this contract is amended.
