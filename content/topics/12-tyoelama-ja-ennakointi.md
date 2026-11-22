@@ -13,6 +13,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 45
 prerequisites: [op2-11-osaaminen]
 hops_part: jatko-opinto- ja urasuunnitelma
+card_links:
+  - label: "Visual novel"
+    url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch03-tyoelama"
 official_links:
   - title: "Visual novel: Muuttuva työelämä, yrittäjyys ja ennakointi"
     url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch03-tyoelama"

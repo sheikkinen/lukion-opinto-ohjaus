@@ -11,6 +11,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 50
 prerequisites: [op2-11-osaaminen]
 hops_part: jatko-opinto- ja urasuunnitelma
+card_links:
+  - label: "Visual novel"
+    url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch04-tyonhaku"
 official_links:
   - title: "Visual novel: Työelämätaidot ja työnhaku"
     url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch04-tyonhaku"

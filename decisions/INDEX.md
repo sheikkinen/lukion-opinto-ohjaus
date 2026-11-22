@@ -14,3 +14,4 @@
 | D-010 | 2026-11-21 | Publish the committed version now for manual inspection, with docs/known-issues.md; brief 005 fixes follow in the next push ("Publish now") | operator [O] | the answer to "Publish the committed version now for inspection?" |
 | D-011 | 2026-11-21 | Terveystieto gets its own GitHub Pages site; one shared engine builds every subject site ("Separate, shared engine") | operator [O] | brief 008 |
 | D-012 | 2026-11-22 | Link the visual novel chapters, one per topic, under Pohdinta and in each topic's sources ("Yes, add and push", answering the game-engine session's request relayed on the operator's behalf) | operator [O] | game-engine session |
+| D-013 | 2026-11-22 | Show the visual novel link on every topic card too, next to Opiskelijan näkymä and Tuntisuunnitelma ("add links to vial novels to aiheet cards, next to [Opiskelijan näkymä] [Tuntisuunnitelma]"); needs lukio-runko v0.2.0 (card_links) | operator [O] | engine v0.2.0 |

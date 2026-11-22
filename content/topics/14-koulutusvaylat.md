@@ -11,6 +11,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 50
 prerequisites: [op1-09-jatko-opintopolut]
 hops_part: jatko-opinto- ja urasuunnitelma
+card_links:
+  - label: "Visual novel"
+    url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch05-koulutusvaylat"
 official_links:
   - title: "Visual novel: Koulutusväylät ja muut reitit"
     url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch05-koulutusvaylat"

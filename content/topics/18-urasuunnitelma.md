@@ -15,6 +15,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 45
 prerequisites: [op2-15-haku-ja-valinta, op2-10-suunnitelmien-paivitys]
 hops_part: jatko-opinto- ja urasuunnitelma
+card_links:
+  - label: "Visual novel"
+    url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch09-urasuunnitelma"
 official_links:
   - title: "Visual novel: Jatko-opinto- ja urasuunnitelma ja siirtymä"
     url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch09-urasuunnitelma"

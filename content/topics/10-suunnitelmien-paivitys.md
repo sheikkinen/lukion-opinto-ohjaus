@@ -14,6 +14,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 45
 prerequisites: [op1-07-ylioppilastutkinto, op1-09-jatko-opintopolut]
 hops_part: ylioppilastutkintosuunnitelma
+card_links:
+  - label: "Visual novel"
+    url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch01-suunnitelmien-paivitys"
 official_links:
   - title: "Visual novel: Suunnitelmien päivitys"
     url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch01-suunnitelmien-paivitys"

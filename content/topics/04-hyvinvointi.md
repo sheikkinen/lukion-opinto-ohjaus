@@ -13,6 +13,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 40
 prerequisites: [op1-03-ajankaytto]
 hops_part: opiskelusuunnitelma
+card_links:
+  - label: "Visual novel"
+    url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch04-hyvinvointi"
 official_links:
   - title: "Visual novel: Hyvinvointi ja opiskelukyky"
     url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch04-hyvinvointi"

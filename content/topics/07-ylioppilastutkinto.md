@@ -14,6 +14,9 @@ duration_options: [45, 60, 75, 90]
 self_study_minutes: 40
 prerequisites: [op1-06-hops]
 hops_part: ylioppilastutkintosuunnitelma
+card_links:
+  - label: "Visual novel"
+    url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch07-ylioppilastutkinto"
 official_links:
   - title: "Visual novel: Ylioppilastutkinto ja yo-suunnitelma"
     url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch07-ylioppilastutkinto"

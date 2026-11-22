@@ -13,6 +13,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 45
 prerequisites: [op1-01-lukio-alkaa]
 hops_part: opiskelusuunnitelma
+card_links:
+  - label: "Visual novel"
+    url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch03-ajankaytto"
 official_links:
   - title: "Visual novel: Ajankäyttö ja arjen hallinta"
     url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch03-ajankaytto"
