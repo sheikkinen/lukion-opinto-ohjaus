@@ -6,7 +6,6 @@ title: "Ylioppilastutkinto ja alustava yo-suunnitelma"
 summary: "Opit, mistä ylioppilastutkinto koostuu, ja teet ensimmäisen version omasta yo-suunnitelmastasi."
 curriculum: [OP1.t6, OP1.t7, OP1.s1, OP1.s8]
 law:
-  - "Lukiolaki 714/2018 § 26"
   - "Laki ylioppilastutkinnosta 502/2019"
 suggested_timing: {year: 1, term: kevät}
 role: core
@@ -78,17 +77,9 @@ official_links:
     url: "https://ohjaamot.fi/lahin-ohjaamo"
     publisher: "Ohjaamot"
     read: 2026-11-21
-  - title: "Mielenterveystalo: nuoret"
-    url: "https://www.mielenterveystalo.fi/fi/nuoret"
-    publisher: "Mielenterveystalo.fi"
-    read: 2026-11-21
-  - title: "MIELI Kriisipuhelin"
-    url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/"
-    publisher: "MIELI Suomen Mielenterveys ry"
-    read: 2026-11-21
 yearly_facts: [ytl_exam_dates, ytl_enrolment_deadline, ytl_fees, todistusvalinta_tables, learning_support_rules, guidance_services]
 school_adapts:
-  - "Koulun oma ilmoittautumisen takaraja ja tapa (esimerkki: Wilma-lomake), joka on yleensä ennen YTL:n viimeistä päivää"
+  - "Koulun oma ilmoittautumisen takaraja ja tapa (esimerkki: Wilma-lomake)"
   - "Missä vaiheessa yo-suunnitelma tehdään (esimerkki: ensimmäisen vuoden kevät) ja milloin sitä päivitetään"
   - "Kurssitarjotin: missä järjestyksessä opintojaksoja voi käydä ennen kutakin koetta"
   - "Koulun suositus kokeiden hajauttamisesta"
@@ -145,21 +136,19 @@ tarkista niiden aikataulu sivulta.
 
 ### Miksi suunnitella jo nyt?
 
-Kokeisiin kannattaa yleensä osallistua vasta, kun olet opiskellut aineen opintojaksot. Siksi koevalinnat liittyvät
-siihen, mitä opintojaksoja valitset ja missä järjestyksessä. Monet kirjoittavat kokeet useammalla tutkintokerralla.
+Sivuston oma vinkki, ei sääntö: koetta varten voi olla hyödyllistä käydä ensin aineen opintojaksot, mutta koulusi voi neuvoa toisin (esimerkki). Koevalinnat liittyvät siihen, mitä opintojaksoja valitset ja missä järjestyksessä. Kokeet voi kirjoittaa useammalla tutkintokerralla.
 Sitä kutsutaan **hajauttamiseksi**. Se voi keventää kuormaa, mutta kokeet ja opintojaksot kannattaa sovittaa yhteen.
 
 Koevalinnoilla voi olla merkitystä myös jatko-opinnoissa. Korkeakouluissa osa opiskelijoista valitaan
 **todistusvalinnassa** eli yo-arvosanojen perusteella, ja eri alat painottavat eri aineita. Lue [yliopistojen todistusvalinnasta](https://yliopistovalinnat.fi/todistusvalinta) ja
 [ammattikorkeakoulujen todistusvalinnasta](https://www.ammattikorkeakouluun.fi/hakijalle/valintatavat/todistusvalinta/).
 Kaikkiin reitteihin ei haeta yo-arvosanoilla. Ammatillinen koulutus, kansanopisto, välivuosi, palvelus, työ ja
-opiskelu ulkomailla ovat yhtä arvokkaita vaihtoehtoja. Hyvä yo-suunnitelma jättää ovia auki ja sopii sinun
-jaksamiseesi.
+opiskelu ulkomailla ovat myös reittejä. Tällä sivustolla reittejä ei aseteta paremmuusjärjestykseen (sivuston linjaus). Yo-suunnitelmassa voit punnita esimerkiksi sitä, mitä vaihtoehtoja haluat pitää auki ja paljonko jaksat kirjoittaa kerralla.
 
 ### Ilmoittautuminen ja ajankohtaiset asiat
 
-Ilmoittaudut kokeisiin oman lukiosi kautta, ja **ilmoittautuminen on sitova**. Koulusi kertoo oman takarajansa,
-joka on yleensä ennen YTL:n viimeistä päivää. Tarkista nämä aina ajankohtaisina:
+Ilmoittaudut kokeisiin oman lukiosi kautta, ja **ilmoittautuminen on sitova**. Noudata lukiosi antamia
+määräaikoja (YTL, Ilmoittautuminen). Tarkista nämä aina ajankohtaisina:
 
 - [ilmoittautuminen ja YTL:n takarajat](https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/ilmoittautuminen)
 - [koepäivät](https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/koepaivat)
@@ -184,7 +173,7 @@ tehdään koulun kautta, ja rehtori lähettää sen YTL:lle. Kysy aikataulu ajoi
 4. Vaihda yksi koe toiseen tai yksi oppimäärä lyhyestä pitkään tai toisin päin. Mitä muuttuu?
 5. Kirjoita muistioosi yksi yhdistelmä, joka tuntuu nyt järkevältä, ja yksi kysymys, joka jäi auki.
 
-Työkalun tulos on suuntaa antava. Sen oma teksti on osin vanhaa, joten tarkista säännöt aina YTL:n sivulta Tutkinnon rakenne.
+Työkalun tulos on suuntaa antava. Tarkista säännöt aina YTL:n sivulta Tutkinnon rakenne.
 
 ### Tehtävä 2: Hahmottele kokeiden aikataulu
 
@@ -193,7 +182,7 @@ Työkalun tulos on suuntaa antava. Sen oma teksti on osin vanhaa, joten tarkista
 **Ilman laitetta:** Tämä on paperitehtävä. Jos sinulla ei ole kurssitarjotinta, kirjoita jokaisen aineen viereen, milloin arvelet käyväsi sen opintojaksot (arvio riittää).
 
 1. Tee kolmen sarakkeen taulukko: ensimmäinen, toinen ja kolmas tutkintokerta. Katso [koepäivät](https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/koepaivat), jos haluat tietää, mihin vuodenaikaan kukin kerta osuu.
-2. Merkitse jokaisen aineen kohdalle, milloin olet käynyt sen opintojaksot koulusi suunnitelman mukaan. Yleensä kannattaa sijoittaa koe sarakkeeseen, jossa aineen opinnot on jo käyty.
+2. Merkitse jokaisen aineen kohdalle, milloin olet käynyt sen opintojaksot koulusi suunnitelman mukaan. Sivuston oma vinkki, ei sääntö: voit sijoittaa kokeen sarakkeeseen, jossa aineen opinnot on jo käyty; koulusi voi neuvoa toisin (esimerkki).
 3. Katso, onko jollakin kerralla monta raskasta koetta. Siirrä tarvittaessa yksi koe toiselle kerralle.
 4. Kirjoita taulukon alle yksi asia, jonka haluat tarkistaa opinto-ohjaajalta tai aineenopettajalta.
 
@@ -230,8 +219,6 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan kirjata alustavan yo-suunnitelman HOPSiini ja tiedän, että saan päivittää sitä.
 - Osaan tarkistaa ajankohtaiset päivät ja maksut virallisilta sivuilta.
 
-Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
-
 **Pelaa aiheesta visual novel:** [Ylioppilastutkinto ja yo-suunnitelma](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch07-ylioppilastutkinto). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Itseopiskelun askel
@@ -249,7 +236,7 @@ kysymyksen opinto-ohjaajalle.
 4. **Seuraava askel:** aihe 08 *Tietolähteet ja ohjauspalvelut*. Kun olet käynyt lisää opintoja, päivität suunnitelman aiheessa 10 *Suunnitelmien päivitys*.
 
 **HOPSiin:** Kirjoita HOPSin osaan *ylioppilastutkintosuunnitelma* alustava koeyhdistelmäsi, missä järjestyksessä
-aiot kirjoittaa kokeet ja yksi avoin kysymys. Merkitse, että suunnitelma on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki). HOPS on koulun kanssa jaettu asiakirja. Kirjaa siihen vain se, minkä haluat koulun tietävän. Terveyteen, perheeseen ja tuen tarpeeseen liittyvät ajatukset voit pitää omassa muistiossasi. Älä kirjoita HOPSiin, miksi tarvitset erityisjärjestelyjä.
+aiot kirjoittaa kokeet ja yksi avoin kysymys. Merkitse, että suunnitelma on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki). Kirjaa HOPSiin vain se, minkä haluat koulun tietävän. Terveyteen, perheeseen ja tuen tarpeeseen liittyvät ajatukset voit pitää omassa muistiossasi. Älä kirjoita HOPSiin, miksi tarvitset erityisjärjestelyjä.
 
 ## Tuntisuunnitelma (75 min)
 
@@ -262,7 +249,7 @@ aiot kirjoittaa kokeet ja yksi avoin kysymys. Merkitse, että suunnitelma on alu
 | Lyhyt alustus | 8 | Opiskelijat seuraavat ja kirjaavat säännöt muistiin: viisi koetta, äidinkieli, ryhmät, pitkä oppimäärä, kolme tutkintokertaa, sitova ilmoittautuminen. | Näytä Tutkinnon rakenne -sivu ja työkalu. Kerro koulun oma takaraja ja tapa (esimerkki). Näytä, mistä koepäivät ja maksut tarkistetaan. | Jaa sääntölista paperilla. | Jätä erityisjärjestelyt lyhyeen mainintaan ja linkkiin. |
 | Työskentely | 28 | Tehtävä 1 (15 min) ja Tehtävä 2 (12 min) yksin tai parin kanssa. Laitteiden avaamiseen ja siirtymiseen kuluu aikaa, joten älä lyhennä Tehtävää 1. | Kierrä ja kysy avoimia kysymyksiä. Auta tulkitsemaan työkalun ilmoituksia. Älä ehdota "oikeaa" yhdistelmää. | Paperipohja ilman laitetta. Pari voi tehdä yhdessä yhdellä laitteella. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Tehtävä 3 (10 min) kolmen hengen ryhmissä kuvitteellisilla tapauksilla. Ryhmä kirjoittaa kaksi kysymystä tapauksen opiskelijalle. | Ohjaa puhumaan tapauksista, ei omista suunnitelmista. Kokoa lopuksi kaksi kysymystä taululle. | Yksin tai parin kanssa. | Yksi tapaus koko ryhmälle yhdessä. |
-| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat alustavan yo-suunnitelman HOPSiin. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Muistuta: HOPS on koulun kanssa jaettu asiakirja. Sinne kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, milloin suunnitelmaa päivitetään ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit-kysymys sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat alustavan yo-suunnitelman HOPSiin. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Muistuta: HOPSiin kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, milloin suunnitelmaa päivitetään ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit-kysymys sähköisesti tunnin jälkeen. |
 | Puskuri | 6 | Kysymyksiä, keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset ohjausaikaan. | – | – |
 
 ### 60 min
@@ -274,7 +261,7 @@ aiot kirjoittaa kokeet ja yksi avoin kysymys. Merkitse, että suunnitelma on alu
 | Lyhyt alustus | 7 | Opiskelijat kirjaavat viisi sääntöä: viisi koetta, äidinkieli, ryhmät, pitkä oppimäärä, kolme tutkintokertaa. Sitovasta ilmoittautumisesta riittää maininta. | Näytä vain Tutkinnon rakenne -sivu ja työkalun aloitussivu. Koulun takaraja (esimerkki) ja maksut ovat sääntölistassa linkkeinä. | Jaa sääntölista paperilla. | Jätä erityisjärjestelyt ja maksut sääntölistan linkeiksi. |
 | Työskentely | 25 | Tehtävä 1 yksin (15 min, laitteiden avaaminen mukaan lukien). Loppuaika (10 min) Tehtävän 2 taulukon pohjaan: sijoita kokeet tutkintokerroille. | Kierrä ja kysy avoimia kysymyksiä. Auta tulkitsemaan työkalun ilmoituksia. Älä ehdota "oikeaa" yhdistelmää. | Paperipohja ilman laitetta. Pari voi tehdä yhdessä yhdellä laitteella. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Tehtävä 3 pareittain yhdellä kuvitteellisella tapauksella (8 min). Kirjoittakaa kaksi kysymystä tapauksen opiskelijalle. | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin tai parin kanssa. | Yksi yhteinen tapaus koko ryhmälle tai Tehtävä 3 kotiin. |
-| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin sen, mikä on valmista Tehtävästä 1 (ja 2). Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Muistuta: HOPS on koulun kanssa jaettu asiakirja. Sinne kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, milloin suunnitelmaa päivitetään ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Kirjaus loppuun kotona. Exit sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin sen, mikä on valmista Tehtävästä 1 (ja 2). Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Muistuta: HOPSiin kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, milloin suunnitelmaa päivitetään ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Kirjaus loppuun kotona. Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### 45 min
@@ -285,7 +272,7 @@ aiot kirjoittaa kokeet ja yksi avoin kysymys. Merkitse, että suunnitelma on alu
 | Aiemman tiedon aktivointi | 4 | Kaksi totta vai tarua -väitettä yhdessä: pitkä matematiikka ja kokeiden hajauttaminen. | Näytä vastaukset heti YTL:n sivulta Tutkinnon rakenne. Vastaukset: ei ja ei. | Väitteet paperilla, opiskelija vastaa yksin. | Yksi väite, loput sääntölistassa. |
 | Lyhyt alustus | 6 | Opiskelijat saavat valmiin sääntölistan (paperilla tai näytöllä) ja alleviivaavat siitä viisi sääntöä. Työkalun aloitussivu avataan. | Näytä vain Tutkinnon rakenne ja työkalu. Koulun takaraja ja maksut ovat listassa linkkeinä (esimerkki); älä käy niitä läpi. | Sääntölista kokonaan paperilla. | Jätä työkalun esittely pois ja siirry tehtävään. |
 | Työskentely | 22 | Tehtävä 1 yksin (15 min, laitteiden avaaminen mukaan lukien). Loput 7 min: yksi kysymys ja yksi aikataulumerkintä muistioon. Tehtävät 2 ja 3 jäävät kotiin. | Kierrä ja kysy avoimia kysymyksiä. Auta tulkitsemaan työkalun ilmoituksia. Älä ehdota "oikeaa" yhdistelmää. | Paperipohja ilman laitetta. | Tehtävän 1 viimeiset vaiheet kotiin. |
-| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat alustavan yhdistelmän HOPSiin. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Muistuta: HOPS on koulun kanssa jaettu asiakirja. Sinne kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, milloin suunnitelmaa päivitetään ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Kirjaus loppuun kotona. Exit sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat alustavan yhdistelmän HOPSiin. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Muistuta: HOPSiin kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, milloin suunnitelmaa päivitetään ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Kirjaus loppuun kotona. Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### 90 min
@@ -298,7 +285,7 @@ aiot kirjoittaa kokeet ja yksi avoin kysymys. Merkitse, että suunnitelma on alu
 | Työskentely | 30 | Tehtävät 1 ja 2 kokonaan yksin tai parin kanssa. | Kierrä ja auta kurssitarjottimen kanssa. Älä ehdota "oikeaa" yhdistelmää. | Paperipohja ilman laitetta. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 15 | Tehtävä 3: jokainen ryhmä käsittelee kaksi kuvitteellista tapausta ja kirjoittaa niille kysymykset. | Kokoa kysymykset taululle ja näytä, mistä vastaukset löytyvät. | Yksin tai parin kanssa. | Yksi tapaus. |
 | Oman aikataulun tarkistus | 5 | Opiskelija tarkistaa oman aikataulunsa listalla: onko koe tutkintokerralla, jolle aineen opinnot on käyty, ja onko jollakin kerralla liikaa raskaita kokeita. Pari voi vaihtaa taulukot vain, jos kumpikin haluaa. | Muistuta, ettei kenenkään tarvitse näyttää taulukkoaan. Kysytään, ei arvioida. | Tarkistus yksin ilman paria. | Jätä pois. |
-| HOPS-askel ja exit | 10 | Kirjaus HOPSiin ja exit-kysymys (nimetön tai nimellä, opiskelija valitsee). | Muistuta: HOPS on koulun kanssa jaettu asiakirja. Sinne kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, milloin suunnitelmaa päivitetään ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Exit sähköisesti myöhemmin. |
+| HOPS-askel ja exit | 10 | Kirjaus HOPSiin ja exit-kysymys (nimetön tai nimellä, opiskelija valitsee). | Muistuta: HOPSiin kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, milloin suunnitelmaa päivitetään ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Exit sähköisesti myöhemmin. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Ohjaa henkilökohtaiset kysymykset ohjausaikaan. | – | – |
 
 ### Valmistelu
@@ -327,10 +314,10 @@ toivoisit, että valintasi mahdollistavat?"
 
 - Kukaan ei kerro koeyhdistelmäänsä, arvosanojaan tai terveyttään ryhmälle. Ryhmätyö tehdään kuvitteellisilla
   tapauksilla.
-- HOPS on koulun kanssa jaettu asiakirja. Muistuta tunnin alussa ja lopussa, että sinne kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon.
+- Muistuta tunnin alussa ja lopussa, että HOPSiin kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon.
 - Erityisjärjestelyistä puhutaan yleisesti. Opiskelija, joka tarvitsee niitä, ohjataan henkilökohtaiseen
   keskusteluun.
-- Kaikki reitit ovat yhtä arvokkaita. Älä esitä yliopistoa oletusreittinä tai todistusvalintaa ainoana syynä valita.
+- Sivuston linjaus: reittejä ei aseteta paremmuusjärjestykseen. Älä esitä yliopistoa oletusreittinä tai todistusvalintaa ainoana syynä valita.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, kuka valitsee pitkän matematiikan, luonnontieteet tai kielet? Puhunko
   "tytöistä" ja "pojista" aineiden yhteydessä? Oletanko, että jokaisella on oma tietokone, suomi äidinkielenä tai
   kotona joku, joka tuntee yo-tutkinnon? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
@@ -348,11 +335,11 @@ toivoisit, että valintasi mahdollistavat?"
 - *oppimäärä = kuinka laajasti ainetta opiskellaan: pitkä, keskipitkä tai lyhyt*
 - *reaaliaine = esimerkiksi historia, biologia tai psykologia*
 - *hajauttaa = kirjoittaa kokeet usealla eri kerralla*
-- *sitova = ei voi muuttaa jälkikäteen*
+- *sitova = sitä ei voi muuttaa vapaasti*
 - *erityisjärjestelyt = tuki koetilanteeseen, esimerkiksi lisäaika*
 - *todistusvalinta = opiskelijavalinta ylioppilastodistuksen arvosanojen perusteella*
 
-**Lukeminen, keskittyminen ja jännitys:** Anna sääntölista yhdellä sivulla ja tehtävä vaihe kerrallaan. Salli kuulokkeet ja oma rauhallinen paikka. Jos yo-tutkinto jännittää, muista, että ensimmäinen suunnitelma on luonnos ja että koetilanteeseen voi saada tukea. Katso [koetilaisuuden kulku](https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/koetilaisuuden-kulku), jos tuntematon tilanne pelottaa.
+**Lukeminen, keskittyminen ja jännitys:** Anna sääntölista yhdellä sivulla ja tehtävä vaihe kerrallaan. Salli kuulokkeet ja oma rauhallinen paikka. Ensimmäinen suunnitelma on luonnos, ja koetilanteeseen voi hakea erityisjärjestelyjä. [Koetilaisuuden kulku](https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/koetilaisuuden-kulku) kertoo, miten koepäivä etenee.
 
 **Ilman laitetta:** Kaikki tehtävät toimivat yksin pelkällä paperilla ja kynällä: viiden laatikon pohja, kolmen sarakkeen aikataulu ja oma keksitty tapaus. Tulosteita ei tarvita.
 
@@ -367,20 +354,8 @@ Varaa aika opinto-ohjaajalle, jos
 - uskot tarvitsevasi erityisjärjestelyjä esimerkiksi lukivaikeuden, sairauden tai kielen vuoksi (kysy heti, kun asia tulee mieleen, älä odota takarajaa)
 - koulusi ilmoittautumisen takaraja on alle kaksi viikkoa päässä etkä ole vielä päättänyt (esimerkki)
 - haluat vaihtaa oppimäärää, esimerkiksi pitkästä lyhyeen, ja mietit sen vaikutuksia
-- yo-kirjoitukset jännittävät niin paljon, että se on vaikuttanut uneen, jaksamiseen tai opiskeluun yli kaksi viikkoa
+- yo-kirjoitukset jännittävät niin paljon, että se on vaikuttanut uneen, jaksamiseen tai opiskeluun, ja se on jatkunut jonkin aikaa
 - olet jättänyt koulusi koeilmoittautumisen tekemättä ja takaraja on mennyt tai menossa
-
-Voit puhua myös ryhmänohjaajan, erityisopettajan tai opiskeluhuollon kanssa. Koulusi kertoo, miten aika varataan
-(esimerkki).
-
-**Apua saat myös:**
-
-- [Etsi lähin Ohjaamo (luettu 21.11.2026)](https://ohjaamot.fi/lahin-ohjaamo): ohjausta alle 30-vuotiaille opiskeluun,
-  työhön ja arkeen.
-- [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia
-  esimerkiksi jännitykseen ja koestressiin.
-- [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä,
-  voit soittaa nimettömästi. Hätätilanteessa soita hätänumeroon.
 
 ## Lähteet
 

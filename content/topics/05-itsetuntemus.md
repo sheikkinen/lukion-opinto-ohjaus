@@ -5,9 +5,6 @@ order: 5
 title: "Itsetuntemus, vahvuudet ja arvot"
 summary: "Opit sanoittamaan vahvuuksiasi ja kiinnostuksen kohteitasi ja huomaat, mikä sinulle on tärkeää."
 curriculum: [OP1.t1, OP1.s2, OP.yt5, OP.yt6]
-law:
-  - "Lukiolaki 714/2018 § 25"
-  - "Lukiolaki 714/2018 § 26"
 suggested_timing: {year: 1, term: syksy}
 role: core
 duration_options: [45, 60, 75]
@@ -34,21 +31,9 @@ official_links:
     url: "https://ohjaamot.fi/lahin-ohjaamo"
     publisher: "Ohjaamot"
     read: 2026-11-21
-  - title: "Mielenterveystalo: nuoret"
-    url: "https://www.mielenterveystalo.fi/fi/nuoret"
-    publisher: "Mielenterveystalo.fi"
-    read: 2026-11-21
-  - title: "Sekasin-chat"
-    url: "https://sekasin.fi/"
-    publisher: "MIELI Suomen Mielenterveys ry"
-    read: 2026-11-21
   - title: "Oppimisen tuen uudistus"
     url: "https://www.oph.fi/fi/oppimisen-tuen-uudistus"
     publisher: "Opetushallitus"
-    read: 2026-11-21
-  - title: "MIELI Kriisipuhelin"
-    url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/"
-    publisher: "MIELI Suomen Mielenterveys ry"
     read: 2026-11-21
 yearly_facts: [guidance_services, employment_services, learning_support_rules]
 school_adapts:
@@ -80,37 +65,39 @@ last_reviewed: 2026-11-21
 
 ### Mitä itsetuntemus on?
 
-Itsetuntemus tarkoittaa, että tunnet itsesi: mistä pidät, missä olet hyvä, mikä on sinulle tärkeää ja miten toimit eri tilanteissa. Se kehittyy koko elämän ajan, eikä se ole koskaan valmis. Kukaan ei tunne itseään täydellisesti. Siksi riittää, että kokeilet ja huomaat uutta.
+Sivuston selitys: itsetuntemus tarkoittaa, että tunnet itsesi: mistä pidät, missä olet hyvä, mikä on sinulle tärkeää ja miten toimit eri tilanteissa. Tässä aiheessa riittää, että kokeilet ja huomaat uutta.
 
-Itsetuntemus auttaa tekemään valintoja. Kun tiedät, mikä sinulle on tärkeää, on helpompi valita opintojaksoja, harrastuksia ja myöhemmin jatko-opintoja. Valintoja ei tarvitse tehdä nyt. Tämän aiheen tarkoitus on antaa sinulle sanoja ja ajatuksia.
+Sivuston näkökulma: itsetuntemus voi auttaa tekemään valintoja. Kun tiedät, mikä sinulle on tärkeää, voi olla helpompi valita opintojaksoja, harrastuksia ja myöhemmin jatko-opintoja. Valintoja ei tarvitse tehdä nyt. Tämän aiheen tarkoitus on antaa sinulle sanoja ja ajatuksia.
 
 ### Vahvuudet, osaaminen ja kiinnostus
+
+Alla olevat selitykset ovat sivuston omia. Opetussuunnitelma puhuu oman osaamisen monipuolisesta tunnistamisesta (OP1.s2).
 
 **Vahvuus** on jotain, missä olet hyvä tai mikä tuntuu sinusta luontevalta. Se voi olla taito, kuten kielten oppiminen tai korjaaminen. Se voi olla tapa toimia, kuten kärsivällisyys, huumori tai rohkeus. Vahvuus voi olla myös tapa olla toisten kanssa.
 
 **Osaaminen** on sitä, mitä olet oppinut. Sitä kertyy koulussa, mutta myös harrastuksissa, työssä, kotona, vapaaehtoistyössä ja netissä. Esimerkiksi pikkusisaruksen auttaminen, joukkueessa pelaaminen, videon tekeminen tai oman rahan hoitaminen ovat osaamista.
 
-**Kiinnostus** on se, mikä saa sinut tekemään ja kysymään lisää. Kiinnostus voi muuttua. Se ei ole sitoumus.
+**Kiinnostus** on se, mikä saa sinut tekemään ja kysymään lisää.
 
 Kun kirjoitat vahvuudet ja osaamisen sanoiksi, voit myöhemmin käyttää niitä hakemuksessa, CV:ssä ja keskusteluissa. Tässä aiheessa riittää, että tunnet itsesi ja löydät sanat. Aiheessa 11 muokkaat osaamisestasi kuvauksia hakemuksiin. Sanoittaminen on taito, jota voi harjoitella.
 
 ### Arvot ja ihmiset valintojen taustalla
 
-**Arvot** ovat asioita, joita pidät tärkeinä: esimerkiksi vapaus, turvallisuus, oikeudenmukaisuus, luovuus, perhe, ystävät, luonto tai vaikuttaminen. Jokaisella on omansa. Arvot ohjaavat valintoja, vaikka emme aina huomaa sitä.
+**Arvot** ovat asioita, joita pidät tärkeinä: esimerkiksi vapaus, turvallisuus, oikeudenmukaisuus, luovuus, perhe, ystävät, luonto tai vaikuttaminen. Jokaisella on omansa. Opinto-ohjauksen tavoitteena on, että tunnistat arvojen, uskomusten ja itsellesi merkittävien ihmisten vaikutusta valintoihisi (OP.yt5).
 
-Valintoihin vaikuttavat myös **uskomukset** eli se, mitä pidämme totena. Esimerkiksi "minusta ei ole siihen" tai "tähän ammattiin ei voi päästä" ovat uskomuksia. Joskus ne pitävät paikkansa, joskus eivät. Kannattaa kysyä: mistä tämä ajatus on tullut?
+Valintoihin vaikuttavat myös **uskomukset** eli se, mitä pidämme totena. Esimerkiksi "minusta ei ole siihen" tai "tähän ammattiin ei voi päästä" ovat uskomuksia. Sivuston näkökulma: kysy itseltäsi, mistä tämä ajatus on tullut ja pitääkö se paikkansa.
 
-Tärkeät ihmiset, kuten perhe, ystävät, opettajat ja idolit, vaikuttavat myös. Heidän mielipiteensä voivat auttaa, mutta ne voivat myös rajoittaa. Voit kuunnella muita ja silti päättää itse. Samalla voi ymmärtää, että toisten odotukset eivät aina ole omia.
+Tärkeät ihmiset, kuten perhe, ystävät, opettajat ja idolit, vaikuttavat myös. Sivuston näkökulma: kysy itseltäsi, milloin toisten mielipiteet auttavat sinua ja milloin ne rajoittavat. Mieti myös, mitkä toisten odotuksista ovat omiasi.
 
 ### Tutustu itseesi kokeilemalla
 
 Itseään oppii tuntemaan tekemällä: kokeilemalla, harjoittelemalla ja pohtimalla jälkeenpäin. Voit kysyä myös muilta: mitä he pitävät vahvuuksinasi? Itsearviointi tarkoittaa, että katsot rehellisesti, mitä osaat ja mitä haluat oppia. Se ei ole arvostelua. Siinä näet, mitä olet jo oppinut ja mitä haluat kehittää.
 
-Verkossa on työkaluja, joilla voit tutkia osaamistasi ja kiinnostuksen kohteitasi. Työmarkkinatorin sivulla [Ammatinvalinta ja urasuunnittelu](https://tyomarkkinatori.fi/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/ammatinvalinta-ja-urasuunnittelu) kerrotaan ammatinvalinnasta ja urasuunnittelusta, ja sieltä voit katsoa, mitä osaamisen tunnistamisen välineitä sivu esittelee. Muista, että testi ei kerro sinulle, mikä sinusta tulee. Se antaa ajatuksia keskustelun pohjaksi. Opinto-ohjaaja voi käyttää ohjauksessa myös Opetushallituksen aineistoa [Miten valitsen oman alani?](https://www.oph.fi/fi/oppimateriaali/mun-elama/oppimisen-taidot/jatko-opinnot/miten-valitsen-oman-alani). Se on ohjaajan aineisto, ei opiskelijan tehtävä.
+Verkossa on työkaluja, joilla voit tutkia osaamistasi ja kiinnostuksen kohteitasi. Työmarkkinatorin sivulla [Ammatinvalinta ja urasuunnittelu](https://tyomarkkinatori.fi/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/ammatinvalinta-ja-urasuunnittelu) kerrotaan ammatinvalinnasta ja urasuunnittelusta, ja sivu esittelee esimerkiksi työkalut Oma Osaamispolku, Urataidot ja Kykyviisari. Sivuston näkemys: tulosta voi käyttää ajatusten pohjana, ei ennusteena siitä, mitä sinusta tulee. Opinto-ohjaaja voi käyttää ohjauksessa myös Opetushallituksen aineistoa [Miten valitsen oman alani?](https://www.oph.fi/fi/oppimateriaali/mun-elama/oppimisen-taidot/jatko-opinnot/miten-valitsen-oman-alani). Se on ohjaajan aineisto, ei opiskelijan tehtävä.
 
-### Reitit ovat yhtä arvokkaita
+### Sivuston lähtökohta: yksikään reitti ei ole toista parempi
 
-Vahvuudet ja arvot kuuluvat kaikille. Ne ovat tärkeitä, olipa suunnitelmasi ammattikorkeakoulu, yliopisto, ammatillinen koulutus, kansanopisto, välivuosi, palvelus, työ tai opiskelu ulkomailla. Mikään vahvuus ei kuulu vain tietylle alalle tai tietylle ihmiselle. Samaa vahvuutta tarvitaan monella alalla ja monella reitillä.
+Vahvuudet ja arvot kuuluvat kaikille. Ne ovat tärkeitä, olipa suunnitelmasi ammattikorkeakoulu, yliopisto, ammatillinen koulutus, kansanopisto, välivuosi, palvelus, työ tai opiskelu ulkomailla. Sivuston lähtökohta: vahvuuksia ei sidota tiettyyn alaan eikä ihmiseen. Samaa vahvuutta tarvitaan monella alalla ja monella reitillä.
 
 ## Tehtävät
 
@@ -138,9 +125,9 @@ Vapaaehtoinen, ei tunnilla: voit myöhemmin kysyä yhdeltä luotettavalta ihmise
 
 1. Laita tärkeysjärjestykseen kolme arvoa, jotka tuntuvat sinusta nyt tärkeimmiltä.
 2. Kirjoita jokaisen viereen yksi esimerkki siitä, miten se näkyy elämässäsi.
-3. Katso Työmarkkinatorin sivulta [Ammatinvalinta ja urasuunnittelu](https://tyomarkkinatori.fi/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/ammatinvalinta-ja-urasuunnittelu), mitä osaamisen tunnistamisen välineitä siellä esitellään, jos niitä on. Älä anna sivustolle henkilötietojasi; työkalun voi katsoa ensin ilman kirjautumista.
+3. Katso Työmarkkinatorin sivulta [Ammatinvalinta ja urasuunnittelu](https://tyomarkkinatori.fi/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/ammatinvalinta-ja-urasuunnittelu), mitä osaamisen tunnistamisen välineitä siellä esitellään, esimerkiksi Oma Osaamispolku, Urataidot tai Kykyviisari. Älä anna sivustolle henkilötietojasi; työkalun voi katsoa ensin ilman kirjautumista.
 4. Kirjoita muistioosi, mikä arvo voisi ohjata seuraavia valintojasi.
-5. Kirjoita muistioosi yksi kohta, jossa muiden odotukset (esimerkiksi perhe, ystävät tai usko) ja omat valintasi voisivat olla eri mieltä.
+5. Kirjoita muistioosi yksi kohta, jossa muiden odotukset (esimerkiksi perhe tai ystävät) ja omat valintasi voisivat olla ristiriidassa.
 
 Voit kirjoittaa muistioosi myös, mikä työkalu kiinnostaa sinua.
 
@@ -177,7 +164,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan huomata, miten arvot, uskomukset ja minulle tärkeät ihmiset vaikuttavat valintoihini.
 - Osaan arvioida itseäni ja kuvata, mitä osaan ja missä haluan kehittyä.
 
-Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
+Jos jokin kohta on vielä "En vielä", voit ottaa sen esiin ohjaajan kanssa.
 
 **Pelaa aiheesta visual novel:** [Itsetuntemus, vahvuudet ja arvot](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch05-itsetuntemus). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
@@ -194,7 +181,7 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** aihe 06 *Henkilökohtainen opintosuunnitelma ja kurssivalinnat*. Siellä käytät näitä ajatuksia valintojen pohjana.
 
-**HOPSiin:** Tämä askel on vapaaehtoinen. HOPS on koulun kanssa jaettu asiakirja, joten kirjaa siihen vain se, minkä haluat itse jakaa. Voit kirjoittaa HOPSin osaan *jatko-opinto- ja urasuunnitelma* esimerkiksi yhden vahvuuden, yhden arvon ja yhden asian, jonka haluat oppia. Loput jää omaan muistioosi. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
+**HOPSiin:** Tämä askel on vapaaehtoinen. Kirjaa siihen vain se, minkä haluat itse jakaa. Voit kirjoittaa HOPSin osaan *jatko-opinto- ja urasuunnitelma* esimerkiksi yhden vahvuuden, yhden arvon ja yhden asian, jonka haluat oppia. Loput jää omaan muistioosi. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
@@ -202,36 +189,36 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jossa ihminen voi olla hyvä, ja yhden asian, jota pitää tärkeänä. | Kerää laput, sekoita ja lue muutama ääneen. Kiitä monipuolisuudesta. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
-| Aiemman tiedon aktivointi | 10 | Totta vai tarua -väitteet pareittain: "Vahvuus on vain se, mistä saa hyvän arvosanan." "Arvot eivät muutu." "Muiden mielipiteet eivät saa vaikuttaa valintoihin." "Osaamista voi olla vain koulussa opitulla." | Kerro, että väitteet ovat keskustelun avauksia, ja kytke lappujen asiat väitteisiin. Vastausvihjeet: vahvuus voi olla paljon muutakin kuin arvosana; arvot voivat muuttua elämän mukana; toisten mielipiteet saavat vaikuttaa, mutta päätös on omasi; osaamista kertyy myös koulun ulkopuolella. | Väitteet paperilla, opiskelija vastaa yksin. | Käy läpi kaksi ensimmäistä väitettä. |
+| Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jossa ihminen voi olla hyvä, ja yhden asian, jota pitää tärkeänä. | Kerää laput, sekoita ja lue muutama ääneen ilman arviointia. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
+| Aiemman tiedon aktivointi | 10 | Totta vai tarua -väitteet pareittain: "Vahvuus on vain se, mistä saa hyvän arvosanan." "Arvot eivät vaikuta valintoihin." "Muiden mielipiteet eivät saa vaikuttaa valintoihin." "Osaamista voi olla vain koulussa opitulla." | Kerro, että väitteet ovat keskustelun avauksia, ja kytke lappujen asiat väitteisiin. Vastausvihjeet: opetussuunnitelma puhuu osaamisen monipuolisesta tunnistamisesta (OP1.s2), joten vahvuus voi olla muutakin kuin arvosana; arvojen vaikutus valintoihin on asia, jota opitaan tunnistamaan (OP.yt5), joten pyydä esimerkki; toisten mielipiteistä: pyydä perustelemaan, milloin ne auttavat ja milloin rajoittavat, ja hyväksy hyvin perusteltu näkemys; osaamista kertyy myös koulun ulkopuolella (OP1.s2). | Väitteet paperilla, opiskelija vastaa yksin. | Käy läpi kaksi ensimmäistä väitettä. |
 | Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin vahvuuden, osaamisen, kiinnostuksen, arvon ja uskomuksen merkityksen. | Anna esimerkkejä eri elämänalueilta ilman sukupuoleen tai taustaan sidottuja oletuksia. Näytä Työmarkkinatorin sivu työkaluineen. | Jaa käsitteet paperilla. | Jätä uskomukset lyhyeen mainintaan. |
 | Työskentely | 30 | Tehtävä 1 (15 min) ja Tehtävä 2 (15 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Älä arvioi vahvuuksia. Muistuta, ettei mitään tarvitse kertoa muille. | Pari voi kysyä toisiltaan vain "Missä sinä onnistuit?" ilman kommentointia. Paperipohja. | Tehtävän 2 vaihe 3 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Tehtävä 3 (10 min) kolmen hengen ryhmissä kuvitteellisilla tapauksilla. Ryhmä kirjoittaa kaksi kysymystä tapaukselle. | Ohjaa puhumaan tapauksista, ei omista tilanteista. Kokoa kysymykset taululle. | Yksin tai parin kanssa. | Yksi tapaus koko ryhmälle yhdessä. |
-| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin vahvuuden ja arvon vain, jos haluavat. HOPS on koulun kanssa jaettu asiakirja, joten muu jää omaan muistioon. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Kerro, mitä HOPSiin voi kirjata ja mitä jättää omaan muistioon. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin vahvuuden ja arvon vain, jos haluavat. Muu jää omaan muistioon. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Kerro, mitä HOPSiin voi kirjata ja mitä jättää omaan muistioon. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 2 | Kysymyksiä, keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### 60 min
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 4 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jossa ihminen voi olla hyvä, ja yhden asian, jota pitää tärkeänä. | Kerää laput, sekoita ja lue muutama ääneen. Kiitä monipuolisuudesta. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
-| Aiemman tiedon aktivointi | 5 | Kolme totta vai tarua -väitettä pareittain: "Vahvuus on vain se, mistä saa hyvän arvosanan." "Arvot eivät muutu." "Osaamista voi olla vain koulussa opitulla." | Kerro, että väitteet ovat keskustelun avauksia. Vastausvihjeet: vahvuus voi olla paljon muutakin kuin arvosana; arvot voivat muuttua elämän mukana; osaamista kertyy myös koulun ulkopuolella. | Väitteet paperilla, opiskelija vastaa yksin. | Jätä viimeinen väite pois. |
+| Virittäytyminen | 4 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jossa ihminen voi olla hyvä, ja yhden asian, jota pitää tärkeänä. | Kerää laput, sekoita ja lue muutama ääneen ilman arviointia. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
+| Aiemman tiedon aktivointi | 5 | Kolme totta vai tarua -väitettä pareittain: "Vahvuus on vain se, mistä saa hyvän arvosanan." "Arvot eivät vaikuta valintoihin." "Osaamista voi olla vain koulussa opitulla." | Kerro, että väitteet ovat keskustelun avauksia. Vastausvihjeet: vahvuus voi olla muutakin kuin arvosana (OP1.s2); arvojen vaikutus valintoihin on asia, jota opitaan tunnistamaan (OP.yt5), joten pyydä esimerkki; osaamista kertyy myös koulun ulkopuolella (OP1.s2). | Väitteet paperilla, opiskelija vastaa yksin. | Jätä viimeinen väite pois. |
 | Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin vahvuuden, osaamisen, kiinnostuksen, arvon ja uskomuksen merkityksen. | Anna esimerkkejä eri elämänalueilta ilman sukupuoleen tai taustaan sidottuja oletuksia. Anna Työmarkkinatorin sivun linkki kirjallisena. | Jaa käsitteet paperilla. | Jätä uskomukset lyhyeen mainintaan. |
 | Työskentely | 25 | Tehtävä 1 (15 min) ja Tehtävän 2 vaiheet 1, 2, 4 ja 5 (8 min). | Kierrä ja kysy avoimia kysymyksiä. Älä arvioi vahvuuksia. Muistuta, ettei mitään tarvitse kertoa muille. | Pari voi kysyä toisiltaan vain "Missä sinä onnistuit?" ilman kommentointia. Paperipohja. | Tehtävän 2 vaihe 3 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Tehtävä 3 pareittain yhdellä kuvitteellisella tapauksella (8 min). Kirjoittakaa kaksi kysymystä tapauksen opiskelijalle. | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin tai parin kanssa. | Yksi yhteinen tapaus koko ryhmälle. |
-| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin vahvuuden ja arvon vain, jos haluavat. HOPS on koulun kanssa jaettu asiakirja, joten muu jää omaan muistioon. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Kerro, mitä HOPSiin voi kirjata ja mitä jättää omaan muistioon. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin vahvuuden ja arvon vain, jos haluavat. Muu jää omaan muistioon. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Kerro, mitä HOPSiin voi kirjata ja mitä jättää omaan muistioon. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### 45 min
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 3 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jossa ihminen voi olla hyvä. | Kerää laput, sekoita ja lue muutama ääneen. Kiitä monipuolisuudesta. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
-| Aiemman tiedon aktivointi | 4 | Kaksi totta vai tarua -väitettä pareittain (2 min), sitten vastaukset yhdessä: "Vahvuus on vain se, mistä saa hyvän arvosanan." "Arvot eivät muutu." | Kerro, että väitteet ovat keskustelun avauksia. Vastausvihjeet: vahvuus voi olla paljon muutakin kuin arvosana, ja arvot voivat muuttua elämän mukana. | Väitteet paperilla, opiskelija vastaa yksin. | Käsittele vain ensimmäinen väite. |
+| Virittäytyminen | 3 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jossa ihminen voi olla hyvä. | Kerää laput, sekoita ja lue muutama ääneen ilman arviointia. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
+| Aiemman tiedon aktivointi | 4 | Kaksi totta vai tarua -väitettä pareittain (2 min), sitten vastaukset yhdessä: "Vahvuus on vain se, mistä saa hyvän arvosanan." "Arvot eivät vaikuta valintoihin." | Kerro, että väitteet ovat keskustelun avauksia. Vastausvihjeet: vahvuus voi olla muutakin kuin arvosana (OP1.s2); arvojen vaikutus valintoihin on asia, jota opitaan tunnistamaan (OP.yt5), joten pyydä esimerkki. | Väitteet paperilla, opiskelija vastaa yksin. | Käsittele vain ensimmäinen väite. |
 | Lyhyt alustus | 5 | Opiskelijat kirjaavat muistiin vahvuuden, osaamisen, arvon ja uskomuksen merkityksen. | Anna esimerkkejä eri elämänalueilta ilman sukupuoleen tai taustaan sidottuja oletuksia. Anna Työmarkkinatorin sivun linkki kirjallisena. | Jaa käsitteet paperilla. | Jätä uskomukset pois ja kerro ne kirjallisesti. |
 | Työskentely | 22 | Tehtävä 1 (15 min) ja Tehtävän 2 vaiheet 1, 2, 4 ja 5 (7 min). | Kierrä ja kysy avoimia kysymyksiä. Älä arvioi vahvuuksia. Muistuta, ettei mitään tarvitse kertoa muille. | Pari voi kysyä toisiltaan vain "Missä sinä onnistuit?" ilman kommentointia. Paperipohja. | Tehtävän 2 vaihe 3 kotiin. |
 | Pari- tai pienryhmäpohdinta | 4 | Yksi kuvitteellinen tapaus Tehtävästä 3 koko ryhmälle yhdessä. Ryhmä sanoo ääneen kaksi kysymystä tapauksen opiskelijalle. | Pidä keskustelu tapauksessa, ei opiskelijoiden omissa tilanteissa. Kirjoita kysymykset taululle. | Yksin tai parin kanssa. | Tehtävä 3 kotiin. |
-| HOPS-askel ja exit | 6 | Opiskelijat kirjaavat HOPSiin vahvuuden ja arvon vain, jos haluavat. HOPS on koulun kanssa jaettu asiakirja, joten muu jää omaan muistioon. Työkaluvaihe ja Pohdinta tehdään kotona. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Kerro, mitä HOPSiin voi kirjata ja mitä jättää omaan muistioon. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Kirjaus loppuun kotona. Exit-kysymys tunnin jälkeen. |
+| HOPS-askel ja exit | 6 | Opiskelijat kirjaavat HOPSiin vahvuuden ja arvon vain, jos haluavat. Muu jää omaan muistioon. Työkaluvaihe ja Pohdinta tehdään kotona. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Kerro, mitä HOPSiin voi kirjata ja mitä jättää omaan muistioon. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Kirjaus loppuun kotona. Exit-kysymys tunnin jälkeen. |
 | Puskuri | 1 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### Valmistelu
@@ -253,14 +240,14 @@ Kysymykset on tarkoitettu ensin yksityiseen kirjoittamiseen omaan muistioon. Ryh
 - Mitä uutta voisi kokeilla?
 - Mistä huomaa, että jokin valinta tuntuu omalta?
 
-Vältä johdattelevia kysymyksiä, kuten "Eikö sinun kannattaisi hyödyntää matemaattista lahjakkuuttasi?" Kysy mieluummin: "Mitä haluaisit tehdä vahvuuksillasi?"
+Vältä johdattelevia kysymyksiä, kuten "Eikö sinun kannattaisi valita varmin vaihtoehto?" Kysy mieluummin: "Mitä haluaisit tehdä vahvuuksillasi?"
 
 ### Pelisäännöt ja oletusten tarkistus
 
 - Kukaan ei kerro tunnilla omia vahvuuksiaan, arvojaan, perhetaustaansa tai toiveitaan ryhmälle. Ryhmätyö tehdään kuvitteellisilla tapauksilla.
-- Arvoista ei väitellä. Jokaisen arvot ovat hänen omansa. Älä arvota arvoja tai uskomuksia.
-- Älä anna testien tuloksille liikaa painoa. Ne ovat keskustelun pohja.
-- Kaikki reitit ovat yhtä arvokkaita. Älä esitä, että tietty vahvuus johtaa tiettyyn alaan.
+- Sivuston toimintaohje: arvoista ei väitellä, ja jokaisen arvot ovat hänen omansa. Älä arvota arvoja tai uskomuksia.
+- Sivuston toimintaohje: käsittele testien tuloksia keskustelun pohjana.
+- Sivuston lähtökohta: kaikki reitit ovat keskenään samanarvoisia. Sivuston ohje: älä esitä, että tietty vahvuus johtaa tiettyyn alaan.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että tietyt vahvuudet, kuten hoiva, tekniikka tai johtaminen, kuuluvat tietylle sukupuolelle? Oletanko, että perhe tukee opiskelijan valintoja? Oletanko, että opiskelijalla on harrastuksia tai työkokemusta, joka näkyy? Oletanko, että jokainen osaa kehua itseään kulttuurisesti samalla tavalla? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -279,15 +266,13 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö sinun kannattaisi hyödyntää m
 - *itsearviointi = sen rehellinen katsominen, mitä osaat ja mitä haluat oppia*
 - *odotus = toive tai vaatimus, jonka joku muu asettaa sinulle*
 
-**Lukeminen, keskittyminen ja jännitys:** Tee tehtävät yksi kerrallaan ja salli piirtäminen. Jos itsestä kertominen jännittää, kaiken voi kirjoittaa vain itselle. Jos vahvuuksia ei heti tule mieleen, se on tavallista: aloita siitä, mitä muut ovat joskus kiittäneet sinua.
+**Lukeminen, keskittyminen ja jännitys:** Tee tehtävät yksi kerrallaan ja salli piirtäminen. Jos itsestä kertominen jännittää, kaiken voi kirjoittaa vain itselle. Jos vahvuuksia ei heti tule mieleen, aloita siitä, mitä muut ovat joskus kiittäneet sinua.
 
 **Ilman laitetta:** Vahvuuslista, arvolaput ja tapaukset toimivat yksin paperilla ja kynällä.
 
 **Tuki:** Oppimisen tuen säännöt uudistuivat. Katso Opetushallituksen sivu [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja koulusi oma käytäntö (esimerkki).
 
 ## Milloin opinto-ohjaajalle
-
-**Jos olet heti vaarassa tai sinulla on ajatuksia itsesi vahingoittamisesta, hae apua heti.** Soita 112, soita [MIELI Kriisipuhelimeen (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/) tai kerro lähimmälle aikuiselle. Älä odota ajanvarausta.
 
 Varaa aika opinto-ohjaajalle, jos
 
@@ -298,14 +283,10 @@ Varaa aika opinto-ohjaajalle, jos
 - olet moittinut itseäsi tai tuntenut itsesi arvottomaksi suurimman osan päivistä yli kaksi viikkoa
 - haluat apua osaamisesi sanoittamiseen hakemusta tai CV:tä varten
 
-Voit puhua myös ryhmänohjaajan, erityisopettajan tai opiskeluhuollon kanssa. Koulusi kertoo, miten aika varataan (esimerkki).
-
 **Apua saat myös:**
 
 - [Etsi lähin Ohjaamo (luettu 21.11.2026)](https://ohjaamot.fi/lahin-ohjaamo): ohjausta nuorille opiskeluun, työhön ja arkeen.
 - [Ammatinvalinta ja urasuunnittelu (luettu 21.11.2026)](https://tyomarkkinatori.fi/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/ammatinvalinta-ja-urasuunnittelu): tietoa ammatinvalinnasta ja osaamisen tunnistamisen työkaluista.
-- [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia nuorille.
-- [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
 
 ## Lähteet
 

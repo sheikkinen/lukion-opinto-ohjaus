@@ -126,3 +126,16 @@ is labelled as the site's own framing (*sivuston oma jäsennys*); value question
 answers accept any well-argued view; checkers and judges verify claims against their basis, not against this site's
 style guide or earlier drafts; and the guideline's watch list of English habits applies. Where this contract and the
 guideline differ, the guideline applies until this contract is amended.
+
+## Addendum 2026-11-23: no help blocks or emergency lines
+
+Added in round 2 of the basis audit; nothing above was changed.
+
+- Operator rule, 2026-11-22: "remove the unrelated safety block - it is US cultural thing"; the shared guideline §4
+  (US-style safety apparatus) and norm ledger rows 3 and 4 in lukio-runko. Decision: D-015.
+- No topic carries a help or crisis block, a 112 line, an emergency-number sentence (*soita hätänumeroon*,
+  *Hätätilanteessa…*), a crisis line or youth helpline as a help pointer, or a content note. The one help block
+  allowed across the sites is in the terveystieto mental-health chapter, not here.
+- `## Milloin opinto-ohjaajalle` stays: it is subject content (OP guidance). Read item 7 under "A topic file" as
+  concrete triggers plus dated links to services that match them; "help links" there does not mean crisis lines.
+- A source link that supports subject content stays in `official_links`; only its use as a help pointer goes.

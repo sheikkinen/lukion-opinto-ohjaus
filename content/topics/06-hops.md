@@ -5,9 +5,6 @@ order: 6
 title: "Henkilökohtainen opintosuunnitelma ja kurssivalinnat"
 summary: "Opit, mitä henkilökohtainen opintosuunnitelma on, ja teet ensimmäisen luonnoksen opintojaksovalinnoistasi."
 curriculum: [OP1.t3, OP1.t5, OP1.t2, OP1.s1, OP.yt2]
-law:
-  - "Lukiolaki 714/2018 § 25"
-  - "Lukiolaki 714/2018 § 26"
 suggested_timing: {year: 1, term: syksy}
 role: core
 duration_options: [45, 60, 75]
@@ -22,10 +19,10 @@ official_links:
     url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch06-hops"
     publisher: "Lukion opinto-ohjauksen visual novel -sarja (CC BY)"
     read: 2026-11-22
-  - title: "Lukiolaki 714/2018"
-    url: "https://www.finlex.fi/fi/lainsaadanto/2018/714"
-    publisher: "Finlex"
-    read: 2026-11-21
+  - title: "Lukion opetussuunnitelman perusteet 2019 (ePerusteet)"
+    url: "https://eperusteet.opintopolku.fi/#/fi/lukiokoulutus/6828810/tiedot"
+    publisher: "Opetushallitus"
+    read: 2026-11-23
   - title: "Lukiokoulutus"
     url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/lukiokoulutus"
     publisher: "Opetushallitus"
@@ -82,9 +79,9 @@ last_reviewed: 2026-11-21
 
 ### Mikä HOPS on?
 
-Henkilökohtainen opintosuunnitelma eli HOPS on suunnitelma, jonka teet itsellesi opettajien ja ohjaajan tukemana. Se on kirjattu lukiolakiin. Tarkista sanamuoto [lukiolaista](https://www.finlex.fi/fi/lainsaadanto/2018/714). HOPS ei ole lomake, joka täytetään kerran ja unohdetaan. Se on työväline, jota päivität koko lukion ajan.
+Henkilökohtainen opintosuunnitelma eli HOPS on suunnitelma, jonka laadit itse koulun opettajien ja ohjaajien tuella (lukion opetussuunnitelman perusteet LOPS 2019, luku Opetussuunnitelman laatiminen). Sivuston näkemys: HOPS ei ole lomake, joka täytetään kerran ja unohdetaan, vaan työväline, jota päivität lukion aikana.
 
-HOPS on sinun suunnitelmasi. Sinä päätät, mitä siihen kirjoitat, ja koulu auttaa. Suunnitelma saa muuttua.
+HOPS on tarkoitettu sinun opintojesi suunnitteluun. Koulusi kertoo, mitä HOPSiin kirjataan (esimerkki), ja koulu auttaa. Suunnitelma saa muuttua.
 
 ### HOPSin kolme osaa
 
@@ -92,15 +89,15 @@ HOPS on sinun suunnitelmasi. Sinä päätät, mitä siihen kirjoitat, ja koulu a
 2. **Ylioppilastutkintosuunnitelma.** Siinä mietit, mitkä kokeet kirjoitat ja milloin. Siitä kerrotaan aiheessa 07.
 3. **Jatko-opinto- ja urasuunnitelma.** Siinä mietit, mitä haluat tehdä lukion jälkeen. Se alkaa tässä vaiheessa aivan alustavana ajatuksena.
 
-Osat liittyvät toisiinsa. Opintojaksovalinnat vaikuttavat siihen, mitä kokeita voit kirjoittaa, ja kokeet voivat vaikuttaa jatko-opintomahdollisuuksiin. Siksi suunnitelma kannattaa tehdä kokonaisuutena, vaikka jokainen osa on aluksi vain luonnos.
+Sivuston jäsennys: osat liittyvät toisiinsa. Opintojaksovalinnat voivat vaikuttaa siihen, mitä kokeita voit kirjoittaa, ja kokeet voivat vaikuttaa jatko-opintomahdollisuuksiin (yo-kokeesta lisää aiheessa 07). Voit tehdä suunnitelman kokonaisuutena, vaikka jokainen osa on aluksi vain luonnos.
 
 ### Miksi HOPS auttaa urasuunnittelussa?
 
-Kun kirjoitat suunnitelmaa, pysähdyt miettimään, mitä haluat ja mitä tarvitset. Näet, mitä opintoja olet tekemässä ja mitä vielä puuttuu. Voit huomata asioita ajoissa, ennen kuin valinnat ovat jo tehtyjä. Jos haluat esimerkiksi jättää jatko-opintojen ovet auki, HOPS auttaa näkemään, mitä sinun kannattaa opiskella. Jos et vielä tiedä, mitä haluat, se auttaa pitämään vaihtoehtoja auki ja löytämään suunnan.
+Sivuston näkemys: kun kirjoitat suunnitelmaa, pysähdyt miettimään, mitä haluat ja mitä tarvitset. Näet, mitä opintoja olet tekemässä ja mitä vielä puuttuu. Voit huomata asioita ajoissa, ennen kuin valinnat ovat jo tehtyjä. Jos haluat esimerkiksi jättää jatko-opintojen ovet auki, HOPS voi auttaa näkemään, mitä voisit opiskella. Jos et vielä tiedä, mitä haluat, se auttaa pitämään vaihtoehtoja auki ja löytämään suunnan.
 
 ### Miten opintojaksoja valitaan?
 
-Lukiossa on pakollisia ja valinnaisia opintoja (aiheessa 01 kerrottiin rakenteesta). Kun valitset valinnaisia opintojaksoja, kysy itseltäsi:
+Lukiossa on pakollisia ja valinnaisia opintoja (LOPS 2019, luku Opintojen rakenne; aiheessa 01 kerrottiin rakenteesta). Kun valitset valinnaisia opintojaksoja, kysy itseltäsi (sivuston esimerkkikysymykset):
 
 - Mikä minua kiinnostaa?
 - Missä haluan kehittyä?
@@ -108,17 +105,17 @@ Lukiossa on pakollisia ja valinnaisia opintoja (aiheessa 01 kerrottiin rakentees
 - Paljonko jaksan ottaa yhtä aikaa?
 - Mitä haluan jättää auki myöhemmäksi?
 
-Koulun **kurssitarjotin** kertoo, mitä opintojaksoja on tarjolla ja milloin (esimerkki). Aina kaikkea ei voi valita, koska jaksot menevät päällekkäin. Silloin joudut priorisoimaan, eli laittamaan asioita tärkeysjärjestykseen. Priorisointi ei tarkoita, että jokin vaihtoehto olisi huono. Se tarkoittaa, että valitset sen, mikä sopii sinun tilanteeseesi nyt.
+Koulun **kurssitarjotin** kertoo, mitä opintojaksoja on tarjolla ja milloin (esimerkki). Aina kaikkea ei voi valita, koska jaksot menevät päällekkäin. Silloin joudut priorisoimaan, eli laittamaan asioita tärkeysjärjestykseen. Sivuston näkemys: priorisointi ei tarkoita, että jokin vaihtoehto olisi huono. Se tarkoittaa, että valitset sen, mikä sopii sinun tilanteeseesi nyt.
 
-Hyvä tapa on tehdä kolme listaa: **varmasti haluan**, **mietin vielä** ja **jätän pois**. Voit palata listoihin myöhemmin.
+Yksi tapa on tehdä kolme listaa (sivuston oma jäsennys): **varmasti haluan**, **mietin vielä** ja **jätän pois**. Voit palata listoihin myöhemmin.
 
 ### Suunnitelma saa muuttua
 
-Ensimmäinen suunnitelma on luonnos. Kiinnostukset muuttuvat, ja niin saa tehdä suunnitelmakin. Voit vaihtaa suuntaa, lisätä opintoja tai jättää jotain pois. Sinun ei tarvitse pelätä, että yksi valinta lukitsee kaiken. Kun päivität suunnitelmaa, keskustele opinto-ohjaajan kanssa. Koulusi kertoo säännöt valintojen muuttamisesta (esimerkki).
+Ensimmäinen suunnitelma on luonnos. Kiinnostukset muuttuvat, ja niin saa tehdä suunnitelmakin. Voit vaihtaa suuntaa, lisätä opintoja tai jättää jotain pois. Moni valinta on mahdollista muuttaa, mutta se riippuu koulusi säännöistä. Kun päivität suunnitelmaa, keskustele opinto-ohjaajan kanssa. Koulusi kertoo säännöt valintojen muuttamisesta (esimerkki).
 
 ### Tukea valintoihin
 
-Elämänsuunnitteluun ja koulutusvalintoihin saat tukea opinto-ohjaajalta, ryhmänohjaajalta, aineenopettajilta ja opiskeluhuollosta. Myös [Ohjaamo](https://ohjaamot.fi/lahin-ohjaamo) auttaa nuoria. Kaikki reitit ovat yhtä arvokkaita: ammattikorkeakoulu, yliopisto, ammatillinen koulutus, kansanopisto, välivuosi, palvelus, työ ja opiskelu ulkomailla. Hyvä HOPS tukee juuri sinun reittiäsi.
+Elämänsuunnitteluun ja koulutusvalintoihin saat tukea opinto-ohjaajalta, ryhmänohjaajalta, aineenopettajilta ja opiskeluhuollosta. Myös [Ohjaamo](https://ohjaamot.fi/lahin-ohjaamo) auttaa nuoria. Sivuston lähtökohta on, että kaikki reitit ovat samanarvoisia: ammattikorkeakoulu, yliopisto, ammatillinen koulutus, kansanopisto, välivuosi, palvelus, työ ja opiskelu ulkomailla. HOPS voi tukea juuri sinun reittiäsi.
 
 ## Tehtävät
 
@@ -184,7 +181,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan kertoa, mistä kolmesta osasta HOPS koostuu ja miten niitä päivitetään.
 - Osaan nimetä, kenen puoleen voin kääntyä elämänsuunnittelussa ja opintovalinnoissa.
 
-Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
+Jos jokin kohta on vielä "En vielä", voit kirjata sen HOPSiin kysymykseksi ohjaajalle.
 
 **Pelaa aiheesta visual novel:** [HOPS ja kurssivalinnat](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch06-hops). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
@@ -201,7 +198,7 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** aihe 07 *Ylioppilastutkinto ja alustava yo-suunnitelma*. Siellä lisäät HOPSiin toisen osan.
 
-**HOPSiin:** HOPS on koulun kanssa jaettu asiakirja. Kirjoita siihen vain se, minkä haluat jakaa. Terveys-, perhe- ja talousasiat voit pitää omassa muistiossasi. Kirjoita HOPSin osaan *opiskelusuunnitelma* alustava luonnos lähimpien jaksojen opintojaksoistasi ja kolme tärkeintä valintaperustetta. Merkitse, että suunnitelma on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
+**HOPSiin:** Kirjoita siihen vain se, minkä haluat jakaa. Terveys-, perhe- ja talousasiat voit pitää omassa muistiossasi. Kirjoita HOPSin osaan *opiskelusuunnitelma* alustava luonnos lähimpien jaksojen opintojaksoistasi ja kolme tärkeintä valintaperustetta. Merkitse, että suunnitelma on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
@@ -210,11 +207,11 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jonka haluaisivat lukiossa oppia, ja yhden, joka valinnoissa mietityttää. | Kerää laput, sekoita ja lue muutama ääneen. Älä korjaa vielä. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
-| Aiemman tiedon aktivointi | 8 | Totta vai tarua -väitteet pareittain: "HOPS on opettajan tekemä lomake." "Valintoja ei voi enää muuttaa." "HOPS koskee vain yliopistoon hakevia." "Kaikkea ei voi valita." | Näytä vastaukset lukiolain ja opetussuunnitelman perusteiden pohjalta ja kytke lappujen huolet väitteisiin. Vastausvihjeet: HOPS on opiskelijan oma suunnitelma, jota tehdään ohjauksessa; valintoja voi muuttaa koulun sääntöjen mukaan; HOPS koskee kaikkia reittejä; kaikkea ei voi valita, koska jaksot menevät päällekkäin. | Väitteet paperilla, opiskelija vastaa yksin. | Käy läpi kaksi ensimmäistä väitettä. |
+| Aiemman tiedon aktivointi | 8 | Totta vai tarua -väitteet pareittain: "HOPS on opettajan tekemä lomake." "Valintoja ei voi enää muuttaa." "HOPS koskee vain yliopistoon hakevia." "Kaikkea ei voi valita." | Kytke lappujen huolet väitteisiin ja kysy jokaisesta, mihin väite perustuu. HOPSin teosta: opiskelija laatii sen opettajien ja ohjaajien tuella (LOPS 2019, luku Opetussuunnitelman laatiminen); valintojen muuttaminen ja päällekkäiset jaksot ovat koulun käytäntö (esimerkki); jokainen opiskelija laatii HOPSin (LOPS 2019, luku Opetussuunnitelman laatiminen). | Väitteet paperilla, opiskelija vastaa yksin. | Käy läpi kaksi ensimmäistä väitettä. |
 | Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin HOPSin kolme osaa, kolme listaa (varmasti, mietin, jätän pois) ja kysymykset valintojen tueksi. | Piirrä kolme osaa taululle. Kerro koulun kurssitarjotin, valintojen aikataulu ja HOPS-käytäntö (esimerkki). | Jaa osat ja listat paperilla. | Jätä osat 2 ja 3 lyhyeen mainintaan. |
 | Työskentely | 30 | Tehtävä 1 (20 min) ja Tehtävä 2 (10 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Auta lukemaan kurssitarjotinta. Älä ehdota "oikeaa" valintaa. | Pari voi käydä läpi toistensa taulukon rakenteen. Paperipohja. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Tehtävä 3 (10 min) kolmen hengen ryhmissä kuvitteellisilla tapauksilla. Ryhmä kirjoittaa kaksi kysymystä tapaukselle. | Ohjaa puhumaan tapauksista, ei omista suunnitelmista. Kokoa kysymykset taululle. | Yksin tai parin kanssa. | Yksi tapaus koko ryhmälle yhdessä. |
-| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat luonnoksen HOPSiin. HOPS on koulun kanssa jaettu asiakirja, joten terveys-, perhe- ja talousasiat jäävät omaan muistioon. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten suunnitelmaa päivitetään ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat luonnoksen HOPSiin. Terveys-, perhe- ja talousasiat jäävät omaan muistioon (sivuston neuvo). Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten suunnitelmaa päivitetään ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 4 | Kysymyksiä, keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### 60 min
@@ -222,11 +219,11 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
 | Virittäytyminen | 4 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jonka haluaisivat lukiossa oppia, ja yhden, joka valinnoissa mietityttää. | Kerää laput, sekoita ja lue muutama ääneen. Älä korjaa vielä. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
-| Aiemman tiedon aktivointi | 5 | Kolme totta vai tarua -väitettä pareittain: "HOPS on opettajan tekemä lomake." "Valintoja ei voi enää muuttaa." "HOPS koskee vain yliopistoon hakevia." | Näytä vastaukset lukiolain ja opetussuunnitelman perusteiden pohjalta. Vastausvihjeet: HOPS on opiskelijan oma suunnitelma, jota tehdään ohjauksessa; valintoja voi muuttaa koulun sääntöjen mukaan; HOPS koskee kaikkia reittejä. | Väitteet paperilla, opiskelija vastaa yksin. | Jätä kolmas väite pois. |
+| Aiemman tiedon aktivointi | 5 | Kolme totta vai tarua -väitettä pareittain: "HOPS on opettajan tekemä lomake." "Valintoja ei voi enää muuttaa." "HOPS koskee vain yliopistoon hakevia." | Kysy jokaisesta väitteestä, mihin se perustuu. HOPSin teosta: opiskelija laatii sen opettajien ja ohjaajien tuella (LOPS 2019, luku Opetussuunnitelman laatiminen); valintojen muuttaminen on koulun käytäntö (esimerkki); jokainen opiskelija laatii HOPSin (LOPS 2019, luku Opetussuunnitelman laatiminen). | Väitteet paperilla, opiskelija vastaa yksin. | Jätä kolmas väite pois. |
 | Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin HOPSin kolme osaa, kolme listaa (varmasti, mietin, jätän pois) ja kysymykset valintojen tueksi. | Piirrä kolme osaa taululle. Kerro koulun kurssitarjotin, valintojen aikataulu ja HOPS-käytäntö (esimerkki). | Jaa osat ja listat paperilla. | Jätä osat 2 ja 3 lyhyeen mainintaan ja anna aikataulu kirjallisena. |
 | Työskentely | 26 | Tehtävä 1 (20 min) yksin. Sen jälkeen Tehtävän 2 vaiheet 1–3 (6 min). | Kierrä ja kysy avoimia kysymyksiä. Auta lukemaan kurssitarjotinta. Älä ehdota "oikeaa" valintaa. | Pari voi käydä läpi toistensa taulukon rakenteen. Paperipohja. | Tehtävän 2 vaiheet kotiin. |
 | Pari- tai pienryhmäpohdinta | 7 | Tehtävä 3 pareittain yhdellä kuvitteellisella tapauksella (7 min). Kirjoittakaa kaksi kysymystä tapauksen opiskelijalle. | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin tai parin kanssa. | Yksi yhteinen tapaus koko ryhmälle. |
-| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat luonnoksen HOPSiin. HOPS on koulun kanssa jaettu asiakirja, joten terveys-, perhe- ja talousasiat jäävät omaan muistioon. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten suunnitelmaa päivitetään ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat luonnoksen HOPSiin. Terveys-, perhe- ja talousasiat jäävät omaan muistioon (sivuston neuvo). Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten suunnitelmaa päivitetään ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### 45 min
@@ -234,18 +231,18 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
 | Virittäytyminen | 3 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka valinnoissa mietityttää. | Kerää laput, sekoita ja lue muutama ääneen. Älä korjaa vielä. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
-| Aiemman tiedon aktivointi | 4 | Kaksi totta vai tarua -väitettä pareittain (2 min), sitten vastaukset yhdessä: "HOPS on opettajan tekemä lomake." "Valintoja ei voi enää muuttaa." | Näytä vastaukset lukiolain ja opetussuunnitelman perusteiden pohjalta. Vastausvihjeet: HOPS on opiskelijan oma suunnitelma, jota tehdään ohjauksessa, ja valintoja voi muuttaa koulun sääntöjen mukaan. | Väitteet paperilla, opiskelija vastaa yksin. | Käsittele vain ensimmäinen väite. |
+| Aiemman tiedon aktivointi | 4 | Kaksi totta vai tarua -väitettä pareittain (2 min), sitten vastaukset yhdessä: "HOPS on opettajan tekemä lomake." "Valintoja ei voi enää muuttaa." | Kysy jokaisesta väitteestä, mihin se perustuu. HOPSin teosta: opiskelija laatii sen opettajien ja ohjaajien tuella (LOPS 2019, luku Opetussuunnitelman laatiminen); valintojen muuttaminen on koulun käytäntö (esimerkki). | Väitteet paperilla, opiskelija vastaa yksin. | Käsittele vain ensimmäinen väite. |
 | Lyhyt alustus | 5 | Opiskelijat kirjaavat muistiin HOPSin kolme osaa ja kolme listaa (varmasti, mietin, jätän pois). | Piirrä kolme osaa taululle. Anna koulun kurssitarjotin, aikataulu ja HOPS-käytäntö kirjallisena (esimerkki). | Jaa osat ja listat paperilla. | Jätä osat 2 ja 3 pois ja kerro ne kirjallisesti. |
 | Työskentely | 22 | Tehtävä 1 (20 min) yksin. Kaksi minuuttia kurssitarjottimen löytämiseen. | Kierrä ja kysy avoimia kysymyksiä. Auta lukemaan kurssitarjotinta. Älä ehdota "oikeaa" valintaa. | Pari voi käydä läpi toistensa taulukon rakenteen. Paperipohja. | Tehtävän 1 vaiheet 4 ja 5 kotiin. |
 | Pari- tai pienryhmäpohdinta | 4 | Yksi kuvitteellinen tapaus Tehtävästä 3 koko ryhmälle yhdessä. Ryhmä sanoo ääneen kaksi kysymystä tapauksen opiskelijalle. | Pidä keskustelu tapauksessa, ei opiskelijoiden omissa tilanteissa. Kirjoita kysymykset taululle. | Yksin tai parin kanssa. | Tehtävä 3 kotiin. |
-| HOPS-askel ja exit | 6 | Opiskelijat kirjaavat luonnoksen HOPSiin. HOPS on koulun kanssa jaettu asiakirja, joten terveys-, perhe- ja talousasiat jäävät omaan muistioon. Tehtävä 2 (tärkeysjärjestys) ja Pohdinta tehdään kotona. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten suunnitelmaa päivitetään ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Kirjaus loppuun kotona. Exit-kysymys tunnin jälkeen. |
+| HOPS-askel ja exit | 6 | Opiskelijat kirjaavat luonnoksen HOPSiin. Terveys-, perhe- ja talousasiat jäävät omaan muistioon (sivuston neuvo). Tehtävä 2 (tärkeysjärjestys) ja Pohdinta tehdään kotona. Exit-lappu: yksi kysymys, jonka haluavat kysyä ohjauksessa (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten suunnitelmaa päivitetään ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Kirjaus loppuun kotona. Exit-kysymys tunnin jälkeen. |
 | Puskuri | 1 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### Valmistelu
 
 - Selvitä koulun kurssitarjotin, valintojen aikataulu ja HOPS-käytäntö: kuka näkee mitä merkintöjä (esimerkki).
 - Pidä kurssitarjotin tai opinto-opas esillä sähköisenä ja halutessasi tulostettuna. Tehtävät onnistuvat myös tyhjällä paperilla.
-- Varaa lukiolain kohta ja opetussuunnitelman sivu esille, jotta voit näyttää, mistä HOPS on peräisin.
+- Varaa opetussuunnitelman perusteiden kohta esille (luku Opetussuunnitelman laatiminen ja OP1.s1), jotta voit näyttää, mistä HOPS on peräisin.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 
 ### Avoimet kysymykset
@@ -253,7 +250,7 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 Kysymykset on tarkoitettu ensin yksityiseen kirjoittamiseen omaan muistioon. Ryhmässä puhutaan yleisesti tai kuvitteellisista tapauksista. Kukaan ei vastaa henkilökohtaiseen kysymykseen ääneen.
 
 - Mitä ihminen voi toivoa oppivansa tai kokevansa lukion aikana?
-- Millä perusteilla ihmiset valitsevat opintojaksoja? Mitkä perusteet vaikuttavat hyviltä?
+- Millä perusteilla ihmiset valitsevat opintojaksoja ja mitä kukin peruste mahdollistaa tai rajaa?
 - Mitä voi tehdä, jos kaksi kiinnostavaa opintojaksoa on samaan aikaan?
 - Miten vaihtoehdot voi pitää auki, jos ei vielä tiedä, mitä haluaa?
 - Mistä huomaa, että suunnitelma ei enää sovi?
@@ -264,8 +261,8 @@ Vältä johdattelevia kysymyksiä, kuten "Etkö ottaisi pitkää matematiikkaa v
 ### Pelisäännöt ja oletusten tarkistus
 
 - Kukaan ei kerro tunnilla omia valintojaan, arvosanojaan, perhetaustaansa tai tulevaisuudensuunnitelmiaan ryhmälle. Ryhmätyö tehdään kuvitteellisilla tapauksilla.
-- HOPSiin kirjataan vain se, mitä opiskelija haluaa kirjata. Terveys-, perhe- ja talousasiat eivät kuulu siihen.
-- Kaikki reitit ovat yhtä arvokkaita. Älä esitä yliopistoa oletusreittinä tai tietyn aineen valintaa "turvallisena".
+- Sivuston ohje: HOPSiin kirjataan vain se, mitä opiskelija haluaa kirjata, ja terveys-, perhe- ja talousasiat jätetään omaan muistioon. Koulu kertoo, mitä HOPSiin kirjataan (esimerkki).
+- Sivuston lähtökohta: kaikki reitit ovat samanarvoisia. Sivuston ohje: älä esitä yliopistoa oletusreittinä äläkä tietyn aineen valintaa "turvallisena".
 - **Oletusten tarkistus ennen tuntia:** Oletanko, kuka valitsee matematiikan, luonnontieteet tai kielet? Puhunko "tytöistä" ja "pojista" valintojen yhteydessä? Oletanko, että kotona joku auttaa valinnoissa tai että perhe tukee niitä? Oletanko, että opiskelijalla on oma laite ja Suomen koulujärjestelmän tuntemus? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -284,7 +281,7 @@ Vältä johdattelevia kysymyksiä, kuten "Etkö ottaisi pitkää matematiikkaa v
 - *päällekkäin = samaan aikaan, joten kaikkia ei voi valita*
 - *luonnos = ensimmäinen versio, jota saa muuttaa*
 
-**Lukeminen, keskittyminen ja jännitys:** Tee taulukko yksi jakso kerrallaan ja pidä tauko jaksojen välillä. Jos kurssitarjotin tuntuu sekavalta, aloita pakollisista opintojaksoista. Jos valinnat jännittävät, muista, että suunnitelma on luonnos, jota saa muuttaa.
+**Lukeminen, keskittyminen ja jännitys:** Tee taulukko yksi jakso kerrallaan ja pidä tauko jaksojen välillä. Jos kurssitarjotin tuntuu sekavalta, aloita pakollisista opintojaksoista. Suunnitelma on luonnos, jota saa muuttaa.
 
 **Ilman laitetta:** Kaikki tehtävät toimivat yksin paperilla: jaksotaulukko ja valintalaput.
 
@@ -301,8 +298,6 @@ Varaa aika opinto-ohjaajalle, jos
 - joku muu päättää opintojaksovalinnoistasi etkä ole saanut kertoa omaa toivettasi
 - haluat vaihtaa jo tehtyä suunnitelmaa
 - opintojen määrä on tuntunut liian suurelta tai liian pieneltä yli kaksi viikkoa
-
-Voit puhua myös ryhmänohjaajan, erityisopettajan tai opiskeluhuollon kanssa. Koulusi kertoo, miten aika varataan (esimerkki).
 
 **Apua saat myös:**
 

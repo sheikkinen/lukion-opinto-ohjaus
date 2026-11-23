@@ -5,9 +5,6 @@ order: 2
 title: "Opiskelutaidot ja oppimaan oppiminen"
 summary: "Opit tunnistamaan omat tapasi oppia ja kokeilet työtapoja, jotka auttavat lukio-opinnoissa."
 curriculum: [OP1.t4, OP1.s5, OP.yt1]
-law:
-  - "Lukiolaki 714/2018 § 25"
-  - "Lukiolaki 714/2018 § 28"
 suggested_timing: {year: 1, term: syksy}
 role: core
 duration_options: [45, 60, 75]
@@ -22,10 +19,10 @@ official_links:
     url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch02-opiskelutaidot"
     publisher: "Lukion opinto-ohjauksen visual novel -sarja (CC BY)"
     read: 2026-11-22
-  - title: "Lukiolaki 714/2018"
-    url: "https://www.finlex.fi/fi/lainsaadanto/2018/714"
-    publisher: "Finlex"
-    read: 2026-11-21
+  - title: "Lukion opetussuunnitelman perusteet 2019 (ePerusteet)"
+    url: "https://eperusteet.opintopolku.fi/#/fi/lukiokoulutus/6828810/tiedot"
+    publisher: "Opetushallitus"
+    read: 2026-11-23
   - title: "Oppimisen tuen uudistus"
     url: "https://www.oph.fi/fi/oppimisen-tuen-uudistus"
     publisher: "Opetushallitus"
@@ -45,10 +42,6 @@ official_links:
   - title: "Etsi lähin Ohjaamo"
     url: "https://ohjaamot.fi/lahin-ohjaamo"
     publisher: "Ohjaamot"
-    read: 2026-11-21
-  - title: "Sekasin-chat"
-    url: "https://sekasin.fi/"
-    publisher: "MIELI Suomen Mielenterveys ry"
     read: 2026-11-21
 yearly_facts: [learning_support_rules, guidance_services]
 school_adapts:
@@ -74,41 +67,39 @@ last_reviewed: 2026-11-21
 **Tämän aiheen jälkeen**
 
 - Osaan nimetä muutaman opiskelutavan ja työtavan, joita lukiossa tarvitaan, ja kokeilla niitä.
-- Osaan arvioida lukemaani tietoa kolmella kysymyksellä ja tiedän, mitä oppimaan oppiminen tarkoittaa.
+- Osaan arvioida lukemaani tietoa kysymällä, kuka sen on kirjoittanut, milloin ja mihin tarkoitukseen, ja tiedän, mitä oppimaan oppiminen tarkoittaa.
 - Osaan kokeilla työtapaa ja tarkistaa, auttoiko se minua muistamaan asian.
 
 ### Mitä opiskelutaidot ovat?
 
-Opiskelutaidot ovat tapoja, joilla opit uutta: miten luet, kirjoitat muistiinpanoja, kertaat ja suunnittelet työn. Ne eivät ole synnynnäisiä. Jokainen voi harjoitella niitä, ja niitä tarvitaan lukiossa eri tavalla kuin peruskoulussa. Töitä on enemmän ja opintojaksot etenevät nopeasti.
+Opiskelutaidot ovat tapoja, joilla opit uutta: miten luet, kirjoitat muistiinpanoja, kertaat ja suunnittelet työn (sivuston selitys). Opinto-ohjauksen tavoitteena on, että osaat lukiossa tarvittavat opiskelutaidot ja -menetelmät sekä työtavat (OP1.t4).
 
-**Oppimaan oppiminen** tarkoittaa, että opit tuntemaan oman oppimisesi. Tiedät, mitkä tavat toimivat sinulle, ja uskallat kokeilla uusia. Tämä auttaa lukion lisäksi myös myöhemmin työssä ja opinnoissa.
+**Oppimaan oppiminen** (OP1.s5) tarkoittaa tässä sitä, että opit tuntemaan oman oppimisesi. Tiedät, mitkä tavat toimivat sinulle, ja uskallat kokeilla uusia.
 
 ### Tapoja opiskella
 
-Kertaaminen ajan kanssa ja itsensä kuulustelu ovat tapoja, jotka auttavat monia. Se, mikä sopii juuri sinulle, selviää kokeilemalla. Tässä on kokeiltavaksi muutama tapa:
+Alla on sivuston esimerkkejä työtavoista. Se, mikä sopii juuri sinulle, selviää kokeilemalla:
 
-- **Kertaaminen ajan kanssa.** Palaat asiaan pienissä erissä usean päivän aikana. Se toimii usein paremmin kuin yksi pitkä iltapäivä ennen koetta.
+- **Kertaaminen ajan kanssa.** Palaat asiaan pienissä erissä usean päivän aikana. Monien mielestä se sopii paremmin kuin yksi pitkä iltapäivä ennen koetta.
 - **Muistiinpanot omin sanoin.** Kirjoitat asian omilla sanoillasi, et kopioi. Samalla huomaat, mitä et vielä ymmärrä.
 - **Kysyminen itseltä.** Peität muistiinpanot ja yrität kertoa asian ääneen tai kirjoittaa sen paperille.
 - **Opettaminen toiselle.** Selität asian kaverille tai vaikka kuvitellulle kuulijalle.
 - **Kartat ja kaaviot.** Piirrät asioiden yhteydet näkyviin.
 - **Pienet tavoitteet.** Jaat suuren työn osiin ja merkitset valmiit osat.
 
-Kokeile yhtä tapaa kerrallaan ja katso, mitä tapahtuu. Jos tapa ei toimi, se ei ole epäonnistuminen. Silloin tiedät jotain itsestäsi.
+Kokeile yhtä tapaa kerrallaan ja katso, mitä tapahtuu. Jos tapa ei toimi, kokeile toista.
 
 ### Tiedon etsiminen ja arviointi
 
-Lukiossa etsit tietoa itse. Kun löydät tekstin, kysy kolme asiaa: kuka sen on kirjoittanut, milloin ja mihin tarkoitukseen. Aiheessa 08 lisätään neljäs kysymys: voitko tarkistaa tiedon muualta? Viralliset sivut, kuten Opetushallituksen, ovat yleensä luotettavia. Vertaa aina vähintään kahta lähdettä. Merkitse muistiin, mistä tieto on, jotta löydät sen uudelleen. Tiedonhaun taidoista ja ohjauspalveluista kerrotaan lisää aiheessa 08.
+Lukiossa etsit tietoa itse. Sivuston oma jäsennys: kolme kysymystä lähteen arviointiin. Kun löydät tekstin, kysy kolme asiaa: kuka sen on kirjoittanut, milloin ja mihin tarkoitukseen. Aiheessa 08 lisätään neljäs kysymys: voitko tarkistaa tiedon muualta? Kannattaa verrata useampaa lähdettä. Merkitse muistiin, mistä tieto on, jotta löydät sen uudelleen. Tiedonhaun taidoista ja ohjauspalveluista kerrotaan lisää aiheessa 08.
 
-### Mistä apua saa?
+### Oppimisen tuki
 
-Oppiminen voi tuntua vaikealta monesta syystä. Syynä voi olla esimerkiksi lukivaikeus, keskittymisen haasteet, jännitys tai se, että suomi ei ole äidinkielesi. Silloin on normaalia kysyä apua. Lukiolaisella on lukiolain mukaan oikeus oppimisen tukeen. Lue säännös [lukiolaista](https://www.finlex.fi/fi/lainsaadanto/2018/714). Lisää tuen uudistuksesta saat [Opetushallituksen sivulta](https://www.oph.fi/fi/oppimisen-tuen-uudistus). Tukea saat erityisopettajalta, aineenopettajalta tai opinto-ohjaajalta. Koulusi kertoo, miten (esimerkki).
-
-Jos opiskelu aiheuttaa kuormitusta, [Mielenterveystalon nuorten sivulta](https://www.mielenterveystalo.fi/fi/nuoret) löydät omahoito-ohjelmia, esimerkiksi opiskeluun liittyvään uupumukseen.
+Oppiminen voi tuntua vaikealta monesta syystä. Syynä voi olla esimerkiksi lukivaikeus, keskittymisen haasteet, jännitys tai se, että suomi ei ole äidinkielesi. Tietoa oppimisen tuesta saat [Opetushallituksen sivulta](https://www.oph.fi/fi/oppimisen-tuen-uudistus). Tukea saat erityisopettajalta, aineenopettajalta tai opinto-ohjaajalta. Koulusi kertoo, miten (esimerkki).
 
 ### Tämä on sinun oppimistasi
 
-Kukaan ei voi opiskella puolestasi, mutta sinun ei tarvitse tehdä sitä yksin. Voit kokeilla, mitä toimii, ja kysyä neuvoa. Hyvä opiskelutapa voi olla erilainen eri aineissa ja eri aikoina. Se voi myös muuttua lukion aikana. Tämä kuuluu asiaan.
+Kukaan ei voi opiskella puolestasi. Voit kokeilla, mitä toimii, ja kysyä neuvoa aineenopettajalta: LOPS 2019:n luvun Ohjaus mukaan aineenopettaja ohjaa opiskelijaa oman aineensa opiskelutaidoissa. Sivuston näkemys: sopiva opiskelutapa voi olla erilainen eri aineissa ja eri aikoina.
 
 ## Tehtävät
 
@@ -164,10 +155,10 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 **Itsearviointi.** Arvioi jokainen kohta asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*.
 
 - Osaan nimetä muutaman opiskelutavan ja työtavan, joita lukiossa tarvitaan, ja kokeilla niitä.
-- Osaan arvioida lukemaani tietoa kolmella kysymyksellä ja tiedän, mitä oppimaan oppiminen tarkoittaa.
+- Osaan arvioida lukemaani tietoa kysymällä, kuka sen on kirjoittanut, milloin ja mihin tarkoitukseen, ja tiedän, mitä oppimaan oppiminen tarkoittaa.
 - Osaan kokeilla työtapaa ja tarkistaa, auttoiko se minua muistamaan asian.
 
-Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
+Jos jokin kohta on vielä "En vielä", voit tuoda sen keskusteluun ohjaajan kanssa.
 
 **Pelaa aiheesta visual novel:** [Opiskelutaidot ja oppimaan oppiminen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch02-opiskelutaidot). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
@@ -184,7 +175,7 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** aihe 03 *Ajankäyttö ja arjen hallinta*. Siellä suunnittelet, miten opiskelu mahtuu viikkoosi.
 
-**HOPSiin:** HOPS on koulun kanssa jaettu asiakirja. Kirjoita siihen vain se, minkä haluat jakaa. Kirjoita HOPSin osaan *opiskelusuunnitelma* yksi opiskelutapa, jonka aiot kokeilla. Jos haluat tukea, kirjoita se omaan muistioosi tai kerro siitä ohjaajalle henkilökohtaisesti. Tuen tarve ei kuulu jaettuun HOPSiin, ellet itse halua. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
+**HOPSiin:** Kirjoita siihen vain se, minkä haluat jakaa. Kirjoita HOPSin osaan *opiskelusuunnitelma* yksi opiskelutapa, jonka aiot kokeilla. Sivuston neuvo: jos haluat tukea, kirjoita se omaan muistioosi tai kerro siitä ohjaajalle henkilökohtaisesti. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
@@ -193,11 +184,11 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden tavan, jolla ihmiset opiskelevat, ja yhden asian, joka opiskelussa mietityttää. | Kerää laput, sekoita ja lue muutama ääneen. Älä arvioi tapoja vielä. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
-| Aiemman tiedon aktivointi | 10 | Totta vai tarua -väitteet pareittain: "Pitkä opiskelupäivä on paras tapa valmistautua kokeeseen." "Kaikki oppivat samalla tavalla." "Muistiinpanot kannattaa kopioida sellaisenaan." "Avun pyytäminen kertoo heikkoudesta." | Kerro, että väitteet ovat keskustelun avaus, ja kytke lappujen asiat väitteisiin. Vastausvihjeet: pitkä opiskelupäivä on harvoin paras tapa, koska pieninä erinä kertaaminen toimii usein paremmin; kaikki eivät opi samalla tavalla; omin sanoin kirjoittaminen auttaa enemmän kuin kopiointi; avun pyytäminen on normaalia eikä kerro heikkoudesta. Älä anna yhtä oikeaa tapaa. | Väitteet paperilla, opiskelija vastaa yksin. | Käy läpi kaksi ensimmäistä väitettä. |
-| Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin kuusi työtapaa ja kolme kysymystä lähteen arviointiin: kuka, milloin, mihin tarkoitukseen. | Esittele työtavat lyhyesti esimerkkien kanssa. Näytä, mistä tukea löytyy koulussa (esimerkki) ja linkki Opetushallituksen tuen sivulle. | Jaa työtavat paperilla. | Jätä tuen esittely Tehtävän 2 ohjeeksi. |
+| Aiemman tiedon aktivointi | 10 | Totta vai tarua -väitteet pareittain: "Pitkä opiskelupäivä on paras tapa valmistautua kokeeseen." "Sama työtapa sopii kaikkiin aineisiin." "Muistiinpanot kannattaa kopioida sellaisenaan." | Kerro, että väitteet ovat keskustelun avaus, ja kytke lappujen asiat väitteisiin. Kysy jokaisesta: milloin tämä voisi toimia ja milloin ei? Hyväksy perusteltu näkemys. | Väitteet paperilla, opiskelija vastaa yksin. | Käy läpi kaksi ensimmäistä väitettä. |
+| Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin kuusi työtapaa ja sivuston oman jäsennyksen kolme kysymystä lähteen arviointiin: kuka, milloin, mihin tarkoitukseen. | Esittele työtavat lyhyesti esimerkkien kanssa. Näytä, mistä tukea löytyy koulussa (esimerkki) ja linkki Opetushallituksen tuen sivulle. | Jaa työtavat paperilla. | Jätä tuen esittely Tehtävän 2 ohjeeksi. |
 | Työskentely | 30 | Tehtävä 1 (20 min) ja Tehtävä 2 (10 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Kannusta kokeilemaan, älä arvioi tuloksia. Varaa aikaa kappaleiden löytämiseen. | Pari voi kokeilla yhdessä, ja kumpikin tekee omat muistiinpanonsa. Paperipohja. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Tehtävä 3 (10 min) kolmen hengen ryhmissä kuvitteellisilla tapauksilla. Ryhmä kirjoittaa kaksi työtapaa tapaukselle. | Ohjaa puhumaan tapauksista, ei omista tilanteista. Kokoa lopuksi ehdotukset taululle. | Yksin tai parin kanssa. | Yksi tapaus koko ryhmälle yhdessä. |
-| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin yhden opiskelutavan, jonka kokeilevat. HOPS on koulun kanssa jaettu, joten tuen tarpeet kirjoitetaan omaan muistioon tai kerrotaan ohjaajalle henkilökohtaisesti. Exit-lappu: yksi kysymys oppimisesta (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan ja mistä tukea saa (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin yhden opiskelutavan, jonka kokeilevat. Sivuston neuvo: tuen tarpeet kirjoitetaan omaan muistioon tai kerrotaan ohjaajalle henkilökohtaisesti. Exit-lappu: yksi kysymys oppimisesta (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan ja mistä tukea saa (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 2 | Kysymyksiä, keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### 60 min
@@ -205,11 +196,11 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
 | Virittäytyminen | 4 | Opiskelijat kirjoittavat nimettömälle lapulle yhden tavan, jolla ihmiset opiskelevat, ja yhden asian, joka opiskelussa mietityttää. | Kerää laput, sekoita ja lue muutama ääneen. Älä arvioi tapoja vielä. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
-| Aiemman tiedon aktivointi | 5 | Kolme totta vai tarua -väitettä pareittain: "Pitkä opiskelupäivä on paras tapa valmistautua kokeeseen." "Kaikki oppivat samalla tavalla." "Muistiinpanot kannattaa kopioida sellaisenaan." | Kerro, että väitteet ovat keskustelun avaus. Vastausvihje: pitkä opiskelupäivä on harvoin paras tapa, ja kaikki eivät opi samalla tavalla. Älä anna yhtä oikeaa tapaa. Kopioimisväitteen vihje: omin sanoin kirjoittaminen auttaa enemmän kuin kopiointi. | Väitteet paperilla, opiskelija vastaa yksin. | Jätä kopiointiväite pois. |
-| Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin kuusi työtapaa ja kolme kysymystä lähteen arviointiin: kuka, milloin, mihin tarkoitukseen. | Esittele työtavat lyhyesti esimerkkien kanssa. Näytä esimerkkitekstillä, miten kolme kysymystä toimivat. Anna tuen sivun linkki kirjallisena. | Jaa työtavat paperilla. | Esittele vain kolme työtapaa ja jätä loput sivulle. |
+| Aiemman tiedon aktivointi | 5 | Kolme totta vai tarua -väitettä pareittain: "Pitkä opiskelupäivä on paras tapa valmistautua kokeeseen." "Sama työtapa sopii kaikkiin aineisiin." "Muistiinpanot kannattaa kopioida sellaisenaan." | Kerro, että väitteet ovat keskustelun avaus. Kysy jokaisesta: milloin tämä voisi toimia ja milloin ei? Hyväksy perusteltu näkemys. | Väitteet paperilla, opiskelija vastaa yksin. | Jätä kopiointiväite pois. |
+| Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin kuusi työtapaa ja sivuston oman jäsennyksen kolme kysymystä lähteen arviointiin: kuka, milloin, mihin tarkoitukseen. | Esittele työtavat lyhyesti esimerkkien kanssa. Näytä esimerkkitekstillä, miten kolme kysymystä toimivat. Anna tuen sivun linkki kirjallisena. | Jaa työtavat paperilla. | Esittele vain kolme työtapaa ja jätä loput sivulle. |
 | Työskentely | 25 | Tehtävä 1 (20 min) yksin. Loppuaika kappaleiden etsimiseen ja muistiinpanojen viimeistelyyn. | Kierrä ja kysy avoimia kysymyksiä. Kannusta kokeilemaan, älä arvioi tuloksia. | Pari voi kokeilla yhdessä, ja kumpikin tekee omat muistiinpanonsa. Paperipohja. | Tehtävän 1 vaihe 5 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Tehtävä 3 pareittain yhdellä kuvitteellisella tapauksella (8 min). Kirjoittakaa tapauksen opiskelijalle kaksi työtapaa, jotka hän voisi kokeilla viikon ajan, ja perustelut. | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin tai parin kanssa. | Yksi yhteinen tapaus koko ryhmälle. |
-| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin yhden opiskelutavan, jonka kokeilevat. HOPS on koulun kanssa jaettu, joten tuen tarpeet kirjoitetaan omaan muistioon tai kerrotaan ohjaajalle henkilökohtaisesti. Tehtävä 2 tehdään kotona. Exit-lappu: yksi kysymys oppimisesta (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan ja mistä tukea saa (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin yhden opiskelutavan, jonka kokeilevat. Sivuston neuvo: tuen tarpeet kirjoitetaan omaan muistioon tai kerrotaan ohjaajalle henkilökohtaisesti. Tehtävä 2 tehdään kotona. Exit-lappu: yksi kysymys oppimisesta (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan ja mistä tukea saa (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### 45 min
@@ -217,11 +208,11 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
 | Virittäytyminen | 3 | Opiskelijat kirjoittavat nimettömälle lapulle yhden tavan, jolla ihmiset opiskelevat. | Kerää laput, sekoita ja lue muutama ääneen. Älä arvioi tapoja vielä. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
-| Aiemman tiedon aktivointi | 4 | Kaksi totta vai tarua -väitettä pareittain (2 min), sitten vastaukset yhdessä: "Pitkä opiskelupäivä on paras tapa valmistautua kokeeseen." "Kaikki oppivat samalla tavalla." | Kerro, että väitteet ovat keskustelun avaus. Vastausvihje: pitkä opiskelupäivä on harvoin paras tapa, ja kaikki eivät opi samalla tavalla. Älä anna yhtä oikeaa tapaa. | Väitteet paperilla, opiskelija vastaa yksin. | Käsittele vain ensimmäinen väite. |
-| Lyhyt alustus | 5 | Opiskelijat kirjaavat muistiin kolme työtapaa ja kolme kysymystä lähteen arviointiin: kuka, milloin, mihin tarkoitukseen. | Esittele kolme työtapaa lyhyesti. Näytä kolme kysymystä yhdellä esimerkkitekstillä. Tuen sivu ja loput työtavat jaetaan kirjallisena. | Jaa työtavat paperilla. | Jätä esimerkkiteksti pois. |
+| Aiemman tiedon aktivointi | 4 | Kaksi totta vai tarua -väitettä pareittain (2 min), sitten vastaukset yhdessä: "Pitkä opiskelupäivä on paras tapa valmistautua kokeeseen." "Sama työtapa sopii kaikkiin aineisiin." | Kerro, että väitteet ovat keskustelun avaus. Kysy jokaisesta: milloin tämä voisi toimia ja milloin ei? Hyväksy perusteltu näkemys. | Väitteet paperilla, opiskelija vastaa yksin. | Käsittele vain ensimmäinen väite. |
+| Lyhyt alustus | 5 | Opiskelijat kirjaavat muistiin kolme työtapaa ja sivuston oman jäsennyksen kolme kysymystä lähteen arviointiin: kuka, milloin, mihin tarkoitukseen. | Esittele kolme työtapaa lyhyesti. Näytä kolme kysymystä yhdellä esimerkkitekstillä. Tuen sivu ja loput työtavat jaetaan kirjallisena. | Jaa työtavat paperilla. | Jätä esimerkkiteksti pois. |
 | Työskentely | 22 | Tehtävä 1 (20 min) yksin. Kaksi minuuttia kappaleiden etsimiseen. | Kierrä ja kysy avoimia kysymyksiä. Kannusta kokeilemaan, älä arvioi tuloksia. | Pari voi kokeilla yhdessä, ja kumpikin tekee omat muistiinpanonsa. Paperipohja. | Tehtävän 1 vaihe 5 kotiin. |
 | Pari- tai pienryhmäpohdinta | 4 | Yksi kuvitteellinen tapaus Tehtävästä 3 koko ryhmälle yhdessä. Ryhmä sanoo ääneen kaksi työtapaa tapauksen opiskelijalle. | Pidä keskustelu tapauksessa, ei opiskelijoiden omissa tilanteissa. Kirjoita ehdotukset taululle. | Yksin tai parin kanssa. | Tehtävä 3 kotiin. |
-| HOPS-askel ja exit | 6 | Opiskelijat kirjaavat HOPSiin yhden opiskelutavan, jonka kokeilevat. HOPS on koulun kanssa jaettu, joten tuen tarpeet kirjoitetaan omaan muistioon tai kerrotaan ohjaajalle henkilökohtaisesti. Tehtävä 2 ja Pohdinta tehdään kotona. Exit-lappu: yksi kysymys oppimisesta (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan ja mistä tukea saa (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Kirjaus loppuun kotona. Exit-kysymys tunnin jälkeen. |
+| HOPS-askel ja exit | 6 | Opiskelijat kirjaavat HOPSiin yhden opiskelutavan, jonka kokeilevat. Sivuston neuvo: tuen tarpeet kirjoitetaan omaan muistioon tai kerrotaan ohjaajalle henkilökohtaisesti. Tehtävä 2 ja Pohdinta tehdään kotona. Exit-lappu: yksi kysymys oppimisesta (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan ja mistä tukea saa (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Kirjaus loppuun kotona. Exit-kysymys tunnin jälkeen. |
 | Puskuri | 1 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### Valmistelu
@@ -250,7 +241,7 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö kannattaisi tehdä muistiinpanoj
 - Kukaan ei kerro oppimisen vaikeuksistaan, arvosanoistaan tai terveydestään ryhmälle. Ryhmätyö tehdään kuvitteellisilla tapauksilla.
 - Oppimisen tuesta puhutaan yleisesti. Opiskelija, joka tarvitsee tukea, ohjataan henkilökohtaiseen keskusteluun.
 - Älä diagnosoi tai nimeä oppimisen haasteita. Kysy ja kuuntele.
-- Kaikki reitit ovat yhtä arvokkaita. Opiskelutaitoja tarvitaan yliopistossa, ammattikorkeakoulussa, ammatillisessa koulutuksessa, kansanopistossa ja työssä.
+- Sivuston lähtökohta: kaikki reitit ovat samanarvoisia. Opiskelutaitoja tarvitaan yliopistossa, ammattikorkeakoulussa, ammatillisessa koulutuksessa, kansanopistossa ja työssä.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että jollekin sukupuolelle opiskelu on helpompaa tai vaikeampaa? Oletanko, että kotona on rauhallinen paikka, oma laite tai joku, joka auttaa läksyissä? Oletanko, että suomi on kaikille äidinkieli? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -259,7 +250,7 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö kannattaisi tehdä muistiinpanoj
 
 **Syvempi polku:** Kokeile kolmea työtapaa kolmessa eri aineessa viikon ajan ja kirjaa jokaisen jälkeen yksi havainto. Arvioi myös, miten etsit tietoa ja miten tarkistat lähteen luotettavuuden, ja kirjaa yksi parannuskohde.
 
-**S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1. Kirjoita kunkin työtavan viereen yksi lyhyt esimerkki omasta opintojaksostasi. Voit kirjoittaa muistiinpanot ensin omalla kielelläsi ja muuttaa ne sitten suomeksi.
+**S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1. Selitykset ovat sivuston omia. Kirjoita kunkin työtavan viereen yksi lyhyt esimerkki omasta opintojaksostasi. Voit kirjoittaa muistiinpanot ensin omalla kielelläsi ja muuttaa ne sitten suomeksi.
 
 - *oppimaan oppiminen = oman oppimisen tunteminen ja kehittäminen*
 - *kertaaminen ajan kanssa = asiaan palaaminen pieninä erinä usean päivän aikana*
@@ -286,14 +277,11 @@ Varaa aika opinto-ohjaajalle, jos
 - et tiedä, mistä tukea oppimiseen saa
 - opiskelu väsyttää niin, että se vaikuttaa uneen tai mielialaan yli kaksi viikkoa
 
-Voit puhua myös erityisopettajan, aineenopettajan tai opiskeluhuollon kanssa. Koulusi kertoo, miten aika varataan (esimerkki).
-
 **Apua saat myös:**
 
 - [Etsi lähin Ohjaamo (luettu 21.11.2026)](https://ohjaamot.fi/lahin-ohjaamo): ohjausta nuorille opiskeluun, työhön ja arkeen.
 - [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia esimerkiksi opiskeluun liittyvään uupumukseen.
 - [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollon palveluista koulussa.
-- [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapua nuorille.
 
 ## Lähteet
 

@@ -5,9 +5,6 @@ order: 9
 title: "Valinnat ja jatko-opintopolut"
 summary: "Opit, miten valintasi vaikuttavat jatko-opintoihin hakeutumiseen, ja tutustut oppilaitoksiin ja työelämään."
 curriculum: [OP1.t7, OP1.t3, OP1.s7, OP1.s1, OP.yt2]
-law:
-  - "Lukiolaki 714/2018 § 25"
-  - "Lukiolaki 714/2018 § 26"
 suggested_timing: {year: 1, term: kevät}
 role: core
 duration_options: [45, 60, 75]
@@ -50,14 +47,6 @@ official_links:
     url: "https://www.oph.fi/fi/oppimisen-tuen-uudistus"
     publisher: "Opetushallitus"
     read: 2026-11-21
-  - title: "Mielenterveystalo: nuoret"
-    url: "https://www.mielenterveystalo.fi/fi/nuoret"
-    publisher: "Mielenterveystalo.fi"
-    read: 2026-11-21
-  - title: "MIELI Kriisipuhelin"
-    url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/"
-    publisher: "MIELI Suomen Mielenterveys ry"
-    read: 2026-11-21
   - title: "Studyinfo (Opintopolun englanninkielinen osa)"
     url: "https://opintopolku.fi/konfo/en/"
     publisher: "Opetushallitus (Opintopolku)"
@@ -95,23 +84,22 @@ Lukiossa teet monta valintaa. Valitset opintojaksoja, ylioppilaskokeita ja ehkä
 vaikuttaa siihen, mihin voit myöhemmin hakea. Joihinkin koulutuksiin tarvitaan tietty oppimäärä tai tietty
 yo-koe. Toisiin riittää lukion päättötodistus tai ammatillinen perustutkinto.
 
-Valinta ei ole lopullinen tuomio. Jos tiedät vain osan siitä, mitä haluat, valitse niin, että vaihtoehtoja jää
-useita. Ota selvää sääntöjen vaikutuksesta aina viralliselta sivulta, koska valintaperusteet muuttuvat. Hakemista ja
+Valinta ei ole lopullinen tuomio. Jos tiedät vain osan siitä, mitä haluat, voit punnita, haluatko pitää vaihtoehtoja auki vai keskittyä yhteen suuntaan. Ota selvää sääntöjen vaikutuksesta aina viralliselta sivulta, koska valintaperusteet muuttuvat. Hakemista ja
 valintaa käsitellään tarkemmin toisen moduulin aiheissa.
 
 ### Mitä reittejä on?
 
-Lukion jälkeen on monta tietä. Ne ovat yhtä arvokkaita. Lista on aakkosjärjestyksessä, ei paremmuusjärjestyksessä.
+Lukion jälkeen on monta tietä. Tällä sivustolla reittejä ei aseteta paremmuusjärjestykseen (sivuston linjaus). Lista on aakkosjärjestyksessä.
 
 - **Ammatillinen koulutus.** Opiskelet ammattiin, ja myös lukion käyneet voivat hakea siihen.
-- **Ammattikorkeakoulu (AMK).** Opiskelu on käytännönläheistä ja liittyy usein työelämään.
+- **Ammattikorkeakoulu (AMK).** Korkeakoulu, jonka koulutuksista ja hakutavoista kerrotaan Ammattikorkeakouluun.fi-sivustolla.
+- **Asepalvelus tai siviilipalvelus.** Siitä kerrotaan tarkemmin aiheessa 14.
 - **Kansanopisto.** Voit opiskella lyhyen tai pitkän jakson ilman tutkintoa ja miettiä suuntaa.
 - **Opiskelu ulkomailla.** Siihen tutustut aiheessa 16.
-- **Asepalvelus tai siviilipalvelus.** Siitä kerrotaan tarkemmin aiheessa 14.
 - **Välivuosi, työ tai matkustaminen.** Voit tehdä työtä, kerätä kokemusta tai levätä.
 - **Yliopisto.** Opiskelet tiedekunnissa ja tähtäät kandidaatin ja maisterin tutkintoon.
 
-Kukaan ei valitse yhtä reittiä lopullisesti. Moni vaihtaa suuntaa myöhemmin.
+Reitin voi vaihtaa myöhemmin.
 
 ### Miten tutustut koulutuksiin ja työelämään?
 
@@ -132,15 +120,15 @@ Kun tutustut, kysy itseltäsi: mikä tässä kiinnostaa? Mikä mietityttää? Mi
 
 ### Valintojen tärkeysjärjestys
 
-Kaikkea ei voi tehdä yhtä aikaa. Siksi kannattaa miettiä, mikä on sinulle nyt tärkeintä. Se voi olla kiinnostus
+Kaikkea ei voi tehdä yhtä aikaa. Voit miettiä, mikä on sinulle nyt tärkeintä. Se voi olla kiinnostus
 johonkin aineeseen, jaksaminen, aika harrastuksille tai tulevaisuuden vaihtoehtojen säilyttäminen. Tärkeysjärjestys
-voi muuttua, ja se on sallittua.
+voi muuttua.
 
 ### Jatko-opinto- ja urasuunnitelma
 
 HOPSin kolmas osa on jatko-opinto- ja urasuunnitelma. Sen ensimmäinen luonnos voi olla lyhyt: pari ajatusta
 kiinnostavista suunnista, muutama asia, jotka haluat selvittää, ja se, kenen kanssa niistä juttelet. Päivität sitä
-myöhemmin. Jos tarvitset tukea päätöksiin tai elämän suunnitteluun, voit aina pyytää apua.
+myöhemmin. Tukea päätöksiin ja elämän suunnitteluun voit pyytää opinto-ohjaajalta.
 
 ## Tehtävät
 
@@ -200,8 +188,6 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan tehdä jatko-opinto- ja urasuunnitelmastani ensimmäisen luonnoksen.
 - Osaan nimetä, kenen puoleen voin kääntyä elämän- ja urasuunnittelussa ja päätösten tekemisessä.
 
-Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
-
 **Pelaa aiheesta visual novel:** [Valinnat ja jatko-opintopolut](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch09-jatko-opintopolut). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Itseopiskelun askel
@@ -217,7 +203,7 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** toisen moduulin aihe 10 *Suunnitelmien päivitys*. Kun olet käynyt lisää opintoja, päivität suunnitelmat.
 
-**HOPSiin:** Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* kaksi tai kolme suuntaa, jotka kiinnostavat, kolme tärkeää asiaa tärkeysjärjestyksessä ja yksi asia, johon aiot tutustua. Merkitse, että luonnos on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki). HOPS on koulun kanssa jaettu asiakirja. Kirjaa siihen vain se, minkä haluat koulun tietävän. Terveyteen, perheeseen ja tuen tarpeeseen liittyvät ajatukset voit pitää omassa muistiossasi.
+**HOPSiin:** Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* kaksi tai kolme suuntaa, jotka kiinnostavat, kolme tärkeää asiaa tärkeysjärjestyksessä ja yksi asia, johon aiot tutustua. Merkitse, että luonnos on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki). Kirjaa HOPSiin vain se, minkä haluat koulun tietävän. Terveyteen, perheeseen ja tuen tarpeeseen liittyvät ajatukset voit pitää omassa muistiossasi.
 
 ## Tuntisuunnitelma (75 min)
 
@@ -230,7 +216,7 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 | Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin: miten valinnat vaikuttavat hakemiseen, tutustumistavat ja tärkeysjärjestys. | Näytä Opintopolku. Yliopistovalinnat.fi ja Ammattikorkeakouluun.fi ovat palvelulistalla. Kerro koulun tutustumismahdollisuudet (esimerkki). | Lista paperilla. | Näytä vain Opintopolku. |
 | Työskentely | 32 | Tehtävä 1 (20 min) ja Tehtävä 2 (12 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Älä ehdota "oikeaa" reittiä. | Paperipohja ilman laitetta: kysymyslista ja tärkeysjärjestys paperilla. | Tehtävä 2 kotiin tai Tehtävä 1 yhdellä koulutuksella. |
 | Pari- tai pienryhmäpohdinta | 8 | Tehtävä 3 (8 min) kolmen hengen ryhmissä kuvitteellisilla tapauksilla. | Ohjaa puhumaan tapauksista, ei omista suunnitelmista. | Yksin tai parin kanssa. | Yksi yhteinen tapaus. |
-| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat jatko-opinto- ja urasuunnitelman luonnoksen HOPSiin. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Muistuta: HOPS on koulun kanssa jaettu asiakirja. Sinne kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, milloin suunnitelma päivitetään ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Exit sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat jatko-opinto- ja urasuunnitelman luonnoksen HOPSiin. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Muistuta: HOPSiin kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, milloin suunnitelma päivitetään ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 5 | Kysymyksiä, keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset ohjausaikaan. | – | – |
 
 ### 60 min
@@ -242,7 +228,7 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 | Lyhyt alustus | 6 | Opiskelijat kirjaavat muistiin: kaksi tapaa, joilla valinnat vaikuttavat hakemiseen, ja kolme tapaa tutustua. | Näytä vain Opintopolku. Muut palvelut ovat palvelulistalla. Kerro koulun tutustumismahdollisuudet (esimerkki). | Lista paperilla. | Jätä tutustumistavat Tehtävän 2 ohjeeseen. |
 | Työskentely | 27 | Tehtävä 1 yhdellä koulutuksella (15 min) ja Tehtävä 2 (12 min). | Kierrä ja kysy avoimia kysymyksiä. Älä ehdota "oikeaa" reittiä. | Paperipohja ilman laitetta. | Tehtävä 1 kotiin ja Tehtävä 2 heti. |
 | Pari- tai pienryhmäpohdinta | 8 | Tehtävä 3 pareittain yhdellä kuvitteellisella tapauksella (8 min): kolme tärkeää asiaa tärkeysjärjestykseen ja se, mikä voisi muuttaa järjestystä. | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin tai parin kanssa. | Yksi yhteinen tapaus koko ryhmälle tai Tehtävä 3 kotiin. |
-| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat jatko-opinto- ja urasuunnitelman luonnoksen HOPSiin. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). Kirjataan vain se, mikä on valmista. | Muistuta: HOPS on koulun kanssa jaettu asiakirja. Sinne kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, milloin suunnitelma päivitetään ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Kirjaus loppuun kotona. Exit sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat jatko-opinto- ja urasuunnitelman luonnoksen HOPSiin. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). Kirjataan vain se, mikä on valmista. | Muistuta: HOPSiin kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, milloin suunnitelma päivitetään ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Kirjaus loppuun kotona. Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### 45 min
@@ -253,7 +239,7 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 | Aiemman tiedon aktivointi | 4 | Pareittain: mitä reittejä lukion jälkeen on? Lista taululle. | Täydennä lista reiteillä, joita ei mainittu. Älä aseta niitä järjestykseen. | Lista yksin paperille. | Täydennä lista itse. |
 | Lyhyt alustus | 5 | Opiskelijat kirjaavat muistiin kaksi tapaa, joilla valinnat vaikuttavat hakemiseen. Tutustumistavat ovat valmiina listalla. | Näytä vain Opintopolku. Muut palvelut ja tutustumistavat ovat listalla. Kerro koulun tutustumismahdollisuudet (esimerkki). | Lista paperilla. | Siirry heti tehtävään. |
 | Työskentely | 22 | Tehtävä 2 (12 min): tärkeysjärjestys ja tutustumissuunnitelma. Sen jälkeen Tehtävä 1 yhdellä koulutuksella (10 min, laitteiden avaaminen mukaan lukien). Tehtävä 3 jää kotiin. | Kierrä ja kysy avoimia kysymyksiä. Älä ehdota "oikeaa" reittiä. | Paperipohja ilman laitetta. | Tehtävä 1 kotiin. |
-| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat jatko-opinto- ja urasuunnitelman luonnoksen HOPSiin. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). Kirjataan vain se, mikä on valmista. | Muistuta: HOPS on koulun kanssa jaettu asiakirja. Sinne kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, milloin suunnitelma päivitetään ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Kirjaus loppuun kotona. Exit sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat jatko-opinto- ja urasuunnitelman luonnoksen HOPSiin. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). Kirjataan vain se, mikä on valmista. | Muistuta: HOPSiin kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, milloin suunnitelma päivitetään ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Kirjaus loppuun kotona. Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 3 | Kysymyksiä ja keskeneräisten loppuun. | Ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### Valmistelu
@@ -280,9 +266,9 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö yliopisto ole varmin valinta?" K
 ### Pelisäännöt ja oletusten tarkistus
 
 - Kukaan ei kerro suunnitelmiaan, arvosanojaan tai terveyttään ryhmälle. Ryhmätyö tehdään kuvitteellisilla tapauksilla.
-- HOPS on koulun kanssa jaettu asiakirja. Muistuta tunnin alussa ja lopussa, että sinne kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon.
+- Muistuta tunnin alussa ja lopussa, että HOPSiin kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon.
 - Jos opiskelija kertoo vapaaehtoisesti, kuuntele ja kunnioita sitä, mutta älä pyydä lisää.
-- Kaikki reitit ovat yhtä arvokkaita. Älä esitä yliopistoa oletusreittinä tai työtä ja välivuotta varavaihtoehtoina.
+- Sivuston linjaus: jokainen reitti esitetään omana vaihtoehtonaan, ei paremmuusjärjestyksessä. Älä esitä yliopistoa oletusreittinä tai työtä ja välivuotta varavaihtoehtoina.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että tietyt alat sopivat tietyille sukupuolille tai taustoille? Oletanko, että kaikilla on perhe tai tuttava, joka voisi esitellä työtään? Oletanko, että kaikilla on varaa tai mahdollisuus matkustaa tutustumiskäynneille? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -300,7 +286,7 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö yliopisto ole varmin valinta?" K
 - *työelämä = työn tekeminen ja työpaikat*
 - *luonnos = ensimmäinen versio, jota voi muuttaa*
 
-**Lukeminen, keskittyminen ja jännitys:** Anna tehtävä vaihe kerrallaan ja tarjoa lyhyt lista valmiiksi. Jos tulevaisuus jännittää, muista, että luonnoksen ei tarvitse olla valmis ja että sitä saa muuttaa.
+**Lukeminen, keskittyminen ja jännitys:** Anna tehtävä vaihe kerrallaan ja tarjoa lyhyt lista valmiiksi. Luonnoksen ei tarvitse olla valmis, ja sitä voi muuttaa myöhemmin.
 
 **Ilman laitetta:** Kaikki tehtävät onnistuvat yksin pelkällä paperilla ja kynällä: kysymyslista kahdesta koulutuksesta, tärkeysjärjestys ja keksitty tapaus. Kun saat laitteen tai ohjausajan, tarkista vastaukset. Tulosteita ei tarvita.
 
@@ -310,21 +296,13 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö yliopisto ole varmin valinta?" K
 
 Varaa aika opinto-ohjaajalle, jos
 
-- mikään ei tunnu vielä kiinnostavalta ja se painaa mieltäsi (sinun ei tarvitse tietää, mutta voit puhua siitä)
+- mikään ei tunnu vielä kiinnostavalta ja se painaa mieltäsi
 - et ole varma, mitä valintasi tarkoittavat jatko-opinnoille
 - haluat tutustua johonkin koulutukseen tai työhön mutta et tiedä, miten
 - kaksi suuntaa tuntuu yhtä hyvältä ja tarvitset päätöksen kahden viikon sisällä
 - joku painostaa sinua valitsemaan tietyn reitin, mutta et halua sitä
 - haluat vaihtaa jotakin lukio-opintojesi valintaa ja takaraja on alle kaksi viikkoa päässä (esimerkki)
-- pohdinta tulevaisuudesta on aiheuttanut univaikeuksia tai ahdistusta yli kaksi viikkoa
-
-Voit puhua myös ryhmänohjaajan, erityisopettajan tai opiskeluhuollon kanssa. Koulusi kertoo, miten aika varataan (esimerkki).
-
-**Apua saat myös:**
-
-- [Etsi lähin Ohjaamo (luettu 21.11.2026)](https://ohjaamot.fi/lahin-ohjaamo): ohjausta alle 30-vuotiaille opiskeluun, työhön ja arkeen.
-- [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): tietoa ja omahoito-ohjelmia nuorille.
-- [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, voit soittaa nimettömästi. Hätätilanteessa soita hätänumeroon.
+- pohdinta tulevaisuudesta on aiheuttanut univaikeuksia tai ahdistusta, ja se on jatkunut jonkin aikaa
 
 ## Lähteet
 

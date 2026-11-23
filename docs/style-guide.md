@@ -16,6 +16,8 @@ guide says *how* they are written. Where they disagree, the contract wins.
   - No: *Opettajan on tärkeää muistaa, että dialogisuus on ohjauksen ydin.*
 - **Encourage, don't promise.** Say what the student can do and where to check, never that something "will surely"
   work out. Uncertainty is normal: *Suunnitelma saa muuttua.*
+- **No praise or filler** (guideline §4, norm ledger row 7): no *Hyvä kysymys*, *Kiitä rehellisyydestä*, *rohkeaa*,
+  and no *Muista, että…* unless the reminder carries information. Plain, matter-of-fact Finnish.
 - **The plan belongs to the student.** Offer options and questions, not verdicts. No "kannattaa ehdottomasti".
 
 ## 2. Plain Finnish (selkeä yleiskieli)
@@ -120,8 +122,10 @@ Each task is an H3 with a number and a verb-led title, then four fixed bold line
 - Do not assume family resources, a home computer, Finnish as the first language, or two parents.
 - Never require disclosure. Reflection is private: *Kirjoita omaan muistioosi*, never *kerro ryhmälle*. Group work uses
   fictional cases, not the students' own situations.
-- Wellbeing, learning difficulties and S2: link to help (oppimisen tuki, opiskeluhuolto, Ohjaamo) and say plainly that
-  asking for help is normal. Do not diagnose or label.
+- Wellbeing, learning difficulties and S2: link the school's and the public services (oppimisen tuki, opiskeluhuolto,
+  Ohjaamo) where the content needs them. No reassurance formulas (*kysyminen ei ole heikkoutta*), no help or crisis
+  blocks, no 112 or emergency-number lines, no helplines as help pointers (guideline §4, norm ledger rows 3 and 7,
+  D-015). Do not diagnose or label.
 - Every lesson plan ends with a short `Oletusten tarkistus` the counsellor reads before teaching.
 
 ## 8. Facts that change: link them
@@ -163,7 +167,10 @@ File `content/topics/NN-slug.md`; `id` is `opM-NN-slug` with the same slug. Use 
   "Merkitse tehdyksi" tick; the site does.
 - `## Eriyttäminen` uses bold run-in labels: **Helpompi polku**, **Syvempi polku**, **S2 ja selkeä kieli** (with a
   mini glossary), **Lukeminen, keskittyminen ja jännitys**, **Ilman laitetta**, **Tuki**.
-- `## Milloin opinto-ohjaajalle`: a list of concrete triggers in sinä form, then **Apua saat myös** with dated links.
+- `## Milloin opinto-ohjaajalle`: a list of concrete triggers in sinä form, then **Apua saat myös** with dated links
+  to services that match the triggers (for example Ohjaamo, opiskeluhuolto). No 112 or *soita hätänumeroon* line, no
+  crisis line, no "Jos olet heti vaarassa" block (D-015). No closer that praises the question (*se on hyvä kysymys
+  seuraavaan ohjauskeskusteluun*).
 - `## Lähteet` contains only one line: `Lähteet kootaan sivun tiedoista automaattisesti.` The build fills it.
 
 ## 11. Never

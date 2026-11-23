@@ -3,7 +3,7 @@ id: op2-14-koulutusvaylat
 module: OP2
 order: 14
 title: "Koulutusväylät ja muut reitit lukion jälkeen"
-summary: "Tutustut lukion jälkeisiin reitteihin yhtä arvokkaina vaihtoehtoina ja kirjaat omat kiinnostuksesi jatko-opinto- ja urasuunnitelmaan."
+summary: "Tutustut lukion jälkeisiin reitteihin vaihtoehtoina ja kirjaat omat kiinnostuksesi jatko-opinto- ja urasuunnitelmaan."
 curriculum: [OP2.t9, OP2.t1, OP2.s2, OP2.s4]
 suggested_timing: {year: 2, term: kevät}
 role: core
@@ -50,19 +50,19 @@ official_links:
   - title: "Etsi lähin Ohjaamo"
     url: "https://ohjaamot.fi/lahin-ohjaamo"
     publisher: "Ohjaamot"
-    read: 2026-11-21
+    read: 2026-11-23
   - title: "Mielenterveystalo: nuoret"
     url: "https://www.mielenterveystalo.fi/fi/nuoret"
     publisher: "Mielenterveystalo.fi"
-    read: 2026-11-21
-  - title: "MIELI Kriisipuhelin"
-    url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/"
-    publisher: "MIELI Suomen Mielenterveys ry"
-    read: 2026-11-21
+    read: 2026-11-23
   - title: "Studyinfo (Opintopolun englanninkielinen osa)"
     url: "https://opintopolku.fi/konfo/en/"
     publisher: "Opetushallitus (Opintopolku)"
     read: 2026-11-21
+  - title: "Intti.fi: Muut palvelusvaihtoehdot ja palveluksesta vapautetut"
+    url: "https://intti.fi/muut-palvelusvaihtoehdot-ja-palveluksesta-vapautetut"
+    publisher: "Puolustusvoimat"
+    read: 2026-11-22
 yearly_facts: [places_and_quota, todistusvalinta_tables, intti_callups, civil_service, employment_services, learning_support_rules, guidance_services]
 school_adapts:
   - "Onko koulussa jatko-opintoinfoja, oppilaitosvierailuja tai vierailijoita (esimerkki), ja milloin ne järjestetään"
@@ -92,18 +92,18 @@ last_reviewed: 2026-11-21
 
 ### Mitä reittejä on?
 
-Lukion jälkeen on monta tietä. Kaikki ovat yhtä arvokkaita, eikä mikään ole oletus.
+Lukion jälkeen on monta tietä. Sivuston lähtökohta: emme laita niitä paremmuusjärjestykseen, eikä mikään ole oletus.
 
 - **Yliopisto** johtaa korkeakoulututkintoon, ja opinnot painottavat tutkimukseen perustuvaa tietoa.
 - **Ammattikorkeakoulu (AMK)** johtaa korkeakoulututkintoon, ja opinnot liittyvät käytännön työelämään.
 - **Ammatillinen koulutus** antaa ammatin, ja sen voi suorittaa myös lukion jälkeen.
 - **Kansanopisto** on vapaan sivistystyön oppilaitos, jossa voi opiskella ilman tutkintoa esimerkiksi lukuvuoden verran.
 - **Välivuosi** on aika, jonka käytät työhön, matkustamiseen, harrastuksiin tai suunnitteluun.
-- **Asepalvelus tai siviilipalvelus.** **Asepalvelus** tarkoittaa tässä varusmiespalvelusta, joka on Suomen miespuolisten kansalaisten asevelvollisuus, tai **naisten vapaaehtoista asepalvelusta**, joka on naisille vapaaehtoinen. Asevelvollisella on myös mahdollisuus siviilipalvelukseen, josta kysytään opinto-ohjaajalta tai viranomaiselta. Palveluksen voi suunnitella osaksi omaa reittiä. Tietoa palveluksesta antaa [Intti.fi](https://intti.fi/).
+- **Asepalvelus tai siviilipalvelus.** **Asepalvelus** tarkoittaa tässä varusmiespalvelusta, joka on Suomen miespuolisten kansalaisten asevelvollisuus, tai **naisten vapaaehtoista asepalvelusta**, joka on naisille vapaaehtoinen. Siviilipalvelus on vaihtoehto asevelvolliselle, jonka vakaumus estää varusmiespalveluksen ([Intti.fi (luettu 22.11.2026)](https://intti.fi/muut-palvelusvaihtoehdot-ja-palveluksesta-vapautetut)). Palveluksen voi suunnitella osaksi omaa reittiä. Tietoa palveluksesta antaa [Intti.fi](https://intti.fi/).
 - **Työ** voi olla ensimmäinen askel, väliaikainen vaihe tai pitkä ura.
 - **Opiskelu tai työ ulkomailla** on oma polkunsa, josta kerrotaan toisessa aiheessa.
 
-Lista ei ole paremmuusjärjestys. Reitit voi myös yhdistää. Moni opiskelee ensin yhden alan ja vaihtaa myöhemmin toiseen.
+Lista ei ole paremmuusjärjestys. Reitit voi myös yhdistää. Joskus opiskelija vaihtaa alaa myöhemmin.
 
 ### Mistä tietoa löytyy?
 
@@ -117,7 +117,7 @@ Korkeakouluihin valitaan usein yo-todistuksen perusteella. Yliopistojen käytän
 Siellä kerrotaan myös, että muitakin valintatapoja on, esimerkiksi valintakoe.
 
 Kansanopistoista saat yleiskuvan [Suomen Kansanopistoyhdistyksen sivulta](https://www.kansanopistot.fi/).
-Asepalveluksesta eli varusmiespalveluksesta ja naisten vapaaehtoisesta asepalveluksesta kerrotaan Intti.fi-sivustolla. Sivuston valikossa on myös kohta *Muut palvelusvaihtoehdot ja palveluksesta vapautetut*. Katso sieltä, löytyykö siviilipalvelusta koskevaa tietoa, tai kysy siitä opinto-ohjaajalta.
+Asepalveluksesta eli varusmiespalveluksesta ja naisten vapaaehtoisesta asepalveluksesta kerrotaan Intti.fi-sivustolla. Siviilipalvelusta kertoo Intti.fin sivu [Muut palvelusvaihtoehdot ja palveluksesta vapautetut](https://intti.fi/muut-palvelusvaihtoehdot-ja-palveluksesta-vapautetut).
 Työn etsimiseen löydät apua [Työmarkkinatorilta](https://tyomarkkinatori.fi/).
 
 ### Miten vertailet reittejä?
@@ -130,7 +130,7 @@ Kun vertailet, mieti ainakin näitä kysymyksiä:
 - Mitä muuta reitti avaa, ja mitä se jättää avoimeksi?
 
 Kokeile ennen päätöstä. Voit tutustua oppilaitokseen, jutella alalla työskentelevän kanssa, kokeilla työtä tai
-katsoa opiskelijoiden kuvauksia. Kokemus auttaa päättämään. Jos mikään ei vielä vakuuta, se on tavallista.
+katsoa opiskelijoiden kuvauksia. Jos mikään ei vielä vakuuta, voit jatkaa selvittämistä.
 
 ### Mitä seuraavaksi?
 
@@ -195,8 +195,6 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan suunnitella, miten tutustun työelämään tai jatko-opintoihin ennen hakua.
 - Osaan kirjata alustavan reittivertailun jatko-opinto- ja urasuunnitelmaani ja tiedän, että saan muuttaa sitä.
 
-Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
-
 **Pelaa aiheesta visual novel:** [Koulutusväylät ja muut reitit](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch05-koulutusvaylat). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Itseopiskelun askel
@@ -212,7 +210,7 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** aihe 15 *Haku ja valinta*.
 
-**HOPSiin:** HOPS on koulun kanssa jaettu asiakirja. Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* vain se, minkä haluat jakaa: esimerkiksi kaksi reittiä, jotka kiinnostavat sinua, ja yksi asia, jonka haluat vielä selvittää tai kokeilla. Terveys-, perhe- ja jaksamisasiat jäävät omaan muistioosi. Merkitse, että suunnitelma on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
+**HOPSiin:** Sivuston ohje: kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* vain se, minkä haluat jakaa: esimerkiksi kaksi reittiä, jotka kiinnostavat sinua, ja yksi asia, jonka haluat vielä selvittää tai kokeilla. Terveys-, perhe- ja jaksamisasiat jäävät omaan muistioosi. Merkitse, että suunnitelma on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
@@ -225,7 +223,7 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 | Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin: reitit, vertailun kysymykset ja tutustumisen tavat. | Näytä vain Opintopolku. Muut tietolähteet ovat sivun linkkeinä, ja ne voi avata työskentelyssä. Kerro koulun tutustumismahdollisuudet (esimerkki). | Jaa tiivistys paperilla. | Jätä tutustumisen tavat Tehtävään 2. |
 | Työskentely | 35 | Tehtävä 1 (20 min) ja Tehtävä 2 (15 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Älä ehdota "oikeaa" reittiä. | Reittilistan paperiversio tehtävässä. Pari voi tutkia reittiä yhdessä. | Tehtävän 2 vaihe 4 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Tehtävä 3 (8 min) kolmen hengen ryhmissä kuvitteellisilla tapauksilla. Ryhmä kirjoittaa kaksi kysymystä tapauksen opiskelijalle. | Ohjaa puhumaan tapauksista, ei omista suunnitelmista. Kokoa lopuksi kysymykset taululle. | Yksin tai parin kanssa. | Yksi tapaus koko ryhmälle yhdessä. |
-| HOPS-askel ja exit | 8 | Opiskelijat kirjoittavat omaan muistioonsa kaksi kiinnostavaa reittiä ja selvitettävän asian. HOPSiin he kirjaavat vain sen, minkä haluavat jakaa koulun kanssa. Exit-lappu: yksi kysymys (nimetön tai nimellä, opiskelija valitsee). | Muistuta: HOPS on koulun kanssa jaettu asiakirja. Terveys- ja perhetiedot jäävät omaan muistioon. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit-kysymys sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 8 | Opiskelijat kirjoittavat omaan muistioonsa kaksi kiinnostavaa reittiä ja selvitettävän asian. HOPSiin he kirjaavat vain sen, minkä haluavat jakaa koulun kanssa. Exit-lappu: yksi kysymys (nimetön tai nimellä, opiskelija valitsee). | Sivuston ohje: terveys- ja perhetiedot jäävät omaan muistioon. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit-kysymys sähköisesti tunnin jälkeen. |
 | Puskuri | 4 | Kysymyksiä, keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset ohjausaikaan. | – | – |
 
 ### 60 min
@@ -237,7 +235,7 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 | Lyhyt alustus | 6 | Opiskelijat kirjaavat muistiin: reitit ja vertailun kysymykset. | Näytä vain Opintopolku. Muut tietolähteet ovat sivun linkkeinä. | Jaa tiivistys paperilla. | Jätä vertailun kysymykset Tehtävän 2 ohjeeseen. |
 | Työskentely | 33 | Tehtävä 1 (18 min: vaiheet 1–4) ja Tehtävä 2 (15 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Älä ehdota "oikeaa" reittiä. | Reittilistan paperiversio. Pari voi tutkia reittiä yhdessä. | Tehtävän 2 vaihe 4 kotiin. |
 | Pari- tai pienryhmäpohdinta | 5 | Pareittain yksi kuvitteellinen tapaus Tehtävästä 3: kaksi kysymystä tapauksen opiskelijalle. | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin. | Tehtävä 3 kotiin. |
-| HOPS-askel ja exit | 7 | Opiskelijat kirjoittavat omaan muistioonsa kaksi kiinnostavaa reittiä ja selvitettävän asian. HOPSiin he kirjaavat vain sen, minkä haluavat jakaa koulun kanssa. Exit-lappu: yksi kysymys (nimetön tai nimellä, opiskelija valitsee). | Muistuta, että HOPS on koulun kanssa jaettu asiakirja. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit-kysymys sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 7 | Opiskelijat kirjoittavat omaan muistioonsa kaksi kiinnostavaa reittiä ja selvitettävän asian. HOPSiin he kirjaavat vain sen, minkä haluavat jakaa koulun kanssa. Exit-lappu: yksi kysymys (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit-kysymys sähköisesti tunnin jälkeen. |
 
 ### 45 min
 
@@ -246,7 +244,7 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 | Virittäytyminen ja aiemman tiedon aktivointi | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden reitin, jonka tuntevat huonosti, ja nimeävät pareittain kolme reittiä lukion jälkeen. | Lue muutama lappu ääneen. Täydennä lista niin, että kaikki reitit ovat mukana. | Kirjoitus omaan muistioon. | Lue vain kaksi lappua. |
 | Lyhyt alustus | 6 | Opiskelijat kirjaavat muistiin: reitit ja vertailun neljä kysymystä. | Näytä vain Opintopolku. Kaksi eri reitin koulutusta on valittu etukäteen. | Jaa tiivistys paperilla. | Jätä vertailun kysymykset Tehtävän 2 ohjeeseen. |
 | Työskentely | 24 | Tehtävä 1 vaiheet 1–3 (10 min) kahdesta valmiiksi valitusta koulutuksesta ja Tehtävä 2 vaiheet 1–3 (14 min): vertailutaulukko ja yksi selvitettävä asia. | Kierrä ja kysy avoimia kysymyksiä. Älä ehdota "oikeaa" reittiä. | Reittilistan paperiversio. | Tehtävä 2 vaihe 3 ja tutustumisidea kotiin. |
-| HOPS-askel ja exit | 7 | Opiskelijat kirjoittavat omaan muistioonsa kaksi reittiä ja yhden selvitettävän asian. HOPSiin he kirjaavat vain sen, minkä haluavat jakaa koulun kanssa. Exit-lappu: yksi kysymys (nimetön tai nimellä, opiskelija valitsee). | Muistuta, että HOPS on koulun kanssa jaettu asiakirja. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Kirjaus ja exit kotona. Tehtävä 3 ja Pohdinta kotona. |
+| HOPS-askel ja exit | 7 | Opiskelijat kirjoittavat omaan muistioonsa kaksi reittiä ja yhden selvitettävän asian. HOPSiin he kirjaavat vain sen, minkä haluavat jakaa koulun kanssa. Exit-lappu: yksi kysymys (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Kirjaus ja exit kotona. Tehtävä 3 ja Pohdinta kotona. |
 | Puskuri | 3 | Kysymyksiä ja keskeneräisten loppuun. | Ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### Valmistelu
@@ -275,7 +273,7 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö yliopisto ole varmin valinta?" K
 
 - Kukaan ei kerro suunnitelmistaan, arvosanoistaan tai perhetaustastaan ryhmälle. Ryhmätyö tehdään kuvitteellisilla tapauksilla.
 - Palveluksesta, ammatillisesta koulutuksesta ja välivuodesta puhutaan yhtä myönteisesti kuin korkeakoulusta.
-- Kaikki reitit ovat yhtä arvokkaita. Älä esitä yliopistoa oletusreittinä tai muita reittejä varavaihtoehtoina. Anna ammatilliselle koulutukselle, kansanopistolle ja työlle yhtä paljon aikaa kuin korkeakoululle.
+- Älä esitä yliopistoa oletusreittinä tai muita reittejä varavaihtoehtoina. Anna ammatilliselle koulutukselle, kansanopistolle ja työlle yhtä paljon aikaa kuin korkeakoululle.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että tietyt alat tai reitit sopivat tietylle sukupuolelle? Puhunko palveluksesta niin, että oletan sen koskevan vain joitakin? Oletanko, että jokaisella on perheessä joku, joka tuntee koulutusjärjestelmän, tai varaa muuttaa toiselle paikkakunnalle? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -291,12 +289,12 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö yliopisto ole varmin valinta?" K
 - *kansanopisto = oppilaitos, jossa voi opiskella ilman tutkintoa*
 - *välivuosi = aika lukion ja seuraavan vaiheen välillä*
 - *asevelvollisuus = laissa säädetty velvollisuus osallistua maanpuolustukseen*
-- *siviilipalvelus = asevelvollisen mahdollinen vaihtoehto aseelliselle palvelukselle; kysy siitä opinto-ohjaajalta*
+- *siviilipalvelus = vaihtoehto asevelvolliselle, jonka vakaumus estää varusmiespalveluksen (Intti.fi); kysy siitä opinto-ohjaajalta*
 - *vapaaehtoinen asepalvelus = palvelus, jonka henkilö hakee itse eikä ole siihen velvollinen*
 - *pääsyvaatimus = asia, jonka pitää täyttyä, jotta voit tulla valituksi*
 - *hakukohde = koulutus, johon haet*
 
-**Lukeminen, keskittyminen ja jännitys:** Anna reittien lista yhdellä sivulla ja tehtävä vaihe kerrallaan. Salli kuulokkeet ja oma rauhallinen paikka. Jos valinta jännittää, muista, että ensimmäinen suunnitelma on luonnos ja että kokeileminen on sallittua.
+**Lukeminen, keskittyminen ja jännitys:** Anna reittien lista yhdellä sivulla ja tehtävä vaihe kerrallaan. Salli kuulokkeet ja oma rauhallinen paikka. Jos valinta jännittää, ensimmäinen suunnitelma on luonnos ja kokeileminen on sallittua.
 
 **Ilman laitetta:** Sivun reittilista, käsin tehty taulukko ja tapaukset toimivat paperilla myös yksin ilman laitetta. Arvaukset tarkistetaan myöhemmin.
 
@@ -307,20 +305,17 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö yliopisto ole varmin valinta?" K
 Varaa aika opinto-ohjaajalle, jos
 
 - et tiedä, mitä reittejä sinulle on tarjolla, vaikka olet lukenut tämän aiheen
-- yksikään reitti ei tunnu kiinnostavalta tai kaikki tuntuvat yhtä vaikeilta valita, ja haluat jutella vaihtoehdoista. Sinun ei tarvitse tietää vastausta etukäteen
+- yksikään reitti ei tunnu kiinnostavalta tai kaikki tuntuvat yhtä vaikeilta valita, ja haluat jutella vaihtoehdoista
 - et löydä tietoa kiinnostavasta koulutuksesta Opintopolusta
 - haluat tutustua oppilaitokseen tai työpaikkaan, mutta et tiedä, miten
 - palvelus koskee sinua tai harkitset sitä ja haluat jutella siitä ennen hakemista tai ilmoittautumista
-- reitin valinta huolestuttaa sinua niin paljon, että se on vaikuttanut uneen tai jaksamiseen yli kaksi viikkoa
-
-Voit puhua myös ryhmänohjaajan, erityisopettajan tai opiskeluhuollon kanssa. Koulusi kertoo, miten aika varataan (esimerkki).
+- reitin valinta huolestuttaa sinua niin paljon, että se on vaikuttanut uneen tai jaksamiseen, ja tilanne jatkuu
 
 **Apua saat myös:**
 
-- [Etsi lähin Ohjaamo (luettu 21.11.2026)](https://ohjaamot.fi/lahin-ohjaamo): ohjausta alle 30-vuotiaille opiskeluun, työhön ja arkeen.
+- [Etsi lähin Ohjaamo (luettu 23.11.2026)](https://ohjaamot.fi/lahin-ohjaamo): ohjausta alle 30-vuotiaille opiskeluun, työhön ja arkeen.
 - [Opintopolku (luettu 21.11.2026)](https://opintopolku.fi/konfo/fi/): koulutukset ja haut yhdessä paikassa.
-- [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia esimerkiksi jännitykseen ja huoleen.
-- [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, voit soittaa nimettömästi. Hätätilanteessa soita hätänumeroon.
+- [Mielenterveystalo: nuoret (luettu 23.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia esimerkiksi jännitykseen ja univaikeuksiin.
 
 ## Lähteet
 

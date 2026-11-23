@@ -54,19 +54,19 @@ official_links:
   - title: "Etsi lähin Ohjaamo"
     url: "https://ohjaamot.fi/lahin-ohjaamo"
     publisher: "Ohjaamot"
-    read: 2026-11-21
+    read: 2026-11-23
   - title: "Mielenterveystalo: nuoret"
     url: "https://www.mielenterveystalo.fi/fi/nuoret"
     publisher: "Mielenterveystalo.fi"
-    read: 2026-11-21
-  - title: "MIELI Kriisipuhelin"
-    url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/"
-    publisher: "MIELI Suomen Mielenterveys ry"
-    read: 2026-11-21
+    read: 2026-11-23
   - title: "Studyinfo (Opintopolun englanninkielinen osa)"
     url: "https://opintopolku.fi/konfo/en/"
     publisher: "Opetushallitus (Opintopolku)"
     read: 2026-11-21
+  - title: "Suomen Kansanopistoyhdistys: hakeminen"
+    url: "https://kansanopistot.fi/hakeminen"
+    publisher: "Suomen Kansanopistoyhdistys"
+    read: 2026-11-23
 yearly_facts: [joint_application_windows, admission_results_dates, places_and_quota, todistusvalinta_tables, cut_off_points, entrance_exam_dates, guidance_services, learning_support_rules]
 school_adapts:
   - "Koulun hakuinfo, hakuun liittyvät ohjaustunnit ja hakuklinikka (esimerkki), ja milloin ne järjestetään"
@@ -96,9 +96,9 @@ last_reviewed: 2026-11-21
 
 ### Mikä on yhteishaku?
 
-Yhteishaku on haku, jossa voit hakea moneen koulutukseen yhdellä kertaa. Niitä on kaksi: **toisen asteen yhteishaku**
+Yhteishaku on haku, jossa voit hakea moneen koulutukseen yhdellä kertaa. Yhteishakuja on useita. Kaksi päätyyppiä ovat **toisen asteen yhteishaku**
 (ammatillinen koulutus ja lukio) ja **korkeakoulujen yhteishaku** (yliopistot ja ammattikorkeakoulut). Lisäksi on
-**erillishakuja**, joissa haetaan erikseen suoraan oppilaitokseen. Kansanopistoihin haetaan yleensä opiston omalla hakulomakkeella. Myös toisen asteen yhteishaussa jokaisella koulutuksella on omat valintaperusteensa, jotka näet koulutuksen sivulta Opintopolussa.
+**erillishakuja**, joissa haetaan erikseen suoraan oppilaitokseen. Kansanopistolinjoille haetaan [Suomen Kansanopistoyhdistyksen sivun](https://kansanopistot.fi/hakeminen) mukaan vapaamuotoisella hakemuksella tai opistosta saatavalla hakulomakkeella. Osaan kansanopistojen koulutuksista haetaan yhteishaussa, joka tehdään Opintopolussa. Koulutuksen valintaperusteet näet koulutuksen omalta sivulta Opintopolussa.
 
 Hakemuksen teet [Opintopolussa](https://opintopolku.fi/konfo/fi/). Hakuajat vaihtelevat, joten katso ne aina
 [Opintopolun hakuaikatauluista](https://opintopolku.fi/konfo/fi/sivu/hakuaikataulut). Sieltä löydät myös tiedon siitä,
@@ -116,7 +116,7 @@ Valintatapoja on useita. Kussakin hakukohteessa voi olla yksi tai useampi niist�
 - Joillakin aloilla käytetään **muita valintatapoja**, esimerkiksi haastattelua, soveltuvuuskoetta tai portfoliota.
   Ne kerrotaan koulutuksen omalla sivulla.
 
-Joissakin hauissa on oma kiintiö **ensikertalaisille**. Ensikertalainen on yleensä hakija, joka ei ole aiemmin ottanut vastaan korkeakoulun opiskelupaikkaa. Tarkat ehdot ja poikkeukset löydät korkeakoulun hakijapalvelun ohjeesta tai koulutuksen omalta [Opintopolun](https://opintopolku.fi/konfo/fi/) sivulta. Kiintiöstä ja aloituspaikoista kerrotaan koulutuskohtaisesti. Älä oleta, että sääntö on aina sama.
+Joissakin hauissa on oma kiintiö **ensikertalaisille**. Ensikertalaisuuden ehdot ja poikkeukset kerrotaan haun omilla sivuilla. Löydät ne koulutuksen omalta [Opintopolun](https://opintopolku.fi/konfo/fi/) sivulta tai kysy opinto-ohjaajalta. Kiintiöstä ja aloituspaikoista kerrotaan koulutuskohtaisesti. Älä oleta, että sääntö on aina sama.
 
 ### Mistä ajankohtaiset hakuasiat näkee?
 
@@ -133,12 +133,12 @@ Hakeminen on suunnitelma ja tarkistuslista. Voit tehdä sen vaiheittain:
 - mieti varasuunnitelma, jos et tule valituksi
 
 Aiemman vuoden pisterajat ovat tilasto, eivät lupaus. Ne kertovat, millaista oli ennen, eivät sitä, millaista on nyt.
-Tilastoja aiemmista hauista löytyy korkeakoulujen sivuilta ja [Vipusesta](https://vipunen.fi/). Lue ne tilastona, ei ennusteena.
+Tilastoja aiemmista hauista voi löytyä korkeakoulujen sivuilta; tarkista, onko tieto siellä. Lue ne tilastona, ei ennusteena.
 
 ### Entä jos et tule valituksi?
 
-Jos et saa paikkaa, se ei ole epäonnistumista. Monet hakevat uudestaan tai valitsevat toisen reitin: työ, välivuosi,
-kansanopisto, ammatillinen koulutus tai avoin korkeakoulu. Voit kysyä apua opinto-ohjaajalta. [Opintopolun neuvonta ja ohjaus -sivu](https://opintopolku.fi/konfo/fi/sivu/neuvonta-ja-ohjaus) kokoaa neuvontapalvelujen yhteystietoja ja linkkejä esimerkiksi Ohjaamoon. Korkeakouluhakijoita neuvovat korkeakoulujen hakijapalvelut. Opintopolku ei anna korkeakouluhakijoille henkilökohtaista opinto- tai uraneuvontaa.
+Jos et saa paikkaa, voit tulkita sen myös muuna kuin epäonnistumisena. Sivuston esimerkkejä jatkoreiteistä: uusi haku, työ, välivuosi,
+kansanopisto tai ammatillinen koulutus. Voit kysyä apua opinto-ohjaajalta tai katsoa neuvontapalveluja [Opintopolun neuvonta ja ohjaus -sivulta](https://opintopolku.fi/konfo/fi/sivu/neuvonta-ja-ohjaus).
 
 Suunnitelma saa muuttua. Riittää, että teet ensimmäisen version.
 
@@ -200,8 +200,6 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan tehdä oman hakusuunnitelman ensimmäisen version, jossa on myös varasuunnitelma.
 - Osaan tarkistaa Opintopolusta ajankohtaiset hakuasiat ja tiedän, mistä saan apua hakuun.
 
-Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
-
 **Pelaa aiheesta visual novel:** [Haku ja valinta](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch06-haku-ja-valinta). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Itseopiskelun askel
@@ -217,7 +215,7 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** aihe 16 *Kansainvälisyys ja monikulttuurisuus* tai aihe 18 *Jatko-opinto- ja urasuunnitelma*.
 
-**HOPSiin:** HOPS on koulun kanssa jaettu asiakirja. Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* vain se, minkä haluat jakaa: esimerkiksi koulutukset, valintatavat, asiat jotka tarkistat, ja varasuunnitelma. Arvosanat, terveys- ja perheasiat jäävät omaan muistioosi. Merkitse, että suunnitelma on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
+**HOPSiin:** Sivuston ohje: kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* vain se, minkä haluat jakaa: esimerkiksi koulutukset, valintatavat, asiat jotka tarkistat, ja varasuunnitelma. Arvosanat, terveys- ja perheasiat jäävät omaan muistioosi. Merkitse, että suunnitelma on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
@@ -226,11 +224,11 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka hakemisessa mietityttää. | Kerää laput, sekoita ja lue muutama ääneen. Älä korjaa vielä. | Sähköinen nimetön sanapilvi koulun omalla välineellä. | Lue vain kaksi lappua. |
-| Aiemman tiedon aktivointi | 8 | Totta vai tarua -väitteet pareittain: "Yhteishakua on vain yksi." "Kaikkiin korkeakouluihin pääsee vain yo-todistuksella." "Aiemman vuoden pisteraja kertoo tulevan rajan." | Vastaukset: kaikki kolme ovat tarua. Yhteishakuja on kaksi, valintatapoja on useita, ja pisteraja on tilasto. Tarkista tieto Opintopolusta ja Yliopistovalinnat.fi-sivustolta. Kytke lappujen huolet väitteisiin. | Väitteet paperilla, opiskelija vastaa yksin. | Käy läpi kaksi väitettä. |
+| Aiemman tiedon aktivointi | 8 | Totta vai tarua -väitteet pareittain: "Yhteishakua on vain yksi." "Kaikkiin korkeakouluihin pääsee vain yo-todistuksella." "Aiemman vuoden pisteraja kertoo tulevan rajan." | Vastaukset: kaikki kolme ovat tarua. Yhteishakuja on useampi kuin yksi, valintatapoja on useita, ja pisteraja on tilasto. Tarkista tieto Opintopolusta ja Yliopistovalinnat.fi-sivustolta. Kytke lappujen huolet väitteisiin. | Väitteet paperilla, opiskelija vastaa yksin. | Käy läpi kaksi väitettä. |
 | Lyhyt alustus | 7 | Opiskelijat kirjaavat muistiin: yhteishaut, erillishaku, valintatavat, mistä ajankohtaiset tiedot tarkistetaan. | Näytä Opintopolku ja hakuaikataulut. Muut sivut ovat linkkeinä. Kerro koulun hakutuki (esimerkki). | Jaa tiivistys paperilla. | Jätä valintatavat lyhyeen mainintaan ja linkkeihin. |
 | Työskentely | 38 | Tehtävä 1 (18 min) ja Tehtävä 2 (20 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Auta löytämään tieto sivuilta. Älä ehdota "oikeaa" koulutusta. | Paperipohja ilman laitetta. Pari voi etsiä tietoa yhdessä. | Tehtävän 2 vaihe 4 kotiin. |
 | Pari- tai pienryhmäpohdinta | 7 | Tehtävä 3 (7 min) pareittain yhdellä kuvitteellisella tapauksella. Pari kirjoittaa kaksi kysymystä tapauksen hakijalle. | Ohjaa puhumaan tapauksesta, ei omista suunnitelmista. Kokoa lopuksi kaksi kysymystä taululle. | Yksin. | Yksi tapaus koko ryhmälle yhdessä tai kotitehtäväksi. |
-| HOPS-askel ja exit | 7 | Opiskelijat kirjoittavat hakusuunnitelman omaan muistioonsa. HOPSiin he kirjaavat vain sen, minkä haluavat jakaa koulun kanssa. Exit-lappu: yksi kysymys (nimetön tai nimellä, opiskelija valitsee). | Muistuta: HOPS on koulun kanssa jaettu asiakirja. Arvosanat, terveys ja perheasiat jäävät omaan muistioon. Kerro, milloin suunnitelmaa päivitetään ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit-kysymys sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 7 | Opiskelijat kirjoittavat hakusuunnitelman omaan muistioonsa. HOPSiin he kirjaavat vain sen, minkä haluavat jakaa koulun kanssa. Exit-lappu: yksi kysymys (nimetön tai nimellä, opiskelija valitsee). | Sivuston ohje: arvosanat, terveys ja perheasiat jäävät omaan muistioon. Kerro, milloin suunnitelmaa päivitetään ja miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit-kysymys sähköisesti tunnin jälkeen. |
 | Puskuri | 3 | Kysymyksiä, keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset ohjausaikaan. | – | – |
 
 ### 60 min
@@ -238,20 +236,20 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
 | Virittäytyminen | 4 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka hakemisessa mietityttää. | Kerää laput, sekoita ja lue muutama ääneen. Älä korjaa vielä. | Kirjoitus omaan muistioon. | Lue vain kaksi lappua. |
-| Aiemman tiedon aktivointi | 5 | Kaksi totta vai tarua -väitettä pareittain: "Yhteishakua on vain yksi." "Kaikkiin korkeakouluihin pääsee vain yo-todistuksella." | Vastaukset: molemmat ovat tarua. Yhteishakuja on kaksi, ja valintatapoja on useita. Näytä vastaukset Opintopolusta. | Väitteet paperilla, opiskelija vastaa yksin. | Käy läpi vain ensimmäinen väite. |
+| Aiemman tiedon aktivointi | 5 | Kaksi totta vai tarua -väitettä pareittain: "Yhteishakua on vain yksi." "Kaikkiin korkeakouluihin pääsee vain yo-todistuksella." | Vastaukset: molemmat ovat tarua. Yhteishakuja on useampi kuin yksi, ja valintatapoja on useita. Näytä vastaukset Opintopolusta. | Väitteet paperilla, opiskelija vastaa yksin. | Käy läpi vain ensimmäinen väite. |
 | Lyhyt alustus | 6 | Opiskelijat kirjaavat muistiin: yhteishaut, valintatavat, mistä ajankohtaiset tiedot tarkistetaan. | Näytä Opintopolku ja hakuaikataulut. Muut sivut ovat linkkeinä. | Jaa tiivistys paperilla. | Jätä valintatavat linkkeihin. |
 | Työskentely | 33 | Tehtävä 1 (18 min) ja Tehtävä 2 vaiheet 1–3 (15 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Auta löytämään tieto sivuilta. Älä ehdota "oikeaa" koulutusta. | Paperipohja ilman laitetta. | Tehtävän 2 vaihe 4 kotiin. |
 | Pari- tai pienryhmäpohdinta | 5 | Pareittain yksi kuvitteellinen tapaus Tehtävästä 3: kaksi kysymystä tapauksen hakijalle. | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin. | Tehtävä 3 kotiin. |
-| HOPS-askel ja exit | 7 | Opiskelijat kirjoittavat hakusuunnitelman omaan muistioonsa. HOPSiin he kirjaavat vain sen, minkä haluavat jakaa koulun kanssa. Exit-lappu: yksi kysymys (nimetön tai nimellä, opiskelija valitsee). | Muistuta, että HOPS on koulun kanssa jaettu asiakirja. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit-kysymys sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 7 | Opiskelijat kirjoittavat hakusuunnitelman omaan muistioonsa. HOPSiin he kirjaavat vain sen, minkä haluavat jakaa koulun kanssa. Exit-lappu: yksi kysymys (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille, siirto HOPSiin myöhemmin. | Exit-kysymys sähköisesti tunnin jälkeen. |
 
 ### 45 min
 
 | Vaihe | Min | Toiminta | Ohjaajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen ja aiemman tiedon aktivointi | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka hakemisessa mietityttää, ja arvaavat väitteen "Yhteishakua on vain yksi." | Lue muutama lappu ääneen. Vastaus: yhteishakuja on kaksi. | Kirjoitus omaan muistioon. | Lue vain kaksi lappua. |
+| Virittäytyminen ja aiemman tiedon aktivointi | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka hakemisessa mietityttää, ja arvaavat väitteen "Yhteishakua on vain yksi." | Lue muutama lappu ääneen. Vastaus: yhteishakuja on useampi kuin yksi. | Kirjoitus omaan muistioon. | Lue vain kaksi lappua. |
 | Lyhyt alustus | 5 | Opiskelijat kirjaavat muistiin: yhteishaut, valintatavat ja mistä ajankohtaiset tiedot tarkistetaan. | Näytä vain Opintopolku ja hakuaikataulut. Yksi koulutus on valittu etukäteen. | Jaa tiivistys paperilla. | Jätä valintatavat linkkeihin. |
 | Työskentely | 25 | Tehtävä 1 vaiheet 1–3 (10 min) valmiiksi valitusta koulutuksesta ja Tehtävä 2 (15 min) yhdelle koulutukselle: taulukko ja varasuunnitelma. | Kierrä ja kysy avoimia kysymyksiä. Auta löytämään tieto sivuilta. Älä ehdota "oikeaa" koulutusta. | Paperipohja ilman laitetta. | Tehtävän 1 vaihe 4 ja Tehtävän 2 vaihe 4 kotiin. |
-| HOPS-askel ja exit | 7 | Opiskelijat kirjoittavat omaan muistioonsa yhden koulutuksen tiedot (haku ja valintatapa) ja varasuunnitelman. HOPSiin he kirjaavat vain sen, minkä haluavat jakaa koulun kanssa. Exit-lappu: yksi kysymys (nimetön tai nimellä, opiskelija valitsee). | Muistuta, että HOPS on koulun kanssa jaettu asiakirja. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Kirjaus ja exit kotona. Tehtävä 3 ja Pohdinta kotona. |
+| HOPS-askel ja exit | 7 | Opiskelijat kirjoittavat omaan muistioonsa yhden koulutuksen tiedot (haku ja valintatapa) ja varasuunnitelman. HOPSiin he kirjaavat vain sen, minkä haluavat jakaa koulun kanssa. Exit-lappu: yksi kysymys (nimetön tai nimellä, opiskelija valitsee). | Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Kirjaus ja exit kotona. Tehtävä 3 ja Pohdinta kotona. |
 | Puskuri | 3 | Kysymyksiä ja keskeneräisten loppuun. | Ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### Valmistelu
@@ -280,7 +278,7 @@ Vältä johdattelevia kysymyksiä, kuten "Etkö hakisi useampaan paikkaan varmuu
 
 - Kukaan ei kerro hakusuunnitelmaansa, arvosanojaan tai terveyttään ryhmälle. Ryhmätyö tehdään kuvitteellisilla tapauksilla.
 - Älä lupaa kenellekään paikkaa. Pisterajat ja aiempien vuosien tulokset ovat tilastoa, eivät takuu.
-- Kaikki reitit ovat yhtä arvokkaita. Älä esitä korkeakoulua oletusreittinä tai todistusvalintaa ainoana tapana tulla valituksi.
+- Älä esitä korkeakoulua oletusreittinä tai todistusvalintaa ainoana tapana tulla valituksi.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että tietty ala sopii tietylle sukupuolelle tai taustalle? Oletanko, että jokaisella on tietokone, tulostin tai vakaa nettiyhteys hakemuksen tekemiseen? Oletanko, että suomi on äidinkieli ja että kotona on joku, joka tuntee hakujärjestelmän? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -301,32 +299,29 @@ Vältä johdattelevia kysymyksiä, kuten "Etkö hakisi useampaan paikkaan varmuu
 - *valintakoe = koe, jossa osoitat osaamistasi (arkikielessä pääsykoe)*
 - *varasuunnitelma = suunnitelma siltä varalta, ettei ensimmäinen toteudu*
 
-**Lukeminen, keskittyminen ja jännitys:** Anna hakuaikataulu ja tehtävä vaihe kerrallaan. Salli kuulokkeet ja oma rauhallinen paikka. Jos haku tai valintakoe jännittää, muista, että ensimmäinen suunnitelma on luonnos ja että tukea on saatavilla. Mielenterveystalon sivuilta löytyy apua jännitykseen.
+**Lukeminen, keskittyminen ja jännitys:** Anna hakuaikataulu ja tehtävä vaihe kerrallaan. Salli kuulokkeet ja oma rauhallinen paikka. Jos haku tai valintakoe jännittää, ensimmäinen suunnitelma on luonnos.
 
 **Ilman laitetta:** Paperiversio, käsin tehty taulukko ja tapaukset toimivat paperilla myös yksin ilman laitetta. Arvaukset tarkistetaan myöhemmin Opintopolusta tai ohjaajan kanssa.
 
-**Tuki:** Oppimisen tuesta kerrotaan lisää Opetushallituksen sivulla [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus). Kysy koulusi omasta käytännöstä opinto-ohjaajalta (esimerkki). Valintakokeisiin voi saada yksilöllisiä järjestelyjä, joista kerrotaan korkeakoulun omalla sivulla.
+**Tuki:** Oppimisen tuesta kerrotaan lisää Opetushallituksen sivulla [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus). Kysy koulusi omasta käytännöstä opinto-ohjaajalta (esimerkki). Katso valintakokeen järjestelyt koulutuksen omalta sivulta Opintopolussa tai kysy opinto-ohjaajalta.
 
 ## Milloin opinto-ohjaajalle
 
 Varaa aika opinto-ohjaajalle, jos
 
-- et tiedä, mihin koulutukseen haluat hakea, ja haku alkaa tai päättyy kahden viikon sisällä
+- et tiedä, mihin koulutukseen haluat hakea, ja haku alkaa tai päättyy pian
 - et löydä hakuaikaa tai pääsyvaatimusta kiinnostavaan koulutukseen Opintopolusta
 - et ymmärrä, mikä valintatapa koulutuksessa on ja mitä se tarkoittaa sinulle
-- hakuaika päättyy kahden viikon sisällä etkä ole vielä tehnyt suunnitelmaa
+- hakuaika päättyy pian etkä ole vielä tehnyt suunnitelmaa
 - tarvitset apua hakemuksen tekemiseen tai tarvitset tietokoneen tai tulostimen
-- haluat tietää, saatko erityisjärjestelyjä valintakokeessa, ja haku alkaa tai päättyy kahden viikon sisällä
-- hakeminen tai mahdollinen hylkäys jännittää niin paljon, että se on vaikuttanut uneen tai jaksamiseen yli kaksi viikkoa
-
-Voit puhua myös ryhmänohjaajan, erityisopettajan tai opiskeluhuollon kanssa. Koulusi kertoo, miten aika varataan (esimerkki).
+- haluat tietää, saatko erityisjärjestelyjä valintakokeessa, ja haku alkaa tai päättyy pian
+- hakeminen tai mahdollinen hylkäys jännittää niin paljon, että se on vaikuttanut uneen tai jaksamiseen, ja tilanne jatkuu
 
 **Apua saat myös:**
 
-- [Etsi lähin Ohjaamo (luettu 21.11.2026)](https://ohjaamot.fi/lahin-ohjaamo): ohjausta alle 30-vuotiaille opiskeluun, työhön ja arkeen.
-- [Opintopolku: neuvonta ja ohjaus (luettu 21.11.2026)](https://opintopolku.fi/konfo/fi/sivu/neuvonta-ja-ohjaus): neuvontapalvelujen yhteystiedot ja linkit muihin palveluihin. Korkeakouluhakijoita neuvovat korkeakoulujen hakijapalvelut.
-- [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia esimerkiksi jännitykseen ja koestressiin.
-- [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, voit soittaa nimettömästi. Hätätilanteessa soita hätänumeroon.
+- [Etsi lähin Ohjaamo (luettu 23.11.2026)](https://ohjaamot.fi/lahin-ohjaamo): ohjausta alle 30-vuotiaille opiskeluun, työhön ja arkeen.
+- [Opintopolku: neuvonta ja ohjaus (luettu 21.11.2026)](https://opintopolku.fi/konfo/fi/sivu/neuvonta-ja-ohjaus): neuvontapalveluja hakijoille.
+- [Mielenterveystalo: nuoret (luettu 23.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia ja Chillaa-sovellus esimerkiksi jännitykseen ja stressiin.
 
 ## Lähteet
 

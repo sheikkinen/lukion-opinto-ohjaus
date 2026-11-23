@@ -5,8 +5,6 @@ order: 12
 title: "Muuttuva työelämä, yrittäjyys ja ennakointi"
 summary: "Tutustut työelämän ja yrittäjyyden eri muotoihin ja opit pohtimaan, mitä taitoja tulevaisuudessa tarvitaan."
 curriculum: [OP2.t5, OP2.t6, OP2.t1, OP2.s3, OP2.s7]
-law:
-  - "Lukiolaki 714/2018 § 25"
 suggested_timing: {year: 2, term: kevät}
 role: core
 duration_options: [45, 60, 75]
@@ -41,14 +39,6 @@ official_links:
     url: "https://www.oph.fi/fi/oppimisen-tuen-uudistus"
     publisher: "Opetushallitus"
     read: 2026-11-21
-  - title: "Mielenterveystalo: nuoret"
-    url: "https://www.mielenterveystalo.fi/fi/nuoret"
-    publisher: "Mielenterveystalo.fi"
-    read: 2026-11-21
-  - title: "MIELI Kriisipuhelin"
-    url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/"
-    publisher: "MIELI Suomen Mielenterveys ry"
-    read: 2026-11-21
 yearly_facts: [employment_services, guidance_services, learning_support_rules]
 school_adapts:
   - "Koulun yrittäjyyskasvatus ja yhteistyö yritysten kanssa (esimerkki: yritysvierailut, yrittäjävieraat, nuorten yritystoiminta)"
@@ -80,21 +70,21 @@ last_reviewed: 2026-11-21
 
 Työelämä on erilainen kuin aiempien sukupolvien aikana. Teknologia, talous ja ihmisten tarpeet muuttuvat,
 ja se muuttaa työtä. Jotkin tehtävät vähenevät, jotkin lisääntyvät ja uusia syntyy. Kukaan ei tiedä tarkasti,
-millaista työ on kymmenen vuoden päästä. Siksi kannattaa varautua muutokseen eikä pelätä sitä.
+millaista työ on kymmenen vuoden päästä. Voit miettiä, miten haluat varautua muutokseen.
 
 Muutos ei tarkoita, että sinun pitäisi arvata oikea ala. Se tarkoittaa, että oppiminen jatkuu elämän ajan ja että
 voit vaihtaa suuntaa.
 
 ### Työn eri muodot
 
-Työtä voi tehdä monella tavalla. Tunne ainakin nämä:
+Työtä voi tehdä monella tavalla. Sivuston oma jäsennys työn muodoista, ei virallinen luokitus:
 
 - **Palkkatyö.** Työskentelet työnantajalle työsopimuksella, kokopäiväisesti tai osa-aikaisesti.
 - **Määräaikainen työ ja keikkatyö.** Työ kestää tietyn ajan tai vain tietyn tehtävän.
 - **Yrittäjyys.** Teet työtä omalla nimelläsi tai yrityksessäsi.
 - **Itsenäinen ammatinharjoittaja.** Teet tehtäviä usealle tilaajalle ilman työsopimusta ja laskutat työstäsi. Arkikielessä käytetään myös sanaa freelancer.
-- **Vapaaehtoistyö.** Teet työtä ilman palkkaa, ja se voi kartuttaa osaamista. Myös harjoittelu ja työelämään tutustuminen ovat usein palkattomia. Kysy ennen aloittamista, mitä tehdään, kuinka kauan ja kuka vastaa.
-- **Opiskelun ja työn yhdistelmä.** Moni tekee töitä opiskellessaan.
+- **Vapaaehtoistyö.** Teet työtä ilman palkkaa, ja se voi kartuttaa osaamista. Kysy etukäteen, mitä tehdään, kuinka kauan ja kuka vastaa.
+- **Opiskelun ja työn yhdistelmä.** Voit myös tehdä töitä opiskellessasi.
 
 Kaikilla muodoilla on hyviä ja haastavia puolia. Työmarkkinatorin sivuilta voit lukea
 [työnhausta, yrittäjyydestä ja ammateista](https://tyomarkkinatori.fi/).
@@ -105,12 +95,12 @@ Yhteiskunnan ja talouden muutokset vaikuttavat siihen, kuinka paljon työtä on 
 
 Myös uusi teknologia ja ihmisten tarpeiden muutokset vaikuttavat. Ne voivat vähentää joitakin tehtäviä, muuttaa toisia ja luoda uusia. Muutos ei osu joka alalle samalla tavalla. Samaan aikaan yhdellä alalla voi olla paljon töitä ja toisella vähän.
 
-Tämä ei tarkoita, että jotakin alaa pitäisi välttää. Se tarkoittaa, että kannattaa seurata muutoksia ja pitää taidot ajan tasalla. Tehtävässä 1 vertaat kahta ammattia tästä näkökulmasta.
+Tämä ei tarkoita, että jotakin alaa pitäisi välttää. Voit seurata muutoksia ja pitää taitosi ajan tasalla. Tehtävässä 1 vertaat kahta ammattia tästä näkökulmasta.
 
 ### Yrittäjyys
 
 Yrittäjyys on monta asiaa. Se voi olla oman yrityksen perustamista, mutta myös yrittäjämäistä tapaa toimia:
-aloitteellisuutta, vastuunottoa ja halua kokeilla. Yrittäjyyden muotoja ovat esimerkiksi:
+aloitteellisuutta, vastuunottoa ja halua kokeilla. Sivuston oma jäsennys yrittäjyyden muodoista, ei virallinen luokitus:
 
 - **yksinyrittäjä**, joka työskentelee yksin
 - **perheyritys tai pieni yritys**, jossa on muutama työntekijä
@@ -118,7 +108,7 @@ aloitteellisuutta, vastuunottoa ja halua kokeilla. Yrittäjyyden muotoja ovat es
 - **sosiaalinen yrittäjyys**, jossa tarkoitus on ratkaista jokin yhteiskunnan ongelma
 - **sivutoiminen yrittäjyys**, jonka voi tehdä opiskelun tai työn rinnalla.
 
-Yrittäjyys ei sovi kaikille eikä se ole parempi tai huonompi kuin muut tavat tehdä työtä. Voit pohtia omaa
+Sivuston linjaus: yrittäjyyttä ei aseteta muiden työn tekemisen tapojen edelle eikä niiden taakse. Voit pohtia omaa
 suhdettasi siihen: kiinnostaako vapaus ja vastuu? Entä epävarmuus? Voit kokeilla pientä projektia ensin.
 
 ### Ennakointi ja tulevaisuuden taidot
@@ -130,10 +120,8 @@ arvailua vaan eri vaihtoehtojen miettimistä. Voit kysyä:
 - Mitä taitoja tarvitaan jatkossakin, vaikka työtehtävät muuttuvat?
 - Mitä haluan oppia lisää?
 
-Monessa työssä tarvitaan todennäköisesti jatkossakin esimerkiksi oppimiskykyä, vuorovaikutusta, ongelmanratkaisua ja
-luovuutta. Kukaan ei kuitenkaan tiedä sitä varmasti. Voit katsoa Europassin sivulta tietoa
-[työn ja taitojen suuntauksista](https://europass.europa.eu/fi) sekä tutkia koulutuksia
-[Opintopolusta](https://opintopolku.fi/konfo/fi/). Muista, että ennakointi on arvio eikä takuu.
+Mitä taitoja luulet tarvittavan jatkossakin, ja mistä voisit tarkistaa sen? Voit katsoa Europassin sivulta tietoa [työn ja osaamisen trendeistä](https://europass.europa.eu/fi) sekä tutkia koulutuksia
+[Opintopolusta](https://opintopolku.fi/konfo/fi/). Ennakointi on arvio eikä takuu.
 
 ## Tehtävät
 
@@ -193,8 +181,6 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan tutustua työelämän ja koulutuksen vaihtoehtoihin ja pitää niitä auki muuttuvassa maailmassa.
 - Osaan kirjata HOPSiin, mitä haluan selvittää työelämästä ja tulevaisuuden taidoista.
 
-Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
-
 **Pelaa aiheesta visual novel:** [Muuttuva työelämä, yrittäjyys ja ennakointi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch03-tyoelama). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Itseopiskelun askel
@@ -210,7 +196,7 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** aihe 13 *Työelämätaidot ja työnhaku*.
 
-**HOPSiin:** Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* yksi työelämän muoto tai ammatti, johon haluat tutustua, ja yksi taito, jota haluat oppia. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki). HOPS on koulun kanssa jaettu asiakirja. Kirjaa siihen vain se, minkä haluat koulun tietävän. Terveyteen, perheeseen ja tuen tarpeeseen liittyvät ajatukset voit pitää omassa muistiossasi.
+**HOPSiin:** Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* yksi työelämän muoto tai ammatti, johon haluat tutustua, ja yksi taito, jota haluat oppia. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki). Kirjaa HOPSiin vain se, minkä haluat koulun tietävän. Terveyteen, perheeseen ja tuen tarpeeseen liittyvät ajatukset voit pitää omassa muistiossasi.
 
 ## Tuntisuunnitelma (75 min)
 
@@ -223,7 +209,7 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 | Lyhyt alustus | 8 | Opiskelijat kirjaavat muistiin: työn muodot, miten talouden ja teknologian muutokset vaikuttavat työhön, yrittäjyyden muodot ja ennakointi. | Esittele Työmarkkinatori. Europass jää linkiksi listalle. Kysy, miten suhdanne tai uusi teknologia voisi muuttaa yhtä tuttua ammattia. Muistuta, että ennakointi on arvio, ei takuu. | Lista paperilla. | Esittele vain työn muodot. |
 | Työskentely | 32 | Tehtävä 1 (20 min) ja Tehtävä 2 (12 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Älä kerro, mikä ala on "varma". | Paperipohja ilman laitetta: arvaukset ammateista ja muutoksesta. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Tehtävä 3 (8 min) kolmen hengen ryhmissä kuvitteellisilla tapauksilla. | Ohjaa puhumaan tapauksista, ei omista suunnitelmista. | Yksin tai parin kanssa. | Yksi yhteinen tapaus. |
-| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin yhden tutustuttavan asian ja yhden opeteltavan taidon. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Muistuta: HOPS on koulun kanssa jaettu asiakirja. Sinne kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Exit sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 10 | Opiskelijat kirjaavat HOPSiin yhden tutustuttavan asian ja yhden opeteltavan taidon. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Muistuta: HOPSiin kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 5 | Kysymyksiä, keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset ohjausaikaan. | – | – |
 
 ### 60 min
@@ -235,7 +221,7 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 | Lyhyt alustus | 6 | Opiskelijat kirjaavat muistiin työn muodot ja sen, että muutos vaikuttaa aloihin eri tavoin. Ennakointi on arvio. | Esittele vain Työmarkkinatori. Yrittäjyyden muodot ovat valmiina listalla. Muistuta, että ennakointi on arvio, ei takuu. | Lista paperilla. | Jätä yrittäjyyden muodot Tehtävän 2 ohjeeseen. |
 | Työskentely | 27 | Tehtävä 1 (20 min) ja Tehtävän 2 vaiheet 1 ja 3 (7 min). | Kierrä ja kysy avoimia kysymyksiä. Älä kerro, mikä ala on "varma". | Paperipohja ilman laitetta. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Tehtävä 3 pareittain yhdellä kuvitteellisella tapauksella (8 min). Kirjoittakaa kaksi kysymystä tapauksen opiskelijalle. | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin tai parin kanssa. | Yksi yhteinen tapaus koko ryhmälle tai Tehtävä 3 kotiin. |
-| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin yhden tutustuttavan asian ja yhden opeteltavan taidon. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). Kirjataan vain se, mikä on valmista. | Muistuta: HOPS on koulun kanssa jaettu asiakirja. Sinne kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Kirjaus loppuun kotona. Exit sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin yhden tutustuttavan asian ja yhden opeteltavan taidon. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). Kirjataan vain se, mikä on valmista. | Muistuta: HOPSiin kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Kirjaus loppuun kotona. Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### 45 min
@@ -246,7 +232,7 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
 | Aiemman tiedon aktivointi | 4 | Pareittain: mitä työn muotoja tunnette? Lista taululle. | Täydennä lista muodoilla, joita ei mainittu, myös yrittäjyys ja vapaaehtoistyö. | Lista yksin paperille. | Täydennä lista itse. |
 | Lyhyt alustus | 5 | Opiskelijat kirjaavat muistiin, että muutos vaikuttaa aloihin eri tavoin ja että ennakointi on arvio. Työn muodot ovat valmiina listalla. | Näytä vain Työmarkkinatori. Muistuta, että ennakointi on arvio, ei takuu. | Lista paperilla. | Siirry heti tehtävään. |
 | Työskentely | 22 | Tehtävä 1 yksin (20 min, laitteiden avaaminen mukaan lukien). Loput 2 min: muistiinpanojen viimeistely. Tehtävät 2 ja 3 jäävät kotiin. | Kierrä ja kysy avoimia kysymyksiä. Älä kerro, mikä ala on "varma". | Paperipohja ilman laitetta. | Tehtävän 1 vaihe 5 kotiin. |
-| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin yhden tutustuttavan asian ja yhden opeteltavan taidon. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). Kirjataan vain se, mikä on valmista. | Muistuta: HOPS on koulun kanssa jaettu asiakirja. Sinne kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Kirjaus loppuun kotona. Exit sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin yhden tutustuttavan asian ja yhden opeteltavan taidon. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). Kirjataan vain se, mikä on valmista. | Muistuta: HOPSiin kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon, ellei opiskelija itse halua kertoa niistä. Kerro, miten ohjausaika varataan (esimerkki). | Kirjaus paperille. | Kirjaus loppuun kotona. Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 3 | Kysymyksiä ja keskeneräisten loppuun. | Ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### Valmistelu
@@ -273,9 +259,9 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö yrittäjyys ole kaikille parasta
 ### Pelisäännöt ja oletusten tarkistus
 
 - Kukaan ei kerro suunnitelmiaan, perhetaustaansa tai talouttaan ryhmälle. Ryhmätyö tehdään kuvitteellisilla tapauksilla.
-- HOPS on koulun kanssa jaettu asiakirja. Muistuta tunnin alussa ja lopussa, että sinne kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon.
+- Muistuta tunnin alussa ja lopussa, että HOPSiin kirjataan vain se, minkä opiskelija haluaa jakaa. Terveys, perhe ja tuen tarve jäävät omaan muistioon.
 - Älä kerro varmoja ennusteita siitä, mitkä alat katoavat tai kasvavat. Muistuta, että ennakointi on arvio.
-- Kaikki reitit ja työn muodot ovat yhtä arvokkaita. Älä esitä yrittäjyyttä tai palkkatyötä parempana.
+- Sivuston linjaus: reittejä ja työn muotoja ei aseteta paremmuusjärjestykseen. Älä esitä yrittäjyyttä tai palkkatyötä parempana.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että yrittäjyys tai tietty ala sopii tietylle sukupuolelle tai taustalle? Oletanko, että kaikilla on perheen yritys, tuttavia tai pääomaa? Oletanko, että kaikilla on mahdollisuus tehdä sivutöitä? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -288,13 +274,13 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö yrittäjyys ole kaikille parasta
 
 - *työllistyminen = työn saaminen*
 - *yrittäjä = henkilö, joka tekee työtä omalla yrityksellään*
-- *yksinyrittäjä = yrittäjä, jolla ei ole työntekijöitä*
-- *itsenäinen ammatinharjoittaja = henkilö, joka tekee tehtäviä usealle tilaajalle (arkikielessä freelancer)*
+- *yksinyrittäjä = sivuston oma kuvaus: yrittäjä, jolla ei ole työntekijöitä*
+- *itsenäinen ammatinharjoittaja = sivuston oma kuvaus: henkilö, joka tekee tehtäviä usealle tilaajalle (arkikielessä freelancer)*
 - *ennakointi = tulevaisuuden pohtiminen etukäteen*
 - *suhdanne = talouden nousu tai lasku*
 - *teknologia = tekniikka ja laitteet, esimerkiksi tekoäly*
 
-**Lukeminen, keskittyminen ja jännitys:** Anna tehtävä vaihe kerrallaan ja tarjoa lyhyt lista työn muodoista. Jos tulevaisuus pelottaa, muista, että kukaan ei tiedä sitä varmasti ja että pienet askeleet riittävät.
+**Lukeminen, keskittyminen ja jännitys:** Anna tehtävä vaihe kerrallaan ja tarjoa lyhyt lista työn muodoista. Tulevaisuutta ei voi tietää varmasti, ja suunnitelmassa voi edetä pienin askelin.
 
 **Ilman laitetta:** Kaikki tehtävät onnistuvat yksin pelkällä paperilla ja kynällä: arvaukset kahdesta ammatista, yrittäjyyden muistiinpanot ja keksitty tapaus. Tarkista arvaukset myöhemmin tai kysy ihmiseltä, joka tuntee alan. Tulosteita ei tarvita.
 
@@ -304,21 +290,13 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö yrittäjyys ole kaikille parasta
 
 Varaa aika opinto-ohjaajalle, jos
 
-- tulevaisuus pelottaa tai tuntuu epävarmalta ja se on vaivannut sinua yli kaksi viikkoa
+- tulevaisuus pelottaa tai tuntuu epävarmalta ja se on vaivannut sinua jonkin aikaa
 - et löydä tietoa jostakin ammatista tai alasta, vaikka olet etsinyt useasta paikasta
 - haluat kokeilla yrittäjyyttä tai kesätyötä ja tarvitset tietoa siitä, mitä siihen liittyy
 - kaksi eri työn tai opintojen suuntaa tuntuu yhtä hyvältä ja päätös on tehtävä kahden viikon sisällä
 - et tiedä, mitä taitoa kannattaisi oppia, ja haluat apua valintaan
-- sinulta pyydetään työtä ilman palkkaa tai sopimusta etkä ole varma, onko kyse tavallisesta harjoittelusta tai vapaaehtoistyöstä (kysy ennen aloittamista: mitä tehdään, kuinka kauan, kuka vastaa ja saako työstä palkkaa; jos vastaukset epäilyttävät tai sinua kohdellaan epäasiallisesti, kerro opinto-ohjaajalle tai luotetulle aikuiselle)
-- sinulla ei ole vielä suuntaa lukion jälkeen ja se painaa mieltäsi (sinun ei tarvitse tietää, mutta voit puhua siitä)
-
-Voit puhua myös ryhmänohjaajan, erityisopettajan tai opiskeluhuollon kanssa. Koulusi kertoo, miten aika varataan (esimerkki).
-
-**Apua saat myös:**
-
-- [Etsi lähin Ohjaamo (luettu 21.11.2026)](https://ohjaamot.fi/lahin-ohjaamo): ohjausta alle 30-vuotiaille opiskeluun, työhön ja arkeen.
-- [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): tietoa ja omahoito-ohjelmia nuorille.
-- [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, voit soittaa nimettömästi. Hätätilanteessa soita hätänumeroon.
+- sinulta pyydetään työtä ilman palkkaa tai sopimusta etkä ole varma, onko kyse tavallisesta harjoittelusta tai vapaaehtoistyöstä (kysy ennen aloittamista: mitä tehdään, kuinka kauan, kuka vastaa ja saako työstä palkkaa)
+- sinulla ei ole vielä suuntaa lukion jälkeen ja se painaa mieltäsi
 
 ## Lähteet
 

@@ -26,31 +26,27 @@ official_links:
   - title: "Kelan yleinen asumistuki"
     url: "https://www.kela.fi/yleinen-asumistuki"
     publisher: "Kela"
-    read: 2026-11-21
+    read: 2026-11-23
   - title: "Takuusäätiö: maksuton Velkalinja ja raha-asioiden ohjeet"
     url: "https://www.takuusaatio.fi/"
     publisher: "Takuusäätiö"
-    read: 2026-11-21
+    read: 2026-11-23
   - title: "Oppimisen tuen uudistus"
     url: "https://www.oph.fi/fi/oppimisen-tuen-uudistus"
     publisher: "Opetushallitus"
     read: 2026-11-21
-  - title: "Lukiolaki 714/2018 (Finlex)"
-    url: "https://www.finlex.fi/fi/lainsaadanto/2018/714"
-    publisher: "Finlex"
-    read: 2026-11-21
   - title: "Etsi lähin Ohjaamo"
     url: "https://ohjaamot.fi/lahin-ohjaamo"
     publisher: "Ohjaamot"
-    read: 2026-11-21
+    read: 2026-11-23
   - title: "Mielenterveystalo: nuoret"
     url: "https://www.mielenterveystalo.fi/fi/nuoret"
     publisher: "Mielenterveystalo.fi"
-    read: 2026-11-21
-  - title: "MIELI Kriisipuhelin"
-    url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/"
-    publisher: "MIELI Suomen Mielenterveys ry"
-    read: 2026-11-21
+    read: 2026-11-23
+  - title: "Kela: opintoraha korkeakoulussa"
+    url: "https://www.kela.fi/opintoraha-korkeakoulussa"
+    publisher: "Kela"
+    read: 2026-11-23
 yearly_facts: [kela_student_aid, learning_support_rules]
 school_adapts:
   - "Missä vaiheessa taloutta käsitellään (esimerkki: kolmannen vuoden syksy, ennen jatko-opintohakua)"
@@ -80,19 +76,19 @@ last_reviewed: 2026-11-21
 
 ### Miksi rahaa kannattaa miettiä jo nyt?
 
-Kun lukio päättyy, moni alkaa itse maksaa vuokraa, ruokaa ja matkoja. Raha voi vaikuttaa siihen, mihin haet,
+Lukion jälkeen saatat alkaa itse maksaa vuokraa, ruokaa ja matkoja. Raha voi vaikuttaa siihen, mihin haet,
 asutko kotona vai muutatko pois, ja tekeekö opiskelun ohella työtä. Siksi talouden miettiminen on osa
 jatko-opintojen suunnittelua, ei erillinen asia.
 
 Sinun ei tarvitse osata kaikkea. Ensimmäinen suunnitelma saa olla karkea. Tärkeintä on tietää, mistä luvut löytyvät
 ja kenen puoleen voit kääntyä.
 
-Moni kokee rahasta puhumisen vaikeaksi. Perheiden tilanteet ovat erilaisia, eikä kenenkään tarvitse kertoa omaansa.
+Perheiden tilanteet ovat erilaisia, eikä kenenkään tarvitse kertoa omaansa.
 Tässä aiheessa harjoittelet laskemista kuvitteellisilla luvuilla ja omissa muistiinpanoissasi.
 
 ### Mistä oma talous koostuu?
 
-Oma talous on helpoin hahmottaa neljällä sanalla.
+Sivuston oma jäsennys: oma talous neljällä sanalla.
 
 - **Tulot** ovat raha, jonka saat: palkka, opintotuki, perheen tuki, stipendi.
 - **Menot** ovat raha, jonka käytät: vuokra, ruoka, puhelin, matkat, vakuutukset, harrastukset.
@@ -109,30 +105,30 @@ Jos opiskelet lukion jälkeen, voit saada Kelan opintotukea. Opintotuen osia ova
 **opintolaina**. Tuen saaminen, määrät ja tulorajat riippuvat tilanteestasi, ja ne muuttuvat. Siksi niitä ei
 kirjoiteta tähän. Tarkista ne aina [Kelan opiskelusivulta](https://www.kela.fi/opiskelu) ja sieltä löytyvistä opintotuen sivuista.
 
-Muista nämä perusasiat:
+Näin opintotuki toimii:
 
-- Opintotuki ei ole automaattinen. Haet sitä itse.
-- Tuen saamiseen vaikuttavat esimerkiksi opintojen laatu ja opiskelun edistyminen.
+- Kelan sivun mukaan opintorahaa haetaan OmaKelassa, kun olet vastaanottanut opiskelupaikan ([Kela: opintoraha korkeakoulussa](https://www.kela.fi/opintoraha-korkeakoulussa)).
+- Kelan sivun mukaan opintorahaa voit saada, jos edistyt opinnoissasi.
 - Opintolaina on laina. Se pitää maksaa takaisin, joten mieti, paljonko tarvitset.
-- Opintojen ohella tehty työ voi vaikuttaa tukeen. Katso rajat Kelan sivulta.
+- Kelan sivun mukaan tulosi vaikuttavat siihen, kuinka monelta kuukaudelta voit saada opintorahaa. Katso tulorajat Kelan sivulta.
 
 ### Asuminen
 
 Asumisen vaihtoehtoja on monta: kotona asuminen, vuokra-asunto, opiskelija-asunto, asuntola, jaettu vuokra-asunto tai
-oma asunto. Mikään niistä ei ole muita parempi. Valintaan vaikuttavat raha, etäisyys, tuttujen ihmisten läheisyys ja
+oma asunto. Sivuston lähtökohta: emme laita niitä paremmuusjärjestykseen. Valintaan vaikuttavat raha, etäisyys, tuttujen ihmisten läheisyys ja
 se, kuinka paljon haluat omaa tilaa.
 
 Vuokran lisäksi asumiseen kuuluu kuluja, jotka unohtuvat helposti: sähkö, netti, kotivakuutus ja
-kalusteet. Kysy vuokranantajalta aina, mitä vuokra sisältää. Selvitä ensin [Kelan opiskelusivulta](https://www.kela.fi/opiskelu), mitä opintotuen asumislisä on. Se on
-opiskelijan tavallisin asumistuki. Opiskelija ei yleensä voi saada Kelan yleistä asumistukea, mutta poikkeuksia on.
-Ne kerrotaan Kelan sivulla [yleinen asumistuki](https://www.kela.fi/yleinen-asumistuki). Katso sieltä, koskeeko jokin
+kalusteet. Kysy vuokranantajalta aina, mitä vuokra sisältää. Selvitä ensin [Kelan opiskelusivulta](https://www.kela.fi/opiskelu), mitä opintotuen asumislisä on. Kelan sivun mukaan
+suurin osa opiskelijoista voi saada asumisensa tueksi asumislisää, eikä opiskelija yleensä voi saada yleistä asumistukea. Poikkeukset
+kerrotaan Kelan sivulla [yleinen asumistuki](https://www.kela.fi/yleinen-asumistuki). Katso sieltä, koskeeko jokin
 poikkeus sinua.
 
 ### Raha ja hyvinvointi
 
-Rahahuolet voivat kuormittaa mieltä, unta ja opiskelua. Se on tavallista. Rahaan liittyvien asioiden suunnittelu
-etukäteen vähentää yllätyksiä. Jos rahat tuntuvat riittämättömiltä, älä jää yksin. [Takuusäätiön](https://www.takuusaatio.fi/) sivuilta löydät maksuttoman Velkalinjan ja ohjeita raha-asioihin, ja
-opinto-ohjaaja tai opiskeluhuolto auttaa myös.
+Rahahuolet voivat kuormittaa mieltä, unta ja opiskelua. Etukäteen tehty suunnitelma voi vähentää yllätyksiä.
+Jos rahat eivät riitä, [Takuusäätiön](https://www.takuusaatio.fi/) sivuilta löydät maksuttoman Velkalinjan ja ohjeita raha-asioihin. Asiasta
+voi puhua myös opinto-ohjaajan kanssa.
 
 ## Tehtävät
 
@@ -193,8 +189,6 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan nimetä opintotuen osat ja etsiä Kelan sivuilta, mitä tukea voisin saada.
 - Osaan verrata asumisvaihtoehtoja, miettiä, miten talous vaikuttaa hyvinvointiini, ja tiedän, mistä saan apua, jos rahat eivät riitä.
 
-Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskeskusteluun.
-
 **Pelaa aiheesta visual novel:** [Oma talous, opintotuki ja asuminen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch08-talous-ja-asuminen). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Itseopiskelun askel
@@ -212,8 +206,8 @@ Jos jokin kohta on vielä "En vielä", se on hyvä kysymys seuraavaan ohjauskesk
    yhteen.
 
 **HOPSiin:** Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma*, mistä aiot tarkistaa opintotuen ja asumisen
-tiedot, millaisia asumisvaihtoehtoja harkitset ja yksi asia, jonka haluat kysyä. HOPS on koulun kanssa jaettu asiakirja.
-Kirjaa siihen vain se, minkä haluat koulun tietävän. Tarkat rahasummat, perheen tiedot ja omat velat voivat jäädä omaan
+tiedot, millaisia asumisvaihtoehtoja harkitset ja yksi asia, jonka haluat kysyä.
+Sivuston ohje: kirjaa siihen vain se, minkä haluat koulun tietävän. Tarkat rahasummat, perheen tiedot ja omat velat voivat jäädä omaan
 muistioosi. Jos koulusi käyttää sähköistä HOPSia, tee merkintä koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
@@ -230,7 +224,7 @@ taloudellista tilannettaan, ellei itse halua.
 | Lyhyt alustus | 7 | Opiskelijat kuuntelevat ja lukevat taululta neljä sanaa (tulot, menot, säästö, velka), opintotuen osat ja asumisen vaihtoehdot. Ei kirjoitettavaa. | Näytä Kelan opiskelusivu. Kerro koulun oma käytäntö (esimerkki). Kerro, että luvut tarkistetaan aina linkistä. | Jaa lista paperilla. | Jätä koulun oma käytäntö pois ja kerro se exitin yhteydessä. |
 | Työskentely | 30 | Tehtävä 1 (15 min) ja Tehtävä 2 (15 min) yksin tai parin kanssa. | Kierrä ja kysy avoimia kysymyksiä. Muistuta, että luvut ovat keksittyjä. | Paperipohja ilman laitetta. Pari voi tehdä yhdessä. | Tehtävän 1 vaiheet 4–5 kotiin. Tehtävä 2 tehdään aina, koska se tuottaa tunnin tavoitteen. |
 | Pari- tai pienryhmäpohdinta | 10 | Tehtävä 3 (10 min) pienryhmissä kuvitteellisilla tapauksilla. Ryhmä kirjoittaa kaksi kysymystä tapaukselle. | Ohjaa puhumaan tapauksista, ei omista talouksista. Kokoa kysymykset taululle. | Yksin tai parin kanssa. | Yksi tapaus koko ryhmälle yhdessä. |
-| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin tarkistettavat asiat. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Kerro ohjausajan varaamisesta (esimerkki). Muistuta, että HOPS on koulun kanssa jaettu: tarkkoja summia, perheen tietoja tai omia velkoja ei kirjata. | Kirjaus paperille. | Exit sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 8 | Opiskelijat kirjaavat HOPSiin tarkistettavat asiat. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Kerro ohjausajan varaamisesta (esimerkki). Sivuston ohje: tarkkoja summia, perheen tietoja tai omia velkoja ei kirjata. | Kirjaus paperille. | Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset ohjausaikaan. | – | – |
 
 ### 60 min
@@ -242,7 +236,7 @@ taloudellista tilannettaan, ellei itse halua.
 | Lyhyt alustus | 5 | Opiskelijat lukevat taululta neljä sanaa (tulot, menot, säästö, velka) ja opintotuen osat. Ei kirjoitettavaa. | Näytä Kelan opiskelusivu. Kerro, että luvut tarkistetaan aina linkistä. | Jaa lista paperilla. | Jätä asumisen vaihtoehdot pois; ne ovat Tehtävän 2 sarakkeina. |
 | Työskentely | 30 | Tehtävä 1 (15 min) ja Tehtävä 2 (15 min) yksin. | Kierrä ja kysy avoimia kysymyksiä. Muistuta, että luvut ovat keksittyjä. | Paperipohja ilman laitetta. Pari voi tehdä yhdessä. | Tehtävän 1 vaiheet 4–5 kotiin. Tehtävä 2 tehdään aina. |
 | Pari- tai pienryhmäpohdinta | 8 | Tehtävä 3 pareittain yhdellä kuvitteellisella tapauksella (vaiheet 1–3). Kirjoittakaa kaksi kysymystä tapauksen opiskelijalle. | Ohjaa puhumaan tapauksesta, ei omasta tilanteesta. | Yksin tai parin kanssa. | Yksi yhteinen tapaus koko ryhmälle. |
-| HOPS-askel ja exit | 7 | Opiskelijat kirjaavat HOPSiin tarkistettavat asiat. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Kerro ohjausajan varaamisesta (esimerkki). Muistuta, että HOPS on koulun kanssa jaettu: tarkkoja summia, perheen tietoja tai omia velkoja ei kirjata. | Kirjaus paperille. | Exit sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 7 | Opiskelijat kirjaavat HOPSiin tarkistettavat asiat. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Kerro ohjausajan varaamisesta (esimerkki). Sivuston ohje: tarkkoja summia, perheen tietoja tai omia velkoja ei kirjata. | Kirjaus paperille. | Exit sähköisesti tunnin jälkeen. |
 | Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 ### 45 min
@@ -253,7 +247,7 @@ taloudellista tilannettaan, ellei itse halua.
 | Aiemman tiedon aktivointi | 4 | Kaksi väitettä yksin: "Opintotuki maksetaan kaikille automaattisesti." "Opintolaina ei ole velkaa." Ei jaeta. | Molemmat väitteet ovat tarua. Kerro vastaukset heti ja näytä Kelan sivu. | – | Käsittele vain ensimmäinen väite. |
 | Lyhyt alustus | 5 | Opiskelijat lukevat taululta neljä sanaa (tulot, menot, säästö, velka). Ei kirjoitettavaa. | Näytä Kelan opiskelusivu. Kerro, että luvut tarkistetaan aina linkistä. | Jaa lista paperilla. | Anna linkki ja siirry tehtävään. |
 | Työskentely | 25 | Tehtävä 2 (15 min) ensin. Sitten Tehtävän 1 vaiheet 1–3 (10 min). | Kierrä ja kysy avoimia kysymyksiä. Muistuta, että luvut ovat keksittyjä. | Paperipohja ilman laitetta. | Tehtävän 1 vaiheet kotiin. Tehtävä 2 tehdään aina. |
-| HOPS-askel ja exit | 6 | Opiskelijat kirjaavat HOPSiin tarkistettavat asiat. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Kerro ohjausajan varaamisesta (esimerkki). Muistuta, että HOPS on koulun kanssa jaettu: tarkkoja summia, perheen tietoja tai omia velkoja ei kirjata. | Kirjaus paperille. | Kirjaus loppuun kotona. Tehtävä 3, Pohdinta ja exit sähköisesti tunnin jälkeen. |
+| HOPS-askel ja exit | 6 | Opiskelijat kirjaavat HOPSiin tarkistettavat asiat. Exit-lappu: yksi kysymys ohjaajalle (nimetön tai nimellä, opiskelija valitsee). | Kerro ohjausajan varaamisesta (esimerkki). Sivuston ohje: tarkkoja summia, perheen tietoja tai omia velkoja ei kirjata. | Kirjaus paperille. | Kirjaus loppuun kotona. Tehtävä 3, Pohdinta ja exit sähköisesti tunnin jälkeen. |
 | Puskuri | 2 | Kysymyksiä ja keskeneräisten loppuun. | Vastaa yleisiin kysymyksiin, ohjaa henkilökohtaiset asiat ohjausaikaan. | – | – |
 
 
@@ -284,7 +278,7 @@ rahan mahdollistavan opiskelun aikana?"
 - Kukaan ei kerro omia tulojaan, perheensä taloutta tai velkojaan ryhmälle. Ryhmätyö tehdään kuvitteellisilla
   tapauksilla ja keksityillä luvuilla.
 - Älä pyydä opiskelijoita vertailemaan taloudellista tilannettaan keskenään.
-- Kaikki reitit ovat yhtä arvokkaita. Älä esitä opiskelua tai työtä parempana vaihtoehtona kuin toista.
+- Älä esitä opiskelua tai työtä parempana vaihtoehtona kuin toista.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että perhe voi tukea rahallisesti? Oletanko, että kaikilla on pankkitili,
   oma laite tai vanhempi, joka auttaa lomakkeissa? Puhunko tietyistä aloista tai asumismuodoista tietyille
   opiskelijoille? Puhunko tytöistä ja pojista tai tietystä sukupuolesta, kun puhun siitä, kuka hoitaa rahaa, kuka asuu yksin tai kuka tekee töitä opintojen ohella? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
@@ -308,37 +302,32 @@ rahan mahdollistavan opiskelun aikana?"
 - *vuokra = raha, jonka maksat asunnosta*
 - *yleinen asumistuki = Kelan tuki asumiskuluihin. Opiskelija ei yleensä saa sitä, koska opintotuessa on asumislisä*
 
-**Lukeminen, keskittyminen ja jännitys:** Ohjaajalle: anna sanasto ja tehtävä yhdellä sivulla ja vaihe kerrallaan. Salli kuulokkeet ja oma rauhallinen paikka. Jos raha jännittää, muista, että ensimmäinen budjetti on harjoitus ja että oikeat luvut tarkistetaan myöhemmin.
+**Lukeminen, keskittyminen ja jännitys:** Ohjaajalle: anna sanasto ja tehtävä yhdellä sivulla ja vaihe kerrallaan. Salli kuulokkeet ja oma rauhallinen paikka. Jos raha jännittää, ensimmäinen budjetti on harjoitus ja oikeat luvut tarkistetaan myöhemmin.
 
 **Ilman laitetta:** Kaikki kolme tehtävää onnistuvat paperilla ja kynällä. Tehtävien 1 ja 2 paperiversiot on kuvattu tehtävissä. Tarkista luvut myöhemmin kirjastossa tai koulun koneella.
 
-**Tuki:** Lukiolaisella on [lukiolain](https://www.finlex.fi/fi/lainsaadanto/2018/714) mukaan oikeus oppimisen tukeen. Lue lisää Opetushallituksen sivulta [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja kysy koulusi omasta käytännöstä (esimerkki).
+**Tuki:** Lue lisää Opetushallituksen sivulta [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja kysy koulusi omasta käytännöstä (esimerkki).
 
 ## Milloin opinto-ohjaajalle
 
 Varaa aika opinto-ohjaajalle, jos
 
-- et tiedä, mistä aloittaisit opintotuen ja asumisen selvittämisen, ja haku päättyy tai muutto tapahtuu kahden viikon sisällä
+- et tiedä, mistä aloittaisit opintotuen ja asumisen selvittämisen, ja haku päättyy tai muutto tapahtuu pian
 - et ole varma, mitä tukea voisit saada tai miten sitä haetaan
 - rahat eivät riitä ruokaan, matkoihin tai muihin välttämättömiin menoihin
 - olet saanut maksukehotuksen tai laskuja on jäänyt maksamatta
-- rahahuolet ovat vaikuttaneet uneen, opiskeluun tai jaksamiseen yli kaksi viikkoa
+- rahahuolet ovat vaikuttaneet uneen, opiskeluun tai jaksamiseen, ja tilanne jatkuu
 - tuntuu, ettei jatko-opintoihin ole varaa, vaikka haluaisit hakea
 - et tiedä, miten selviät muutosta pois kotoa
 
-Voit puhua myös ryhmänohjaajan, erityisopettajan tai opiskeluhuollon kanssa. Koulusi kertoo, miten aika varataan
-(esimerkki).
-
 **Apua saat myös:**
 
-- [Takuusäätiö (luettu 21.11.2026)](https://www.takuusaatio.fi/): maksuton Velkalinja ja ohjeita rahan hallintaan ja
+- [Takuusäätiö (luettu 23.11.2026)](https://www.takuusaatio.fi/): maksuton Velkalinja ja ohjeita rahan hallintaan ja
   veloista selviämiseen.
-- [Etsi lähin Ohjaamo (luettu 21.11.2026)](https://ohjaamot.fi/lahin-ohjaamo): ohjausta alle 30-vuotiaille
+- [Etsi lähin Ohjaamo (luettu 23.11.2026)](https://ohjaamot.fi/lahin-ohjaamo): ohjausta alle 30-vuotiaille
   opiskeluun, työhön ja arkeen.
-- [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): tietoa ja
+- [Mielenterveystalo: nuoret (luettu 23.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): tietoa ja
   omahoito-ohjelmia nuorille.
-- [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua
-  kriisissä, voit soittaa nimettömästi. Hätätilanteessa soita hätänumeroon.
 
 ## Lähteet
 
