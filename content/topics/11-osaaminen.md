@@ -31,15 +31,7 @@ official_links:
     url: "https://opintopolku.fi/konfo/fi/"
     publisher: "Opetushallitus (Opintopolku)"
     read: 2026-11-21
-  - title: "Etsi lähin Ohjaamo"
-    url: "https://ohjaamot.fi/lahin-ohjaamo"
-    publisher: "Ohjaamot"
-    read: 2026-11-21
-  - title: "Oppimisen tuen uudistus"
-    url: "https://www.oph.fi/fi/oppimisen-tuen-uudistus"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
-yearly_facts: [employment_services, guidance_services, learning_support_rules]
+yearly_facts: [employment_services]
 school_adapts:
   - "Koulun tapa kerätä ja tallentaa osaamisen merkintöjä (esimerkki: sähköinen HOPS, portfolio, todistukset)"
   - "Koulun mahdollisuudet saada merkintä lukion ulkopuolisesta osaamisesta, kuten harrastuksista tai vapaaehtoistyöstä (esimerkki)"
@@ -128,7 +120,7 @@ Jos teit aiheessa 05 vahvuuslistan, voit käyttää sitä lähtökohtana. Täss�
 1. Kirjoita kolme tilannetta, joissa onnistuit tai opit jotakin. Ne voivat olla koulusta, harrastuksesta, kotoa tai työstä.
 2. Kirjoita jokaisesta tilanteesta, mitä taitoja tarvitsit. Vertaa niitä tämän sivun työelämätaitojen luetteloon (vuorovaikutus, suunnittelu, ongelmanratkaisu, vastuu, tiedonhaku, digitaidot, oppiminen).
 3. Merkitse jokaisen taidon viereen, onko se vahva, kehittyvä vai uusi.
-4. Valitse kaksi taitoa, joita haluat harjoitella lisää, ja pidä lista muistiossasi. Sitä ei tarvitse näyttää kenellekään.
+4. Valitse kaksi taitoa, joita haluat harjoitella lisää, ja pidä lista muistiossasi.
 5. Kirjoita yksi lause: mitä osaamisesi kertoo sinusta ja mitä haluaisit sen avulla kokeilla tai opiskella seuraavaksi?
 
 ### Tehtävä 2: Kirjoita osaamisesi näkyväksi
@@ -148,7 +140,7 @@ Jos teit aiheessa 05 vahvuuslistan, voit käyttää sitä lähtökohtana. Täss�
 **Tarvitset:** tapauskortit tai tämän sivun tekstin
 **Ilman laitetta:** Keksi paperille oma kuvitteellinen opiskelija, jolla on osaamista kotoa, harrastuksesta tai omatoimisesta oppimisesta. Kirjoita hänelle kolme taitoa ja yksi lause, jolla hän voisi kuvata osaamistaan CV:ssä.
 
-Tapaukset (kaikki henkilöt ovat kuvitteellisia):
+Tapaukset:
 
 - **Niko** on huolehtinut pitkään pikkusisaruksestaan ja kotitöistä, mutta ei ajattele sitä osaamisena.
 - **Sanni** on pelannut joukkuepeliä ja ollut tapahtumajärjestäjänä, mutta ei tiedä, miten kertoa siitä CV:ssä.
@@ -161,7 +153,7 @@ Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mikä osaamisesi on yllättänyt sinut, kun kirjoitit sen ylös?
 2. Mitä taitoa haluaisit kehittää seuraavaksi, ja miten voisit harjoitella sitä?
@@ -174,7 +166,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan kertoa, mitä työelämätaidot ovat, ja arvioida omaa osaamistani niiden suhteen.
 - Osaan kuvata vahvuuteni konkreettisilla esimerkeillä, kirjoittaa yhden lauseen siitä, mitä osaamiseni kertoo minusta, ja valita taidon, jota haluan seuraavaksi kehittää.
 
-**Pelaa aiheesta visual novel:** [Osaamisen tunnistaminen ja dokumentointi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch02-osaaminen). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Osaamisen tunnistaminen ja dokumentointi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch02-osaaminen).
 
 ## Itseopiskelun askel
 
@@ -189,7 +181,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** aihe 12 *Muuttuva työelämä, yrittäjyys ja ennakointi*.
 
-**HOPSiin:** Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* kolme osaamista, jotka tunnistit, ja kaksi taitoa, joita haluat kehittää. Voit liittää mukaan viittauksen osaamislistaasi. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki). Kirjaa HOPSiin vain se, minkä haluat koulun tietävän. Terveyteen, perheeseen ja tuen tarpeeseen liittyvät ajatukset voit pitää omassa muistiossasi. Osaamislista voi myös jäädä kokonaan omaan käyttöösi.
+**HOPSiin:** Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* kolme osaamista, jotka tunnistit, ja kaksi taitoa, joita haluat kehittää. Voit liittää mukaan viittauksen osaamislistaasi. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki). Osaamislista voi myös jäädä kokonaan omaan käyttöösi.
 
 ## Tuntisuunnitelma (75 min)
 
@@ -233,12 +225,10 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Tutustu Europassin sivustoon ja Työmarkkinatoriin itse. Käytä Europassissa vain keksittyjä tietoja äläkä luo tiliä.
 - Selvitä, miten koulussa voi tallentaa osaamista ja lukion ulkopuolista toimintaa (esimerkki).
 - Valmistele yksi oma esimerkki kolmivaiheisesta kuvauksesta, joka ei liity koulumenestykseen.
-- Tulosta tapauskortit tai kirjoita tapaukset taululle. Opiskelija voi tehdä tehtävät myös pelkällä paperilla.
+- Tulosta tapauskortit tai kirjoita tapaukset taululle.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 
 ### Avoimet kysymykset
-
-Kysymykset sopivat yksityiseen kirjoittamiseen, vapaaehtoiseen pariin tai yleiseen keskusteluun. Kukaan ei vastaa ääneen omasta tilanteestaan. Ryhmässä puhutaan yleisesti ("ihmiset", "joku") tai kuvitteellisista tapauksista.
 
 - Mitä osaaminen on? Mistä sitä kertyy?
 - Miksi oman osaamisen voi olla vaikea huomata?
@@ -276,8 +266,6 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö sinulla ole mitään taitoja?" K
 **Lukeminen, keskittyminen ja jännitys:** Anna kolmivaiheinen malli yhdellä sivulla ja tee tehtävä vaihe kerrallaan. Osaamislista on vain opiskelijan omaan käyttöön.
 
 **Ilman laitetta:** Osaamislista, kuvaus ja CV-kohta onnistuvat yksin pelkällä paperilla ja kynällä. Tulosteita ei tarvita. Älä kirjoita oikeita henkilötietoja verkkoon.
-
-**Tuki:** Oppimisen tuen säännöt uudistuivat. Katso Opetushallituksen sivu [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja koulusi oma käytäntö (esimerkki).
 
 ## Milloin opinto-ohjaajalle
 

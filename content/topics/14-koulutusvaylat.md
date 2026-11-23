@@ -43,14 +43,6 @@ official_links:
     url: "https://tyomarkkinatori.fi/"
     publisher: "KEHA-keskus (Työmarkkinatori)"
     read: 2026-11-21
-  - title: "Oppimisen tuen uudistus"
-    url: "https://www.oph.fi/fi/oppimisen-tuen-uudistus"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
-  - title: "Etsi lähin Ohjaamo"
-    url: "https://ohjaamot.fi/lahin-ohjaamo"
-    publisher: "Ohjaamot"
-    read: 2026-11-23
   - title: "Mielenterveystalo: nuoret"
     url: "https://www.mielenterveystalo.fi/fi/nuoret"
     publisher: "Mielenterveystalo.fi"
@@ -63,7 +55,7 @@ official_links:
     url: "https://intti.fi/muut-palvelusvaihtoehdot-ja-palveluksesta-vapautetut"
     publisher: "Puolustusvoimat"
     read: 2026-11-22
-yearly_facts: [places_and_quota, todistusvalinta_tables, intti_callups, civil_service, employment_services, learning_support_rules, guidance_services]
+yearly_facts: [places_and_quota, todistusvalinta_tables, intti_callups, civil_service, employment_services]
 school_adapts:
   - "Onko koulussa jatko-opintoinfoja, oppilaitosvierailuja tai vierailijoita (esimerkki), ja milloin ne järjestetään"
   - "Missä vaiheessa reittien vertailu tehdään (esimerkki: toisen vuoden kevät)"
@@ -168,7 +160,7 @@ Kirjaa nyt muistiin, mitä haluat vielä selvittää. Suunnitelma saa muuttua.
 **Tarvitset:** tämän sivun tekstin, puhelimen tai tietokoneen
 **Ilman laitetta:** Kopioi tapaus ensin paperille ja kirjoita kysymykset sen viereen. Voit myös keksiä paperille oman kuvitteellisen tapauksen.
 
-Tapaukset (kaikki henkilöt ovat kuvitteellisia):
+Tapaukset:
 
 - **Siiri** haluaa ammatillisesta koulutuksesta ammatin ja miettii, miten lukion opinnot sopivat siihen.
 - **Niko** ei tiedä, mitä haluaa tehdä. Hän pitää monesta aineesta ja miettii, mikä reitti jättäisi vaihtoehtoja auki.
@@ -181,7 +173,7 @@ Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mikä reitti tuntuu sinusta nyt kiinnostavalta, ja mikä yllätti sinut tutustuessasi?
 2. Mitä asioita pidät tärkeinä valitessasi reittiä: kiinnostus, jaksaminen, aika, paikka vai jokin muu?
@@ -195,7 +187,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan suunnitella, miten tutustun työelämään tai jatko-opintoihin ennen hakua.
 - Osaan kirjata alustavan reittivertailun jatko-opinto- ja urasuunnitelmaani ja tiedän, että saan muuttaa sitä.
 
-**Pelaa aiheesta visual novel:** [Koulutusväylät ja muut reitit](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch05-koulutusvaylat). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Koulutusväylät ja muut reitit](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch05-koulutusvaylat).
 
 ## Itseopiskelun askel
 
@@ -210,7 +202,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** aihe 15 *Haku ja valinta*.
 
-**HOPSiin:** Sivuston ohje: kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* vain se, minkä haluat jakaa: esimerkiksi kaksi reittiä, jotka kiinnostavat sinua, ja yksi asia, jonka haluat vielä selvittää tai kokeilla. Terveys-, perhe- ja jaksamisasiat jäävät omaan muistioosi. Merkitse, että suunnitelma on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
+**HOPSiin:** Sivuston ohje: kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* vain se, minkä haluat jakaa: esimerkiksi kaksi reittiä, jotka kiinnostavat sinua, ja yksi asia, jonka haluat vielä selvittää tai kokeilla. Merkitse, että suunnitelma on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
@@ -257,8 +249,6 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 
 ### Avoimet kysymykset
 
-Kysymykset ovat yksityiseen kirjoittamiseen tai vapaaehtoiseen parikeskusteluun. Kukaan ei vastaa omista suunnitelmistaan ryhmälle; ryhmässä puhutaan yleisesti tai kuvitteellisista tapauksista.
-
 - Mitä reittejä lukion jälkeen on, ja mitä kullakin voi saavuttaa?
 - Mistä voi tietää, että tieto reitistä on ajan tasalla?
 - Mitä voisi kokeilla ennen kuin päättää?
@@ -298,8 +288,6 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö yliopisto ole varmin valinta?" K
 
 **Ilman laitetta:** Sivun reittilista, käsin tehty taulukko ja tapaukset toimivat paperilla myös yksin ilman laitetta. Arvaukset tarkistetaan myöhemmin.
 
-**Tuki:** Oppimisen tuesta kerrotaan lisää Opetushallituksen sivulla [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus). Kysy koulusi omasta käytännöstä opinto-ohjaajalta (esimerkki).
-
 ## Milloin opinto-ohjaajalle
 
 Varaa aika opinto-ohjaajalle, jos
@@ -313,7 +301,6 @@ Varaa aika opinto-ohjaajalle, jos
 
 **Apua saat myös:**
 
-- [Etsi lähin Ohjaamo (luettu 23.11.2026)](https://ohjaamot.fi/lahin-ohjaamo): ohjausta alle 30-vuotiaille opiskeluun, työhön ja arkeen.
 - [Opintopolku (luettu 21.11.2026)](https://opintopolku.fi/konfo/fi/): koulutukset ja haut yhdessä paikassa.
 - [Mielenterveystalo: nuoret (luettu 23.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia esimerkiksi jännitykseen ja univaikeuksiin.
 

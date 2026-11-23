@@ -139,3 +139,23 @@ Added in round 2 of the basis audit; nothing above was changed.
 - `## Milloin opinto-ohjaajalle` stays: it is subject content (OP guidance). Read item 7 under "A topic file" as
   concrete triggers plus dated links to services that match them; "help links" there does not mean crisis lines.
 - A source link that supports subject content stays in `official_links`; only its use as a help pointer goes.
+
+## Addendum 2026-11-23: repeated notes are said once (lukio-runko v0.5.1)
+
+Added in the repeat clean-up; nothing above was changed.
+
+- Operator decision, 2026-11-23, answering "Decide on the repeated per-page notes now?": "Remove repeats". Norm
+  ledger row 5 in lukio-runko: a site-wide fact is stated once on a site page; topic pages do not repeat it. The
+  engine pin is v0.5.1, which no longer stamps the yearly-facts note or the self-study storage note on each topic.
+- Said once, not on each topic: that cases and people are fictional, how the open questions are used, and that the
+  tasks work on paper (front page); that reflections need not be shown to anyone, what to keep out of HOPS, the
+  visual-novel note, opiskeluhuolto and Ohjaamo (`/polku/`); the right to learning support with the OPH links
+  (`/opetussuunnitelma/`). Where the self-study mark is stored was already said on `/polku/` and the front page.
+- Read item 6 under "A topic file" as: a support link only where the topic has a support point of its own; the
+  generic learning-support link is on `/opetussuunnitelma/`. Read item 7 as: help links to services specific to the
+  topic's triggers; the label is left out when none remains.
+- `data/yearly-facts.yaml` no longer has `learning_support_rules`; read the key list in "Data files" without it.
+  `guidance_services` is cited only by the topics whose subject it is (08, 15).
+- Kept on purpose, as lesson design: the ground rules (*Pelisäännöt*), the lesson goals and the table steps that
+  remind the group to talk about cases, not their own situations. The review is in
+  `docs/review/2026-11-23-repeat-cleanup.md`.

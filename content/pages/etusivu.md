@@ -16,7 +16,7 @@ Opinto-ohjaus koostuu lukiossa kahdesta pakollisesta moduulista. Aiheita on yhte
 
 ## Näin sivustoa käytetään
 
-- **Opinto-ohjaaja** valitsee aiheen ja avaa tuntisuunnitelman. Suunnitelma on tehty 75 minuutille, ja siitä on lyhyemmät versiot 60 ja 45 minuutille. Voit tulostaa suunnitelmat. Aiheet ovat runko. Ne eivät yksin ole koko moduulin ohjausta, ja koulu päättää, miten ohjausta annetaan niiden lisäksi.
+- **Opinto-ohjaaja** valitsee aiheen ja avaa tuntisuunnitelman. Suunnitelma on tehty 75 minuutille, ja siitä on lyhyemmät versiot 60 ja 45 minuutille. Voit tulostaa suunnitelmat. Aiheet ovat runko. Ne eivät yksin ole koko moduulin ohjausta, ja koulu päättää, miten ohjausta annetaan niiden lisäksi. Tehtävien tapaukset ja henkilöt ovat kuvitteellisia. Tuntisuunnitelmien avoimet kysymykset ovat ensin yksityiseen kirjoittamiseen: ryhmässä puhutaan yleisesti tai kuvitteellisista tapauksista, eikä kukaan vastaa henkilökohtaiseen kysymykseen ääneen. Tehtävät onnistuvat myös paperilla ilman tulosteita.
 - **Opiskelija** lukee aiheen, tekee yhden tehtävän, pohtii ja siirtyy seuraavaan askeleeseen. Voit merkitä askeleen tehdyksi. Merkintä tallentuu vain omaan selaimeesi.
 - **Koulu** päättää itse aikataulut, kurssitarjottimen ja omat käytäntönsä. Sivuston ajoitukset ovat esimerkkejä.
 

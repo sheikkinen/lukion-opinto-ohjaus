@@ -35,15 +35,7 @@ official_links:
     url: "https://www.mielenterveystalo.fi/fi/nuoret"
     publisher: "Mielenterveystalo.fi"
     read: 2026-11-21
-  - title: "Opiskeluhuolto"
-    url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
-  - title: "Etsi lähin Ohjaamo"
-    url: "https://ohjaamot.fi/lahin-ohjaamo"
-    publisher: "Ohjaamot"
-    read: 2026-11-21
-yearly_facts: [learning_support_rules, guidance_services]
+yearly_facts: []
 school_adapts:
   - "Koulun opiskelutaitojen tuki: opiskelutaitokurssi, tukiopetus, vertaistutorit (esimerkki)"
   - "Koulun käyttämät oppimisympäristöt ja välineet, esimerkiksi sähköinen oppimisalusta"
@@ -133,7 +125,7 @@ Kukaan ei voi opiskella puolestasi. Voit kokeilla, mitä toimii, ja kysyä neuvo
 **Tarvitset:** tämän sivun tapaukset, oman muistion
 **Ilman laitetta:** Keksi paperille oma kuvitteellinen opiskelija ja kirjoita hänen opiskeluongelmastaan yksi lause. Tee sitten tehtävän vaiheet hänelle. Voit käyttää myös sivun tapauksia tai tehdä tehtävän keskustellen parin kanssa.
 
-Tapaukset (kaikki henkilöt ovat kuvitteellisia):
+Tapaukset:
 
 - **Sanni** lukee tekstit moneen kertaan, mutta muistaa niistä vähän. Kokeeseen on aikaa viikko.
 - **Noa** opiskelee vasta kokeen alla. Hänen muistiinpanonsa ovat vajaita, ja yksi aine on jäänyt jälkeen.
@@ -146,7 +138,7 @@ Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Missä tilanteessa opit mielestäsi parhaiten? Mikä siinä auttaa?
 2. Mikä opiskelussa tuntuu nyt hankalalta? Mitä voisit kokeilla sille?
@@ -160,7 +152,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 
 Jos jokin kohta on vielä "En vielä", voit tuoda sen keskusteluun ohjaajan kanssa.
 
-**Pelaa aiheesta visual novel:** [Opiskelutaidot ja oppimaan oppiminen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch02-opiskelutaidot). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Opiskelutaidot ja oppimaan oppiminen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch02-opiskelutaidot).
 
 ## Itseopiskelun askel
 
@@ -175,7 +167,7 @@ Jos jokin kohta on vielä "En vielä", voit tuoda sen keskusteluun ohjaajan kans
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** aihe 03 *Ajankäyttö ja arjen hallinta*. Siellä suunnittelet, miten opiskelu mahtuu viikkoosi.
 
-**HOPSiin:** Kirjoita siihen vain se, minkä haluat jakaa. Kirjoita HOPSin osaan *opiskelusuunnitelma* yksi opiskelutapa, jonka aiot kokeilla. Sivuston neuvo: jos haluat tukea, kirjoita se omaan muistioosi tai kerro siitä ohjaajalle henkilökohtaisesti. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
+**HOPSiin:** Kirjoita HOPSin osaan *opiskelusuunnitelma* yksi opiskelutapa, jonka aiot kokeilla. Sivuston neuvo: jos haluat tukea, kirjoita se omaan muistioosi tai kerro siitä ohjaajalle henkilökohtaisesti. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
@@ -220,12 +212,10 @@ Jos jokin kohta on vielä "En vielä", voit tuoda sen keskusteluun ohjaajan kans
 - Valitse tai pyydä opiskelijoita tuomaan lyhyet tekstikappaleet omista opintojaksoistaan. Varaa varakappaleet.
 - Tarkista koulun tukimuodot ja se, kenelle opiskelija voi kääntyä (esimerkki).
 - Kokeile itse Tehtävää 1 ja mittaa ajat. Se vie rauhallisesti noin 20 minuuttia.
-- Tulosta halutessasi työtavat ja tapauskortit. Tehtävät onnistuvat myös tyhjällä paperilla.
+- Tulosta halutessasi työtavat ja tapauskortit.
 - Varaa nimettömiä lappuja ja ajastin tai kello.
 
 ### Avoimet kysymykset
-
-Kysymykset on tarkoitettu ensin yksityiseen kirjoittamiseen omaan muistioon. Ryhmässä puhutaan yleisesti tai kuvitteellisista tapauksista. Kukaan ei vastaa henkilökohtaiseen kysymykseen ääneen.
 
 - Millaisessa tilanteessa ihminen oppii jotain, minkä muistaa vielä pitkään?
 - Mikä tässä työtavassa auttoi ja mikä ei?
@@ -263,8 +253,6 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö kannattaisi tehdä muistiinpanoj
 
 **Ilman laitetta:** Tehtävät toimivat yksin paperilla. Kellon ja oppikirjan tai omien muistiinpanojesi avulla myös Tehtävä 1 onnistuu.
 
-**Tuki:** Oppimisen tuen säännöt uudistuivat. Katso Opetushallituksen sivu [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja koulusi oma käytäntö (esimerkki).
-
 ## Milloin opinto-ohjaajalle
 
 Varaa aika opinto-ohjaajalle, jos
@@ -279,9 +267,7 @@ Varaa aika opinto-ohjaajalle, jos
 
 **Apua saat myös:**
 
-- [Etsi lähin Ohjaamo (luettu 21.11.2026)](https://ohjaamot.fi/lahin-ohjaamo): ohjausta nuorille opiskeluun, työhön ja arkeen.
 - [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia esimerkiksi opiskeluun liittyvään uupumukseen.
-- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollon palveluista koulussa.
 
 ## Lähteet
 

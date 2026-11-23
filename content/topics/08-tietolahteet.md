@@ -43,15 +43,11 @@ official_links:
     url: "https://ohjaamot.fi/lahin-ohjaamo"
     publisher: "Ohjaamot"
     read: 2026-11-21
-  - title: "Oppimisen tuen uudistus"
-    url: "https://www.oph.fi/fi/oppimisen-tuen-uudistus"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
   - title: "Studyinfo (Opintopolun englanninkielinen osa)"
     url: "https://opintopolku.fi/konfo/en/"
     publisher: "Opetushallitus (Opintopolku)"
     read: 2026-11-21
-yearly_facts: [joint_application_windows, todistusvalinta_tables, employment_services, guidance_services, learning_support_rules]
+yearly_facts: [joint_application_windows, todistusvalinta_tables, employment_services, guidance_services]
 school_adapts:
   - "Koulun omat ohjauspalvelut ja ajanvaraus (opinto-ohjaaja, ryhmänohjaaja, erityisopettaja, opiskeluhuolto)"
   - "Millä laitteilla ja missä tiloissa opiskelijat voivat käyttää verkkopalveluja koulupäivän aikana"
@@ -171,7 +167,7 @@ Kuvitteellinen verkkokeskustelu (kaikki viestit ja henkilöt ovat keksittyjä):
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mistä olet tähän asti saanut tietoa jatko-opinnoista ja työelämästä? Mihin lähteeseen luotat eniten, ja miksi?
 2. Miten toimit tavallisesti verkkokeskusteluissa, joissa puhutaan koulutuksista tai töistä? Mitä haluaisit tehdä toisin?
@@ -185,7 +181,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan tarkistaa verkkokeskustelun väitteen ja kirjoittaa vastauksen, joka täyttää sivuston oman tarkistuslistan.
 - Osaan kirjata jatko-opinto- ja urasuunnitelmaani, mistä etsin tietoa seuraavaksi.
 
-**Pelaa aiheesta visual novel:** [Tietolähteet ja ohjauspalvelut](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch08-tietolahteet). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Tietolähteet ja ohjauspalvelut](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch08-tietolahteet).
 
 ## Itseopiskelun askel
 
@@ -200,7 +196,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (7 min).
 4. **Seuraava askel:** aihe 09 *Valinnat ja jatko-opintopolut*.
 
-**HOPSiin:** Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* kolme lähdettä tai palvelua, joita aiot käyttää, yksi tiedonhakutaito, jota harjoittelet, ja yksi asia, jonka haluat selvittää seuraavaksi. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki). Kirjaa HOPSiin vain se, minkä haluat koulun tietävän. Terveyteen, perheeseen ja tuen tarpeeseen liittyvät ajatukset voit pitää omassa muistiossasi.
+**HOPSiin:** Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* kolme lähdettä tai palvelua, joita aiot käyttää, yksi tiedonhakutaito, jota harjoittelet, ja yksi asia, jonka haluat selvittää seuraavaksi. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
@@ -243,13 +239,11 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 
 - Avaa Opintopolku, Yliopistovalinnat.fi, Ammattikorkeakouluun.fi ja Työmarkkinatori ja kokeile niitä itse.
 - Tarkista, ovatko koulun laitteet ja verkko käytettävissä tunnilla (esimerkki).
-- Tulosta palvelulista ja kuvitteellinen verkkokeskustelu niille, jotka eivät käytä laitetta. Opiskelija voi tehdä tehtävät myös pelkällä paperilla.
+- Tulosta palvelulista ja kuvitteellinen verkkokeskustelu niille, jotka eivät käytä laitetta.
 - Selvitä koulun ohjauspalvelut ja ajanvaraustapa (esimerkki).
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 
 ### Avoimet kysymykset
-
-Kysymykset sopivat yksityiseen kirjoittamiseen, vapaaehtoiseen pariin tai yleiseen keskusteluun. Kukaan ei vastaa ääneen omasta tilanteestaan. Ryhmässä puhutaan yleisesti ("ihmiset", "joku") tai kuvitteellisista tapauksista.
 
 - Mistä tiedosta ihmiset tekevät päätöksiä opinnoistaan?
 - Mikä saa ihmisen luottamaan lähteeseen? Mikä saa epäilemään?
@@ -290,8 +284,6 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö Opintopolku ole paras lähde?" K
 **Lukeminen, keskittyminen ja jännitys:** Anna palvelulista ja neljä arviointikysymystä yhdellä sivulla. Tutustukaa yhteen palveluun kerrallaan.
 
 **Ilman laitetta:** Kaikki tehtävät onnistuvat yksin pelkällä paperilla ja kynällä: kysymyslista, muistista tehty lähdevertailu ja keksitty keskustelu. Kun saat laitteen tai ohjausajan, tarkista vastaukset. Tulosteita ei tarvita.
-
-**Tuki:** Oppimisen tuen säännöt uudistuivat. Katso Opetushallituksen sivu [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja koulusi oma käytäntö (esimerkki).
 
 ## Milloin opinto-ohjaajalle
 

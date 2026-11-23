@@ -31,19 +31,11 @@ official_links:
     url: "https://www.oph.fi/fi/tilastot-ja-julkaisut/julkaisut/lukion-opetussuunnitelman-perusteet-2019"
     publisher: "Opetushallitus"
     read: 2026-11-21
-  - title: "Opiskeluhuolto"
-    url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
   - title: "Oppimisen tuen uudistus"
     url: "https://www.oph.fi/fi/oppimisen-tuen-uudistus"
     publisher: "Opetushallitus"
     read: 2026-11-21
-  - title: "Etsi lähin Ohjaamo"
-    url: "https://ohjaamot.fi/lahin-ohjaamo"
-    publisher: "Ohjaamot"
-    read: 2026-11-21
-yearly_facts: [curriculum_version, learning_support_rules, guidance_services]
+yearly_facts: [curriculum_version]
 school_adapts:
   - "Jaksojärjestelmä: montako jaksoa lukuvuodessa on ja miten opintojaksot sijoittuvat niihin (esimerkki)"
   - "Kurssitarjotin ja opintojaksojen valintojen aikataulu (esimerkki)"
@@ -146,7 +138,7 @@ Sivuston lähtökohta: kaikki reitit lukion jälkeen ovat samanarvoisia. Ammatti
 **Tarvitset:** tämän sivun tapaukset (tai tapauskortit, jos ohjaaja jakaa ne), oman muistion
 **Ilman laitetta:** Keksi paperille oma kuvitteellinen lukion aloittaja ja kirjoita hänestä yksi lause. Tee sitten vaiheet 2–4 hänelle. Voit käyttää myös sivun tapauksia.
 
-Tapaukset (kaikki henkilöt ovat kuvitteellisia):
+Tapaukset:
 
 - **Mira** aloittaa lukiossa ja haluaa tehdä paljon opintoja heti alussa. Hän miettii, mitä ehtii.
 - **Alex** on muuttanut uudelle paikkakunnalle. Hän ei tunne vielä ketään ja miettii, keneltä voi kysyä apua.
@@ -159,7 +151,7 @@ Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mikä lukion rakenteessa tai arjessa tuntuu nyt selvältä ja mikä vielä epäselvältä?
 2. Mitä toivot lukiolta alkuvaiheessa? Mikä auttaisi sinua pääsemään siihen?
@@ -174,7 +166,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 
 Jos jokin kohta on vielä "En vielä", voit ottaa sen puheeksi seuraavassa ohjauskeskustelussa.
 
-**Pelaa aiheesta visual novel:** [Lukio alkaa](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch01-lukio-alkaa). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Lukio alkaa](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch01-lukio-alkaa).
 
 ## Itseopiskelun askel
 
@@ -189,7 +181,7 @@ Jos jokin kohta on vielä "En vielä", voit ottaa sen puheeksi seuraavassa ohjau
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** aihe 02 *Opiskelutaidot ja oppimaan oppiminen*. Opintojaksojen valintoihin pääset tarkemmin aiheessa 06 *Henkilökohtainen opintosuunnitelma ja kurssivalinnat*.
 
-**HOPSiin:** Kirjoita siihen vain se, minkä haluat jakaa. Tuen tarpeet, terveys ja kotiasiat voit pitää omassa muistiossasi. Kirjoita HOPSin osaan *opiskelusuunnitelma* kolme tärkeintä asiaasi lukion alussa (esimerkiksi opintoihin liittyvät) ja yksi kysymys, jonka haluat kysyä ohjaajalta. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
+**HOPSiin:** Kirjoita HOPSin osaan *opiskelusuunnitelma* kolme tärkeintä asiaasi lukion alussa (esimerkiksi opintoihin liittyvät) ja yksi kysymys, jonka haluat kysyä ohjaajalta. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
@@ -233,13 +225,11 @@ Jos jokin kohta on vielä "En vielä", voit ottaa sen puheeksi seuraavassa ohjau
 
 - Tutustu itse opetussuunnitelman perusteisiin ja koulusi opinto-oppaaseen ja tarkista, mitä sanoja käytät.
 - Selvitä koulun jaksot, kurssitarjotin, viestikanava ja ohjausajan varaaminen (esimerkki).
-- Tulosta halutessasi opinto-oppaan sivut ja tapauskortit. Tehtävät onnistuvat myös tyhjällä paperilla.
+- Tulosta halutessasi opinto-oppaan sivut ja tapauskortit.
 - Pidä kartta koulun tukihenkilöistä näkyvillä: ryhmänohjaaja, opinto-ohjaaja, erityisopettaja, opiskeluhuolto.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 
 ### Avoimet kysymykset
-
-Kysymykset on tarkoitettu ensin yksityiseen kirjoittamiseen omaan muistioon. Pari- tai ryhmäkeskusteluun nostetaan vain ne asiat, jotka opiskelija itse haluaa jakaa. Kukaan ei vastaa henkilökohtaiseen kysymykseen ääneen.
 
 - Mikä lukion rakenteessa on yllättävää?
 - Mikä auttaisi lukion alkua tuntumaan hallittavalta?
@@ -277,8 +267,6 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö olisi viisasta ottaa vähemmän 
 
 **Ilman laitetta:** Kaikki tehtävät toimivat paperilla yksin: kolmen laatikon kartta ja lappulista. Kolmanteen tehtävään keksit oman kuvitteellisen tapauksen.
 
-**Tuki:** Oppimisen tuen säännöt uudistuivat. Katso Opetushallituksen sivu [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja koulusi oma käytäntö (esimerkki).
-
 ## Milloin opinto-ohjaajalle
 
 Varaa aika opinto-ohjaajalle, jos
@@ -290,11 +278,6 @@ Varaa aika opinto-ohjaajalle, jos
 - olet väsynyt, huolestunut tai alakuloinen suurimman osan päivistä yli kaksi viikkoa
 - olet vaihtanut koulua tai paikkakuntaa ja lukion käytännöt ovat edelleen vieraita
 - mietit lukion jälkeistä aikaa ja se huolestuttaa sinua
-
-**Apua saat myös:**
-
-- [Etsi lähin Ohjaamo (luettu 21.11.2026)](https://ohjaamot.fi/lahin-ohjaamo): ohjausta nuorille opiskeluun, työhön ja arkeen.
-- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollon palveluista koulussa.
 
 ## Lähteet
 

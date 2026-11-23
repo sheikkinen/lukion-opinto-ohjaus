@@ -31,19 +31,11 @@ official_links:
     url: "https://tyosuojelu.fi/tyosuhde/nuori-tyontekija"
     publisher: "Työsuojeluhallinto"
     read: 2026-11-21
-  - title: "Oppimisen tuen uudistus"
-    url: "https://www.oph.fi/fi/oppimisen-tuen-uudistus"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
-  - title: "Etsi lähin Ohjaamo"
-    url: "https://ohjaamot.fi/lahin-ohjaamo"
-    publisher: "Ohjaamot"
-    read: 2026-11-23
   - title: "Mielenterveystalo: nuoret"
     url: "https://www.mielenterveystalo.fi/fi/nuoret"
     publisher: "Mielenterveystalo.fi"
     read: 2026-11-23
-yearly_facts: [employment_services, learning_support_rules, guidance_services]
+yearly_facts: [employment_services]
 school_adapts:
   - "Onko koulussa työelämään tutustumisen jakso, vierailuja tai yritysyhteistyötä (esimerkki), ja miten niistä sovitaan"
   - "Missä vaiheessa työnhakuharjoitus tehdään (esimerkki: toisen vuoden kevät, ennen kesää)"
@@ -150,7 +142,7 @@ Hakemus jää omaksi luonnoksesi. Sitä ei lähetetä minnekään.
 **Tarvitset:** tämän sivun tekstin, puhelimen tai tietokoneen
 **Ilman laitetta:** Kopioi tapaus ensin paperille ja kirjoita kysymykset ja vinkit sen viereen. Voit myös keksiä paperille oman kuvitteellisen hakijan. Käytä apuna osion *Oikeudet työssä* tekstiä.
 
-Tapaukset (kaikki henkilöt ovat kuvitteellisia):
+Tapaukset:
 
 - **Ilona** haluaa kesätyön, mutta ei ole ollut koskaan töissä. Hän on ollut mukana järjestämässä koulun tapahtumaa.
 - **Eemil** miettii, hakisiko harjoitteluun vai lähtisikö lukion jälkeen kansanopistoon. Hän haluaisi ensin kokeilla työtä.
@@ -163,7 +155,7 @@ Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mitä työelämätaitoja olet jo harjoitellut, ja missä? Mitä haluaisit harjoitella lisää?
 2. Mikä työnhaussa tuntuu helpolta ja mikä vaikealta? Mistä voisit saada siihen tukea?
@@ -177,7 +169,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan tunnistaa erilaisia tapoja päästä töihin, esimerkiksi kesätyö, osa-aikatyö, harjoittelu ja yrittäjyys.
 - Osaan etsiä työnhakuun ja työelämään tutustumiseen apua virallisilta sivuilta.
 
-**Pelaa aiheesta visual novel:** [Työelämätaidot ja työnhaku](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch04-tyonhaku). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Työelämätaidot ja työnhaku](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch04-tyonhaku).
 
 ## Itseopiskelun askel
 
@@ -192,7 +184,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** aihe 14 *Koulutusväylät ja muut reitit*.
 
-**HOPSiin:** Sivuston ohje: kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* vain se, minkä haluat jakaa: esimerkiksi kolme työelämätaitoa, joita haluat harjoitella, ja yksi tapa hankkia työelämäkokemusta. Hakemusluonnos, työpaikan ongelmat, terveys ja perheasiat jäävät omaan muistioosi. Merkitse, että suunnitelma on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
+**HOPSiin:** Sivuston ohje: kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* vain se, minkä haluat jakaa: esimerkiksi kolme työelämätaitoa, joita haluat harjoitella, ja yksi tapa hankkia työelämäkokemusta. Merkitse, että suunnitelma on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
@@ -239,8 +231,6 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 
 ### Avoimet kysymykset
 
-Kysymykset ovat yksityiseen kirjoittamiseen tai vapaaehtoiseen parikeskusteluun. Kukaan ei vastaa omasta tilanteestaan ryhmälle; ryhmässä puhutaan yleisesti tai kuvitteellisista tapauksista.
-
 - Mitä taitoja tarvitaan melkein kaikessa työssä?
 - Mistä työpaikan voi löytää, jos ilmoitusta ei ole?
 - Mitä hakemuksessa voi kertoa, jos ei ole ollut töissä?
@@ -281,8 +271,6 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö ole parempi hakea ensin kesätö
 
 **Ilman laitetta:** Kuvitteellinen ilmoitus, käsin kirjoitettu hakemus ja tapaukset ovat tällä sivulla, joten ne toimivat paperilla myös yksin ja ilman laitetta.
 
-**Tuki:** Oppimisen tuesta kerrotaan lisää Opetushallituksen sivulla [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus). Kysy koulusi omasta käytännöstä opinto-ohjaajalta (esimerkki).
-
 ## Milloin opinto-ohjaajalle
 
 Varaa aika opinto-ohjaajalle, jos
@@ -297,7 +285,6 @@ Varaa aika opinto-ohjaajalle, jos
 
 **Apua saat myös:**
 
-- [Etsi lähin Ohjaamo (luettu 23.11.2026)](https://ohjaamot.fi/lahin-ohjaamo): ohjausta alle 30-vuotiaille opiskeluun, työhön ja arkeen.
 - [Työmarkkinatori (luettu 21.11.2026)](https://tyomarkkinatori.fi/): avoimet työpaikat ja työnhaun neuvot.
 - [Työsuojeluhallinto: nuori työntekijä (luettu 21.11.2026)](https://tyosuojelu.fi/tyosuhde/nuori-tyontekija): tietoa nuoren työstä ja palkasta sekä työsuojeluviranomaisen neuvonnasta.
 - [Mielenterveystalo: nuoret (luettu 23.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia esimerkiksi jännitykseen.

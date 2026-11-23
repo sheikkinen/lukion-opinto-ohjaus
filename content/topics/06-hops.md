@@ -35,19 +35,11 @@ official_links:
     url: "https://tyomarkkinatori.fi/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/ammatinvalinta-ja-urasuunnittelu"
     publisher: "KEHA-keskus (Työmarkkinatori)"
     read: 2026-11-21
-  - title: "Oppimisen tuen uudistus"
-    url: "https://www.oph.fi/fi/oppimisen-tuen-uudistus"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
   - title: "Etsi lähin Ohjaamo"
     url: "https://ohjaamot.fi/lahin-ohjaamo"
     publisher: "Ohjaamot"
     read: 2026-11-21
-  - title: "Opiskeluhuolto"
-    url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
-yearly_facts: [curriculum_version, guidance_services, learning_support_rules]
+yearly_facts: [curriculum_version]
 school_adapts:
   - "Kurssitarjotin: mitä opintojaksoja tarjotaan ja missä järjestyksessä (esimerkki)"
   - "Opintojaksovalintojen aikataulu ja tapa, esimerkiksi Wilma-lomake tai sähköinen HOPS (esimerkki)"
@@ -153,7 +145,7 @@ Jos ehdit, kirjoita muistioosi, milloin päivität luonnosta (esimerkki: koulusi
 **Tarvitset:** tämän sivun tapaukset, oman muistion
 **Ilman laitetta:** Keksi paperille oma kuvitteellinen opiskelija ja kirjoita hänelle kolme kiinnostavaa opintojaksoa. Tee sitten tehtävän vaiheet hänelle. Voit käyttää myös sivun tapauksia tai tehdä tehtävän keskustellen parin kanssa.
 
-Tapaukset (kaikki henkilöt ovat kuvitteellisia):
+Tapaukset:
 
 - **Olli** haluaa valita kaikki mahdolliset opintojaksot, koska ei tiedä, mitä tulevaisuudessa tarvitsee.
 - **Sami** suunnittelee lukion jälkeen ammatillista koulutusta tai työtä ja miettii, mitkä valinnat pitävät vaihtoehdot auki.
@@ -167,7 +159,7 @@ Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mikä suunnitelmassasi tuntuu varmalta ja mikä vielä epävarmalta?
 2. Mitkä asiat ovat sinulle tärkeimpiä valintoja tehdessäsi? Mikä voisi muuttaa niitä?
@@ -183,7 +175,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 
 Jos jokin kohta on vielä "En vielä", voit kirjata sen HOPSiin kysymykseksi ohjaajalle.
 
-**Pelaa aiheesta visual novel:** [HOPS ja kurssivalinnat](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch06-hops). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [HOPS ja kurssivalinnat](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch06-hops).
 
 ## Itseopiskelun askel
 
@@ -198,7 +190,7 @@ Jos jokin kohta on vielä "En vielä", voit kirjata sen HOPSiin kysymykseksi ohj
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** aihe 07 *Ylioppilastutkinto ja alustava yo-suunnitelma*. Siellä lisäät HOPSiin toisen osan.
 
-**HOPSiin:** Kirjoita siihen vain se, minkä haluat jakaa. Terveys-, perhe- ja talousasiat voit pitää omassa muistiossasi. Kirjoita HOPSin osaan *opiskelusuunnitelma* alustava luonnos lähimpien jaksojen opintojaksoistasi ja kolme tärkeintä valintaperustetta. Merkitse, että suunnitelma on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
+**HOPSiin:** Kirjoita HOPSin osaan *opiskelusuunnitelma* alustava luonnos lähimpien jaksojen opintojaksoistasi ja kolme tärkeintä valintaperustetta. Merkitse, että suunnitelma on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
@@ -241,13 +233,11 @@ Jos jokin kohta on vielä "En vielä", voit kirjata sen HOPSiin kysymykseksi ohj
 ### Valmistelu
 
 - Selvitä koulun kurssitarjotin, valintojen aikataulu ja HOPS-käytäntö: kuka näkee mitä merkintöjä (esimerkki).
-- Pidä kurssitarjotin tai opinto-opas esillä sähköisenä ja halutessasi tulostettuna. Tehtävät onnistuvat myös tyhjällä paperilla.
+- Pidä kurssitarjotin tai opinto-opas esillä sähköisenä ja halutessasi tulostettuna.
 - Varaa opetussuunnitelman perusteiden kohta esille (luku Opetussuunnitelman laatiminen ja OP1.s1), jotta voit näyttää, mistä HOPS on peräisin.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 
 ### Avoimet kysymykset
-
-Kysymykset on tarkoitettu ensin yksityiseen kirjoittamiseen omaan muistioon. Ryhmässä puhutaan yleisesti tai kuvitteellisista tapauksista. Kukaan ei vastaa henkilökohtaiseen kysymykseen ääneen.
 
 - Mitä ihminen voi toivoa oppivansa tai kokevansa lukion aikana?
 - Millä perusteilla ihmiset valitsevat opintojaksoja ja mitä kukin peruste mahdollistaa tai rajaa?
@@ -285,8 +275,6 @@ Vältä johdattelevia kysymyksiä, kuten "Etkö ottaisi pitkää matematiikkaa v
 
 **Ilman laitetta:** Kaikki tehtävät toimivat yksin paperilla: jaksotaulukko ja valintalaput.
 
-**Tuki:** Oppimisen tuen säännöt uudistuivat. Katso Opetushallituksen sivu [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja koulusi oma käytäntö (esimerkki).
-
 ## Milloin opinto-ohjaajalle
 
 Varaa aika opinto-ohjaajalle, jos
@@ -301,8 +289,6 @@ Varaa aika opinto-ohjaajalle, jos
 
 **Apua saat myös:**
 
-- [Etsi lähin Ohjaamo (luettu 21.11.2026)](https://ohjaamot.fi/lahin-ohjaamo): ohjausta nuorille opiskeluun, työhön ja arkeen.
-- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollon palveluista.
 - [Ammatinvalinta ja urasuunnittelu (luettu 21.11.2026)](https://tyomarkkinatori.fi/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/ammatinvalinta-ja-urasuunnittelu): tietoa ammatinvalinnasta ja urasuunnittelusta.
 
 ## Lähteet

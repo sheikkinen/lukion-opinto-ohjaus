@@ -39,7 +39,7 @@ official_links:
     url: "https://ohjaamot.fi/lahin-ohjaamo"
     publisher: "Ohjaamot"
     read: 2026-11-21
-yearly_facts: [learning_support_rules, guidance_services]
+yearly_facts: []
 school_adapts:
   - "Koulun opiskeluhuoltopalvelut ja niiden tavoittaminen: kuraattori, psykologi, terveydenhoitaja, lääkäri (esimerkki)"
   - "Koulun tapa kutsua ja ohjata opiskeluhuoltoon sekä se, miten asioihin voi ottaa yhteyttä ilman ajanvarausta"
@@ -143,7 +143,7 @@ Jos ehdit, kirjoita omin sanoin yksi lause siitä, mitä hyvinvointi ja opiskelu
 **Tarvitset:** tämän sivun tapaukset, oman muistion
 **Ilman laitetta:** Keksi paperille oma kuvitteellinen opiskelija ja kirjoita hänen jaksamisestaan yksi lause. Tee sitten tehtävän vaiheet hänelle. Voit käyttää myös sivun tapauksia tai tehdä tehtävän keskustellen parin kanssa.
 
-Tapaukset (kaikki henkilöt ovat kuvitteellisia):
+Tapaukset:
 
 - **Veeti** nukkuu huonosti ennen kokeita. Hän ei halua vaivata ketään.
 - **Aino** on aina ahkera ja harrastaa paljon. Viime viikkoina mikään ei ole tuntunut kiinnostavalta, ja opinnot ovat jääneet jälkeen.
@@ -156,7 +156,7 @@ Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mikä auttaa sinua palautumaan? Miten voisit tehdä sitä enemmän?
 2. Mistä huomaat, että voimasi alkavat loppua? Mitä tekisit silloin?
@@ -171,7 +171,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 
 Jos jokin kohta on vielä "En vielä", voit palata siihen ohjauskeskustelussa.
 
-**Pelaa aiheesta visual novel:** [Hyvinvointi ja opiskelukyky](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch04-hyvinvointi). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Hyvinvointi ja opiskelukyky](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch04-hyvinvointi).
 
 ## Itseopiskelun askel
 
@@ -186,7 +186,7 @@ Jos jokin kohta on vielä "En vielä", voit palata siihen ohjauskeskustelussa.
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** aihe 05 *Itsetuntemus, vahvuudet ja arvot*. Siellä tutkit, mikä sinulle on tärkeää.
 
-**HOPSiin:** Kirjoita siihen vain se, minkä haluat jakaa. Kirjoita HOPSin osaan *opiskelusuunnitelma* yksi asia, jolla tuet jaksamistasi, ja se, kenen puoleen voit kääntyä. Sivuston neuvo: pidä terveystiedot ja muut arat asiat omassa muistiossasi. Koulusi kertoo, mitä HOPSiin kirjataan (esimerkki). Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
+**HOPSiin:** Kirjoita HOPSin osaan *opiskelusuunnitelma* yksi asia, jolla tuet jaksamistasi, ja se, kenen puoleen voit kääntyä. Koulusi kertoo, mitä HOPSiin kirjataan (esimerkki). Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
@@ -235,8 +235,6 @@ Jos jokin kohta on vielä "En vielä", voit palata siihen ohjauskeskustelussa.
 
 ### Avoimet kysymykset
 
-Kysymykset on tarkoitettu ensin yksityiseen kirjoittamiseen omaan muistioon. Ryhmässä puhutaan yleisesti tai kuvitteellisista tapauksista. Kukaan ei vastaa henkilökohtaiseen kysymykseen ääneen.
-
 - Mitkä asiat auttavat ihmistä palautumaan?
 - Mistä ihminen voi tunnistaa, että kuorma alkaa olla liian suuri?
 - Mikä voisi helpottaa avun pyytämistä?
@@ -273,8 +271,6 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö sinun pitäisi nukkua enemmän?"
 
 **Ilman laitetta:** Kartta, apupaikkojen lista ja tapaukset toimivat yksin paperilla ja kynällä.
 
-**Tuki:** Oppimisen tuen säännöt uudistuivat. Katso Opetushallituksen sivu [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja koulusi oma käytäntö (esimerkki).
-
 ## Milloin opinto-ohjaajalle
 
 Varaa aika opinto-ohjaajalle tai opiskeluhuoltoon, jos
@@ -290,7 +286,6 @@ Varaa aika opinto-ohjaajalle tai opiskeluhuoltoon, jos
 **Apua saat myös:**
 
 - [Opiskeluhuolto (luettu 23.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollon palveluista.
-- [Etsi lähin Ohjaamo (luettu 21.11.2026)](https://ohjaamot.fi/lahin-ohjaamo): ohjausta nuorille opiskeluun, työhön ja arkeen.
 - [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia nuorille.
 
 ## Lähteet

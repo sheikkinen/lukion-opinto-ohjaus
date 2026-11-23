@@ -47,14 +47,6 @@ official_links:
     url: "https://vipunen.fi/"
     publisher: "Opetushallinnon tilastopalvelu Vipunen"
     read: 2026-11-21
-  - title: "Oppimisen tuen uudistus"
-    url: "https://www.oph.fi/fi/oppimisen-tuen-uudistus"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
-  - title: "Etsi lähin Ohjaamo"
-    url: "https://ohjaamot.fi/lahin-ohjaamo"
-    publisher: "Ohjaamot"
-    read: 2026-11-23
   - title: "Mielenterveystalo: nuoret"
     url: "https://www.mielenterveystalo.fi/fi/nuoret"
     publisher: "Mielenterveystalo.fi"
@@ -67,7 +59,7 @@ official_links:
     url: "https://kansanopistot.fi/hakeminen"
     publisher: "Suomen Kansanopistoyhdistys"
     read: 2026-11-23
-yearly_facts: [joint_application_windows, admission_results_dates, places_and_quota, todistusvalinta_tables, cut_off_points, entrance_exam_dates, guidance_services, learning_support_rules]
+yearly_facts: [joint_application_windows, admission_results_dates, places_and_quota, todistusvalinta_tables, cut_off_points, entrance_exam_dates, guidance_services]
 school_adapts:
   - "Koulun hakuinfo, hakuun liittyvät ohjaustunnit ja hakuklinikka (esimerkki), ja milloin ne järjestetään"
   - "Missä vaiheessa hakusuunnitelma tehdään (esimerkki: kolmannen vuoden syksy, ennen kevään hakuja)"
@@ -173,7 +165,7 @@ Suunnitelma saa muuttua. Riittää, että teet ensimmäisen version.
 **Tarvitset:** tämän sivun tekstin, puhelimen tai tietokoneen
 **Ilman laitetta:** Kopioi tapaus ensin paperille ja kirjoita kysymykset sen viereen. Voit myös keksiä paperille oman kuvitteellisen tapauksen.
 
-Tapaukset (kaikki henkilöt ovat kuvitteellisia):
+Tapaukset:
 
 - **Eemil** haluaa hakea ammattikorkeakouluun. Hän on kirjoittanut yo-kokeet, mutta ei tiedä, miten todistusvalinta toimii.
 - **Ilona** on kiinnostunut ammatillisesta koulutuksesta lukion jälkeen. Hän ei tiedä, mistä hakemus tehdään.
@@ -186,7 +178,7 @@ Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mikä hakemisessa tuntuu nyt selvältä ja mikä vielä epäselvältä?
 2. Mitä asioita pidät tärkeinä valitessasi koulutusta: sisältö, paikka, arki, vai jokin muu? Mikä voisi muuttua?
@@ -200,7 +192,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan tehdä oman hakusuunnitelman ensimmäisen version, jossa on myös varasuunnitelma.
 - Osaan tarkistaa Opintopolusta ajankohtaiset hakuasiat ja tiedän, mistä saan apua hakuun.
 
-**Pelaa aiheesta visual novel:** [Haku ja valinta](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch06-haku-ja-valinta). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Haku ja valinta](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch06-haku-ja-valinta).
 
 ## Itseopiskelun askel
 
@@ -215,7 +207,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** aihe 16 *Kansainvälisyys ja monikulttuurisuus* tai aihe 18 *Jatko-opinto- ja urasuunnitelma*.
 
-**HOPSiin:** Sivuston ohje: kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* vain se, minkä haluat jakaa: esimerkiksi koulutukset, valintatavat, asiat jotka tarkistat, ja varasuunnitelma. Arvosanat, terveys- ja perheasiat jäävät omaan muistioosi. Merkitse, että suunnitelma on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
+**HOPSiin:** Sivuston ohje: kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* vain se, minkä haluat jakaa: esimerkiksi koulutukset, valintatavat, asiat jotka tarkistat, ja varasuunnitelma. Merkitse, että suunnitelma on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
@@ -262,8 +254,6 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 
 ### Avoimet kysymykset
 
-Kysymykset ovat yksityiseen kirjoittamiseen tai vapaaehtoiseen parikeskusteluun. Kukaan ei vastaa omista suunnitelmistaan ryhmälle; ryhmässä puhutaan yleisesti tai kuvitteellisista tapauksista.
-
 - Mikä hakemisessa voi yllättää?
 - Mistä tietää, että hakuaika tai pääsyvaatimus on ajan tasalla?
 - Mitä eroja on todistusvalinnalla ja valintakokeella, ja kenelle kumpi voisi sopia?
@@ -303,7 +293,7 @@ Vältä johdattelevia kysymyksiä, kuten "Etkö hakisi useampaan paikkaan varmuu
 
 **Ilman laitetta:** Paperiversio, käsin tehty taulukko ja tapaukset toimivat paperilla myös yksin ilman laitetta. Arvaukset tarkistetaan myöhemmin Opintopolusta tai ohjaajan kanssa.
 
-**Tuki:** Oppimisen tuesta kerrotaan lisää Opetushallituksen sivulla [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus). Kysy koulusi omasta käytännöstä opinto-ohjaajalta (esimerkki). Katso valintakokeen järjestelyt koulutuksen omalta sivulta Opintopolussa tai kysy opinto-ohjaajalta.
+**Tuki:** Katso valintakokeen järjestelyt koulutuksen omalta sivulta Opintopolussa tai kysy opinto-ohjaajalta.
 
 ## Milloin opinto-ohjaajalle
 
@@ -319,7 +309,6 @@ Varaa aika opinto-ohjaajalle, jos
 
 **Apua saat myös:**
 
-- [Etsi lähin Ohjaamo (luettu 23.11.2026)](https://ohjaamot.fi/lahin-ohjaamo): ohjausta alle 30-vuotiaille opiskeluun, työhön ja arkeen.
 - [Opintopolku: neuvonta ja ohjaus (luettu 21.11.2026)](https://opintopolku.fi/konfo/fi/sivu/neuvonta-ja-ohjaus): neuvontapalveluja hakijoille.
 - [Mielenterveystalo: nuoret (luettu 23.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia ja Chillaa-sovellus esimerkiksi jännitykseen ja stressiin.
 

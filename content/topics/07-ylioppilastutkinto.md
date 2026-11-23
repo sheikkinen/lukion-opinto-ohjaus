@@ -69,15 +69,7 @@ official_links:
     url: "https://www.ammattikorkeakouluun.fi/hakijalle/valintatavat/todistusvalinta/"
     publisher: "Ammattikorkeakouluun.fi"
     read: 2026-11-21
-  - title: "Oppimisen tuen uudistus"
-    url: "https://www.oph.fi/fi/oppimisen-tuen-uudistus"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
-  - title: "Etsi lähin Ohjaamo"
-    url: "https://ohjaamot.fi/lahin-ohjaamo"
-    publisher: "Ohjaamot"
-    read: 2026-11-21
-yearly_facts: [ytl_exam_dates, ytl_enrolment_deadline, ytl_fees, todistusvalinta_tables, learning_support_rules, guidance_services]
+yearly_facts: [ytl_exam_dates, ytl_enrolment_deadline, ytl_fees, todistusvalinta_tables]
 school_adapts:
   - "Koulun oma ilmoittautumisen takaraja ja tapa (esimerkki: Wilma-lomake)"
   - "Missä vaiheessa yo-suunnitelma tehdään (esimerkki: ensimmäisen vuoden kevät) ja milloin sitä päivitetään"
@@ -192,7 +184,7 @@ Työkalun tulos on suuntaa antava. Tarkista säännöt aina YTL:n sivulta Tutkin
 **Tarvitset:** tapauskortit tai tämän sivun tekstin, puhelimen tai tietokoneen
 **Ilman laitetta:** Keksi paperille oma kuvitteellinen opiskelija. Kirjoita kolme asiaa, jotka voisivat vaikuttaa hänen koevalintoihinsa, ja kaksi kysymystä, jotka hän voisi kysyä opinto-ohjaajalta. Merkitse, mitkä asiat pitäisi tarkistaa viralliselta sivulta.
 
-Tapaukset (kaikki henkilöt ovat kuvitteellisia):
+Tapaukset:
 
 - **Alex** pitää matematiikasta ja kemiasta, mutta ei tiedä, mille alalle haluaa.
 - **Sanni** haluaa lukion jälkeen ammatilliseen koulutukseen tai välivuodeksi kansanopistoon.
@@ -205,7 +197,7 @@ Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mikä yo-tutkinnossa tuntuu nyt selvältä ja mikä vielä epäselvältä?
 2. Mitkä asiat ovat sinulle tärkeimpiä koevalinnoissa juuri nyt? Mikä voisi muuttaa niitä seuraavan vuoden aikana?
@@ -219,7 +211,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan kirjata alustavan yo-suunnitelman HOPSiini ja tiedän, että saan päivittää sitä.
 - Osaan tarkistaa ajankohtaiset päivät ja maksut virallisilta sivuilta.
 
-**Pelaa aiheesta visual novel:** [Ylioppilastutkinto ja yo-suunnitelma](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch07-ylioppilastutkinto). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Ylioppilastutkinto ja yo-suunnitelma](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch07-ylioppilastutkinto).
 
 ## Itseopiskelun askel
 
@@ -236,7 +228,7 @@ kysymyksen opinto-ohjaajalle.
 4. **Seuraava askel:** aihe 08 *Tietolähteet ja ohjauspalvelut*. Kun olet käynyt lisää opintoja, päivität suunnitelman aiheessa 10 *Suunnitelmien päivitys*.
 
 **HOPSiin:** Kirjoita HOPSin osaan *ylioppilastutkintosuunnitelma* alustava koeyhdistelmäsi, missä järjestyksessä
-aiot kirjoittaa kokeet ja yksi avoin kysymys. Merkitse, että suunnitelma on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki). Kirjaa HOPSiin vain se, minkä haluat koulun tietävän. Terveyteen, perheeseen ja tuen tarpeeseen liittyvät ajatukset voit pitää omassa muistiossasi. Älä kirjoita HOPSiin, miksi tarvitset erityisjärjestelyjä.
+aiot kirjoittaa kokeet ja yksi avoin kysymys. Merkitse, että suunnitelma on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki). Älä kirjoita HOPSiin, miksi tarvitset erityisjärjestelyjä.
 
 ## Tuntisuunnitelma (75 min)
 
@@ -298,8 +290,6 @@ aiot kirjoittaa kokeet ja yksi avoin kysymys. Merkitse, että suunnitelma on alu
 
 ### Avoimet kysymykset
 
-Kysymykset sopivat yksityiseen kirjoittamiseen, vapaaehtoiseen pariin tai yleiseen keskusteluun. Kukaan ei vastaa ääneen omasta tilanteestaan. Ryhmässä puhutaan yleisesti ("ihmiset", "joku") tai kuvitteellisista tapauksista.
-
 - Mikä YTL:n säännöissä yllätti sinut?
 - Millä perusteilla ihmiset yleensä valitsevat kokeensa? Mitkä perusteet vaikuttavat sinusta järkeviltä?
 - Mitä hyötyä ja mitä haittaa hajauttamisesta voi olla?
@@ -342,8 +332,6 @@ toivoisit, että valintasi mahdollistavat?"
 **Lukeminen, keskittyminen ja jännitys:** Anna sääntölista yhdellä sivulla ja tehtävä vaihe kerrallaan. Salli kuulokkeet ja oma rauhallinen paikka. Ensimmäinen suunnitelma on luonnos, ja koetilanteeseen voi hakea erityisjärjestelyjä. [Koetilaisuuden kulku](https://www.ylioppilastutkinto.fi/fi/tutkinnon-suorittaminen/koetilaisuuden-kulku) kertoo, miten koepäivä etenee.
 
 **Ilman laitetta:** Kaikki tehtävät toimivat yksin pelkällä paperilla ja kynällä: viiden laatikon pohja, kolmen sarakkeen aikataulu ja oma keksitty tapaus. Tulosteita ei tarvita.
-
-**Tuki:** Oppimisen tuen säännöt uudistuivat. Katso Opetushallituksen sivu [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja koulusi oma käytäntö (esimerkki).
 
 ## Milloin opinto-ohjaajalle
 

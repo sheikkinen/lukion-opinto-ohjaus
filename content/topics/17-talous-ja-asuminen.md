@@ -31,23 +31,11 @@ official_links:
     url: "https://www.takuusaatio.fi/"
     publisher: "Takuusäätiö"
     read: 2026-11-23
-  - title: "Oppimisen tuen uudistus"
-    url: "https://www.oph.fi/fi/oppimisen-tuen-uudistus"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
-  - title: "Etsi lähin Ohjaamo"
-    url: "https://ohjaamot.fi/lahin-ohjaamo"
-    publisher: "Ohjaamot"
-    read: 2026-11-23
-  - title: "Mielenterveystalo: nuoret"
-    url: "https://www.mielenterveystalo.fi/fi/nuoret"
-    publisher: "Mielenterveystalo.fi"
-    read: 2026-11-23
   - title: "Kela: opintoraha korkeakoulussa"
     url: "https://www.kela.fi/opintoraha-korkeakoulussa"
     publisher: "Kela"
     read: 2026-11-23
-yearly_facts: [kela_student_aid, learning_support_rules]
+yearly_facts: [kela_student_aid]
 school_adapts:
   - "Missä vaiheessa taloutta käsitellään (esimerkki: kolmannen vuoden syksy, ennen jatko-opintohakua)"
   - "Kuka koulussa neuvoo opintotuessa ja toimeentulossa (esimerkki: opinto-ohjaaja, kuraattori)"
@@ -162,7 +150,7 @@ voi puhua myös opinto-ohjaajan kanssa.
 **Tarvitset:** tapauskortit tai tämän sivun tekstin, puhelimen tai tietokoneen
 **Ilman laitetta:** Kopioi tapaus ensin paperille ja kirjaa sen viereen kysymykset, jotka pitäisi tarkistaa. Voit myös keksiä paperille oman kuvitteellisen tapauksen.
 
-Tapaukset (kaikki henkilöt ovat kuvitteellisia):
+Tapaukset:
 
 - **Rami** aloittaa ammatillisen koulutuksen toisella paikkakunnalla ja miettii asumista.
 - **Ilona** menee kansanopistoon välivuodeksi ja haluaa tietää, millaista tukea voi saada.
@@ -176,7 +164,7 @@ Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mikä rahassa tuntuu sinusta nyt selvältä ja mikä epäselvältä?
 2. Mitkä asiat ovat sinulle tärkeitä, kun mietit asumista ja toimeentuloa? Mikä voisi muuttua?
@@ -189,7 +177,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan nimetä opintotuen osat ja etsiä Kelan sivuilta, mitä tukea voisin saada.
 - Osaan verrata asumisvaihtoehtoja, miettiä, miten talous vaikuttaa hyvinvointiini, ja tiedän, mistä saan apua, jos rahat eivät riitä.
 
-**Pelaa aiheesta visual novel:** [Oma talous, opintotuki ja asuminen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch08-talous-ja-asuminen). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Oma talous, opintotuki ja asuminen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch08-talous-ja-asuminen).
 
 ## Itseopiskelun askel
 
@@ -206,9 +194,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
    yhteen.
 
 **HOPSiin:** Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma*, mistä aiot tarkistaa opintotuen ja asumisen
-tiedot, millaisia asumisvaihtoehtoja harkitset ja yksi asia, jonka haluat kysyä.
-Sivuston ohje: kirjaa siihen vain se, minkä haluat koulun tietävän. Tarkat rahasummat, perheen tiedot ja omat velat voivat jäädä omaan
-muistioosi. Jos koulusi käyttää sähköistä HOPSia, tee merkintä koulun ohjeen mukaan (esimerkki).
+tiedot, millaisia asumisvaihtoehtoja harkitset ja yksi asia, jonka haluat kysyä. Jos koulusi käyttää sähköistä HOPSia, tee merkintä koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
@@ -261,8 +247,6 @@ taloudellista tilannettaan, ellei itse halua.
 
 ### Avoimet kysymykset
 
-Kysymykset ovat yksityiseen kirjoittamiseen tai vapaaehtoiseen pariin. Kenenkään ei tarvitse vastata ääneen eikä kertoa omaa tilannettaan. Kysymyksen voi esittää myös kuvitteellisesta henkilöstä.
-
 - Mikä rahassa voi yllättää ihmisen, joka alkaa itse maksaa menojaan?
 - Mitä kuluja on, jotka eivät ensin tule mieleen?
 - Millä perusteilla ihmiset valitsevat, missä asuvat opiskellessaan?
@@ -306,8 +290,6 @@ rahan mahdollistavan opiskelun aikana?"
 
 **Ilman laitetta:** Kaikki kolme tehtävää onnistuvat paperilla ja kynällä. Tehtävien 1 ja 2 paperiversiot on kuvattu tehtävissä. Tarkista luvut myöhemmin kirjastossa tai koulun koneella.
 
-**Tuki:** Lue lisää Opetushallituksen sivulta [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja kysy koulusi omasta käytännöstä (esimerkki).
-
 ## Milloin opinto-ohjaajalle
 
 Varaa aika opinto-ohjaajalle, jos
@@ -324,10 +306,6 @@ Varaa aika opinto-ohjaajalle, jos
 
 - [Takuusäätiö (luettu 23.11.2026)](https://www.takuusaatio.fi/): maksuton Velkalinja ja ohjeita rahan hallintaan ja
   veloista selviämiseen.
-- [Etsi lähin Ohjaamo (luettu 23.11.2026)](https://ohjaamot.fi/lahin-ohjaamo): ohjausta alle 30-vuotiaille
-  opiskeluun, työhön ja arkeen.
-- [Mielenterveystalo: nuoret (luettu 23.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): tietoa ja
-  omahoito-ohjelmia nuorille.
 
 ## Lähteet
 

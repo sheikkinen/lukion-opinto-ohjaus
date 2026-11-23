@@ -82,13 +82,6 @@ facts:
     publisher: KEHA-keskus (Työmarkkinatori)
     read: 2026-11-21
     note: Sivu avattiin (henkilöasiakkaat, avoimet työpaikat, asiointi). Työllisyyspalvelujen siirtoa kunnille ei vahvistettu siitä, joten sääntö ei väitä sitä. Ammattinetti ei auennut (varmennevirhe WebFetchissä, tyhjä sivu Chromessa), joten sitä ei linkitetä.
-  - key: learning_support_rules
-    rule: Lukiolaisella on oikeus oppimisen tukeen ja erityisopetukseen, ja oikeutta tukeen on vahvistettu lukiolain muutoksella.
-    url: https://www.oph.fi/fi/uutiset/2025/lukion-oppimisen-tuki-ja-erityisopetus-uudistuvat-oikeus-tukeen-vahvistuu
-    publisher: Opetushallitus
-    read: 2026-11-21
-    stable_figures: ["20.3.2025", "1.8.2025"]
-    note: Uutinen on julkaistu 20.3.2025, ja muutos tuli voimaan 1.8.2025. Aiheiden Tuki-linkki osoittaa vakaaseen OPH:n sivuun Oppimisen tuen uudistus (https://www.oph.fi/fi/oppimisen-tuen-uudistus), joka kertoo vain, että tukijärjestelmä uudistui. Oikeus tukeen on lukiolaissa, ja uutinen kertoo uudistuksen.
   - key: guidance_services
     rule: Opintopolun neuvonta ja ohjaus -sivu kokoaa neuvontapalvelujen yhteystiedot ja linkit muihin palveluihin, esimerkiksi Ohjaamoon. Opintopolku ei anna henkilökohtaista opinto- tai uraneuvontaa korkeakouluhakijoille, vaan heitä neuvovat korkeakoulujen hakijapalvelut. Neuvontakanavien aukioloajat ja paikalliset ohjauspalvelut katsotaan palvelujen omilta sivuilta.
     url: https://opintopolku.fi/konfo/fi/sivu/neuvonta-ja-ohjaus

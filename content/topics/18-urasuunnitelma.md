@@ -38,23 +38,15 @@ official_links:
     url: "https://intti.fi/"
     publisher: "Puolustusvoimat"
     read: 2026-11-21
-  - title: "Oppimisen tuen uudistus"
-    url: "https://www.oph.fi/fi/oppimisen-tuen-uudistus"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
   - title: "Etsi lähin Ohjaamo"
     url: "https://ohjaamot.fi/lahin-ohjaamo"
     publisher: "Ohjaamot"
-    read: 2026-11-23
-  - title: "Mielenterveystalo: nuoret"
-    url: "https://www.mielenterveystalo.fi/fi/nuoret"
-    publisher: "Mielenterveystalo.fi"
     read: 2026-11-23
   - title: "Lukiolaki 714/2018 (Finlex)"
     url: "https://www.finlex.fi/fi/lainsaadanto/2018/714"
     publisher: "Finlex"
     read: 2026-11-23
-yearly_facts: [guidance_services, employment_services, intti_callups, learning_support_rules]
+yearly_facts: [employment_services, intti_callups]
 school_adapts:
   - "Missä vaiheessa jatko-opinto- ja urasuunnitelma viimeistellään (esimerkki: kolmannen vuoden syksy luonnos, kevät päivitys)"
   - "Miten koulu tarjoaa ohjausta lukion jälkeen ja miten siitä sovitaan (esimerkki: yhteydenotto opinto-ohjaajaan)"
@@ -176,7 +168,7 @@ Jos ehdit, lisää jokaiseen suunnitelmaan yksi asia, jonka tarkistat, ja paikka
 **Tarvitset:** tapauskortit tai tämän sivun tekstin, puhelimen tai tietokoneen
 **Ilman laitetta:** Kopioi tapaus ensin paperille ja kirjoita vastaukset sen viereen. Voit myös keksiä paperille oman kuvitteellisen tapauksen.
 
-Tapaukset (kaikki henkilöt ovat kuvitteellisia):
+Tapaukset:
 
 - **Eemil** on suunnitellut hakevansa korkeakouluun, mutta ei ole varma, onko ala oikea.
 - **Sanni** aloittaa työt heti lukion jälkeen ja haluaa hakea opiskelemaan myöhemmin.
@@ -192,7 +184,7 @@ Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mikä suunnitelmassasi tuntuu nyt selvältä ja mikä epäselvältä? Miten suunnittelutaitosi ovat kehittyneet lukion aikana?
 2. Mitkä asiat ovat sinulle tärkeitä, kun mietit tulevaa? Mikä voisi muuttua?
@@ -206,7 +198,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan arvioida, miten suunnittelutaitoni ja elämänhallintataitoni ovat kehittyneet lukiossa, ja nimetä yhden taidon, jota haluan vahvistaa.
 - Tiedän, mistä saan tukea lukion jälkeen, ja millä ehdoilla oikeus ohjaukseen jatkuu.
 
-**Pelaa aiheesta visual novel:** [Jatko-opinto- ja urasuunnitelma ja siirtymä](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch09-urasuunnitelma). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Jatko-opinto- ja urasuunnitelma ja siirtymä](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch09-urasuunnitelma).
 
 ## Itseopiskelun askel
 
@@ -223,8 +215,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 
 **HOPSiin:** Päivitä HOPSin kaikki kolme osaa (kirjoita jokaiseen yksi lause päivityksestä): *opiskelusuunnitelma*, *ylioppilastutkintosuunnitelma* ja
 *jatko-opinto- ja urasuunnitelma*. Kirjoita jälkimmäiseen suunnitelma A, B ja C ja tarkistettavat asiat. Merkitse,
-että suunnitelma saa muuttua. Lukiolain 26 §:n mukaan HOPS laaditaan oppilaitoksen opetushenkilöstön tuella. Sivuston ohje: kirjaa siihen vain se, minkä haluat koulun
-tietävän. Terveys, perhe ja talous voivat jäädä omaan muistioosi. Jos koulusi käyttää sähköistä HOPSia, tee merkintä
+että suunnitelma saa muuttua. Lukiolain 26 §:n mukaan HOPS laaditaan oppilaitoksen opetushenkilöstön tuella. Jos koulusi käyttää sähköistä HOPSia, tee merkintä
 sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
@@ -278,8 +269,6 @@ suunnitelmat A ja B, yksi vahvistettava taito (Tehtävän 2 vaihe 5) sekä tieto
 
 ### Avoimet kysymykset
 
-Kysymykset ovat yksityiseen kirjoittamiseen tai vapaaehtoiseen pariin. Kenenkään ei tarvitse vastata ääneen eikä kertoa omaa tilannettaan. Kysymyksen voi esittää myös kuvitteellisesta henkilöstä.
-
 - Mikä suunnitelmassa voi muuttua lukion aikana?
 - Mitkä asiat tekevät suunnitelmasta sellaisen, joka kestää muutoksia?
 - Mitä voi tehdä, jos ensimmäinen vaihtoehto ei toteutuisi?
@@ -323,8 +312,6 @@ valintasi mahdollistavan?"
 
 **Ilman laitetta:** Kaikki kolme tehtävää onnistuvat paperilla ja kynällä. Kolmen otsikon pohja ja A-B-C-pohja piirretään itse. Jos HOPSia ei ole, aloita tyhjästä paperista.
 
-**Tuki:** Lue lisää Opetushallituksen sivulta [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja kysy koulusi omasta käytännöstä (esimerkki).
-
 ## Milloin opinto-ohjaajalle
 
 Varaa aika opinto-ohjaajalle, jos
@@ -341,8 +328,6 @@ Varaa aika opinto-ohjaajalle, jos
   opiskeluun, työhön ja arkeen.
 - [Opintopolun neuvonta ja ohjaus (luettu 21.11.2026)](https://opintopolku.fi/konfo/fi/sivu/neuvonta-ja-ohjaus):
   neuvontapalveluja hakijoille.
-- [Mielenterveystalo: nuoret (luettu 23.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): tietoa ja
-  omahoito-ohjelmia nuorille.
 
 ## Lähteet
 

@@ -98,8 +98,9 @@ Each task is an H3 with a number and a verb-led title, then four fixed bold line
 - At least one task per topic uses a real official tool or page by a stable link (not a yearly sub-page).
 - Steps end in something the student *keeps* (a note, a draft, a question), never in something sent to the site.
 - No model answers and no "oikea vastaus". OP is assessed S/H on self-assessment.
-- Case tasks use clearly fictional first names, mixed and neutral (*Alex, Sanni, Niko, Ilona, Eemil, Mira*), marked
-  *kuvitteellinen*. Cases never tie a field to a gender or background, and at least one case in the topic takes a
+- Case tasks use clearly fictional first names, mixed and neutral (*Alex, Sanni, Niko, Ilona, Eemil, Mira*). That the
+  cases and people are fictional is said once, on the front page (`content/pages/etusivu.md`), not on each case list
+  (operator 2026-11-23: "Remove repeats"; norm ledger row 5). Cases never tie a field to a gender or background, and at least one case in the topic takes a
   route other than university.
 
 ## 6. Lesson tables (`## Tuntisuunnitelma (75 min)`)
@@ -121,9 +122,13 @@ Each task is an H3 with a number and a verb-led title, then four fixed bold line
   matikka"*). Gender-aware guidance means noticing and questioning such assumptions, not repeating them.
 - Do not assume family resources, a home computer, Finnish as the first language, or two parents.
 - Never require disclosure. Reflection is private: *Kirjoita omaan muistioosi*, never *kerro ryhmälle*. Group work uses
-  fictional cases, not the students' own situations.
+  fictional cases, not the students' own situations. The reassurances themselves are said once, not on each topic
+  (operator 2026-11-23: "Remove repeats"; norm ledger row 5): that reflections need not be shown to anyone and what to keep out of HOPS on `/polku/`
+  (`content/pages/polku.md`), how the open questions are used on the front page. A topic adds such a line only
+  where its own subject needs it (for example YO special arrangements).
 - Wellbeing, learning difficulties and S2: link the school's and the public services (oppimisen tuki, opiskeluhuolto,
-  Ohjaamo) where the content needs them. No reassurance formulas (*kysyminen ei ole heikkoutta*), no help or crisis
+  Ohjaamo) where the content needs them. The generic pointers are said once: opiskeluhuolto and Ohjaamo on
+  `/polku/`, the learning-support link on `/opetussuunnitelma/`. No reassurance formulas (*kysyminen ei ole heikkoutta*), no help or crisis
   blocks, no 112 or emergency-number lines, no helplines as help pointers (guideline §4, norm ledger rows 3 and 7,
   D-015). Do not diagnose or label.
 - Every lesson plan ends with a short `Oletusten tarkistus` the counsellor reads before teaching.
@@ -163,12 +168,17 @@ File `content/topics/NN-slug.md`; `id` is `opM-NN-slug` with the same slug. Use 
 
 - Whole topic 2,000–3,500 words; `## Opiskelijalle` 300–600 words.
 - `## Itseopiskelun askel` uses four bold labels in order: **Tavoite**, **Aikaa kuluu**, **Näin etenet** (a numbered
-  list: lue → tee yksi tehtävä → pohdi → seuraava askel), **HOPSiin** (which part, what to write). Do not draw the
+  list: lue → tee yksi tehtävä → pohdi → seuraava askel), **HOPSiin** (which part, what to write; the advice to
+  record only what you want the school to know is said once on `/polku/`). Do not draw the
   "Merkitse tehdyksi" tick; the site does.
 - `## Eriyttäminen` uses bold run-in labels: **Helpompi polku**, **Syvempi polku**, **S2 ja selkeä kieli** (with a
-  mini glossary), **Lukeminen, keskittyminen ja jännitys**, **Ilman laitetta**, **Tuki**.
+  mini glossary), **Lukeminen, keskittyminen ja jännitys**, **Ilman laitetta**, and **Tuki** only when the topic has
+  a support point of its own. The generic learning-support link is said once on `/opetussuunnitelma/`, and that the
+  tasks work on paper without printouts once on the front page (operator 2026-11-23: "Remove repeats"; norm ledger row 5).
 - `## Milloin opinto-ohjaajalle`: a list of concrete triggers in sinä form, then **Apua saat myös** with dated links
-  to services that match the triggers (for example Ohjaamo, opiskeluhuolto). No 112 or *soita hätänumeroon* line, no
+  to services specific to the topic's triggers (for example Takuusäätiö in the money topic). Ohjaamo and
+  opiskeluhuolto are said once on `/polku/`; a topic lists them only where they are its subject. Leave the label out
+  when no topic-specific service remains (operator 2026-11-23: "Remove repeats"; norm ledger row 5). No 112 or *soita hätänumeroon* line, no
   crisis line, no "Jos olet heti vaarassa" block (D-015). No closer that praises the question (*se on hyvä kysymys
   seuraavaan ohjauskeskusteluun*).
 - `## Lähteet` contains only one line: `Lähteet kootaan sivun tiedoista automaattisesti.` The build fills it.

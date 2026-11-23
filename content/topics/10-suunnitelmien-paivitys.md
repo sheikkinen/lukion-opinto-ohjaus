@@ -53,15 +53,7 @@ official_links:
     url: "https://opintopolku.fi/konfo/fi/"
     publisher: "Opetushallitus (Opintopolku)"
     read: 2026-11-21
-  - title: "Etsi lähin Ohjaamo"
-    url: "https://ohjaamot.fi/lahin-ohjaamo"
-    publisher: "Ohjaamot"
-    read: 2026-11-21
-  - title: "Oppimisen tuen uudistus"
-    url: "https://www.oph.fi/fi/oppimisen-tuen-uudistus"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
-yearly_facts: [ytl_exam_dates, ytl_enrolment_deadline, ytl_fees, ytl_rules_changes, learning_support_rules, guidance_services]
+yearly_facts: [ytl_exam_dates, ytl_enrolment_deadline, ytl_fees, ytl_rules_changes]
 school_adapts:
   - "Koulun oma ilmoittautumisen takaraja ja tapa (esimerkki: Wilma-lomake)"
   - "Koulun suositus kokeiden hajauttamisesta ja kurssitarjottimen järjestys (esimerkki)"
@@ -185,7 +177,7 @@ Jos sinulla ei ole aiempaa suunnitelmaa, kirjoita kohtaan "pysyi" se, minkä tie
 **Tarvitset:** tapauskortit tai tämän sivun tekstin
 **Ilman laitetta:** Keksi paperille oma kuvitteellinen opiskelija, jonka suunnitelma muuttuu. Kirjoita, mikä muuttuu ja mitä hän voisi tehdä. Kirjoita hänelle kaksi kysymystä, jotka hän voisi kysyä opinto-ohjaajalta.
 
-Tapaukset (kaikki henkilöt ovat kuvitteellisia):
+Tapaukset:
 
 - **Mira** huomaa, että kolme raskasta koetta samalla kerralla ei sovi hänen viikkoonsa.
 - **Eemil** oli suunnitellut jatkavansa suoraan opintoihin, mutta harkitseekin työtä vuoden ajan. Hän miettii, pitäisikö yo-suunnitelmaa muuttaa.
@@ -198,7 +190,7 @@ Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mikä suunnitelmassasi on pysynyt ja mikä muuttunut aiemmasta versiosta? Jos aiempaa ei ole, mitä tiedät nyt, mitä et tiennyt ennen?
 2. Mitä pidät tärkeimpänä kokeiden hajautuksessa: jaksamista, aikataulua vai jatkosuunnitelmia?
@@ -212,7 +204,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan arvioida, miten suunnitteluni on edennyt ja mitä haluan muuttaa.
 - Osaan nimetä kaksi vaihtoehtoa jatkosuunnitelmalleni ja kirjata, mitä teen pitääkseni ne auki.
 
-**Pelaa aiheesta visual novel:** [Suunnitelmien päivitys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch01-suunnitelmien-paivitys). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Suunnitelmien päivitys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch01-suunnitelmien-paivitys).
 
 ## Itseopiskelun askel
 
@@ -227,7 +219,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** aihe 11 *Osaamisen tunnistaminen ja dokumentointi*.
 
-**HOPSiin:** Päivitä HOPSin osaan *ylioppilastutkintosuunnitelma* koeyhdistelmä ja aikataulu. Kirjoita *opiskelusuunnitelmaan*, mitä opintojaksoja suoritat seuraavaksi, ja *jatko-opinto- ja urasuunnitelmaan*, mitkä reitit pidät auki. Merkitse päivityspäivä. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki). Kirjaa HOPSiin vain se, minkä haluat koulun tietävän. Terveyteen, perheeseen ja tuen tarpeeseen liittyvät ajatukset voit pitää omassa muistiossasi. Älä kirjoita HOPSiin, miksi tarvitset erityisjärjestelyjä.
+**HOPSiin:** Päivitä HOPSin osaan *ylioppilastutkintosuunnitelma* koeyhdistelmä ja aikataulu. Kirjoita *opiskelusuunnitelmaan*, mitä opintojaksoja suoritat seuraavaksi, ja *jatko-opinto- ja urasuunnitelmaan*, mitkä reitit pidät auki. Merkitse päivityspäivä. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki). Älä kirjoita HOPSiin, miksi tarvitset erityisjärjestelyjä.
 
 ## Tuntisuunnitelma (75 min)
 
@@ -276,8 +268,6 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 
 ### Avoimet kysymykset
 
-Kysymykset sopivat yksityiseen kirjoittamiseen, vapaaehtoiseen pariin tai yleiseen keskusteluun. Kukaan ei vastaa ääneen omasta tilanteestaan. Ryhmässä puhutaan yleisesti ("ihmiset", "joku") tai kuvitteellisista tapauksista.
-
 - Miksi ihmisen suunnitelma voi muuttua lukion aikana?
 - Mikä auttaa ihmistä jaksamaan, ja mikä kuormittaa kokeiden valmistelussa?
 - Mitä hyötyä ja mitä haittaa hajauttamisesta voi olla?
@@ -313,8 +303,6 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö kolme koetta keväällä ole sin
 **Lukeminen, keskittyminen ja jännitys:** Anna sääntölista yhdellä sivulla ja tee tehtävät yksi kerrallaan. Salli kuulokkeet ja rauhallinen paikka. Suunnitelma voi muuttua, ja kokeisiin voi hakea erityisjärjestelyjä.
 
 **Ilman laitetta:** Kaikki tehtävät toimivat yksin pelkällä paperilla ja kynällä: kolmen sarakkeen aikataulu, kolmen otsikon lista ja oma keksitty tapaus. Tulosteita ei tarvita. Jos aiempaa suunnitelmaa ei ole, aloita tyhjältä paperilta.
-
-**Tuki:** Oppimisen tuen säännöt uudistuivat. Katso Opetushallituksen sivu [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja koulusi oma käytäntö (esimerkki).
 
 ## Milloin opinto-ohjaajalle
 

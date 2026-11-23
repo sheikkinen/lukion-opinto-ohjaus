@@ -27,15 +27,7 @@ official_links:
     url: "https://www.oph.fi/fi/oppimateriaali/mun-elama/oppimisen-taidot/jatko-opinnot/miten-valitsen-oman-alani"
     publisher: "Opetushallitus"
     read: 2026-11-21
-  - title: "Etsi lähin Ohjaamo"
-    url: "https://ohjaamot.fi/lahin-ohjaamo"
-    publisher: "Ohjaamot"
-    read: 2026-11-21
-  - title: "Oppimisen tuen uudistus"
-    url: "https://www.oph.fi/fi/oppimisen-tuen-uudistus"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
-yearly_facts: [guidance_services, employment_services, learning_support_rules]
+yearly_facts: [employment_services]
 school_adapts:
   - "Koulun tapa kerätä osaamista ja harrastuksia talteen, esimerkiksi portfolio, osaamismerkit tai sähköinen HOPS"
   - "Koulun tapa tunnistaa muualla hankittu osaaminen, esimerkiksi harrastukset, vapaaehtoistyö ja työ"
@@ -137,7 +129,7 @@ Voit kirjoittaa muistioosi myös, mikä työkalu kiinnostaa sinua.
 **Tarvitset:** tämän sivun tapaukset, oman muistion
 **Ilman laitetta:** Keksi paperille oma kuvitteellinen nuori ja kirjoita hänestä yksi lause. Tee sitten tehtävän vaiheet hänelle. Voit käyttää myös sivun tapauksia tai tehdä tehtävän keskustellen parin kanssa.
 
-Tapaukset (kaikki henkilöt ovat kuvitteellisia):
+Tapaukset:
 
 - **Kim** on hyvä auttamaan muita, mutta ei pidä sitä osaamisena. Hän ajattelee, että vain arvosanat ovat osaamista.
 - **Oskari** tuntee, että läheiset odottavat häneltä jotain, mitä hän ei ole varma haluavansa itse.
@@ -151,7 +143,7 @@ Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mikä vahvuutesi tai osaamisesi yllätti sinut? Mikä kuuluu osaamiseesi, vaikka se ei näy todistuksessa?
 2. Mitkä arvot vaikuttavat valintoihisi? Mistä ne ovat tulleet?
@@ -166,7 +158,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 
 Jos jokin kohta on vielä "En vielä", voit ottaa sen esiin ohjaajan kanssa.
 
-**Pelaa aiheesta visual novel:** [Itsetuntemus, vahvuudet ja arvot](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch05-itsetuntemus). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Itsetuntemus, vahvuudet ja arvot](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch05-itsetuntemus).
 
 ## Itseopiskelun askel
 
@@ -181,7 +173,7 @@ Jos jokin kohta on vielä "En vielä", voit ottaa sen esiin ohjaajan kanssa.
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** aihe 06 *Henkilökohtainen opintosuunnitelma ja kurssivalinnat*. Siellä käytät näitä ajatuksia valintojen pohjana.
 
-**HOPSiin:** Tämä askel on vapaaehtoinen. Kirjaa siihen vain se, minkä haluat itse jakaa. Voit kirjoittaa HOPSin osaan *jatko-opinto- ja urasuunnitelma* esimerkiksi yhden vahvuuden, yhden arvon ja yhden asian, jonka haluat oppia. Loput jää omaan muistioosi. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
+**HOPSiin:** Tämä askel on vapaaehtoinen. Voit kirjoittaa HOPSin osaan *jatko-opinto- ja urasuunnitelma* esimerkiksi yhden vahvuuden, yhden arvon ja yhden asian, jonka haluat oppia. Loput jää omaan muistioosi. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
@@ -231,8 +223,6 @@ Jos jokin kohta on vielä "En vielä", voit ottaa sen esiin ohjaajan kanssa.
 
 ### Avoimet kysymykset
 
-Kysymykset on tarkoitettu ensin yksityiseen kirjoittamiseen omaan muistioon. Ryhmässä puhutaan yleisesti tai kuvitteellisista tapauksista. Kukaan ei vastaa henkilökohtaiseen kysymykseen ääneen.
-
 - Missä tilanteessa ihminen voi onnistua niin, että on siitä ylpeä?
 - Mitä muut voivat nähdä vahvuutena, jota itse ei huomaa?
 - Mikä voi olla ihmiselle tärkeää, vaikka se ei näy arvosanoissa?
@@ -270,8 +260,6 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö sinun kannattaisi valita varmin 
 
 **Ilman laitetta:** Vahvuuslista, arvolaput ja tapaukset toimivat yksin paperilla ja kynällä.
 
-**Tuki:** Oppimisen tuen säännöt uudistuivat. Katso Opetushallituksen sivu [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja koulusi oma käytäntö (esimerkki).
-
 ## Milloin opinto-ohjaajalle
 
 Varaa aika opinto-ohjaajalle, jos
@@ -285,7 +273,6 @@ Varaa aika opinto-ohjaajalle, jos
 
 **Apua saat myös:**
 
-- [Etsi lähin Ohjaamo (luettu 21.11.2026)](https://ohjaamot.fi/lahin-ohjaamo): ohjausta nuorille opiskeluun, työhön ja arkeen.
 - [Ammatinvalinta ja urasuunnittelu (luettu 21.11.2026)](https://tyomarkkinatori.fi/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/ammatinvalinta-ja-urasuunnittelu): tietoa ammatinvalinnasta ja osaamisen tunnistamisen työkaluista.
 
 ## Lähteet

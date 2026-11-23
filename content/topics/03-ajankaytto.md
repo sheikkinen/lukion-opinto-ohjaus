@@ -27,15 +27,7 @@ official_links:
     url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto"
     publisher: "Opetushallitus"
     read: 2026-11-21
-  - title: "Oppimisen tuen uudistus"
-    url: "https://www.oph.fi/fi/oppimisen-tuen-uudistus"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
-  - title: "Etsi lähin Ohjaamo"
-    url: "https://ohjaamot.fi/lahin-ohjaamo"
-    publisher: "Ohjaamot"
-    read: 2026-11-21
-yearly_facts: [learning_support_rules, guidance_services]
+yearly_facts: []
 school_adapts:
   - "Koulun lukujärjestys, jaksot ja kokeiden ajoittuminen (esimerkki)"
   - "Koulun käytännöt palautusten ja koeviikkojen suunnittelussa"
@@ -137,7 +129,7 @@ Vapaaehtoinen, ei tunnilla: seuraa seuraavaa päivää samalla pohjalla ja verta
 **Tarvitset:** tämän sivun tapaukset, oman muistion
 **Ilman laitetta:** Keksi paperille oma kuvitteellinen opiskelija ja kirjoita hänen viikostaan kolme kiinteää asiaa. Tee sitten tehtävän vaiheet hänelle. Voit käyttää myös sivun tapauksia tai tehdä tehtävän keskustellen parin kanssa.
 
-Tapaukset (kaikki henkilöt ovat kuvitteellisia):
+Tapaukset:
 
 - **Alex** käy viikon aikana kolmena iltana töissä ja harjoittelee kahdesti. Koe lähestyy.
 - **Aada** asuu kaukana koulusta. Matkat vievät paljon aikaa.
@@ -153,7 +145,7 @@ Jos teet tehtävän parin tai ryhmän kanssa, huomaa myös yksi asia, joka autto
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mikä viikossasi toimii hyvin? Mikä taas vie liikaa aikaa tai voimia?
 2. Mihin asioihin voit vaikuttaa omassa arjessasi ja mihin et? Miltä se tuntuu?
@@ -168,7 +160,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 
 Jos jokin kohta on vielä "En vielä", voit kysyä siitä ohjaajalta.
 
-**Pelaa aiheesta visual novel:** [Ajankäyttö ja arjen hallinta](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch03-ajankaytto). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Ajankäyttö ja arjen hallinta](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch03-ajankaytto).
 
 ## Itseopiskelun askel
 
@@ -183,7 +175,7 @@ Jos jokin kohta on vielä "En vielä", voit kysyä siitä ohjaajalta.
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** aihe 04 *Hyvinvointi ja opiskelukyky*. Siellä katsot, mikä auttaa jaksamaan.
 
-**HOPSiin:** Kirjoita siihen vain se, minkä haluat jakaa. Kirjoita HOPSin osaan *opiskelusuunnitelma* yksi opiskeluun liittyvä muutos, jonka teet viikkoosi, esimerkiksi milloin opiskelet. Työ-, uni-, matka- ja kotiasiat sekä asiat, joista haluat keskustella ohjaajan kanssa, voit pitää omassa muistiossasi. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
+**HOPSiin:** Kirjoita HOPSin osaan *opiskelusuunnitelma* yksi opiskeluun liittyvä muutos, jonka teet viikkoosi, esimerkiksi milloin opiskelet. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
@@ -227,13 +219,11 @@ Jos jokin kohta on vielä "En vielä", voit kysyä siitä ohjaajalta.
 
 - Piirrä itse oma esimerkkiviikko ja mieti, mitä jätät pois tai lisäät. Älä käytä omaa viikkoasi esimerkkinä, ellet halua.
 - Tarkista koulun lukujärjestys, jaksot ja kokeiden ajoittuminen (esimerkki).
-- Tulosta halutessasi viikkopohjat ja tapauskortit. Tehtävät onnistuvat myös tyhjällä paperilla.
+- Tulosta halutessasi viikkopohjat ja tapauskortit.
 - Varaa värikyniä ja nimettömiä lappuja.
 - Pidä kartta koulun tukihenkilöistä näkyvillä: ryhmänohjaaja, opinto-ohjaaja, erityisopettaja, opiskeluhuolto.
 
 ### Avoimet kysymykset
-
-Kysymykset on tarkoitettu ensin yksityiseen kirjoittamiseen omaan muistioon. Ryhmässä puhutaan yleisesti tai kuvitteellisista tapauksista. Kukaan ei vastaa henkilökohtaiseen kysymykseen ääneen.
 
 - Mikä viikossa on tärkeintä?
 - Mitä tapahtuu, kun viikkoon jättää väljyyttä?
@@ -272,8 +262,6 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö olisi parempi lopettaa harrastus
 
 **Ilman laitetta:** Viikkopohja, päiväseuranta ja tapaukset toimivat yksin paperilla ja kynällä.
 
-**Tuki:** Oppimisen tuen säännöt uudistuivat. Katso Opetushallituksen sivu [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja koulusi oma käytäntö (esimerkki).
-
 ## Milloin opinto-ohjaajalle
 
 Varaa aika opinto-ohjaajalle, jos
@@ -288,7 +276,6 @@ Varaa aika opinto-ohjaajalle, jos
 
 **Apua saat myös:**
 
-- [Etsi lähin Ohjaamo (luettu 21.11.2026)](https://ohjaamot.fi/lahin-ohjaamo): ohjausta nuorille opiskeluun, työhön ja arkeen.
 - [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia esimerkiksi uniongelmiin ja opiskeluun liittyvään uupumukseen.
 
 ## Lähteet

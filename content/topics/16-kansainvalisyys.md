@@ -31,18 +31,6 @@ official_links:
     url: "https://www.kela.fi/opiskelu"
     publisher: "Kela"
     read: 2026-11-21
-  - title: "Oppimisen tuen uudistus"
-    url: "https://www.oph.fi/fi/oppimisen-tuen-uudistus"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
-  - title: "Etsi lähin Ohjaamo"
-    url: "https://ohjaamot.fi/lahin-ohjaamo"
-    publisher: "Ohjaamot"
-    read: 2026-11-23
-  - title: "Mielenterveystalo: nuoret"
-    url: "https://www.mielenterveystalo.fi/fi/nuoret"
-    publisher: "Mielenterveystalo.fi"
-    read: 2026-11-23
   - title: "Kansainvälistymispalvelut yksilöille"
     url: "https://www.oph.fi/fi/kansainvalisyys/kansainvalistymispalvelut-yksiloille"
     publisher: "Opetushallitus"
@@ -51,7 +39,7 @@ official_links:
     url: "https://yhdenvertaisuusvaltuutettu.fi/"
     publisher: "Yhdenvertaisuusvaltuutettu"
     read: 2026-11-23
-yearly_facts: [international, guidance_services, kela_student_aid, learning_support_rules]
+yearly_facts: [international, kela_student_aid]
 school_adapts:
   - "Koulun kansainvälisyystoiminta (esimerkki: vaihto-oppilasohjelmat, kansainväliset projektit ja koulun yhteistyökoulut)"
   - "Kuka koulussa neuvoo vaihto-opiskelussa ja ulkomaan jaksoissa (esimerkki: opinto-ohjaaja, kansainvälisyyskoordinaattori)"
@@ -175,7 +163,7 @@ ohjelmasta ja kohteesta. Kysy se etukäteen ohjelman järjestäjältä.
 **Tarvitset:** tapauskortit tai tämän sivun tekstin, puhelimen tai tietokoneen
 **Ilman laitetta:** Kopioi tapaus ensin paperille ja kirjoita kysymykset sen viereen. Voit myös keksiä paperille oman kuvitteellisen tapauksen.
 
-Tapaukset (kaikki henkilöt ovat kuvitteellisia):
+Tapaukset:
 
 - **Ilona** haluaa kokeilla työtä ulkomailla lukion jälkeen. Kielitaito jännittää.
 - **Eemil** haluaa ammattikorkeakouluun ja vaihtoon yhden lukukauden ajaksi. Raha mietityttää.
@@ -189,7 +177,7 @@ Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mitä kansainvälisyys sinulle tarkoittaa nyt? Mikä voisi muuttaa ajatuksesi myöhemmin?
 2. Mikä saisi ulkomaan vaihtoehdon tuntumaan mahdolliselta, ja mikä taas esteeltä? Mitä voisit tehdä asialle?
@@ -203,7 +191,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan kirjoittaa kysymyksen, jolla tarkistan oletukseni toisesta ihmisestä sen sijaan, että päättelisin.
 - Osaan kirjata kansainvälisyyden jatko-opinto- ja urasuunnitelmaani, vaikka päätyisin jäämään Suomeen.
 
-**Pelaa aiheesta visual novel:** [Kansainvälisyys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch07-kansainvalisyys). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Kansainvälisyys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch07-kansainvalisyys).
 
 ## Itseopiskelun askel
 
@@ -220,8 +208,7 @@ asian, jonka haluat selvittää.
 4. **Seuraava askel:** aihe 17 *Oma talous, opintotuki ja asuminen*.
 
 **HOPSiin:** Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* vähintään yksi kansainvälinen vaihtoehto, jota
-haluat selvittää, ja yksi vaihtoehto, joka tapahtuu Suomessa. Merkitse, mitä sinun pitää vielä tarkistaa. Sivuston ohje: kirjaa siihen vain se, minkä haluat koulun tietävän. Raha-asiat, perhe, terveys ja kielitausta
-voivat jäädä omaan muistioosi. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
+haluat selvittää, ja yksi vaihtoehto, joka tapahtuu Suomessa. Merkitse, mitä sinun pitää vielä tarkistaa. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
@@ -274,8 +261,6 @@ Tehtävästä 1 tehdään vain vaiheet 1–3, ja oletuksen tarkistuskysymys kirj
 
 ### Avoimet kysymykset
 
-Kysymykset ovat yksityiseen kirjoittamiseen tai vapaaehtoiseen pariin. Kenenkään ei tarvitse vastata ääneen eikä kertoa omaa tilannettaan. Kysymyksen voi esittää myös kuvitteellisesta henkilöstä.
-
 - Millaista kansainvälisyyttä ihmisen arjessa voi jo olla?
 - Mitä kansainvälisyys voisi antaa opinnoille tai työlle, ja mitä se vaatisi?
 - Mistä tietää, että tieto hakuajasta tai kustannuksesta on ajan tasalla?
@@ -317,8 +302,6 @@ kansainvälisyyden tuovan elämääsi, jos mitään?"
 
 **Ilman laitetta:** Kaikki kolme tehtävää onnistuvat paperilla ja kynällä. Tehtävän 1 paperiversio on kuvattu tehtävässä. Tarkista puuttuvat tiedot myöhemmin kirjastossa tai koulun koneella.
 
-**Tuki:** Lue lisää Opetushallituksen sivulta [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja kysy koulusi omasta käytännöstä (esimerkki).
-
 ## Milloin opinto-ohjaajalle
 
 Varaa aika opinto-ohjaajalle, jos
@@ -332,11 +315,7 @@ Varaa aika opinto-ohjaajalle, jos
 
 **Apua saat myös:**
 
-- [Etsi lähin Ohjaamo (luettu 23.11.2026)](https://ohjaamot.fi/lahin-ohjaamo): ohjausta alle 30-vuotiaille
-  opiskeluun, työhön ja arkeen.
 - [Yhdenvertaisuusvaltuutettu (luettu 23.11.2026)](https://yhdenvertaisuusvaltuutettu.fi/): ohjeita, jos olet kokenut syrjintää, ja tietoa oikeuksistasi.
-- [Mielenterveystalo: nuoret (luettu 23.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): tietoa ja
-  omahoito-ohjelmia nuorille.
 
 ## Lähteet
 

@@ -14,6 +14,14 @@ official_links:
     url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/moninaisuutta-arvostava-opinto-ohjaus-lukiossa
     publisher: Opetushallitus
     read: 2026-11-21
+  - title: Lukion oppimisen tuki ja erityisopetus uudistuvat – oikeus tukeen vahvistuu
+    url: https://www.oph.fi/fi/uutiset/2025/lukion-oppimisen-tuki-ja-erityisopetus-uudistuvat-oikeus-tukeen-vahvistuu
+    publisher: Opetushallitus
+    read: 2026-11-21
+  - title: Oppimisen tuen uudistus
+    url: https://www.oph.fi/fi/oppimisen-tuen-uudistus
+    publisher: Opetushallitus
+    read: 2026-11-21
 ---
 Tällä sivulla näkyvät opinto-ohjauksen tavoitteet ja sisällöt sellaisina kuin ne ovat Lukion opetussuunnitelman perusteissa 2019. Sanamuoto haetaan ePerusteet-palvelun rajapinnasta, eikä sitä muuteta. Perusteet on tarkistettu {{curriculum_checked}}, ja tietueen viimeisin julkaisupäivä on {{curriculum_published}}.
 
@@ -24,6 +32,7 @@ Jokaisen tavoitteen ja sisällön vieressä näkyy, mitkä sivuston aiheet sitä
 - Opinto-ohjaus on lukiossa oppiaine, jonka pakolliset moduulit ovat OP1 ja OP2. Kumpikin on laajuudeltaan kaksi opintopistettä.
 - Opinto-ohjauksesta ei anneta arvosanaa. Opintojaksoista annetaan suoritusmerkinnät. Arviointi perustuu opiskelijan itsearviointiin ja ohjaavaan, kannustavaan palautteeseen.
 - Opiskelijalla on oikeus ohjaukseen. Oikeus on kirjattu [lukiolakiin (714/2018)](https://www.finlex.fi/fi/lainsaadanto/2018/714) pykälään 25. Lukion jälkeen oikeus on rajattu: sen saa henkilö, joka on suorittanut lukion oppimäärän mutta ei ole saanut opiskelupaikkaa tutkintoon johtavassa koulutuksessa. Ohjaus koskee opintoihin hakeutumista ja urasuunnitelmia. Ohjausta saa oppimäärän suorittamisvuotta seuraavan vuoden aikana, ja siitä vastaa koulutuksen järjestäjä, jonka oppilaitoksessa oppimäärä on suoritettu.
+- Lukiolaisella on oikeus oppimisen tukeen ja erityisopetukseen, ja oikeutta tukeen on vahvistettu lukiolain muutoksella ([Opetushallitus](https://www.oph.fi/fi/uutiset/2025/lukion-oppimisen-tuki-ja-erityisopetus-uudistuvat-oikeus-tukeen-vahvistuu), luettu 21.11.2026). Tukijärjestelmän uudistuksesta kertoo Opetushallituksen sivu [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus), ja koulu kertoo oman käytäntönsä.
 - Jokaisella opiskelijalla on henkilökohtainen opintosuunnitelma eli HOPS (lukiolaki, pykälä 26). Siinä on kolme osaa: opiskelusuunnitelma, ylioppilastutkintosuunnitelma sekä jatko-opinto- ja urasuunnitelma.
 - Sivuston aiheet ovat runko, eivät koko moduulin ohjausta. Yhdeksän aihetta ei vastaa kahta opintopistettä sellaisenaan, ja koulu päättää, miten ohjausta annetaan aiheiden lisäksi.
 - Opetussuunnitelman tekstit kuuluvat Opetushallitukselle. Sivuston CC BY 4.0 -lupa ei koske niitä.

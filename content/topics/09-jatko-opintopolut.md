@@ -43,15 +43,11 @@ official_links:
     url: "https://ohjaamot.fi/lahin-ohjaamo"
     publisher: "Ohjaamot"
     read: 2026-11-21
-  - title: "Oppimisen tuen uudistus"
-    url: "https://www.oph.fi/fi/oppimisen-tuen-uudistus"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
   - title: "Studyinfo (Opintopolun englanninkielinen osa)"
     url: "https://opintopolku.fi/konfo/en/"
     publisher: "Opetushallitus (Opintopolku)"
     read: 2026-11-21
-yearly_facts: [joint_application_windows, todistusvalinta_tables, entrance_exam_dates, places_and_quota, learning_support_rules, guidance_services]
+yearly_facts: [joint_application_windows, todistusvalinta_tables, entrance_exam_dates, places_and_quota]
 school_adapts:
   - "Koulun omat tutustumiskäynnit, avoimien ovien päivät ja työelämäyhteistyö (esimerkki)"
   - "Koulun työelämään tutustumisen käytännöt ja aikataulu (esimerkki)"
@@ -161,7 +157,7 @@ myöhemmin. Tukea päätöksiin ja elämän suunnitteluun voit pyytää opinto-o
 **Tarvitset:** tapauskortit tai tämän sivun tekstin
 **Ilman laitetta:** Keksi paperille oma kuvitteellinen opiskelija. Kirjoita hänelle kolme tärkeää asiaa tärkeysjärjestykseen ja yksi asia, joka voisi muuttaa järjestystä.
 
-Tapaukset (kaikki henkilöt ovat kuvitteellisia):
+Tapaukset:
 
 - **Ilona** on kiinnostunut kielistä, teknologiasta ja luonnosta eikä ole varma, mikä tie sopisi. Hän haluaa pitää vaihtoehdot auki.
 - **Aino** on jo päättänyt hakea ammatilliseen koulutukseen ja miettii, mitä lukiossa kannattaa tehdä vielä ennen sitä.
@@ -174,7 +170,7 @@ Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mitkä asiat ovat sinulle nyt tärkeimpiä, kun mietit lukion jälkeistä aikaa?
 2. Mikä reitti tai työ on sinulle outo, mutta kiinnostaa vähän? Miten voisit tutustua siihen?
@@ -188,7 +184,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan tehdä jatko-opinto- ja urasuunnitelmastani ensimmäisen luonnoksen.
 - Osaan nimetä, kenen puoleen voin kääntyä elämän- ja urasuunnittelussa ja päätösten tekemisessä.
 
-**Pelaa aiheesta visual novel:** [Valinnat ja jatko-opintopolut](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch09-jatko-opintopolut). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Valinnat ja jatko-opintopolut](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op1&lang=fi&ch=ch09-jatko-opintopolut).
 
 ## Itseopiskelun askel
 
@@ -203,7 +199,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** toisen moduulin aihe 10 *Suunnitelmien päivitys*. Kun olet käynyt lisää opintoja, päivität suunnitelmat.
 
-**HOPSiin:** Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* kaksi tai kolme suuntaa, jotka kiinnostavat, kolme tärkeää asiaa tärkeysjärjestyksessä ja yksi asia, johon aiot tutustua. Merkitse, että luonnos on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki). Kirjaa HOPSiin vain se, minkä haluat koulun tietävän. Terveyteen, perheeseen ja tuen tarpeeseen liittyvät ajatukset voit pitää omassa muistiossasi.
+**HOPSiin:** Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* kaksi tai kolme suuntaa, jotka kiinnostavat, kolme tärkeää asiaa tärkeysjärjestyksessä ja yksi asia, johon aiot tutustua. Merkitse, että luonnos on alustava. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
@@ -246,13 +242,11 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 
 - Avaa Opintopolku, Yliopistovalinnat.fi, Ammattikorkeakouluun.fi ja kansanopistot.fi ja kokeile niitä itse.
 - Selvitä koulun tutustumiskäynnit ja työelämään tutustumisen käytännöt (esimerkki).
-- Opiskelija voi tehdä tehtävät myös pelkällä paperilla. Tulosta Opintopolun koulutuskuvauksia vain lisätueksi.
+- Tulosta Opintopolun koulutuskuvauksia vain lisätueksi.
 - Tulosta tapauskortit tai kirjoita tapaukset taululle.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 
 ### Avoimet kysymykset
-
-Kysymykset sopivat yksityiseen kirjoittamiseen, vapaaehtoiseen pariin tai yleiseen keskusteluun. Kukaan ei vastaa ääneen omasta tilanteestaan. Ryhmässä puhutaan yleisesti ("ihmiset", "joku") tai kuvitteellisista tapauksista.
 
 - Mitä lukion jälkeen voi tehdä? Mitä reittejä ihmiset tuntevat?
 - Mikä sinua yllätti, kun luit koulutuksen kuvausta?
@@ -289,8 +283,6 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö yliopisto ole varmin valinta?" K
 **Lukeminen, keskittyminen ja jännitys:** Anna tehtävä vaihe kerrallaan ja tarjoa lyhyt lista valmiiksi. Luonnoksen ei tarvitse olla valmis, ja sitä voi muuttaa myöhemmin.
 
 **Ilman laitetta:** Kaikki tehtävät onnistuvat yksin pelkällä paperilla ja kynällä: kysymyslista kahdesta koulutuksesta, tärkeysjärjestys ja keksitty tapaus. Kun saat laitteen tai ohjausajan, tarkista vastaukset. Tulosteita ei tarvita.
-
-**Tuki:** Oppimisen tuen säännöt uudistuivat. Katso Opetushallituksen sivu [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja koulusi oma käytäntö (esimerkki).
 
 ## Milloin opinto-ohjaajalle
 

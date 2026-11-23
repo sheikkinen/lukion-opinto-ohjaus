@@ -31,15 +31,7 @@ official_links:
     url: "https://opintopolku.fi/konfo/fi/"
     publisher: "Opetushallitus (Opintopolku)"
     read: 2026-11-21
-  - title: "Etsi lähin Ohjaamo"
-    url: "https://ohjaamot.fi/lahin-ohjaamo"
-    publisher: "Ohjaamot"
-    read: 2026-11-21
-  - title: "Oppimisen tuen uudistus"
-    url: "https://www.oph.fi/fi/oppimisen-tuen-uudistus"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
-yearly_facts: [employment_services, guidance_services, learning_support_rules]
+yearly_facts: [employment_services]
 school_adapts:
   - "Koulun yrittäjyyskasvatus ja yhteistyö yritysten kanssa (esimerkki: yritysvierailut, yrittäjävieraat, nuorten yritystoiminta)"
   - "Koulun työelämään tutustumisen käytännöt ja aikataulu (esimerkki)"
@@ -146,7 +138,7 @@ Mitä taitoja luulet tarvittavan jatkossakin, ja mistä voisit tarkistaa sen? Vo
 1. Kirjoita kolme yrittäjyyden muotoa, joista olet kuullut tai lukenut tästä sivusta. Valitse yksi ja kirjoita, mitä hyviä ja haastavia puolia siinä voisi olla.
 2. Mieti yrittäjämäistä tekemistä: milloin olet itse aloittanut jotakin tai ottanut vastuun?
 3. Kirjoita, mikä yrittäjyydessä kiinnostaa ja mikä ei. Älä arvioi itseäsi, kirjoita vain havaintosi.
-4. Pidä muistiinpanot itselläsi. Niitä ei tarvitse näyttää kenellekään.
+4. Pidä muistiinpanot itselläsi.
 
 ### Tehtävä 3: Pohdi kuvitteellisen opiskelijan tulevaisuuden taitoja
 
@@ -154,7 +146,7 @@ Mitä taitoja luulet tarvittavan jatkossakin, ja mistä voisit tarkistaa sen? Vo
 **Tarvitset:** tapauskortit tai tämän sivun tekstin
 **Ilman laitetta:** Keksi paperille oma kuvitteellinen opiskelija ja hänen kiinnostava alansa. Kirjoita hänelle kolme taitoa, jotka voisivat olla hyödyllisiä jatkossa, ja kaksi kysymystä, jotka hän voisi kysyä opinto-ohjaajalta.
 
-Tapaukset (kaikki henkilöt ovat kuvitteellisia):
+Tapaukset:
 
 - **Oskari** haluaa hakea ammatilliseen koulutukseen ja työskennellä käsityöammatissa. Hän miettii, miten digitaidot auttavat esimerkiksi myynnissä ja markkinoinnissa.
 - **Eemil** on kiinnostunut perustamaan oman pienen yrityksen jo opiskeluaikana. Hän ei tiedä, mistä aloittaa.
@@ -167,7 +159,7 @@ Tapaukset (kaikki henkilöt ovat kuvitteellisia):
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mikä työelämässä on sinusta kiinnostavaa tai pelottavaa? Miten talouden tai teknologian muutos voisi vaikuttaa alaan, joka kiinnostaa sinua?
 2. Millaisia työn muotoja voisit kuvitella kokeilevasi?
@@ -181,7 +173,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 - Osaan tutustua työelämän ja koulutuksen vaihtoehtoihin ja pitää niitä auki muuttuvassa maailmassa.
 - Osaan kirjata HOPSiin, mitä haluan selvittää työelämästä ja tulevaisuuden taidoista.
 
-**Pelaa aiheesta visual novel:** [Muuttuva työelämä, yrittäjyys ja ennakointi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch03-tyoelama). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Muuttuva työelämä, yrittäjyys ja ennakointi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=opo-op2&lang=fi&ch=ch03-tyoelama).
 
 ## Itseopiskelun askel
 
@@ -196,7 +188,7 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 3. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 4. **Seuraava askel:** aihe 13 *Työelämätaidot ja työnhaku*.
 
-**HOPSiin:** Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* yksi työelämän muoto tai ammatti, johon haluat tutustua, ja yksi taito, jota haluat oppia. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki). Kirjaa HOPSiin vain se, minkä haluat koulun tietävän. Terveyteen, perheeseen ja tuen tarpeeseen liittyvät ajatukset voit pitää omassa muistiossasi.
+**HOPSiin:** Kirjoita HOPSin osaan *jatko-opinto- ja urasuunnitelma* yksi työelämän muoto tai ammatti, johon haluat tutustua, ja yksi taito, jota haluat oppia. Jos koulusi käyttää sähköistä HOPSia, tee merkintä sinne koulun ohjeen mukaan (esimerkki).
 
 ## Tuntisuunnitelma (75 min)
 
@@ -238,14 +230,12 @@ Kirjoita vastaukset omaan muistioosi. Niitä ei tarvitse näyttää kenellekää
 ### Valmistelu
 
 - Avaa Työmarkkinatori ja Europass ja kokeile niitä itse.
-- Valitse tehtävää 1 varten muutama erilainen ammatti esimerkiksi. Opiskelija voi tehdä tehtävän myös pelkällä paperilla.
+- Valitse tehtävää 1 varten muutama erilainen ammatti esimerkiksi.
 - Sovi, voiko tunnille kutsua yrittäjävieraan tai tehdä yritysvierailun (esimerkki).
 - Tulosta tapauskortit tai kirjoita tapaukset taululle.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 
 ### Avoimet kysymykset
-
-Kysymykset sopivat yksityiseen kirjoittamiseen, vapaaehtoiseen pariin tai yleiseen keskusteluun. Kukaan ei vastaa ääneen omasta tilanteestaan. Ryhmässä puhutaan yleisesti ("ihmiset", "joku") tai kuvitteellisista tapauksista.
 
 - Miten työ on muuttunut aiempien sukupolvien aikana?
 - Millaisia työn muotoja on olemassa, ja mitä hyvää ja haastavaa niissä on?
@@ -283,8 +273,6 @@ Vältä johdattelevia kysymyksiä, kuten "Eikö yrittäjyys ole kaikille parasta
 **Lukeminen, keskittyminen ja jännitys:** Anna tehtävä vaihe kerrallaan ja tarjoa lyhyt lista työn muodoista. Tulevaisuutta ei voi tietää varmasti, ja suunnitelmassa voi edetä pienin askelin.
 
 **Ilman laitetta:** Kaikki tehtävät onnistuvat yksin pelkällä paperilla ja kynällä: arvaukset kahdesta ammatista, yrittäjyyden muistiinpanot ja keksitty tapaus. Tarkista arvaukset myöhemmin tai kysy ihmiseltä, joka tuntee alan. Tulosteita ei tarvita.
-
-**Tuki:** Oppimisen tuen säännöt uudistuivat. Katso Opetushallituksen sivu [Oppimisen tuen uudistus](https://www.oph.fi/fi/oppimisen-tuen-uudistus) ja koulusi oma käytäntö (esimerkki).
 
 ## Milloin opinto-ohjaajalle
 
